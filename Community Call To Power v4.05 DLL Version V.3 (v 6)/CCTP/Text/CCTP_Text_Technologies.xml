@@ -4143,7 +4143,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LODGING_HELP</Tag>
-			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Tavern[ENDCOLOR], wich boost your [ICON_HAPPINESS_1] Happiness and [ICON_GOLD] Gold income, also it provides a little [ICON_TOURISM] Tourism boost   </Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Tavern[ENDCOLOR], which boost your [ICON_HAPPINESS_1] Happiness and [ICON_GOLD] Gold income, also it provides a little [ICON_TOURISM] Tourism boost   </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LODGING_QUOTE</Tag>
@@ -4214,7 +4214,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HOLY_ORDERS_HELP</Tag>
-			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Religious Sanctuary[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 Golden Age Points to evey [COLOR_POSITIVE_TEXT]Holy Site[ENDCOLOR] improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Religious Sanctuary[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 Golden Age Points to every [COLOR_POSITIVE_TEXT]Holy Site[ENDCOLOR] improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HOLY_ORDERS_QUOTE</Tag>

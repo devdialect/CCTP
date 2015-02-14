@@ -13,7 +13,7 @@
 	</Update>
 	<Update>
 		<Where Tag="TXT_KEY_TRAIT_LONG_COUNT" />
-		<Set Text="After researching Calendar, you can choice a [ICON_GREAT_PERSON] Great Person with the beginning of each new Baktum."/>
+		<Set Text="After researching Calendar, you can choose a [ICON_GREAT_PERSON] Great Person with the beginning of each new Baktum."/>
 	</Update>
 	<Update>
 		<Where Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS" />
@@ -28,6 +28,11 @@
 	<Update>
 		<Set Text="Strategic Resources provide +1 [ICON_PRODUCTION] Production and [ICON_RES_HORSE] Horse, [ICON_RES_IRON] Iron and [ICON_RES_URANIUM] Uranium Resources provide double quantity." />
 		<Where Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" />
+	</Update>
+	
+	<Update>
+		<Set Text="+2 [ICON_RESEARCH] science for all specialists and for all Great Person tile improvements. Receive a tech boost each time a scientific building/Wonder is built in the Korean capital. Applies a 50% penalty to research." />
+		<Where Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL" />
 	</Update>
 	
 	<!-- Disabled due BNW
