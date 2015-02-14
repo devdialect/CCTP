@@ -163,7 +163,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_SEWER_SYSTEM_DESC</Tag>
-		<Text>Sewer Systems dramatically increase the health of a City population by shuttling waste away from the people and their drainking water.  The first sewer system dates back to the year 1370 when the first underground system was constructed under "rue Montmartre" in Paris. Since then consecutive French governments have enlarged the system to cover the City's population.</Text>
+		<Text>Sewer Systems dramatically increase the health of a City population by shuttling waste away from the people and their drinking water.  The first sewer system dates back to the year 1370 when the first underground system was constructed under "rue Montmartre" in Paris. Since then consecutive French governments have enlarged the system to cover the City's population.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_SEWER_SYSTEM_STRATEGY</Tag>
@@ -233,7 +233,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_PUBLISHING_HOUSE_STRATEGY</Tag>
-		<Text>[ICON_CULTURE] Culture Cost for aquiring new tiles reduced by 33% in this City.</Text>
+		<Text>[ICON_CULTURE] Culture Cost for acquiring new tiles reduced by 33% in this City.</Text>
 	</Row>
 
 	<Row>
@@ -242,7 +242,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_FOUNDRY_DESC</Tag>
-		<Text>A foundry is a factory that produces metal castings. Metals are cast into shapes by melting them into a liquid, pouring the metal in a mold, and removing the mold material or casting after the metal has solidified as it cools. The most common metals processed are aluminum and cast iron. However, other metals, such as steel, magnesium, copper, tin, and zinc, are also used to produce castings in foundries.</Text>
+		<Text>A foundry is a factory that produces metal castings. Metals are cast into shapes by melting them into a liquid, pouring the metal in a mould, and removing the mould material or casting after the metal has solidified as it cools. The most common metals processed are aluminum and cast iron. However, other metals, such as steel, magnesium, copper, tin, and zinc, are also used to produce castings in foundries.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_FOUNDRY_HELP</Tag>
@@ -316,7 +316,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_DECLARATION_OF_INDEPENDENCE_QUOTE</Tag>
-		<Text>[NEWLINE][TAB][TAB]"Experience hath shown, that even under the best forms (of government) those entrusted with power have, in time, and by slow operations, perverted it into tyranny."[NELWINE][TAB][TAB] - Thomas Jefferson[NEWLINE][TAB]</Text>
+		<Text>[NEWLINE][TAB][TAB]"Experience has shown, that even under the best forms (of government) those entrusted with power have, in time, and by slow operations, perverted it into tyranny."[NELWINE][TAB][TAB] - Thomas Jefferson[NEWLINE][TAB]</Text>
 	</Row>
 	<!--<Row>
 			<Tag>TXT_KEY_BUILDING_HORSE_DERBY</Tag>
@@ -353,7 +353,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_OIL_REFINERY_HELP</Tag>
-		<Text>Provides 3 [ICON_RES_DIESEL] Diesel and [ICON_RES_KEROSENE] Kerosene.[NEWLINE]Requries one resource of [COLOR_WARNING_TEXT]Oil[ENDCOLOR] to build.[NEWLINE][NEWLINE]Each source of [ICON_RES_OIL] Oil worked by this city produces +1 [ICON_PRODUCTION] Production and +2 [ICON_GOLD] Gold.[NEWLINE]Increase [ICON_PLAGUE] Plague by +2.[NEWLINE][NEWLINE]City must have an improved source of [ICON_RES_OIL] Oil nearby.</Text>
+		<Text>Provides 3 [ICON_RES_DIESEL] Diesel and [ICON_RES_KEROSENE] Kerosene.[NEWLINE] Requires one resource of [COLOR_WARNING_TEXT]Oil[ENDCOLOR] to build.[NEWLINE][NEWLINE]Each source of [ICON_RES_OIL] Oil worked by this city produces +1 [ICON_PRODUCTION] Production and +2 [ICON_GOLD] Gold.[NEWLINE]Increase [ICON_PLAGUE] Plague by +2.[NEWLINE][NEWLINE]City must have an improved source of [ICON_RES_OIL] Oil nearby.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_NAVAL_BASE</Tag>
@@ -1290,7 +1290,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_VACUUM_DRYDOCK_HELP</Tag>
-		<Text>Required for the construction of the Submersible Carrier, Fusion Dreadnaught, Supercaviating Submarine, and Plasma Destoyer.[NEWLINE][NEWLINE]Requires 2 [ICON_RES_COAL] Coal.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		<Text>Required for the construction of the Submersible Carrier, Fusion Dreadnaught, Supercaviating Submarine, and Plasma Destroyer.[NEWLINE][NEWLINE]Requires 2 [ICON_RES_COAL] Coal.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_SPACE_MANIPULATION_TESTING_STATION</Tag>
@@ -1414,7 +1414,7 @@
 		<Where Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY_HELP" />
 	</Update>	
 	<Update>
-		<Set Text="Oxfort University [ICON_RES_MANPOWER]" />
+		<Set Text="Oxford University [ICON_RES_MANPOWER]" />
 		<Where Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY" />
 	</Update>
 	<Update>
@@ -1450,7 +1450,7 @@
 		<Where Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP" />
 	</Update>	
 	<Update>
-		<Set Text="Machu Pichu [ICON_RES_MANPOWER]" />
+		<Set Text="Machu Picchu [ICON_RES_MANPOWER]" />
 		<Where Tag="TXT_KEY_BUILDING_MACHU_PICHU" />
 	</Update>
 	<Update>
@@ -1604,16 +1604,16 @@
 
 	<!-- Buildings-->
 	<Row Tag="TXT_KEY_BUILDING_SCHOKOLADE">
-		<Text>Choclate Shop</Text>
+		<Text>Chocolate Shop</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SCHOKOLADE_HELP">
-		<Text>Provides two resources of [ICON_RES_CHOCLATE] Choclate.[NEWLINE]Add yields +4 [ICON_GOLD] Gold and [ICON_FOOD] Food to every worked source of [ICON_RES_CACAO] Cacao.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 5 [ICON_RES_CACAO] Cacao to be build.</Text>
+		<Text>Provides two resources of [ICON_RES_CHOCLATE] Chocolate.[NEWLINE]Add yields +4 [ICON_GOLD] Gold and [ICON_FOOD] Food to every worked source of [ICON_RES_CACAO] Cacao.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 5 [ICON_RES_CACAO] Cacao to be build.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SCHOKOLADE_STRATEGY">
-		<Text>Provides two extra luxus Resources of [ICON_RES_CHOCLATE] Choclate.</Text>
+		<Text>Provides two extra Luxury Resources of [ICON_RES_CHOCLATE] Chocolate.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_SCHOKOLADE_TEXT">
-		<Text>A Choclate Shop is a dedicated building for the making of choclate.</Text>
+		<Text>A Chocolate Shop is a dedicated building for the making of chocolate.</Text>
 	</Row>
 
 	<!--OLIVES-->
@@ -1659,7 +1659,7 @@
 		<Text>Platinum</Text>
 	</Row>
 	<Row Tag="TXT_KEY_RESOURCE_PLATINUM_HELP">
-		<Text>+4 [ICON_GOLD] Gold if the nearby City has a [COLOR_POSITIVE_TEXT]Stock Exchange[ENDCOLOR].[NEWLINE]Provides [ICON_RES_JEWELRY] Jewelry if the City has built a [COLOR_POSITIVE_TEXT]Jeweler[ENDCOLOR].</Text>
+		<Text>+4 [ICON_GOLD] Gold if the nearby City has a [COLOR_POSITIVE_TEXT]Stock Exchange[ENDCOLOR].[NEWLINE]Provides [ICON_RES_JEWELRY] Jewellery if the City has built a [COLOR_POSITIVE_TEXT]Jeweller[ENDCOLOR].</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_RESOURCE_PLATINUM">
 		<Text>Platinum</Text>
@@ -1680,7 +1680,7 @@
 		<Text>Provides one resources of [ICON_RES_FURNITURE] Furniture.[NEWLINE]Add yields +2 [ICON_GOLD] Gold and [ICON_PRODUCTION] Production, to each worked source of wood.[NEWLINE]Needs three Resources of[ICON_RES_WOOD] Wood and the building Lumberjack must build in the City.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SCHREINER_STRATEGY">
-		<Text>Provides one extra luxus Resources of Furniture.</Text>
+		<Text>Provides one extra Luxury Resource of Furniture.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_SCHREINER_TEXT">
 		<Text>A Cabinetmaker is a dedicated building for the making of Furniture.</Text>
@@ -1719,10 +1719,10 @@
 		<Text>Solar Tower</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SOLARTOWER_HELP">
-		<Text>[ICON_RES_URAN] Uran, [ICON_RES_OEL] oel and [ICON_RES_COAL] coal provides +1 [ICON_RESEARCH] Science and provides +12 [ICON_POWER3] Electricity.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement[ENDCOLOR][NEWLINE]The city must build near a desert.</Text>
+		<Text>[ICON_RES_URAN] Uranium, [ICON_RES_OEL] Oil and [ICON_RES_COAL] Coal provides +1 [ICON_RESEARCH] Science and provides +12 [ICON_POWER3] Electricity.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement[ENDCOLOR][NEWLINE]The city must build near a desert.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SOLARTOWER_STRATEGY">
-		<Text>Allowes you a [ICON_RESEARCH] science bonus from worked resources of [ICON_RES_URAN] uran, [ICON_RES_COAL] coal and [ICON_RES_OIL] oil and provides +12 [ICON_POWER3] Electricity.</Text>
+		<Text>Allows you a [ICON_RESEARCH] science bonus from worked resources of [ICON_RES_URAN] Uranium, [ICON_RES_COAL] coal and [ICON_RES_OIL] oil and provides +12 [ICON_POWER3] Electricity.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SOLARTOWER_PEDIA">
 		<Text>The solar updraft tower (SUT) is a renewable-energy power plant for generating electricity from solar power. Sunshine heats the air beneath a very wide greenhouse-like roofed collector structure surrounding the central base of a very tall chimney tower. The resulting convection causes a hot air updraft in the tower by the chimney effect. This airflow drives wind turbines placed in the chimney updraft or around the chimney base to produce electricity. Plans for scaled-up versions of demonstration models will allow significant power generation, and may allow development of other applications, such as water extraction or distillation, and agriculture or horticulture. As a solar chimney power plant (SCPP) proposal for electrical power generation, commercial investment is discouraged by the high initial cost of building a very large novel structure, and by the risk of investment in a feasible but unproven application of even proven component technology for long-term returns on investment—especially when compared to the proven and demonstrated greater short-term returns on lesser investment in coal-fired or nuclear power plants. Likewise, the benefits of 'clean' or solar power technologies are shared, and the widely shared harmful pollution of existing power generation technologies is not applied as a cost for private commercial investment. This is a well-described economic trade-off between private benefit and shared cost, versus shared benefit and private cost. If it is in the public interest, then some form of public investment or subsidy to share cost and risk will be required to demonstrate SCPP feasibility at scale..</Text>
@@ -1733,7 +1733,7 @@
 		<Text>+6 [ICON_POWER3] Electricity.[NEWLINE]Needs 4 [ICON_RES_IRON] Iron and a flatland.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_WINDTURBINEN">
-		<Text>Windturbines</Text>
+		<Text>Wind Turbines</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_WINDTURBINEN_TEXT">
 		<Text>Provides 8 [ICON_POWER3] Electricity.</Text>
@@ -1747,10 +1747,10 @@
 
 	<!--Local Gouverment-->
 	<Row Tag="TXT_KEY_BUILDING_FEUDAL_HELP">
-		<Text>1% [ICON_HAPPINESS_1] Happines in your Civilization and provides a [ICON_STRENGTH] defence bonus in the City it was build.[NEWLINE]Increase [ICON_ORDER] Order by +2.[NEWLINE]Need at least 5 Cities to be build and you may construct up to three.</Text>
+		<Text>1% [ICON_HAPPINESS_1] Happiness in your Civilization and provides a [ICON_STRENGTH] defence bonus in the City it was build.[NEWLINE]Increase [ICON_ORDER] Order by +2.[NEWLINE]Need at least 5 Cities to be build and you may construct up to three.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_FEUDAL">
-		<Text>Local Gouverment [ICON_ORDER]</Text>
+		<Text>Local Government [ICON_ORDER]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_FEUDAL_TEXT">
 		<Text>upps</Text>
@@ -1784,7 +1784,7 @@
 		<Text>A dungeon is a room or cell in which prisoners are held, especially underground.[NEWLINE]Dungeons are generally associated with medieval castles, though their association with torture probably belongs more to the Renaissance period.[NEWLINE][NEWLINE]An oubliette is a form of dungeon which is accessible only from a hatch in a high ceiling.The word dungeon comes from Old French donjon (also spelt dongeon), which in its earliest usage meant a keep, the main tower of a castle. The first recorded instance of the word in English near the beginning of the 14th century also meant "an underground prison cell beneath the castle keep". While some sources cite Medieval Latin dom(i)niōn- "property" (and ultimately dominus "lord") as the original source, it is more likely that the word derives from the Frankish *dungjo, *dungjon- ("dungeon, vault, bower"), from Proto-Germanic *dungijōn, *dungō ("an enclosed space, treasury, vault"), from Proto-Indo-European *dʰengʰ- ("to cover, hide, conceal"),[1] related to Old Saxon dung ("underground vault, cellar"), Old High German tung ("a cellar, underground living quarter"), Old English dung ("a dungeon, prison"), and Old Norse dyngja ("a detached apartment, lady's bower"). In English, a dungeon now usually only signifies the sense of underground prison or oubliette, typically in a basement of a castle, whereas the alternate spelling donjon is generally reserved for the original meaning.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_KERKER_HELP">
-		<Text>Reduce the enemy [ICON_SPY] spyrate and [ICON_CULTURE] cultureinfluence and speed ups your [ICON_WORKER] workers.[NEWLINE]Increase [ICON_PLAGUE] Plague by+1.</Text>
+		<Text>Reduces the enemy [ICON_SPY] Spy Rate and [ICON_CULTURE] Cultural Influence and speeds ups your [ICON_WORKER] Workers.[NEWLINE]Increases [ICON_PLAGUE] Plague by +1.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_KERKER_STRATEGY">
 		<Text>Reduced enemy [ICON_CULTURE] Culture by 5%, enemy [ICON_SPY] spyrate in this town by 10% and all [ICON_WORKER] worker are working 1% faster.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note[ENDCOLOR][NEWLINE] City need the building walls.</Text>
@@ -1818,7 +1818,7 @@
 		<Text>Blacksmiths produce all manner of metal products.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_BLACKSMITH_STRATEGY">
-		<Text>Blacksmith, must have iron or copper withing city borders</Text>
+		<Text>Blacksmith, must have iron or copper within city borders</Text>
 	</Row>
 
 	<!--WEAPONSMITH-->
@@ -1832,7 +1832,7 @@
 		<Text>Weaponsmiths produce fine weapons.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_WEAPONSMITH_STRATEGY">
-		<Text>Weaponsmith, must have iron withing city borders.</Text>
+		<Text>Weaponsmith, must have iron within city borders.</Text>
 	</Row>
 
 	<!--ARMOUR_WORKSHOP-->
@@ -1988,10 +1988,10 @@
 	</Row>
 	<!--Have a nice day:=)-->	
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_ZIRKURAT_TEXT">
-		<Text>Zirkurat [ICON_RELIGION]</Text>
+		<Text>Ziggurat [ICON_RELIGION]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_ZIRKURAT">
-		<Text>Zirkurat</Text>
+		<Text>Ziggurat</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_ZIRKURAT_STRATEGY">
 		<Text>Provides a +10% [ICON_CULTURE] Culture bonus in the city it was build.</Text>
@@ -2008,7 +2008,7 @@
 		<Text>upps</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_NATURHEILIGTUM_HELP">
-		<Text>+1 [ICON_PEACE] Faith from every Natural Wonder and Mountain worked by this city.[NEWLINE]Allowes construction of the Nature Gods building</Text>
+		<Text>+1 [ICON_PEACE] Faith from every Natural Wonder and Mountain worked by this city.[NEWLINE]Allows construction of the Nature Gods building</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_NATURHEILIGTUM_STRATEGY">
 		<Text>Boost your Faith from Natural Wonders and Mountains.</Text>
@@ -2023,7 +2023,7 @@
 
 	<!--Off-Shore Windpark-->
 	<Row Tag="TXT_KEY_BUILDING_OSWINDPARK">
-		<Text>Off-Shore Windpark</Text>
+		<Text>Off-Shore Wind Farm</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_OSWINDPARK_HELP">
 		<Text>+8 [ICON_PRODUCTION] Production and +8 [ICON_POWER3] Electricity. Needs 1 Iron and 1 Aluminum to build.[NEWLINE]City must build on the coast.</Text>
@@ -2051,7 +2051,7 @@
 
 	<!--RACING_CARNIVAL-->
 	<Row Tag="TXT_KEY_BUILDING_RACING_CARNIVAL">
-		<Text>Racing Carneval</Text>
+		<Text>Racing Carnival</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_RACING_CARNIVAL_HELP">
 		<Text>+1 [ICON_TOURISM] Tourism when Radio is discovered.[NEWLINE]Needs one Resources of [ICON_RES_HORSE] Horse to be build.</Text>
@@ -2176,7 +2176,7 @@
 		<Text>10% [ICON_FOOD] Food is saved when a new [ICON_CITIZEN] Citizen is born, +2 [ICON_PRODUCTION] Production and +1 [ICON_HAPPINESS_1] Happiness.[NEWLINE]Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE]The city needs a aquaduct.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_FEUERWEHR_STRATEGY">
-		<Text>Provids a boost in food and a little happiness and production boost.</Text>
+		<Text>Provides a boost in food and a little happiness and production boost.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_FEUERWEHR_TEXT">
 		<Text>Never feared the fire?.</Text>
@@ -2221,7 +2221,7 @@
 		<Text>+3 [ICON_PRODUCTION] Production from each [COLOR_YELLOW]River[ENDCOLOR] tile and +2 [ICON_FOOD] Food for each [COLOR_YELLOW]Lake[ENDCOLOR] worked by this City.[NEWLINE]Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE]Increase [ICON_PLAGUE] Plague by +1.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_BINNENHAFEN_STRATEGY">
-		<Text>Provids a boost in [ICON_FOOD] Production and [ICON_FOOD] Food.</Text>
+		<Text>Provides a boost in [ICON_FOOD] Production and [ICON_FOOD] Food.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_BINNENHAFEN_TEXT">
 		<Text>upps</Text>
@@ -2269,7 +2269,7 @@
 		<Text>Religious Sanctuary [ICON_RELIGION]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_RELIGOSES_HEILIGTUM_HELP">
-		<Text>+5 [ICON_PEACE] Faith, all [ICON_MISSIONARY] missonaries born in this city can spread [ICON_RELIGION] religion one more. Increase the [ICON_RELIGION] religious pressure[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note[ENDCOLOR][NEWLINE] Can only built in a holy city and needs the policy piety opened.</Text>
+		<Text>+5 [ICON_PEACE] Faith, all [ICON_MISSIONARY] missionaries born in this city can spread [ICON_RELIGION] religion one more. Increase the [ICON_RELIGION] religious pressure[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note[ENDCOLOR][NEWLINE] Can only built in a holy city and needs the policy piety opened.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_RELIGOSES_HEILIGTUM_QUOTE">
 		<Text>upps</Text>
@@ -2440,16 +2440,16 @@
 
 	<!--Buildings-->
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_LIEBE_TEXT">
-		<Text>The Temple of the Goddes of love [ICON_RELIGION]</Text>
+		<Text>The Temple of the Goddess of love [ICON_RELIGION]</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_LIEBE">
-		<Text>Temple of Goddes of love</Text>
+		<Text>Temple of Goddess of love</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_LIEBE_STRATEGY">
 		<Text>Provides a [ICON_Culture] Culture, [ICON_PEACE] Faith and [ICON_HAPPINESS_1] Happiness boost.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_LIEBE_HELP">
-		<Text>+1 [ICON_Culture] Cultue, +2 [ICON_PEACE] Faith and +1 [ICON_HAPPINESS_1] Happiness.[NEWLINE][NEWLINE]Also provide yields +1 [ICON_PEACE] Faith from each source of [ICON_RES_WINE] Vine and [ICON_RES_INCENSE] Incense worked by this city.</Text>
+		<Text>+1 [ICON_Culture] Culture, +2 [ICON_PEACE] Faith and +1 [ICON_HAPPINESS_1] Happiness.[NEWLINE][NEWLINE]Also provide yields +1 [ICON_PEACE] Faith from each source of [ICON_RES_WINE] Vine and [ICON_RES_INCENSE] Incense worked by this city.</Text>
 	</Row>
 
 	
@@ -2951,7 +2951,7 @@
 		<Text>Provides three [ICON_RES_MANPOWER] Manpower resources.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Requires[ENDCOLOR] the building [COLOR_POSITIVE_TEXT]Granary[ENDCOLOR].</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SUPPLY_HOUSE_STRATEGY">
-		<Text>Provides a early support for usefull [ICON_RES_MANPOWER] manpower resources.[NEWLINE][NEWLINE]Add yields +1 [ICON_PRODUCTION] Production when [COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR] is discovered.</Text>
+		<Text>Provides a early support for useful [ICON_RES_MANPOWER] manpower resources.[NEWLINE][NEWLINE]Add yields +1 [ICON_PRODUCTION] Production when [COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR] is discovered.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_SUPPLY_HOUSE_PEDIA">
 		<Text></Text>
@@ -2981,7 +2981,7 @@
 		<Text>+1 [ICON_RES_MANPOWER] Manpower.[NEWLINE]All new trained military land [ICON_SILVER_FIST] units get the free Promotion Bronze Weapons.[NEWLINE]Add yields +1 [ICON_PRODUCTION] Production to each worked source oc Copper.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Requires[ENDCOLOR]a nearby improved source of Copper to be build.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_COPPERSMITH_STRATEGY">
-		<Text>Provides a boost forward to [ICON_PRODUCTION] Production and increse the amount of [ICON_RES_MANPOWER] Manpower.</Text>
+		<Text>Provides a boost forward to [ICON_PRODUCTION] Production and increases the amount of [ICON_RES_MANPOWER] Manpower.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_COPPERSMITH_TEXT">
 		<Text>A coppersmith, also known as a redsmith, is a person who makes artifacts from copper. The term redsmith comes from the colour of copper.</Text>
