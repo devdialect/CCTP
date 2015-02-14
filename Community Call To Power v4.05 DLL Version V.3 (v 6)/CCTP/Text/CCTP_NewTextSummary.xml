@@ -482,7 +482,7 @@
 
 		<!---->
 		<Row Tag="TXT_KEY_BUILDING_RITUALHUT">
-			<Text>Ritual Hutt</Text>
+			<Text>Ritual Hut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RITUALHUT_PEDIA">
 			<Text>A ritual "is a sequence of activities involving gestures, words, and objects, performed in a sequestered place, and performed according to set sequence." Rituals may be prescribed by the traditions of a community, including a religious community. Rituals are characterized by formalism, traditionalism, invariance, rule-governance, sacral symbolism and performance. Rituals of various kinds are a feature of almost[citation needed] all known human societies, past or present. They include not only the various worship rites and sacraments of organized religions and cults, but also the rites of passage of certain societies, atonement and purification rites, oaths of allegiance, dedication ceremonies, coronations and presidential inaugurations, marriages and funerals, school "rush" traditions and graduations, club meetings, sports events, Halloween parties, veterans parades, Christmas shopping and more. Many activities that are ostensibly performed for concrete purposes, such as jury trials, execution of criminals, and scientific symposia, are loaded with purely symbolic actions prescribed by regulations or tradition, and thus partly ritualistic in nature. Even common actions like hand-shaking and saying hello may be termed rituals. The field of ritual studies has seen a number of conflicting definitions of the term. One given by Kyriakidis is that a ritual is an outsider's or "etic" category for a set activity (or set of actions) that, to the outsider, seems irrational, non-contiguous, or illogical. The term can be used also by the insider or "emic" performer as an acknowledgement that this activity can be seen as such by the uninitiated onlooker. In psychology, the term ritual is sometimes used in a technical sense for a repetitive behavior systematically used by a person to neutralize or prevent anxiety; it is a symptom of obsessive–compulsive disorder.</Text>
@@ -1904,10 +1904,10 @@
 			<Text>Axe Maker [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AXEMAKER_HELP">
-			<Text>Allowes to train the mighty Axe Man [ICON_SILVER_FIST] Unit in this city.[NEWLINE]Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] the [ICON_CULTURE] Social Policy Branch [COLOR_YELLOW]Survival[ENDCOLOR] to be build.</Text>
+			<Text>Allows to train the mighty Axe Man [ICON_SILVER_FIST] Unit in this city.[NEWLINE]Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] the [ICON_CULTURE] Social Policy Branch [COLOR_YELLOW]Survival[ENDCOLOR] to be build.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AXEMAKER_STRATEGY">
-			<Text>Allowes to train the mighty Axe Man [ICON_SILVER_FIST] Unit.</Text>
+			<Text>Allows to train the mighty Axe Man [ICON_SILVER_FIST] Unit.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_AXEMAKER_PEDIA">
 			<Text>upps</Text>
@@ -1915,13 +1915,13 @@
 
 		<!--SAVAGE-->
 		<Row Tag="TXT_KEY_BUILDING_SAVAGE">
-			<Text>Savage Hutt [ICON_SILVER_FIST]</Text>
+			<Text>Savage Hut [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SAVAGE_HELP">
 			<Text>Provides +1 [ICON_RES_MANPOWER] Manpower.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SAVAGE_STRATEGY">
-			<Text>Allowes you to train the mighty Savage [ICON_SILVER_FIST] Unit in this city.</Text>
+			<Text>Allows you to train the mighty Savage [ICON_SILVER_FIST] Unit in this city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SAVAGE_PEDIA">
 			<Text>upps</Text>
@@ -1972,13 +1972,13 @@
 
 		<!--LABORER-->
 		<Row Tag="TXT_KEY_BUILDING_LABORER">
-			<Text>Laborer Hutt [ICON_SILVER_FIST]</Text>
+			<Text>Laborer Hut [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LABORER_HELP">
 			<Text>Provides +1 [ICON_RES_MANPOWER] Manpower.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LABORER_STRATEGY">
-			<Text>Allowes you to train the Laborer [ICON_WORKER] Unit in this city.</Text>
+			<Text>Allows you to train the Laborer [ICON_WORKER] Unit in this city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_LABORER_PEDIA">
 			<Text>upps</Text>
@@ -1986,13 +1986,13 @@
 		
 		<!--SCOUT-->
 		<Row Tag="TXT_KEY_BUILDING_SCOUT">
-			<Text>Scout Hutt [ICON_SILVER_FIST]</Text>
+			<Text>Scout Hut [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SCOUT_HELP">
 			<Text>Provides +1 [ICON_RES_MANPOWER] Manpower.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SCOUT_STRATEGY">
-			<Text>Allowes you to train the Scout [ICON_SILVER_FIST] Unit in this city.</Text>
+			<Text>Allows you to train the Scout [ICON_SILVER_FIST] Unit in this city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SCOUT_PEDIA">
 			<Text>upps</Text>
@@ -2042,7 +2042,7 @@
 		
 		<!--HUNTER-->
 		<Row Tag="TXT_KEY_BUILDING_HUNTER">
-			<Text>Hunters Hutt [ICON_SILVER_FIST]</Text>
+			<Text>Hunters Hut [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HUNTER_HELP">
 			<Text>Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE]Add yields +1 [ICON_FOOD] Food to every improved source of [ICON_RES_BISON] Bison and [ICON_RES_DEER] Deer.</Text>
@@ -2056,7 +2056,7 @@
 
 		<!--FISHMAN-->
 		<Row Tag="TXT_KEY_BUILDING_FISHMAN">
-			<Text>Fishers Hutt [ICON_SILVER_FIST]</Text>
+			<Text>Fishers Hut [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FISHMAN_HELP">
 			<Text>Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE]Add yields +1 [ICON_FOOD] Food to every worked [COLOR_YELLOW]Coast[ENDCOLOR] tile.[NEWLINE][NEWLINE][COLOR_RED]Requires[ENDCOLOR] a nearby [COLOR_YELLOW]Coast[ENDCOLOR] .</Text>
@@ -5462,7 +5462,7 @@
 
 		<!--Neo-->
 		<Row Tag="TXT_KEY_POLICY_CCTP162_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Medical Zoning[ENDCOLOR][NEWLINE][NEWLINE]Add yields +3 [ICON_FOOD] Food to every City.[NEWLINE]Allowes the construction of the [COLOR_YELLOW]Hospital[ENDCOLOR] Building.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Medical Zoning[ENDCOLOR][NEWLINE][NEWLINE]Add yields +3 [ICON_FOOD] Food to every City.[NEWLINE]allows the construction of the [COLOR_YELLOW]Hospital[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWPOLICY_CCTP162_TEXT">
 			<Text>[COLOR_POSITIVE_TEXT]Medical Zoning[ENDCOLOR][ICON_HEALTH]</Text>
@@ -5484,7 +5484,7 @@
 
 		<!--Neo-->
 		<Row Tag="TXT_KEY_POLICY_CCTP164_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Local Medication[ENDCOLOR][NEWLINE][NEWLINE]Allowes the construction of the [COLOR_YELLOW]Drug Store[ENDCOLOR] Building.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Local Medication[ENDCOLOR][NEWLINE][NEWLINE]allows the construction of the [COLOR_YELLOW]Drug Store[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWPOLICY_CCTP164_TEXT">
 			<Text>[COLOR_POSITIVE_TEXT]Local Medication[ENDCOLOR][ICON_HEALTH]</Text>
@@ -5505,7 +5505,7 @@
 		</Row>
 		<!--Neo-->
 		<Row Tag="TXT_KEY_POLICY_CCTP166_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Disaster Relief[ENDCOLOR][NEWLINE][NEWLINE]Allowes the construction of the [COLOR_YELLOW]Red Cross[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Add yields +1 [ICON_HEALTH] Health to every [ICON_CITIZEN] Specialist</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Disaster Relief[ENDCOLOR][NEWLINE][NEWLINE]Allows the construction of the [COLOR_YELLOW]Red Cross[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Add yields +1 [ICON_HEALTH] Health to every [ICON_CITIZEN] Specialist</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWPOLICY_CCTP166_TEXT">
 			<Text>[COLOR_POSITIVE_TEXT]Disaster Relief[ENDCOLOR][ICON_HEALTH]</Text>
@@ -5560,7 +5560,7 @@
 
 		<!--Neo-->
 		<Row Tag="TXT_KEY_POLICY_CCTP171_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Secret Agency [ENDCOLOR][NEWLINE][NEWLINE]+15% [ICON_SPY] Espionage in your [ICON_CAPITAL] Capital and discover enemy [ICON_SPY] Spies +25% faster.[NEWLINE][NEWLINE]Allowes the construction of the [COLOR_YELLOW]Secret Agency[ENDCOLOR] Building.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Secret Agency [ENDCOLOR][NEWLINE][NEWLINE]+15% [ICON_SPY] Espionage in your [ICON_CAPITAL] Capital and discover enemy [ICON_SPY] Spies +25% faster.[NEWLINE][NEWLINE]Allows the construction of the [COLOR_YELLOW]Secret Agency[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWPOLICY_CCTP171_TEXT">
 			<Text>[COLOR_POSITIVE_TEXT]Secret Agency[ENDCOLOR][ICON_SPY]</Text>
@@ -5582,7 +5582,7 @@
 
 		<!--Neo-->
 		<Row Tag="TXT_KEY_POLICY_CCTP173_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Centralized Intelligence[ENDCOLOR][NEWLINE][NEWLINE]Provides one extra [ICON_SPY] Spy.[NEWLINE][NEWLINE]Allowes the construction of the [COLOR_WARNING_TEXT]KGB[ENDCOLOR] Wonder.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Centralized Intelligence[ENDCOLOR][NEWLINE][NEWLINE]Provides one extra [ICON_SPY] Spy.[NEWLINE][NEWLINE]Allows the construction of the [COLOR_WARNING_TEXT]KGB[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_NEWPOLICY_CCTP173_TEXT">
 			<Text>[COLOR_POSITIVE_TEXT]Centralized Intelligence[ENDCOLOR][ICON_SPY]</Text>
@@ -5766,14 +5766,14 @@
 			<Text>[COLOR_POSITIVE_TEXT]Nomadic[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWPOLICY_BRANCH_NOMADIC_HELP">
-			<Text>Provides [ICON_PRODUCTION] Production and [ICON_SILVER_FIST] Military bonuses.[NEWLINE][NEWLINE]The best for early aggressiv Civilisations.[NEWLINE][NEWLINE]Provides +1 [ICON_TRADE] Trade Route and a free [COLOR_YELLOW]Caravan[ENDCOLOR] appairs near your [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]Allowes the transport [ICON_PRODUCTION] Production via Caravans from your [ICON_CAPITAL] Capital to other cities you own.[NEWLINE][NEWLINE]+1 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][ICON_PLAGUE] Plague is increased by +1 in your empire.[NEWLINE][NEWLINE][COLOR_RED]Incompatible with Sedentary.[ENDCOLOR]</Text>
+			<Text>Provides [ICON_PRODUCTION] Production and [ICON_SILVER_FIST] Military bonuses.[NEWLINE][NEWLINE]The best for early aggressiv Civilisations.[NEWLINE][NEWLINE]Provides +1 [ICON_TRADE] Trade Route and a free [COLOR_YELLOW]Caravan[ENDCOLOR] appairs near your [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]Allows the transport [ICON_PRODUCTION] Production via Caravans from your [ICON_CAPITAL] Capital to other cities you own.[NEWLINE][NEWLINE]+1 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][ICON_PLAGUE] Plague is increased by +1 in your empire.[NEWLINE][NEWLINE][COLOR_RED]Incompatible with Sedentary.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOMADIC_NEWTITLE">
 			<Text>Nomadic {1_PlayerName:textkey} the Wanderer of {2_CivName:textkey}</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_POLICY_CCTP174_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Nomadic Culture[ENDCOLOR][NEWLINE][NEWLINE]Allowes the construction of the [ICON_SILVERFIST] [COLOR_YELLOW]Outpost[ENDCOLOR] Improvement.[NEWLINE][NEWLINE]Grants one free [ICON_WORKER] Labor unit</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Nomadic Culture[ENDCOLOR][NEWLINE][NEWLINE]Allows the construction of the [ICON_SILVERFIST] [COLOR_YELLOW]Outpost[ENDCOLOR] Improvement.[NEWLINE][NEWLINE]Grants one free [ICON_WORKER] Labor unit</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWPOLICY_CCTP174">
 			<Text>[COLOR_POSITIVE_TEXT]Nomadic Culture[ENDCOLOR]</Text>
@@ -5911,7 +5911,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_POLICY_CCTP187_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Disease Control[ENDCOLOR][NEWLINE][NEWLINE]Allowes the construction of the [COLOR_WARNING_TEXT]Small Pox Eradication[ENDCOLOR] National Wonder</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Disease Control[ENDCOLOR][NEWLINE][NEWLINE]Allows the construction of the [COLOR_WARNING_TEXT]Small Pox Eradication[ENDCOLOR] National Wonder</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWPOLICY_CCTP187">
 			<Text>[COLOR_POSITIVE_TEXT]Disease Control[ENDCOLOR]</Text>
@@ -6005,7 +6005,7 @@
 		</Row>
 		<!--Neo-->
 		<Row Tag="TXT_KEY_POLICY_CCTP194_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]194[ENDCOLOR][NEWLINE][NEWLINE]Allowes the construction of the[COLOR_YELLOW]Workstation 3[ENDCOLOR] Building.[NEWLINE]Add yields +1 [ICON_PRODUCTION] Production to every [ICON_GREAT_ENGINEER] Engineer, [ICON_LABORER] Laborer and Electrician Specialist.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires the [ICON_RESEARCH] Technology Logistic[ENDCOLOR].</Text>
+			<Text>[COLOR_POSITIVE_TEXT]194[ENDCOLOR][NEWLINE][NEWLINE]Allows the construction of the[COLOR_YELLOW]Workstation 3[ENDCOLOR] Building.[NEWLINE]Add yields +1 [ICON_PRODUCTION] Production to every [ICON_GREAT_ENGINEER] Engineer, [ICON_LABORER] Laborer and Electrician Specialist.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires the [ICON_RESEARCH] Technology Logistic[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWPOLICY_CCTP194">
 			<Text>[COLOR_POSITIVE_TEXT]194[ENDCOLOR]</Text>
@@ -6617,7 +6617,7 @@
 			<Text>[COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWPOLICY_BRANCH_SLAVERY_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR][NEWLINE][NEWLINE]Allowes the construction of the [COLOR_POSITIVE_TEXT]Slavery Market[ENDCOLOR] Building.[NEWLINE]+1 [ICON_PRODUCTION] Production for every 3 [ICON_CITIZEN] Citizen in each of your cities.[NEWLINE]Increase [ICON_PLAGUE] Plague in each of your cities by +1[NEWLINE][NEWLINE]Incompatible with [COLOR_RED]Justice[ENDCOLOR] .[NEWLINE][NEWLINE]The [ICON_RESEARCH] Technology [COLOR_RED]Slavery[ENDCOLOR] must be discovered.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR][NEWLINE][NEWLINE]Allows the construction of the [COLOR_POSITIVE_TEXT]Slavery Market[ENDCOLOR] Building.[NEWLINE]+1 [ICON_PRODUCTION] Production for every 3 [ICON_CITIZEN] Citizen in each of your cities.[NEWLINE]Increase [ICON_PLAGUE] Plague in each of your cities by +1[NEWLINE][NEWLINE]Incompatible with [COLOR_RED]Justice[ENDCOLOR] .[NEWLINE][NEWLINE]The [ICON_RESEARCH] Technology [COLOR_RED]Slavery[ENDCOLOR] must be discovered.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_SLAVERY_NEWTITLE">
 			<Text>Ruthless {1_PlayerName:textkey} the Leader of {2_CivName:textkey}</Text>
@@ -7107,7 +7107,7 @@
 
 		<!--Neo-->
 		<Row Tag="TXT_KEY_POLICY_CCTP279_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]279[ENDCOLOR][NEWLINE][NEWLINE]Allowes you to annex [ICON_CITY_STATE] City States.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]279[ENDCOLOR][NEWLINE][NEWLINE]Allows you to annex [ICON_CITY_STATE] City States.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NEWPOLICY_CCTP279">
 			<Text>[COLOR_POSITIVE_TEXT]279[ENDCOLOR]</Text>
@@ -7370,7 +7370,7 @@
 
 
 		<Row Tag="TXT_KEY_POLICY_CCTP49_HELP">
-			<Text>[COLOR_POSITIVE_TEXT]49[ENDCOLOR][NEWLINE][NEWLINE]Provides +1 [ICON_RES_MANPOWER] Manpower for each city you own.[NEWLINE][NEWLINE]Allowes construction of the [COLOR_POSITIVE_TEXT]Totem[ENDCOLOR] Wonder.</Text>
+			<Text>[COLOR_POSITIVE_TEXT]49[ENDCOLOR][NEWLINE][NEWLINE]Provides +1 [ICON_RES_MANPOWER] Manpower for each city you own.[NEWLINE][NEWLINE]Allows construction of the [COLOR_POSITIVE_TEXT]Totem[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_POLICY_CCTP49">
 			<Text>[COLOR_POSITIVE_TEXT]49[ENDCOLOR]</Text>
@@ -8019,7 +8019,7 @@
 			<Text>upps</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_LABER_HELP">
-			<Text>The first [ICON_WORKER] Unit that can create improvement.[NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 1 [ICON_RE_MANPOWER] Manpower and increase [ICON_HAPPINESS_4] Unhappiness by +1.[NEWLINE]Can only construct the [COLOR_GREEN]Tipi[ENDCOLOR] and [COLOR_GREEN]Outpost[ENDCOLOR] improvements.[NEWLINE]You can only have 3 at the same time.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] the [COLOR_POSITIVE_TEXT]Laborer Hutt[ENDCOLOR] Building to be trained.</Text>
+			<Text>The first [ICON_WORKER] Unit that can create improvement.[NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 1 [ICON_RE_MANPOWER] Manpower and increase [ICON_HAPPINESS_4] Unhappiness by +1.[NEWLINE]Can only construct the [COLOR_GREEN]Tipi[ENDCOLOR] and [COLOR_GREEN]Outpost[ENDCOLOR] improvements.[NEWLINE]You can only have 3 at the same time.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] the [COLOR_POSITIVE_TEXT]Laborer Hut[ENDCOLOR] Building to be trained.</Text>
 		</Row>
 
 		<!--***|Next|***-->
@@ -8093,7 +8093,7 @@
 		<!--<<<<<<<<<<[Unit Updates]>>>>>>>>>>-->
 		<!--***|Next|***-->
 		<Update>
-			<Set Text="The first [ICON_SILVER_FIST] Unit that can [ICON_MOVES] Moves 2 tiles per round and ignores terrain cost.[NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 1 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE]Also [COLOR_WARNING_TEXT]requires[ENDCOLOR] the Building [COLOR_POSITIVE_TEXT]Scout Hutt[ENDCOLOR] to be trained." />
+			<Set Text="The first [ICON_SILVER_FIST] Unit that can [ICON_MOVES] Moves 2 tiles per round and ignores terrain cost.[NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 1 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE]Also [COLOR_WARNING_TEXT]requires[ENDCOLOR] the Building [COLOR_POSITIVE_TEXT]Scout Hut[ENDCOLOR] to be trained." />
 			<Where Tag="TXT_KEY_UNIT_HELP_SCOUT" />
 		</Update>
 

@@ -599,7 +599,7 @@
 			<Text>The Savage is particularly useful when attacking enemy settlements. Armed with half a tree as weapon, he can easily bring down enemy fortifications.[NEWLINE]Protect it from attacks, as it is weak when defending.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SAVAGE">
-			<Text>An exceptionally big and strong human specimen with a bad temper.[NEWLINE][NEWLINE]Receives a bonus when attacking Cities, but also a penalty when defending.[NEWLINE][NEWLINE][COLOR_RED]Requires[ENDCOLOR] the [COLOR_POSITIVE_TEXT]Savage Hutt[ENDCOLOR] to be trained.</Text>
+			<Text>An exceptionally big and strong human specimen with a bad temper.[NEWLINE][NEWLINE]Receives a bonus when attacking Cities, but also a penalty when defending.[NEWLINE][NEWLINE][COLOR_RED]Requires[ENDCOLOR] the [COLOR_POSITIVE_TEXT]Savage Hut[ENDCOLOR] to be trained.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SAVAGE_TEXT">
 			<Text>In times when weapons were dull and military strategy was virtually non-existent, muscle power was the main tool of winning a fight. Especially strong and big men made good front-line warriors, who often fought in reckless rage. Nearly unstoppable when attacking, the Berserk fighters often did not watch their backs and were susceptible to strategic attacks.</Text>

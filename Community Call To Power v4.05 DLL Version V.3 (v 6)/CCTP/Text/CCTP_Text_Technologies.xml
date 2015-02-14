@@ -174,7 +174,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FISHING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Stelzendorf[ENDCOLOR] Wonder. Also shows [COLOR_POSITIVE_TEXT]Fish[ENDCOLOR] on the map and you can construct [COLOR_POSITIVE_TEXT]Workboats[ENDCOLOR].[NEWLINE]Increase global [ICON_HEALTH] Health by +1.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Stelzendorf[ENDCOLOR] Wonder. Also shows [COLOR_POSITIVE_TEXT]Fish[ENDCOLOR] on the map and you can construct [COLOR_POSITIVE_TEXT]Workboats[ENDCOLOR].[NEWLINE]Increase global [ICON_HEALTH] Health by +1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FISHING_DESC</Tag>
@@ -216,7 +216,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MONARCHY_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Zeus Statue[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Palace Throne Room[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Monarchy[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Zeus Statue[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Palace Throne Room[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Monarchy[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MONARCHY_QUOTE</Tag>
@@ -501,7 +501,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CHRONOS_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Mada`In Saleh[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Theocracy[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Mada`In Saleh[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Theocracy[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CHRONOS_QUOTE</Tag>
@@ -565,7 +565,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_DEMOCRACY_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Forum of Rome[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Senat[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Republic[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Forum of Rome[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Senat[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Republic[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_DEMOCRACY_QUOTE</Tag>
@@ -609,7 +609,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ADVOCADI_DIABOLI_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Nan Madol[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Palace Garden[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palace Gallery[ENDCOLOR] National Wonders.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Populism[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Nan Madol[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Palace Garden[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palace Gallery[ENDCOLOR] National Wonders.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Populism[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ADVOCADI_DIABOLI_QUOTE</Tag>
@@ -818,7 +818,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_POLITICS_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Cartagena[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Peterhof Palace[ENDCOLOR] Wonders.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Parliamentary[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Cartagena[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Peterhof Palace[ENDCOLOR] Wonders.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Parliamentary[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_POLITICS_QUOTE</Tag>
@@ -905,7 +905,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SECRET_AGENCY_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]KGB[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Secret Angency[ENDCOLOR] Building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]KGB[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Secret Angency[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SECRET_AGENCY_QUOTE</Tag>
@@ -945,7 +945,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TUNNEL_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Deep Coal Mine[ENDCOLOR] Building and you can train the [COLOR_POSITIVE_TEXT]Tunnel Boring Machine TBM[ENDCOLOR] Unit.[NEWLINE]Add yields +1 [ICON_GOLD] GOLD to every Mountain.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Deep Coal Mine[ENDCOLOR] Building and you can train the [COLOR_POSITIVE_TEXT]Tunnel Boring Machine TBM[ENDCOLOR] Unit.[NEWLINE]Add yields +1 [ICON_GOLD] GOLD to every Mountain.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TUNNEL_QUOTE</Tag>
@@ -966,7 +966,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LOGISTIC_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]First Bank[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Workstation 3[ENDCOLOR] Buildings.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]First Bank[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Workstation 3[ENDCOLOR] Buildings.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LOGISTIC_QUOTE</Tag>
@@ -984,7 +984,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_JURISPRUDENCE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Golden Híll Palace[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Golden Híll Palace[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_JURISPRUDENCE_QUOTE</Tag>
@@ -1002,7 +1002,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_REALISM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Haji Ali Dargah[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Haji Ali Dargah[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_REALISM_QUOTE</Tag>
@@ -1021,7 +1021,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FASICM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Gripsholm Castle[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Forced Labour Camp[ENDCOLOR] Building.[NEWLINE]Increase [ICON_CRIME] Crime by +5.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Gripsholm Castle[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Forced Labour Camp[ENDCOLOR] Building.[NEWLINE]Increase [ICON_CRIME] Crime by +5.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FASICM_QUOTE</Tag>
@@ -1040,7 +1040,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GAMBLE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Bellagio[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Bellagio[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GAMBLE_QUOTE</Tag>
@@ -1074,7 +1074,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PLANETARY_NETWORKS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Planetary Network[ENDCOLOR] and [COLOR_POSITIVE_TEXT]The Planetary Transit System[ENDCOLOR]Wonders.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Planetary Network[ENDCOLOR] and [COLOR_POSITIVE_TEXT]The Planetary Transit System[ENDCOLOR]Wonders.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PLANETARY_NETWORKS_DESC</Tag>
@@ -1098,7 +1098,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BIOENGINEERING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Miapolis[ENDCOLOR] and [COLOR_POSITIVE_TEXT]The Longevity Vaccine[ENDCOLOR]Wonders.[NEWLINE]Increase global [ICON_HEALTH] Plague by +1.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Miapolis[ENDCOLOR] and [COLOR_POSITIVE_TEXT]The Longevity Vaccine[ENDCOLOR]Wonders.[NEWLINE]Increase global [ICON_HEALTH] Plague by +1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BIOENGINEERING_QUOTE</Tag>
@@ -1118,7 +1118,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_URLAUB_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Monte Carlo Casino[ENDCOLOR] Wonder.[NEWLINE]Add Yields +5 [ICON_TOURISM] to every [COLOR_POSITIVE_TEXT]Natural Wonder[ENDCOLOR].[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Monte Carlo Casino[ENDCOLOR] Wonder.[NEWLINE]Add Yields +5 [ICON_TOURISM] to every [COLOR_POSITIVE_TEXT]Natural Wonder[ENDCOLOR].[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_URLAUB_QUOTE</Tag>
@@ -1140,7 +1140,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GLAS_HELP</Tag>
-			<Text>Reveals [COLOR_POSITIVE_TEXT]Glass[ENDCOLOR] on the map.[NEWLINE]Allowes the construction of the [COLOR_POSITIVE_TEXT]Tin Smelter[ENDCOLOR] Building.</Text>
+			<Text>Reveals [COLOR_POSITIVE_TEXT]Glass[ENDCOLOR] on the map.[NEWLINE]Allows the construction of the [COLOR_POSITIVE_TEXT]Tin Smelter[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GLAS_QUOTE</Tag>
@@ -1161,7 +1161,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RELIGIOUS_NATINALISM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Prague Castle[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Prague Castle[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RELIGIOUS_NATINALISM_QUOTE</Tag>
@@ -1183,7 +1183,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TREIBSTOFF_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Deep Uranium Mine[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Deep Aluminum Mine[ENDCOLOR]and the [COLOR_POSITIVE_TEXT]Large Oil Fields[ENDCOLOR] Buildings.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Deep Uranium Mine[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Deep Aluminum Mine[ENDCOLOR]and the [COLOR_POSITIVE_TEXT]Large Oil Fields[ENDCOLOR] Buildings.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TREIBSTOFF_QUOTE</Tag>
@@ -1204,7 +1204,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LUXUS_TRADE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Fujian Tulou[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Choclate Shop[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Cabinetmaker[ENDCOLOR] Buildings.[NEWLINE]Grants one extra [ICON_TRADE] Trade Route.[NEWLINE]Increase [ICON_CRIME] Crime by +2.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Fujian Tulou[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Choclate Shop[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Cabinetmaker[ENDCOLOR] Buildings.[NEWLINE]Grants one extra [ICON_TRADE] Trade Route.[NEWLINE]Increase [ICON_CRIME] Crime by +2.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LUXUS_TRADE_QUOTE</Tag>
@@ -1227,7 +1227,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ZEPPELIN_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Airship Hanger[ENDCOLOR] Building and you can now train the mighty  [COLOR_POSITIVE_TEXT]Airship[ENDCOLOR] Unit.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Airship Hanger[ENDCOLOR] Building and you can now train the mighty  [COLOR_POSITIVE_TEXT]Airship[ENDCOLOR] Unit.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ZEPPELIN_QUOTE</Tag>
@@ -1248,7 +1248,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CIGARS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Classical Gardens of Suzhou[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Cigar Shop[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Classical Gardens of Suzhou[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Cigar Shop[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CIGARS_QUOTE</Tag>
@@ -1457,7 +1457,7 @@
 			<Where Tag="TXT_KEY_TECH_CHIVALRY_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes you to train the mighty [COLOR_POSITIVE_TEXT]Knight[ENDCOLOR] , a fast and powerfull mounted [ICON_SILVER_FIST] unit.[NEWLINE]You can now construct the [COLOR_POSITIVE_TEXT]Malbork Castle[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Castle[ENDCOLOR] Building." />
+			<Set Text="Allows you to train the mighty [COLOR_POSITIVE_TEXT]Knight[ENDCOLOR] , a fast and powerfull mounted [ICON_SILVER_FIST] unit.[NEWLINE]You can now construct the [COLOR_POSITIVE_TEXT]Malbork Castle[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Castle[ENDCOLOR] Building." />
 			<Where Tag="TXT_KEY_TECH_CHIVALRY_HELP" />
 		</Update>
 		<Update>
@@ -2375,7 +2375,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TRADING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Great Market[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Market[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Trader[ENDCOLOR] Buildings[NEWLINE]You can now build the [COLOR_POSITIVE_TEXT]Trading Post[ENDCOLOR] improvement.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase [ICON_CRIME] Crime by +2.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Great Market[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Market[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Trader[ENDCOLOR] Buildings[NEWLINE]You can now build the [COLOR_POSITIVE_TEXT]Trading Post[ENDCOLOR] improvement.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase [ICON_CRIME] Crime by +2.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TRADING_QUOTE</Tag>
@@ -2439,7 +2439,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COFFEE_TRADE_HELP</Tag>
-			<Text>Reveals [COLOR_POSITIVE_TEXT]Coffee[ENDCOLOR][ICON_COFFEE] on the map.[NEWLINE]Allowes the construction of the [COLOR_POSITIVE_TEXT]Alchemist[ENDCOLOR] Building.</Text>
+			<Text>Reveals [COLOR_POSITIVE_TEXT]Coffee[ENDCOLOR][ICON_COFFEE] on the map.[NEWLINE]Allows the construction of the [COLOR_POSITIVE_TEXT]Alchemist[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COFFEE_TRADE_QUOTE</Tag>
@@ -2583,7 +2583,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CODE_OF_LAWS_HELP</Tag>
-			<Text>Also allows you to build the [COLOR_POSITIVE_TEXT]Courthouse[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palace Observatory[ENDCOLOR] Buildings. Also it allowes the construction of the [COLOR_POSITIVE_TEXT]Hanging Garden[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Justice[ENDCOLOR] .</Text>
+			<Text>Also allows you to build the [COLOR_POSITIVE_TEXT]Courthouse[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palace Observatory[ENDCOLOR] Buildings. Also it allowes the construction of the [COLOR_POSITIVE_TEXT]Hanging Garden[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Justice[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CODE_OF_LAWS_QUOTE</Tag>
@@ -2720,7 +2720,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AGRICULTURAL_REVOLUTION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]El Tajin[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Town Estate[ENDCOLOR] Building.[NEWLINE]Reveals [COLOR_POSITIVE_TEXT]Tea[ENDCOLOR][ICON_TEA] on the map.[NEWLINE]Increase global [ICON_HEALTH] Health by +1.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Agriculture[ENDCOLOR] </Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]El Tajin[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Town Estate[ENDCOLOR] Building.[NEWLINE]Reveals [COLOR_POSITIVE_TEXT]Tea[ENDCOLOR][ICON_TEA] on the map.[NEWLINE]Increase global [ICON_HEALTH] Health by +1.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Agriculture[ENDCOLOR] </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AGRICULTURAL_REVOLUTION_DESC</Tag>
@@ -2756,7 +2756,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FEUDALISM_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Pikeman[ENDCOLOR] [ICON_SILVER_FIST] Unit, the [COLOR_POSITIVE_TEXT]Kremlin[ENDCOLOR] Wonder and your [ICON_WORKER] Workers can now build the [COLOR_POSITIVE_TEXT]Chateau[ENDCOLOR] Improvement.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Feudalism[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Pikeman[ENDCOLOR] [ICON_SILVER_FIST] Unit, the [COLOR_POSITIVE_TEXT]Kremlin[ENDCOLOR] Wonder and your [ICON_WORKER] Workers can now build the [COLOR_POSITIVE_TEXT]Chateau[ENDCOLOR] Improvement.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Feudalism[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FEUDALISM_QUOTE</Tag>
@@ -2900,7 +2900,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CONSTITUTION_1_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Declaration of Independence[ENDCOLOR] National Wonder, also the [COLOR_POSITIVE_TEXT]Constabulary[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Race Track[ENDCOLOR]Buildings.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Constitutional[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Declaration of Independence[ENDCOLOR] National Wonder, also the [COLOR_POSITIVE_TEXT]Constabulary[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Race Track[ENDCOLOR]Buildings.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Constitutional[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CONSTITUTION_1_QUOTE</Tag>
@@ -2916,7 +2916,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MILITARY_TRADITION_1_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Brandenburger Gate[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Ministry of War[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Fascism[ENDCOLOR]</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Brandenburger Gate[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Ministry of War[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Fascism[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MILITARY_TRADITION_1_QUOTE</Tag>
@@ -2932,7 +2932,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NATIONALISM_1_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Ranch[ENDCOLOR] which lows tile [ICON_CULTURE] Culture cost, increases [ICON_FOOD] Food, and gives a slight [ICON_HAPPINESS_1] Happiness bonus while requiring [ICON_RES_HORSES] Horses, and the [COLOR_POSITIVE_TEXT]Hermitage[ENDCOLOR] National Wonder and [COLOR_POSITIVE_TEXT]Forbidden Palace[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Landmark[ENDCOLOR].[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Nationalism[ENDCOLOR]</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Ranch[ENDCOLOR] which lows tile [ICON_CULTURE] Culture cost, increases [ICON_FOOD] Food, and gives a slight [ICON_HAPPINESS_1] Happiness bonus while requiring [ICON_RES_HORSES] Horses, and the [COLOR_POSITIVE_TEXT]Hermitage[ENDCOLOR] National Wonder and [COLOR_POSITIVE_TEXT]Forbidden Palace[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Landmark[ENDCOLOR].[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Nationalism[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NATIONALISM_1_QUOTE</Tag>
@@ -3124,7 +3124,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIALISM_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Hungarian Parliament[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 [ICON_CULTURE] to every [COLOR_POSITIVE_TEXT]Great People[ENDCOLOR] [ICON_GREAT_PEOPLE] improvement.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Socialism[ENDCOLOR]</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Hungarian Parliament[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 [ICON_CULTURE] to every [COLOR_POSITIVE_TEXT]Great People[ENDCOLOR] [ICON_GREAT_PEOPLE] improvement.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Socialism[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIALISM_QUOTE</Tag>
@@ -3838,11 +3838,11 @@
 		</Update>
 
 		<Update>
-			<Set Text="Allows you the construction of [COLOR_POSITIVE_TEXT]Artemis Temple[ENDCOLOR] wonder,which provides massiv [ICON_FOOD] Food.[NEWLINE][NEWLINE]Allowes you to train the [COLOR_POSITIVE_TEXT]Archer[ENDCOLOR] unit. A mighty distance units in the early game"/>
+			<Set Text="Allows you the construction of [COLOR_POSITIVE_TEXT]Artemis Temple[ENDCOLOR] wonder,which provides massiv [ICON_FOOD] Food.[NEWLINE][NEWLINE]Allows you to train the [COLOR_POSITIVE_TEXT]Archer[ENDCOLOR] unit. A mighty distance units in the early game"/>
 			<Where Tag="TXT_KEY_TECH_ARCHERY_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Reveals [COLOR_POSITIVE_TEXT]Gold[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Silver[ENDCOLOR] on the map[NEWLINE]Allows you the construction of the [COLOR_POSITIVE_TEXT]Miner[ENDCOLOR] Building.[NEWLINE]Allowes your workers to build the improvement [COLOR_POSITIVE_TEXT]Mine[ENDCOLOR].[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Set Text="Reveals [COLOR_POSITIVE_TEXT]Gold[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Silver[ENDCOLOR] on the map[NEWLINE]Allows you the construction of the [COLOR_POSITIVE_TEXT]Miner[ENDCOLOR] Building.[NEWLINE]Allows your workers to build the improvement [COLOR_POSITIVE_TEXT]Mine[ENDCOLOR].[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
 			<Where Tag="TXT_KEY_TECH_MINING_HELP"/>
 		</Update>
 		<Update>
@@ -3850,39 +3850,39 @@
 			<Where Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Templo Mayor[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Longmen Grottoes[ENDCOLOR]Wonders."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Templo Mayor[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Longmen Grottoes[ENDCOLOR]Wonders."/>
 			<Where Tag="TXT_KEY_TECH_MATHEMATICS_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Petra[ENDCOLOR]Wonder and the  [COLOR_POSITIVE_TEXT]Mint[ENDCOLOR] Building."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Petra[ENDCOLOR]Wonder and the  [COLOR_POSITIVE_TEXT]Mint[ENDCOLOR] Building."/>
 			<Where Tag="TXT_KEY_TECH_CURRENCY_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Great Libery[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Libery[ENDCOLOR] building."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Great Libery[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Libery[ENDCOLOR] building."/>
 			<Where Tag="TXT_KEY_TECH_WRITING_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Horyu-Ji[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Sage[ENDCOLOR] building."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Horyu-Ji[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Sage[ENDCOLOR] building."/>
 			<Where Tag="TXT_KEY_TECH_POETRY_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Kong Miao[ENDCOLOR] wonder, [COLOR_POSITIVE_TEXT]National Libery[ENDCOLOR] national wonder and the [COLOR_POSITIVE_TEXT]Amphitheater[ENDCOLOR] building."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Kong Miao[ENDCOLOR] wonder, [COLOR_POSITIVE_TEXT]National Libery[ENDCOLOR] national wonder and the [COLOR_POSITIVE_TEXT]Amphitheater[ENDCOLOR] building."/>
 			<Where Tag="TXT_KEY_TECH_PHILOSOPHY_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Ishtar Gate [ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Colusseum[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allowes your workers to build the improvements [COLOR_POSITIVE_TEXT]Lumbermill[ENDCOLOR]."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Ishtar Gate [ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Colusseum[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allows your workers to build the improvements [COLOR_POSITIVE_TEXT]Lumbermill[ENDCOLOR]."/>
 			<Where Tag="TXT_KEY_TECH_CONSTRUCTION_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Workshop[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palace Stuff Housing[ENDCOLOR] Buildings."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Workshop[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palace Stuff Housing[ENDCOLOR] Buildings."/>
 			<Where Tag="TXT_KEY_TECH_DIVISION_OF_LABOR_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Shows [COLOR_POSITIVE_TEXT]Iron[ENDCOLOR] on the map.[NEWLINE]Allowes the construction of the [COLOR_POSITIVE_TEXT]Farrier[ENDCOLOR] Building.[NEWLINE]It provides the ability to train the mighty [COLOR_POSITIVE_TEXT]Swordsman[ENDCOLOR] Unit."/>
+			<Set Text="Shows [COLOR_POSITIVE_TEXT]Iron[ENDCOLOR] on the map.[NEWLINE]Allows the construction of the [COLOR_POSITIVE_TEXT]Farrier[ENDCOLOR] Building.[NEWLINE]It provides the ability to train the mighty [COLOR_POSITIVE_TEXT]Swordsman[ENDCOLOR] Unit."/>
 			<Where Tag="TXT_KEY_TECH_IRON_WORKING_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to constructing of the [COLOR_POSITIVE_TEXT]Great Lighhouse[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Lighthouse[ENDCOLOR] Building.[NEWLINE]Provides one extra [ICON_TRADE] Tradee Route.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Set Text="Allows you to constructing of the [COLOR_POSITIVE_TEXT]Great Lighhouse[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Lighthouse[ENDCOLOR] Building.[NEWLINE]Provides one extra [ICON_TRADE] Tradee Route.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
 			<Where Tag="TXT_KEY_TECH_OPTICS_HELP"/>
 		</Update>
 		<Update>
@@ -3890,11 +3890,11 @@
 			<Where Tag="TXT_KEY_TECH_OPTICS_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Shows [COLOR_POSITIVE_TEXT]Titanium[ENDCOLOR][ICON_TITANIUM] and [COLOR_POSITIVE_TEXT]Platinium[ENDCOLOR][ICON_RES_PLATINUM] on the map.[NEWLINE][NEWLINE]Allowes you to construct the [COLOR_POSITIVE_TEXT]Bardo Museum[ENDCOLOR] Wonder."/>
+			<Set Text="Shows [COLOR_POSITIVE_TEXT]Titanium[ENDCOLOR][ICON_TITANIUM] and [COLOR_POSITIVE_TEXT]Platinium[ENDCOLOR][ICON_RES_PLATINUM] on the map.[NEWLINE][NEWLINE]Allows you to construct the [COLOR_POSITIVE_TEXT]Bardo Museum[ENDCOLOR] Wonder."/>
 			<Where Tag="TXT_KEY_TECH_METALLURGY_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Chichen Itza[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Heddal Stave Church[ENDCOLOR] wonders, also you can now construct the [COLOR_POSITIVE_TEXT]Fire Brigade[ENDCOLOR] building.[NEWLINE]Increase [ICON_ORDER] Order by +3."/>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Chichen Itza[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Heddal Stave Church[ENDCOLOR] wonders, also you can now construct the [COLOR_POSITIVE_TEXT]Fire Brigade[ENDCOLOR] building.[NEWLINE]Increase [ICON_ORDER] Order by +3."/>
 			<Where Tag="TXT_KEY_TECH_CIVIL_SERVICE_HELP"/>
 		</Update>
 
@@ -3911,7 +3911,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TOOLS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Wonderwerk Cave[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Add yields +1 [ICON_PRODUCTION] Production to every [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR] and +1 [ICON_GOLD] Gold to every [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] tile.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Wonderwerk Cave[ENDCOLOR] Wonder.[NEWLINE][NEWLINE]Add yields +1 [ICON_PRODUCTION] Production to every [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR] and +1 [ICON_GOLD] Gold to every [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] tile.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TOOLS_QUOTE</Tag>
@@ -3928,7 +3928,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LANGUAGE_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Hutt[ENDCOLOR] building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Hut[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LANGUAGE_QUOTE</Tag>
@@ -3950,7 +3950,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LEADERSHIP_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Gigant[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Gigant[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LEADERSHIP_QUOTE</Tag>
@@ -3988,7 +3988,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SCOUTING_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Scout Hutt[ENDCOLOR] Building and you can now train the [COLOR_POSITIVE_TEXT]Scout[ENDCOLOR] Unit, this is the first unit that can move two tiles per round.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Scout Hut[ENDCOLOR] Building and you can now train the [COLOR_POSITIVE_TEXT]Scout[ENDCOLOR] Unit, this is the first unit that can move two tiles per round.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SCOUTING_QUOTE</Tag>
@@ -4003,11 +4003,11 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CARAVANS_DESC</Tag>
-			<Text>A caravan (from Persian: کاروان‎) is a group of people traveling together, often on a trade expedition. Caravans were used mainly in desert areas and throughout the Silk Road, where traveling in groups aided in defense against bandits as well as helping to improve economies of scale in trade. In historical times, caravans connecting East Asia and Europe often carried luxurious and lucrative goods, such as silks or jewelry. Caravans could therefore require considerable investment and were a lucrative target for bandits. The profits from a successfully undertaken journey could be enormous, comparable to the later European spice trade.</Text>
+			<Text>A caravan (from Persian: کاروان‎) is a group of people travelling together, often on a trade expedition. Caravans were used mainly in desert areas and throughout the Silk Road, where travelling in groups aided in defense against bandits as well as helping to improve economies of scale in trade. In historical times, caravans connecting East Asia and Europe often carried luxurious and lucrative goods, such as silks or jewelry. Caravans could therefore require considerable investment and were a lucrative target for bandits. The profits from a successfully undertaken journey could be enormous, comparable to the later European spice trade.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CARAVANS_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Caravans[ENDCOLOR] and you gain a new [ICON_TRADE] Trade Route.[NEWLINE]Also allowes the constructiong of the [COLOR_POSITIVE_TEXT]Huttusa[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Palce Grand Entrance[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allowes you to train the [COLOR_POSITIVE_TEXT]Mounted Scout[ENDCOLOR] unit, a fast scouting unit that needs [ICON_RES_HORSE] Horse to be buildet.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Caravans[ENDCOLOR] and you gain a new [ICON_TRADE] Trade Route.[NEWLINE]Also allows the construction of the [COLOR_POSITIVE_TEXT]Huttusa[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Palace Grand Entrance[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allows you to train the [COLOR_POSITIVE_TEXT]Mounted Scout[ENDCOLOR] unit, a fast scouting unit that needs [ICON_RES_HORSE] Horse to be buildet.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CARAVANS_QUOTE</Tag>
@@ -4016,7 +4016,7 @@
 
 		<Row>
 			<Tag>TXT_KEY_TECH_HUNTING_DESC</Tag>
-			<Text>Reveals [ICON_DEER] Deer, [ICON_COW] Cow, and [ICON_SHEEP] Sheep on the map.[NEWLINE]Allows construction of the [COLOR_POSITIVE_TEXT]Hunters Hutt[ENDCOLOR] Building.</Text>
+			<Text>Reveals [ICON_DEER] Deer, [ICON_COW] Cow, and [ICON_SHEEP] Sheep on the map.[NEWLINE]Allows construction of the [COLOR_POSITIVE_TEXT]Hunters Hut[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HUNTING_QUOTE</Tag>
@@ -4053,7 +4053,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Palisade[ENDCOLOR] Buildings and you can now  training the [COLOR_POSITIVE_TEXT]Savage[ENDCOLOR] unit, a strong  unit in the Prehistoric_Era [ICON_STRENGHT] </Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Palisade[ENDCOLOR] Buildings and you can now  training the [COLOR_POSITIVE_TEXT]Savage[ENDCOLOR] unit, a strong  unit in the Prehistoric_Era [ICON_STRENGHT] </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_QUOTE</Tag>
@@ -4070,7 +4070,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FOLKLORE_HELP</Tag>
-			<Text>Allowes you to construct the [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR] building. </Text>
+			<Text>Allows you to construct the [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR] building. </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FOLKLORE_QUOTE</Tag>
@@ -4088,7 +4088,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MUMMIFICATION_HELP</Tag>
-			<Text>Allowes the construction of [COLOR_POSITIVE_TEXT]Halicarnoss[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Catacombs[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of [COLOR_POSITIVE_TEXT]Halicarnoss[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Catacombs[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MUMMIFICATION_QUOTE</Tag>
@@ -4107,7 +4107,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RITUALS_HELP</Tag>
-			<Text>Allowes the construction of [COLOR_POSITIVE_TEXT]Ritual Hutt[ENDCOLOR] Building  and shows [COLOR_POSITIVE_TEXT]Spices[ENDCOLOR] on the map.</Text>
+			<Text>Allows the construction of [COLOR_POSITIVE_TEXT]Ritual Hut[ENDCOLOR] Building  and shows [COLOR_POSITIVE_TEXT]Spices[ENDCOLOR] on the map.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RITUALS_QUOTE</Tag>
@@ -4125,7 +4125,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_VASALAGE_HELP</Tag>
-			<Text>Allowes the construction of [COLOR_POSITIVE_TEXT]Weiyang Palace[ENDCOLOR] Wonder and the  [COLOR_POSITIVE_TEXT]Recruitment Camp[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of [COLOR_POSITIVE_TEXT]Weiyang Palace[ENDCOLOR] Wonder and the  [COLOR_POSITIVE_TEXT]Recruitment Camp[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_VASALAGE_QUOTE</Tag>
@@ -4143,7 +4143,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LODGING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Tavern[ENDCOLOR], wich boost your [ICON_HAPPINESS_1] Happiness and [ICON_GOLD] Gold income, also it provides a little [ICON_TOURISM] Tourism boost   </Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Tavern[ENDCOLOR], wich boost your [ICON_HAPPINESS_1] Happiness and [ICON_GOLD] Gold income, also it provides a little [ICON_TOURISM] Tourism boost   </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LODGING_QUOTE</Tag>
@@ -4156,11 +4156,11 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SLAVERY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Slave Market[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Brothel[ENDCOLOR]Buildings.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.[NEWLINE]Increase [ICON_CRIME] Crime by +1.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Slave Market[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Brothel[ENDCOLOR]Buildings.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.[NEWLINE]Increase [ICON_CRIME] Crime by +1.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SLAVERY_DESC</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Working Camp[ENDCOLOR].</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Working Camp[ENDCOLOR].</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SLAVERY_QUOTE</Tag>
@@ -4178,7 +4178,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CASTE_SYSTEM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pergamon[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Pergamon[ENDCOLOR].</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Pergamon[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Pergamon[ENDCOLOR].</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CASTE_SYSTEM_QUOTE</Tag>
@@ -4196,7 +4196,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CLERGY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Salomon Temple[ENDCOLOR].</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Salomon Temple[ENDCOLOR].</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CLERGY_QUOTE</Tag>
@@ -4214,7 +4214,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HOLY_ORDERS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Religious Sanctuary[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 Golden Age Points to evey [COLOR_POSITIVE_TEXT]Holy Site[ENDCOLOR] improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Religious Sanctuary[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 Golden Age Points to evey [COLOR_POSITIVE_TEXT]Holy Site[ENDCOLOR] improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HOLY_ORDERS_QUOTE</Tag>
@@ -4232,7 +4232,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CONSULATES_HELP</Tag>
-			<Text>Provides the ability to create [COLOR_POSITIVE_TEXT]Embassies[ENDCOLOR] in other Civilizations.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Pacifism[ENDCOLOR] .</Text>
+			<Text>Provides the ability to create [COLOR_POSITIVE_TEXT]Embassies[ENDCOLOR] in other Civilizations.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Pacifism[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CONSULATES_QUOTE</Tag>
@@ -4252,7 +4252,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ALPHABET_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Nazca Lines[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Nazca Lines[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ALPHABET_QUOTE</Tag>
@@ -4270,7 +4270,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CUNEIFORM_HELP</Tag>
-			<Text>Allowes you to build the [COLOR_POSITIVE_TEXT]Codex Humurabi[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Potter[ENDCOLOR] Building.</Text>
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Codex Humurabi[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Potter[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CUNEIFORM_QUOTE</Tag>
@@ -4290,7 +4290,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HEROISM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Heroic Epic[ENDCOLOR] national wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Heroic Epic[ENDCOLOR] national wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HEROISM_QUOTE</Tag>
@@ -4309,7 +4309,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GOVERNMENT_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Local Government[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Treasure House[ENDCOLOR]Buildings and the [COLOR_POSITIVE_TEXT]National Court[ENDCOLOR] National Wonder.[NEWLINE]Increase [ICON_ORDER] Order by +2.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branches [COLOR_POSITIVE_TEXT]Plutocracy[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Pluralism[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Local Government[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Treasure House[ENDCOLOR]Buildings and the [COLOR_POSITIVE_TEXT]National Court[ENDCOLOR] National Wonder.[NEWLINE]Increase [ICON_ORDER] Order by +2.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branches [COLOR_POSITIVE_TEXT]Plutocracy[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Pluralism[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GOVERNMENT_QUOTE</Tag>
@@ -4329,7 +4329,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FORTIFICATION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Watchtower[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Armorer[ENDCOLOR] build, also the [COLOR_POSITIVE_TEXT]Meteora[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Watchtower[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Armorer[ENDCOLOR] build, also the [COLOR_POSITIVE_TEXT]Meteora[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FORTIFICATION_QUOTE</Tag>
@@ -4342,7 +4342,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SANITATION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Sever System[ENDCOLOR] building.[NEWLINE]Increase [ICON_HEALTH] Health by +2.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Sever System[ENDCOLOR] building.[NEWLINE]Increase [ICON_HEALTH] Health by +2.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SANITATION_DESC</Tag>
@@ -4374,7 +4374,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LUXURY_GOODS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Cabinet[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Choclate Shop[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Cabinet[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Choclate Shop[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LUXURY_GOODS_QUOTE</Tag>
@@ -4394,7 +4394,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CRAFTSMAN_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Coppersmith[ENDCOLOR] building and the [COLOR_POSITIVE_TEXT]Xuankong Si[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Coppersmith[ENDCOLOR] building and the [COLOR_POSITIVE_TEXT]Xuankong Si[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CRAFTSMAN_QUOTE</Tag>
@@ -4420,7 +4420,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Windmill[ENDCOLOR] building and the  [COLOR_POSITIVE_TEXT]Matterhorn[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Windmill[ENDCOLOR] building and the  [COLOR_POSITIVE_TEXT]Matterhorn[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_QUOTE</Tag>
@@ -4438,7 +4438,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MARTIAL_ARTS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Sun Tzus Art of War [ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Sun Tzus Art of War [ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MARTIAL_ARTS_QUOTE</Tag>
@@ -4459,7 +4459,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]J.S. Bach Cathedral[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Art Academy[ENDCOLOR] national wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]J.S. Bach Cathedral[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Art Academy[ENDCOLOR] national wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_QUOTE</Tag>
@@ -4477,7 +4477,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SACRED_ART_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Dome of Rock[ENDCOLOR] and [COLOR_POSITIVE_TEXT] [ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Dome of Rock[ENDCOLOR] and [COLOR_POSITIVE_TEXT] [ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SACRED_ART_QUOTE</Tag>
@@ -4495,7 +4495,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CARNIVAL_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Carnival[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Racing Carnival[ENDCOLOR] building.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Carnival[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Racing Carnival[ENDCOLOR] building.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CARNIVAL_QUOTE</Tag>
@@ -4515,7 +4515,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Borobudur[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Great Temple[ENDCOLOR] National wonder.[NEWLINE]Add yields +1 [ICON_TOURISM] Tourism  to every [COLOR_POSITIVE_TEXT]Holy Site[ENDCOLOR]</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Borobudur[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Great Temple[ENDCOLOR] National wonder.[NEWLINE]Add yields +1 [ICON_TOURISM] Tourism  to every [COLOR_POSITIVE_TEXT]Holy Site[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_QUOTE</Tag>
@@ -4533,7 +4533,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CRUSADE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Alhambra[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Kalmar Castle[ENDCOLOR] Wonders.[NEWLINE]Add yields +1 [ICON_GOLDEN_AGE] Golden Age Point to every [COLOR_POSITIVE_TEXT]Citadel[ENDCOLOR] Improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Alhambra[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Kalmar Castle[ENDCOLOR] Wonders.[NEWLINE]Add yields +1 [ICON_GOLDEN_AGE] Golden Age Point to every [COLOR_POSITIVE_TEXT]Citadel[ENDCOLOR] Improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CRUSADE_QUOTE</Tag>
@@ -4551,7 +4551,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_INVENTION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Leonardos Workshop[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Paro Taktsang[ENDCOLOR] Wonders.[NEWLINE]Add yields +1 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Academy[ENDCOLOR] improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Leonardos Workshop[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Paro Taktsang[ENDCOLOR] Wonders.[NEWLINE]Add yields +1 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Academy[ENDCOLOR] improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_INVENTION_QUOTE</Tag>
@@ -4571,7 +4571,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MECHANICS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Todai-Ji[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Iron Monger[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Todai-Ji[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Iron Monger[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MECHANICS_QUOTE</Tag>
@@ -4598,7 +4598,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MECHANIC_ARTS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Leshan Giant Buddha[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Buddhas of Bamiyan[ENDCOLOR] wonders.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Leshan Giant Buddha[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Buddhas of Bamiyan[ENDCOLOR] wonders.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MECHANIC_ARTS_QUOTE</Tag>
@@ -4616,7 +4616,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MASS_TRANSIT_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Airport[ENDCOLOR], [COLOR_POSITIVE_TEXT]Mass Transit[ENDCOLOR] and  [COLOR_POSITIVE_TEXT]Mass Transit[ENDCOLOR] buildings.[NEWLINE]Also allowes the construction of the [COLOR_POSITIVE_TEXT]Golden Gate[ENDCOLOR] wonder.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Airport[ENDCOLOR], [COLOR_POSITIVE_TEXT]Mass Transit[ENDCOLOR] and  [COLOR_POSITIVE_TEXT]Mass Transit[ENDCOLOR] buildings.[NEWLINE]Also allowes the construction of the [COLOR_POSITIVE_TEXT]Golden Gate[ENDCOLOR] wonder.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MASS_TRANSIT_QUOTE</Tag>
@@ -4633,7 +4633,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MOTION_PICTURES_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Broadway[ENDCOLOR] and  [COLOR_POSITIVE_TEXT]Hollywood[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Broadway[ENDCOLOR] and  [COLOR_POSITIVE_TEXT]Hollywood[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MOTION_PICTURES_QUOTE</Tag>
@@ -4650,7 +4650,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_WORLD_PROJECTS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]U.N. Headquarter[ENDCOLOR] Wonder and the national wonders [COLOR_POSITIVE_TEXT]Modern Olypia[ENDCOLOR].</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]U.N. Headquarter[ENDCOLOR] Wonder and the national wonders [COLOR_POSITIVE_TEXT]Modern Olypia[ENDCOLOR].</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_WORLD_PROJECTS_QUOTE</Tag>
@@ -4669,7 +4669,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ECO_SYSTEM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]London Array[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Off-Shore Windpark[ENDCOLOR] Building.[NEWLINE]Add yields +1 [ICON_RESEARCH] Science to every [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR], [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Marsh[ENDCOLOR].[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Ecotopia[ENDCOLOR]</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]London Array[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Off-Shore Windpark[ENDCOLOR] Building.[NEWLINE]Add yields +1 [ICON_RESEARCH] Science to every [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR], [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Marsh[ENDCOLOR].[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Ecotopia[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ECO_SYSTEM_QUOTE</Tag>
@@ -4687,7 +4687,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MASS_MEDIA_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Television[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Television[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MASS_MEDIA_QUOTE</Tag>
@@ -4730,7 +4730,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CITYSCAPE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Tokyo Sky Tree[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Shanghai World Financial Center[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Taipei[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Tokyo Sky Tree[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Shanghai World Financial Center[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Taipei[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CITYSCAPE_QUOTE</Tag>
@@ -4764,7 +4764,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIAL_STRUCTURE_HELP</Tag>
-			<Text>Allowes the training of the [COLOR_POSITIVE_TEXT]Settler[ENDCOLOR] unit and construction of the[COLOR_POSITIVE_TEXT]Tribe Hut[ENDCOLOR] Buildng.[NEWLINE]Increase [ICON_ORDER] Order by +1.</Text>
+			<Text>Allows the training of the [COLOR_POSITIVE_TEXT]Settler[ENDCOLOR] unit and construction of the[COLOR_POSITIVE_TEXT]Tribe Hut[ENDCOLOR] Buildng.[NEWLINE]Increase [ICON_ORDER] Order by +1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIAL_STRUCTURE_QUOTE</Tag>
@@ -4778,7 +4778,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_WARFARE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Great Hero[ENDCOLOR] Wonder and you can now train the strong[COLOR_POSITIVE_TEXT]Warrior[ENDCOLOR] unit.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Warfare[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Great Hero[ENDCOLOR] Wonder and you can now train the strong[COLOR_POSITIVE_TEXT]Warrior[ENDCOLOR] unit.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Warfare[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_WARFARE_DESC</Tag>
@@ -4800,7 +4800,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ART_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Venus[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Rock Paintings[ENDCOLOR] Building and shows [COLOR_POSITIVE_TEXT]Gems[ENDCOLOR] on the map.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Venus[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Rock Paintings[ENDCOLOR] Building and shows [COLOR_POSITIVE_TEXT]Gems[ENDCOLOR] on the map.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ART_QUOTE</Tag>
@@ -4818,7 +4818,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_IDOLS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Gaias Shrine[ENDCOLOR] Building and shows [COLOR_POSITIVE_TEXT]Silk[ENDCOLOR] on the map.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Gaias Shrine[ENDCOLOR] Building and shows [COLOR_POSITIVE_TEXT]Silk[ENDCOLOR] on the map.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_IDOLS_QUOTE</Tag>
@@ -4836,7 +4836,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AESTHETICS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Yellow Crane Tower[ENDCOLOR]  and [COLOR_POSITIVE_TEXT]Uffizien[ENDCOLOR] wonders.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Yellow Crane Tower[ENDCOLOR]  and [COLOR_POSITIVE_TEXT]Uffizien[ENDCOLOR] wonders.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AESTHETICS_QUOTE</Tag>
@@ -4862,7 +4862,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CHEMICAL_REVOLUTION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pinc and white Terraces[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Deep Sulfur Mine[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Pinc and white Terraces[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Deep Sulfur Mine[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CHEMICAL_REVOLUTION_QUOTE</Tag>
@@ -4883,7 +4883,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HELIOCENTRISM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Golden Pavilion[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Golden Pavilion[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HELIOCENTRISM_QUOTE</Tag>
@@ -4901,7 +4901,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MERCANTILISM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Hayi Ali Dargah[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Hayi Ali Dargah[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MERCANTILISM_QUOTE</Tag>
@@ -4919,7 +4919,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Suomenlinna Fortess[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Suomenlinna Fortess[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_QUOTE</Tag>
@@ -4937,7 +4937,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PSYCHOLOGY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Oxfort University[ENDCOLOR] National Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Oxfort University[ENDCOLOR] National Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PSYCHOLOGY_QUOTE</Tag>
@@ -4955,7 +4955,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_REFORMATION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Notre Dame[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Wartburg[ENDCOLOR] Wonders.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Reformation[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Notre Dame[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Wartburg[ENDCOLOR] Wonders.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Reformation[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_REFORMATION_QUOTE</Tag>
@@ -4973,7 +4973,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ROMANTICISM_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Globe Theatre[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palais Garnier[ENDCOLOR] Wonders.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Globe Theatre[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Palais Garnier[ENDCOLOR] Wonders.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ROMANTICISM_QUOTE</Tag>
@@ -4990,7 +4990,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SCHOOLING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]School[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]School[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SCHOOLING_QUOTE</Tag>
@@ -5007,7 +5007,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Angkor Wat[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Angkor Wat[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_QUOTE</Tag>
@@ -5024,7 +5024,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AVIATION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Gateway Arch[ENDCOLOR] wonder.[NEWLINE]You can now train the strong [COLOR_POSITIVE_TEXT]Mobile Sam[ENDCOLOR] unit.[NEWLINE]All air [ICON_SILVER_FIST] units get two additional [ICON_MOVES] Moves.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Gateway Arch[ENDCOLOR] wonder.[NEWLINE]You can now train the strong [COLOR_POSITIVE_TEXT]Mobile Sam[ENDCOLOR] unit.[NEWLINE]All air [ICON_SILVER_FIST] units get two additional [ICON_MOVES] Moves.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AVIATION_QUOTE</Tag>
@@ -5043,7 +5043,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CRIMINOLOGY_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Alcatraz Island[ENDCOLOR] Wonder , [COLOR_POSITIVE_TEXT]Police Station[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Prison[ENDCOLOR] Buildings.[NEWLINE]Increase [ICON_ORDER] Order by +5.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Alcatraz Island[ENDCOLOR] Wonder , [COLOR_POSITIVE_TEXT]Police Station[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Prison[ENDCOLOR] Buildings.[NEWLINE]Increase [ICON_ORDER] Order by +5.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CRIMINOLOGY_QUOTE</Tag>
@@ -5063,7 +5063,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Coal Plant[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Hydro Plant[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Coal Plant[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Hydro Plant[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_QUOTE</Tag>
@@ -5081,7 +5081,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_EXPLORATIONX_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]La Maestranza[ENDCOLOR] Wonders and also the[COLOR_POSITIVE_TEXT]Hotel[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Ski Resort[ENDCOLOR] Buildings.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]La Maestranza[ENDCOLOR] Wonders and also the[COLOR_POSITIVE_TEXT]Hotel[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Ski Resort[ENDCOLOR] Buildings.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_EXPLORATIONX_QUOTE</Tag>
@@ -5099,7 +5099,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Mega Dam[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Mega Dam[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_QUOTE</Tag>
@@ -5117,7 +5117,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MANEUVER_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pena National Palace[ENDCOLOR] Wonder.[NEWLINE]All land [ICON_SILVER_FIST] units get a additional [ICON_MOVES] Move.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Pena National Palace[ENDCOLOR] Wonder.[NEWLINE]All land [ICON_SILVER_FIST] units get a additional [ICON_MOVES] Move.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MANEUVER_QUOTE</Tag>
@@ -5134,7 +5134,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MEDICINE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Red Cross[ENDCOLOR] wonder and [COLOR_POSITIVE_TEXT]Drug Store[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Red Cross[ENDCOLOR] wonder and [COLOR_POSITIVE_TEXT]Drug Store[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MEDICINE_QUOTE</Tag>
@@ -5153,7 +5153,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Aircraft Plant[ENDCOLOR], [COLOR_POSITIVE_TEXT]Auto Plant[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Industrial Shipyard[ENDCOLOR] buildings.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Aircraft Plant[ENDCOLOR], [COLOR_POSITIVE_TEXT]Auto Plant[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Industrial Shipyard[ENDCOLOR] buildings.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_QUOTE</Tag>
@@ -5172,7 +5172,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NATIONAL_ARTS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Louvre[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Smithsonian Institute[ENDCOLOR] wonders.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Louvre[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Smithsonian Institute[ENDCOLOR] wonders.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NATIONAL_ARTS_QUOTE</Tag>
@@ -5191,7 +5191,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PHOTOGRAPHY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Neuschwanstein[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Neuschwanstein[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PHOTOGRAPHY_QUOTE</Tag>
@@ -5209,7 +5209,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Darjeeling Himalayan Railway[ENDCOLOR] wonder.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Darjeeling Himalayan Railway[ENDCOLOR] wonder.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_QUOTE</Tag>
@@ -5228,7 +5228,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SKYSCRAPER_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Empire State Building[ENDCOLOR] [COLOR_POSITIVE_TEXT]Petronas Towers[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Rockefeller Center[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Empire State Building[ENDCOLOR] [COLOR_POSITIVE_TEXT]Petronas Towers[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Rockefeller Center[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SKYSCRAPER_QUOTE</Tag>
@@ -5247,7 +5247,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_THERMODYNAMICS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Geotherm Plant[ENDCOLOR] building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Geotherm Plant[ENDCOLOR] building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_THERMODYNAMICS_QUOTE</Tag>
@@ -5267,7 +5267,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TOURISTICS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Aquarium[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Whale Watching[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Safari[ENDCOLOR] building. It grands yields +1 [ICON_TOURISM] Tourism for each World Wonder you own. </Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Aquarium[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Whale Watching[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Safari[ENDCOLOR] building. It grands yields +1 [ICON_TOURISM] Tourism for each World Wonder you own. </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TOURISTICS_QUOTE</Tag>
@@ -5286,7 +5286,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_WAR_GAMES_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]War College[ENDCOLOR] national wonder.[NEWLINE]You can now train the [COLOR_POSITIVE_TEXT]Great War Infantry[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Machine Gun[ENDCOLOR] Units.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]War College[ENDCOLOR] national wonder.[NEWLINE]You can now train the [COLOR_POSITIVE_TEXT]Great War Infantry[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Machine Gun[ENDCOLOR] Units.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_WAR_GAMES_QUOTE</Tag>
@@ -5304,7 +5304,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SPACE_RESEARCH_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Hubble[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Arecibo Obervatory[ENDCOLOR] wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Hubble[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Arecibo Obervatory[ENDCOLOR] wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SPACE_RESEARCH_QUOTE</Tag>
@@ -5341,7 +5341,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RUBBER_HELP</Tag>
-			<Text>Reveals [COLOR_POSITIVE_TEXT]Rubber[ENDCOLOR][ICON_RUBBER] on the map.[NEWLINE]Allowes the construction of the [COLOR_POSITIVE_TEXT]Buda Castle[ENDCOLOR] Wonder.</Text>
+			<Text>Reveals [COLOR_POSITIVE_TEXT]Rubber[ENDCOLOR][ICON_RUBBER] on the map.[NEWLINE]Allows the construction of the [COLOR_POSITIVE_TEXT]Buda Castle[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RUBBER_QUOTE</Tag>
@@ -5418,7 +5418,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CLAN_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Totem[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Savage Hutt[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Totem[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Savage Hut[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CLAN_QUOTE</Tag>
@@ -5436,7 +5436,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FLINTSTONES_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Gunung Padang[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Flintstones[ENDCOLOR] Building.[NEWLINE][NEWLINE]Add yields +1 [ICON_PRODUCTION] to every [COLOR_POSITIVE_TEXT]Hill[ENDCOLOR] tile.[NEWLINE][COLOR_WARNING_TEXT]Note:[ENDCOLOR] adds no yields to [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR] or [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] [COLOR_POSITIVE_TEXT]Hill[ENDCOLOR] tiles.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Gunung Padang[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Flintstones[ENDCOLOR] Building.[NEWLINE][NEWLINE]Add yields +1 [ICON_PRODUCTION] to every [COLOR_POSITIVE_TEXT]Hill[ENDCOLOR] tile.[NEWLINE][COLOR_WARNING_TEXT]Note:[ENDCOLOR] adds no yields to [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR] or [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] [COLOR_POSITIVE_TEXT]Hill[ENDCOLOR] tiles.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FLINTSTONES_QUOTE</Tag>
@@ -5472,7 +5472,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AQUACULTURE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Yonaguni[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Fishers Hutt[ENDCOLOR] Building.[NEWLINE][NEWLINE]Add yields +1 [ICON_FOOD] Food to every [COLOR_POSITIVE_TEXT]Coast[ENDCOLOR] and +1 Production to every [COLOR_POSITIVE_TEXT]Atoll[ENDCOLOR] tile.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Yonaguni[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Fishers Hut[ENDCOLOR] Building.[NEWLINE][NEWLINE]Add yields +1 [ICON_FOOD] Food to every [COLOR_POSITIVE_TEXT]Coast[ENDCOLOR] and +1 Production to every [COLOR_POSITIVE_TEXT]Atoll[ENDCOLOR] tile.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AQUACULTURE_QUOTE</Tag>
@@ -5792,7 +5792,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MARS_HELP</Tag>
-			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Grand Palace[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Selimye Mosque[ENDCOLOR] Wonders.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Rationalism[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Grand Palace[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Selimye Mosque[ENDCOLOR] Wonders.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Rationalism[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MARS_QUOTE</Tag>
@@ -5903,7 +5903,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PROMETHEUS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Monument[ENDCOLOR] Building.[NEWLINE][NEWLINE]You can train the [COLOR_POSITIVE_TEXT]Worker[ENDCOLOR] Unit.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Monument[ENDCOLOR] Building.[NEWLINE][NEWLINE]You can train the [COLOR_POSITIVE_TEXT]Worker[ENDCOLOR] Unit.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PROMETHEUS_QUOTE</Tag>
@@ -6059,7 +6059,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_IMPERIALISM_HELP</Tag>
-			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Imperial Palce[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Imperialism[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Imperial Palce[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Imperialism[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_IMPERIALISM_QUOTE</Tag>
@@ -6189,7 +6189,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CEREMONIAL_DANCEX_HELP</Tag>
-			<Text>Reveals [COLOR_POSITIVE_TEXT]Honey[ENDCOLOR] on the map.[NEWLINE]Allowes the construction of the [COLOR_POSITIVE_TEXT]Ceremonial Hut[ENDCOLOR] and you can now train the [COLOR_POSITIVE_TEXT]Fire Eater[ENDCOLOR] Unit.</Text>
+			<Text>Reveals [COLOR_POSITIVE_TEXT]Honey[ENDCOLOR] on the map.[NEWLINE]Allows the construction of the [COLOR_POSITIVE_TEXT]Ceremonial Hut[ENDCOLOR] and you can now train the [COLOR_POSITIVE_TEXT]Fire Eater[ENDCOLOR] Unit.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CEREMONIAL_DANCEX_QUOTE</Tag>
@@ -6207,7 +6207,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MERCHANTS_HELP</Tag>
-			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Harmandir Sahib[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Grand Canal[ENDCOLOR] Wonders.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Reformation[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Harmandir Sahib[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Grand Canal[ENDCOLOR] Wonders.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Reformation[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MERCHANTS_QUOTE</Tag>
@@ -6505,7 +6505,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MARXISMX_HELP</Tag>
-			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Communist Manifesto[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 [ICON_TOURISM] Tourism to every [COLOR_POSITIVE_TEXT]Landmark improvement[ENDCOLOR].[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Communism[ENDCOLOR]</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Communist Manifesto[ENDCOLOR] Wonder.[NEWLINE]Add yields +1 [ICON_TOURISM] Tourism to every [COLOR_POSITIVE_TEXT]Landmark improvement[ENDCOLOR].[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Communism[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MARXISMX_QUOTE</Tag>
@@ -6524,7 +6524,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TECHNOCRACYX_HELP</Tag>
-			<Text>Add yields +2 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Academy[ENDCOLOR] and allows construction of the[COLOR_POSITIVE_TEXT]Analytical Engine[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Technocracy[ENDCOLOR]</Text>
+			<Text>Add yields +2 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Academy[ENDCOLOR] and allows construction of the[COLOR_POSITIVE_TEXT]Analytical Engine[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Technocracy[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TECHNOCRACYX_QUOTE</Tag>
@@ -6602,7 +6602,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_INFERNAL_COMBUSTIONX_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]SS Engine[ENDCOLOR] Unit.[NEWLINE]Add yields +2 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Manufactory[ENDCOLOR] improvement.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]SS Engine[ENDCOLOR] Unit.[NEWLINE]Add yields +2 [ICON_GOLDEN_AGE] Golden Age Points to every [COLOR_POSITIVE_TEXT]Manufactory[ENDCOLOR] improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_INFERNAL_COMBUSTIONX_QUOTE</Tag>
@@ -6643,7 +6643,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_QUANTUM_PHYSICS_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Place Science Wing[ENDCOLOR] National Wonder.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Place Science Wing[ENDCOLOR] National Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_QUANTUM_PHYSICS_QUOTE</Tag>
@@ -6680,7 +6680,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_EXPEDITIONARY_SCIENCEX_HELP</Tag>
-			<Text>Allowes constrcution of the [COLOR_POSITIVE_TEXT]Power Plant[ENDCOLOR] Upgrade Building.</Text>
+			<Text>Allows constrcution of the [COLOR_POSITIVE_TEXT]Power Plant[ENDCOLOR] Upgrade Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_EXPEDITIONARY_SCIENCEX_QUOTE</Tag>
@@ -6699,7 +6699,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBTERRANEAN_EXPLORATIONX_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Subterranean Outpost[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Subterranean Colony[ENDCOLOR] Buildings.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Subterranean Outpost[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Subterranean Colony[ENDCOLOR] Buildings.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBTERRANEAN_EXPLORATIONX_QUOTE</Tag>
@@ -6739,7 +6739,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SPECIALIZED_TRAININGX_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]National Prison[ENDCOLOR] National Wonder Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]National Prison[ENDCOLOR] National Wonder Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SPECIALIZED_TRAININGX_QUOTE</Tag>
@@ -6761,7 +6761,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBMARINE_WARFAREX_HELP</Tag>
-			<Text>Allowes the construction of the mighty [COLOR_POSITIVE_TEXT]Nuclear Submarine[ENDCOLOR] Unit.</Text>
+			<Text>Allows the construction of the mighty [COLOR_POSITIVE_TEXT]Nuclear Submarine[ENDCOLOR] Unit.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBMARINE_WARFAREX_QUOTE</Tag>
@@ -6782,7 +6782,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIAL_PSYCHOLOGY_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Hologram Theater[ENDCOLOR] Building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Hologram Theater[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SOCIAL_PSYCHOLOGY_QUOTE</Tag>
@@ -6821,7 +6821,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PRE_SENTIENT_ALGORITHMS_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Virtual World[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Hunter Seeker Algorithm[ENDCOLOR] Wonders.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Virtual World[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Hunter Seeker Algorithm[ENDCOLOR] Wonders.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PRE_SENTIENT_ALGORITHMS_QUOTE</Tag>
@@ -6883,7 +6883,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_DATA_ENCRPYTION_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Nethack Terminus[ENDCOLOR] Wonder.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Nethack Terminus[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_DATA_ENCRPYTION_QUOTE</Tag>
@@ -6903,7 +6903,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NEURAL_GRAFTING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Genejack Factory[ENDCOLOR] Building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Genejack Factory[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NEURAL_GRAFTING_QUOTE</Tag>
@@ -6996,7 +6996,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BEAMEN_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Teleporter[ENDCOLOR] Building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Teleporter[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BEAMEN_QUOTE</Tag>
@@ -7037,7 +7037,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FUEL_CELLS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Brennzelle[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Brennzelle[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FUEL_CELLS_QUOTE</Tag>
@@ -7056,7 +7056,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HIGH_ENERGY_CHEMISTRY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Planetary Engery Grid[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Planetary Engery Grid[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HIGH_ENERGY_CHEMISTRY_QUOTE</Tag>
@@ -7095,7 +7095,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NANOMINIATURIZATION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Nanohospital[ENDCOLOR] Buildding.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Nanohospital[ENDCOLOR] Buildding.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NANOMINIATURIZATION_QUOTE</Tag>
@@ -7131,7 +7131,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUPER_TENSILE_SOLIDS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Orbital Defense Pod[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Orbital Defense Pod[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUPER_TENSILE_SOLIDS_QUOTE</Tag>
@@ -7321,7 +7321,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AUTOMATAX_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Eifel Tower[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Military Base[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Eifel Tower[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Military Base[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AUTOMATAX_QUOTE</Tag>
@@ -7341,7 +7341,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PROPULSIONX_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Bayerwerk[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]River Port[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Bayerwerk[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]River Port[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PROPULSIONX_QUOTE</Tag>
@@ -7359,7 +7359,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LANDSHIPSX_HELP</Tag>
-			<Text>Allowes the training of the powerfull [COLOR_POSITIVE_TEXT]Ironclad Landship[ENDCOLOR] Unit.</Text>
+			<Text>Allows the training of the powerfull [COLOR_POSITIVE_TEXT]Ironclad Landship[ENDCOLOR] Unit.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LANDSHIPSX_QUOTE</Tag>
@@ -7377,7 +7377,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_DEEP_DRILLING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Deep Titanium Mine[ENDCOLOR] Building.[NEWLINE]Add yields +1 [ICON_GOLD] Gold to every worked Mountain.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Deep Titanium Mine[ENDCOLOR] Building.[NEWLINE]Add yields +1 [ICON_GOLD] Gold to every worked Mountain.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_DEEP_DRILLING_QUOTE</Tag>
@@ -7395,7 +7395,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TRIBE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Guyaju Caves[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Laborer Hutt[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Guyaju Caves[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Laborer Hut[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TRIBE_QUOTE</Tag>
@@ -7414,7 +7414,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH1_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Outpost[ENDCOLOR] Improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Outpost[ENDCOLOR] Improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH1_QUOTE</Tag>
@@ -7432,7 +7432,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH2_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Slave Market[ENDCOLOR] Improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Slave Market[ENDCOLOR] Improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH2_QUOTE</Tag>
@@ -7468,7 +7468,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH5_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Feitoria[ENDCOLOR] Improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Feitoria[ENDCOLOR] Improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH5_QUOTE</Tag>
@@ -7486,7 +7486,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH6_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Wajo[ENDCOLOR] Improvement.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Wajo[ENDCOLOR] Improvement.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH6_QUOTE</Tag>
@@ -7522,7 +7522,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH4_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Temple[ENDCOLOR] Improvement</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Temple[ENDCOLOR] Improvement</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CTTPDUMMYTECH4_QUOTE</Tag>
@@ -7560,7 +7560,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AXT_HELP</Tag>
-			<Text>[NEWLINE][NEWLINE]Allowes the construction of the [COLOR_POSITIVE_TEXT]Axe Maker[ENDCOLOR] Building, what is required to train the mightly [COLOR_POSITIVE_TEXT]Axe Man[ENDCOLOR] [ICON_SILVER_FIST] Unit.</Text>
+			<Text>[NEWLINE][NEWLINE]Allows the construction of the [COLOR_POSITIVE_TEXT]Axe Maker[ENDCOLOR] Building, what is required to train the mightly [COLOR_POSITIVE_TEXT]Axe Man[ENDCOLOR] [ICON_SILVER_FIST] Unit.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AXT_QUOTE</Tag>
@@ -7941,7 +7941,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ARISTOCRACYX_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Great Hall[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Aristocracy[ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Great Hall[ENDCOLOR] National Wonder.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Aristocracy[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ARISTOCRACYX_QUOTE</Tag>
@@ -7961,7 +7961,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COMMERCE_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Merchant Hall[ENDCOLOR] Building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Merchant Hall[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COMMERCE_QUOTE</Tag>
@@ -7980,7 +7980,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PATRONAGEX_HELP</Tag>
-			<Text>You can now construct the [COLOR_POSITIVE_TEXT]Refugium[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Patronage[ENDCOLOR] .</Text>
+			<Text>You can now construct the [COLOR_POSITIVE_TEXT]Refugium[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Patronage[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PATRONAGEX_QUOTE</Tag>
@@ -7998,7 +7998,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FOREST_FARMING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Forest Gardener[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Jungle Gardener[ENDCOLOR] Buildings.[NEWLINE][NEWLINE]Add yields +1 [ICON_FOOD] to every [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] tile.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Forest Gardener[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Jungle Gardener[ENDCOLOR] Buildings.[NEWLINE][NEWLINE]Add yields +1 [ICON_FOOD] to every [COLOR_POSITIVE_TEXT]Forest[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Jungle[ENDCOLOR] tile.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_FOREST_FARMING_QUOTE</Tag>
@@ -8017,7 +8017,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NIMROD_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Nimrod[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Nimrod[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NIMROD_QUOTE</Tag>
@@ -8036,7 +8036,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HEALING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Healer[ENDCOLOR] Building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Healer[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HEALING_QUOTE</Tag>
@@ -8278,7 +8278,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SURVIVAL_HELP</Tag>
-			<Text>Reveals [COLOR_POSITIVE_TEXT]Sugar[ENDCOLOR][ICON_RES_SUGAR] on the map.[NEWLINE][NEWLINE]Add yields +1 [ICON_GOLD] Gold to every [COLOR_POSITIVE_TEXT]Coast[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Desert[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Snow[ENDCOLOR] tile.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Survival[ENDCOLOR] .</Text>
+			<Text>Reveals [COLOR_POSITIVE_TEXT]Sugar[ENDCOLOR][ICON_RES_SUGAR] on the map.[NEWLINE][NEWLINE]Add yields +1 [ICON_GOLD] Gold to every [COLOR_POSITIVE_TEXT]Coast[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Desert[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Snow[ENDCOLOR] tile.[NEWLINE]Increase [ICON_CRIME] Crime by +2.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Survival[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SURVIVAL_QUOTE</Tag>
@@ -8314,7 +8314,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SMELTING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Acrortiri[ENDCOLOR] Wonder.[NEWLINE]Unfeatures [COLOR_YELLOW]Hills[ENDCOLOR] gain yield +1 [ICON_GOLD] Gold.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Acrortiri[ENDCOLOR] Wonder.[NEWLINE]Unfeatures [COLOR_YELLOW]Hills[ENDCOLOR] gain yield +1 [ICON_GOLD] Gold.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SMELTING_QUOTE</Tag>
@@ -8332,7 +8332,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ORGANIC_FARMING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Milk Farm[ENDCOLOR] Building.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Milk Farm[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ORGANIC_FARMING_QUOTE</Tag>
@@ -8351,7 +8351,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PIETY_HELP</Tag>
-			<Text>You can now construct the [COLOR_POSITIVE_TEXT]Ellora Caves[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Shrine[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Piety[ENDCOLOR] .</Text>
+			<Text>You can now construct the [COLOR_POSITIVE_TEXT]Ellora Caves[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Shrine[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Piety[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PIETY_QUOTE</Tag>
@@ -8371,7 +8371,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TOTAL_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Palace of Culture and Science[ENDCOLOR] .[NEWLINE]Increase [ICON_ORDER] Order by +3.[NEWLINE][NEWLINE]You can now open the [ICON_CULTURE] Social Policy Branches [COLOR_POSITIVE_TEXT]Anarchy[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Totalitarianism[ENDCOLOR]</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Palace of Culture and Science[ENDCOLOR] .[NEWLINE]Increase [ICON_ORDER] Order by +3.[NEWLINE][NEWLINE]You can now open the [ICON_CULTURE] Social Policy Branches [COLOR_POSITIVE_TEXT]Anarchy[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Totalitarianism[ENDCOLOR]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TOTAL_QUOTE</Tag>
@@ -8612,7 +8612,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RECYCLING_HELP</Tag>
-			<Text>Allowes construction of the [COLOR_POSITIVE_TEXT]Recycling Center[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Recycling Plant[ENDCOLOR] Buildings.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Recycling Center[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Recycling Plant[ENDCOLOR] Buildings.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RECYCLING_QUOTE</Tag>
@@ -8894,7 +8894,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_VIRTUALSOCIETY_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Imaginarium[ENDCOLOR] and [COLOR_POSITIVE_TEXT]E Vote[ENDCOLOR]Building.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Virtual Democracy[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Imaginarium[ENDCOLOR] and [COLOR_POSITIVE_TEXT]E Vote[ENDCOLOR]Building.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Virtual Democracy[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_VIRTUALSOCIETY_QUOTE</Tag>
@@ -9479,7 +9479,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_REPRESENTATIVE_DEMOCRACY_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Westminster Abbey[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Democracy Hall[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Democracy[ENDCOLOR] .</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Westminster Abbey[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Democracy Hall[ENDCOLOR] Building.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Democracy[ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_REPRESENTATIVE_DEMOCRACY_QUOTE</Tag>
@@ -9498,7 +9498,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BOTANY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Botanic Garden[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Botanic Garden[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BOTANY_QUOTE</Tag>
@@ -9516,7 +9516,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CHIEFTAIN_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Dwarfie Stane[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Dwarfie Stane[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CHIEFTAIN_QUOTE</Tag>
@@ -9534,7 +9534,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LEV_TANKS_HELP</Tag>
-			<Text>Allowes the training of the [COLOR_POSITIVE_TEXT]Lev Tank[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Lev Destroyer[ENDCOLOR] [ICON_SILVER_FIST] Units.</Text>
+			<Text>Allows the training of the [COLOR_POSITIVE_TEXT]Lev Tank[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Lev Destroyer[ENDCOLOR] [ICON_SILVER_FIST] Units.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LEV_TANKS_QUOTE</Tag>
@@ -9555,7 +9555,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COUNTERCULTURE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Berlin Wall[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Berlin Wall[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COUNTERCULTURE_QUOTE</Tag>
@@ -9573,7 +9573,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PESTICIDES_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT][ENDCOLOR] .[NEWLINE][NEWLINE]Increase [ICON_PLAGUE] Plague by +2.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT][ENDCOLOR] .[NEWLINE][NEWLINE]Increase [ICON_PLAGUE] Plague by +2.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PESTICIDES_QUOTE</Tag>
@@ -9592,7 +9592,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SINGULARITY_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT][ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT][ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SINGULARITY_QUOTE</Tag>
@@ -9610,7 +9610,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_INSECTROBOTICS_HELP</Tag>
-			<Text>Allowes training of the [COLOR_POSITIVE_TEXT]Drone[ENDCOLOR] [ICON_SILVER_FIST] Unit.</Text>
+			<Text>Allows training of the [COLOR_POSITIVE_TEXT]Drone[ENDCOLOR] [ICON_SILVER_FIST] Unit.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_INSECTROBOTICS_QUOTE</Tag>
@@ -9629,7 +9629,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NEURAL_UPLOADING_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Neural Uploader[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Neural Uploader[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NEURAL_UPLOADING_QUOTE</Tag>
@@ -9647,7 +9647,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GENEJURISPRUDENCE_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Clinic Immortality[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Clinic Immortality[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GENEJURISPRUDENCE_QUOTE</Tag>
@@ -9666,7 +9666,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BIG_BROTHER_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Big Brother[ENDCOLOR] National Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Big Brother[ENDCOLOR] National Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BIG_BROTHER_QUOTE</Tag>
@@ -9684,7 +9684,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_UNIFICATION_PHYSICS_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT][ENDCOLOR] .</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT][ENDCOLOR] .</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_UNIFICATION_PHYSICS_QUOTE</Tag>
@@ -9702,7 +9702,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_QUANTUM_TELEPORTATION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Quantum Teleporter[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Quantum Teleporter[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_QUANTUM_TELEPORTATION_QUOTE</Tag>
@@ -9720,7 +9720,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LIQUIDMETAL_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Resurrection Devise[ENDCOLOR] Wonder.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Resurrection Devise[ENDCOLOR] Wonder.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LIQUIDMETAL_QUOTE</Tag>
@@ -9738,7 +9738,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MODERN_SANITATION_HELP</Tag>
-			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pumping Station[ENDCOLOR] Building.</Text>
+			<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Pumping Station[ENDCOLOR] Building.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MODERN_SANITATION_QUOTE</Tag>
@@ -9799,7 +9799,7 @@
 			<Where Tag="TXT_KEY_TECH_CALCULUS_DESC" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Parthenon[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT] Palace Observatory[ENDCOLOR] Building." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Parthenon[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT] Palace Observatory[ENDCOLOR] Building." />
 			<Where Tag="TXT_KEY_TECH_CALCULUS_HELP" />
 		</Update>
 		<Update>
@@ -9852,7 +9852,7 @@
 			<Where Tag="TXT_KEY_TECH_HORSEBACK_RIDING_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Stable[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Butcher[ENDCOLOR] Buildings.[NEWLINE]You can now train the fast [COLOR_POSITIVE_TEXT]Companion Cavalary[ENDCOLOR] Unit.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Stable[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Butcher[ENDCOLOR] Buildings.[NEWLINE]You can now train the fast [COLOR_POSITIVE_TEXT]Companion Cavalary[ENDCOLOR] Unit.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route." />
 			<Where Tag="TXT_KEY_TECH_HORSEBACK_RIDING_HELP" />
 		</Update>
 		<Update>
@@ -9912,7 +9912,7 @@
 			<Where Tag="TXT_KEY_TECH_BANKING_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Grand Bazaar[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Bank[ENDCOLOR] Building.[NEWLINE]Provodes one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase [ICON_CRIME] Crime by +3." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Grand Bazaar[ENDCOLOR] Wonder and [COLOR_POSITIVE_TEXT]Bank[ENDCOLOR] Building.[NEWLINE]Provodes one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase [ICON_CRIME] Crime by +3." />
 			<Where Tag="TXT_KEY_TECH_BANKING_HELP" />
 		</Update>
 
@@ -9934,7 +9934,7 @@
 			<Where Tag="TXT_KEY_TECH_ECONOMICS_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Wall Street[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Wat Arun[ENDCOLOR] Wonders and also the [COLOR_POSITIVE_TEXT]Wealth of Nations[ENDCOLOR] National Wonder.[NEWLINE]Provides one additional [TRADE] Trade Route.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Capitalism[ENDCOLOR]" />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Wall Street[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Wat Arun[ENDCOLOR] Wonders and also the [COLOR_POSITIVE_TEXT]Wealth of Nations[ENDCOLOR] National Wonder.[NEWLINE]Provides one additional [TRADE] Trade Route.[NEWLINE][NEWLINE]Allows you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Capitalism[ENDCOLOR]" />
 			<Where Tag="TXT_KEY_TECH_ECONOMICS_HELP" />
 		</Update>
 		<Update>
@@ -9970,7 +9970,7 @@
 			<Where Tag="TXT_KEY_TECH_STEAM_POWER_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Avenue Habib Bourguiba[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Teatro Colon[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Trafalgar Square[ENDCOLOR] Wonders.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Avenue Habib Bourguiba[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Teatro Colon[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Trafalgar Square[ENDCOLOR] Wonders.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route." />
 			<Where Tag="TXT_KEY_TECH_STEAM_POWER_HELP" />
 		</Update>
 		<Update>
@@ -9978,7 +9978,7 @@
 			<Where Tag="TXT_KEY_TECH_ELECTRICITY_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Edison Lab[ENDCOLOR] Wonder and reveals [ICON_ALUMINUM] Aluminum and [ICON_POWER3] Electricity." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Edison Lab[ENDCOLOR] Wonder and reveals [ICON_ALUMINUM] Aluminum and [ICON_POWER3] Electricity." />
 			<Where Tag="TXT_KEY_TECH_ELECTRICITY_HELP" />
 		</Update>
 		<Update>
@@ -9986,7 +9986,7 @@
 			<Where Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes construction of the [COLOR_POSITIVE_TEXT]Statue of Liberty[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR] Building." />
+			<Set Text="Allows construction of the [COLOR_POSITIVE_TEXT]Statue of Liberty[ENDCOLOR] Wonder and the [COLOR_POSITIVE_TEXT]Arsenal[ENDCOLOR] Building." />
 			<Where Tag="TXT_KEY_TECH_REPLACEABLE_PARTS_HELP" />
 		</Update>
 		<Update>
@@ -9998,7 +9998,7 @@
 			<Where Tag="TXT_KEY_TECH_DYNAMITE_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Mount Rushmore[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Metropolition Museum of Art[ENDCOLOR] Wonders.[NEWLINE]You can now train the [COLOR_POSITIVE_TEXT]Civil Engineer[ENDCOLOR] [ICON_WORKER] Unit.[NEWLINE]Add yields +1 [ICON_PRODUCTION] Production to every worked Mountain." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Mount Rushmore[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Metropolition Museum of Art[ENDCOLOR] Wonders.[NEWLINE]You can now train the [COLOR_POSITIVE_TEXT]Civil Engineer[ENDCOLOR] [ICON_WORKER] Unit.[NEWLINE]Add yields +1 [ICON_PRODUCTION] Production to every worked Mountain." />
 			<Where Tag="TXT_KEY_TECH_DYNAMITE_HELP" />
 		</Update>
 		<Update>
@@ -10010,7 +10010,7 @@
 			<Where Tag="TXT_KEY_TECH_TELEGRAPH_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Escadaria Selaron[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Rijksmuseum[ENDCOLOR] Wonders and the [COLOR_POSITIVE_TEXT]Telegraph[ENDCOLOR] Building." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Escadaria Selaron[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Rijksmuseum[ENDCOLOR] Wonders and the [COLOR_POSITIVE_TEXT]Telegraph[ENDCOLOR] Building." />
 			<Where Tag="TXT_KEY_TECH_TELEGRAPH_HELP" />
 		</Update>
 		<Update>
@@ -10038,7 +10038,7 @@
 			<Where Tag="TXT_KEY_TECH_ELECTRONICS_TITLE" />
 		</Update>
 		<Update>
-			<Set Text="Allowes the construction of the [COLOR_POSITIVE_TEXT]Pearl Monument[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Freedom Tower[ENDCOLOR] Wonders and the [COLOR_POSITIVE_TEXT]Semiconductor Plant[ENDCOLOR] Building." />
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Pearl Monument[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Freedom Tower[ENDCOLOR] Wonders and the [COLOR_POSITIVE_TEXT]Semiconductor Plant[ENDCOLOR] Building." />
 			<Where Tag="TXT_KEY_TECH_ELECTRONICS_HELP" />
 		</Update>
 		<Update>
