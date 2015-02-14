@@ -24,7 +24,6 @@ local m_PriestIM = InstanceManager:new( "GPInstance", "Root", Controls.PriestSta
 local m_IntellectualIM = InstanceManager:new( "GPInstance", "Root", Controls.IntellectualStack );
 local m_LaborerIM = InstanceManager:new( "GPInstance", "Root", Controls.LaborerStack );
 local m_EnvironmentIM = InstanceManager:new( "GPInstance", "Root", Controls.EnvironmentStack );
-local m_IntellectualM = InstanceManager:new( "GPInstance", "Root", Controls.IntellectualStack );
 local m_DoctorIM = InstanceManager:new( "GPInstance", "Root", Controls.DoctorStack );
 local m_TranscendIM = InstanceManager:new( "GPInstance", "Root", Controls.TranscendStack );
 -------------------------------------------------

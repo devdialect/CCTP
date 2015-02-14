@@ -85,57 +85,59 @@ function GiveCapitalBuildingsOnCapitalMove(oldPlayerID, bCapital, iX, iY, newPla
 	end
 	---------------------------------
 	-- If the new player just recovered their capital, they will need to have their buildings moved
-	if(newPlayer:GetCapitalCity():GetID() == city:GetID()) then
-		-- Build a list of all capital only buildings they could have
-		for row in GameInfo.Policy_PGB_FreeBuildingClassCapital() do
-			if(newPlayer:HasPolicy(GameInfoTypes[row.PolicyType]) and not newPlayer:IsPolicyBlocked(GameInfoTypes[row.PolicyType])) then
-				capitalOnlyBuildings[row.BuildingClassType] = true;
+	if(newPlayer ~= nil and newPlayer:GetCapitalCity() ~= nil and city ~= nil and city:GetID() ~= nil) then
+		if(newPlayer:GetCapitalCity():GetID() == city:GetID()) then
+			-- Build a list of all capital only buildings they could have
+			for row in GameInfo.Policy_PGB_FreeBuildingClassCapital() do
+				if(newPlayer:HasPolicy(GameInfoTypes[row.PolicyType]) and not newPlayer:IsPolicyBlocked(GameInfoTypes[row.PolicyType])) then
+					capitalOnlyBuildings[row.BuildingClassType] = true;
+				end
 			end
-		end
 
-		-- Remove all the capital only buildings from non-capital cities
-		for cityToRemove in newPlayer:Cities() do
-			if(cityToRemove:GetID() ~= city:GetID()) then
-				-- Remove the buildings in the list
-				for k,v in pairs(capitalOnlyBuildings) do
-					building = GetBuildingTypeFromClass(k, newPlayer:GetCivilizationType());
-					if(building ~= nil and building ~= "") then
-						buildingID = GameInfoTypes[building];
+			-- Remove all the capital only buildings from non-capital cities
+			for cityToRemove in newPlayer:Cities() do
+				if(cityToRemove:GetID() ~= city:GetID()) then
+					-- Remove the buildings in the list
+					for k,v in pairs(capitalOnlyBuildings) do
+						building = GetBuildingTypeFromClass(k, newPlayer:GetCivilizationType());
+						if(building ~= nil and building ~= "") then
+							buildingID = GameInfoTypes[building];
 
-						-- If the city has the building, remove it
-						if(cityToRemove:IsHasBuilding(buildingID)) then
-							-- Remove any specialists from the building
-							if(city:GetNumSpecialistsInBuilding(buildingID) > 0) then
-								local numSpecialists = city:GetNumSpecialistsInBuilding(buildingID);
-								local isNoAutoAssign = city:IsNoAutoAssignSpecialists();
-
-								city:DoTask(TaskTypes.TASK_NO_AUTO_ASSIGN_SPECIALISTS, 0, 0, 1); -- Turn on manual specialist control
-
-								for i = city:GetNumSpecialistsInBuilding(buildingID), 0, -1 do
-									city:DoTask(TaskTypes.TASK_REMOVE_SPECIALIST, 1, buildingID, newPlayerID);
-								end
-								-- Error check
+							-- If the city has the building, remove it
+							if(cityToRemove:IsHasBuilding(buildingID)) then
+								-- Remove any specialists from the building
 								if(city:GetNumSpecialistsInBuilding(buildingID) > 0) then
-									print("WARN -- Failed to remove all specialists from " .. tostring(GameInfoTypes[buildingID]) .. " in " .. tostring(city:GetName()) .. "!  The Citizens data will become malformed when the building is removed!");
+									local numSpecialists = city:GetNumSpecialistsInBuilding(buildingID);
+									local isNoAutoAssign = city:IsNoAutoAssignSpecialists();
+
+									city:DoTask(TaskTypes.TASK_NO_AUTO_ASSIGN_SPECIALISTS, 0, 0, 1); -- Turn on manual specialist control
+
+									for i = city:GetNumSpecialistsInBuilding(buildingID), 0, -1 do
+										city:DoTask(TaskTypes.TASK_REMOVE_SPECIALIST, 1, buildingID, newPlayerID);
+									end
+									-- Error check
+									if(city:GetNumSpecialistsInBuilding(buildingID) > 0) then
+										print("WARN -- Failed to remove all specialists from " .. tostring(GameInfoTypes[buildingID]) .. " in " .. tostring(city:GetName()) .. "!  The Citizens data will become malformed when the building is removed!");
+									end
+									-- Restore AutoAssign Specialist if it was enabled
+									if(not isNoAutoAssign) then
+										city:DoTask(TaskTypes.TASK_NO_AUTO_ASSIGN_SPECIALISTS, 0, 0, 0); -- Turn off manual specialist control
+									end
 								end
-								-- Restore AutoAssign Specialist if it was enabled
-								if(not isNoAutoAssign) then
-									city:DoTask(TaskTypes.TASK_NO_AUTO_ASSIGN_SPECIALISTS, 0, 0, 0); -- Turn off manual specialist control
-								end
+								-- Remove the building
+								cityToRemove:SetNumRealBuilding(buildingID, 0);
 							end
-							-- Remove the building
-							cityToRemove:SetNumRealBuilding(buildingID, 0);
 						end
 					end
 				end
 			end
-		end
 
-		-- Add the capital only buildings to the player's new capital
-		for k,v in pairs(capitalOnlyBuildings) do
-			building = GetBuildingTypeFromClass(k, newPlayer:GetCivilizationType());
-			if(building ~= nil and building ~= "") then
-				city:SetNumRealBuilding(GameInfoTypes[building], 1);
+			-- Add the capital only buildings to the player's new capital
+			for k,v in pairs(capitalOnlyBuildings) do
+				building = GetBuildingTypeFromClass(k, newPlayer:GetCivilizationType());
+				if(building ~= nil and building ~= "") then
+					city:SetNumRealBuilding(GameInfoTypes[building], 1);
+				end
 			end
 		end
 	end

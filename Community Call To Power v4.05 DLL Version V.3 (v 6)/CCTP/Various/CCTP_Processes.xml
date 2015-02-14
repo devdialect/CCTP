@@ -113,17 +113,17 @@
 		<Text>Provides a Gold and Science boost.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_PROCESS_CREATION_HELP">
-		<Text>Allowes to transform 15% of the [ICON_PRODUCTION] Production output of the city into [ICON_GOLD] Gold and 5% into [ICON_RESEARCH] Science</Text>
+		<Text>Allowes the transformation of 15% of the [ICON_PRODUCTION] Production output of city into [ICON_GOLD] Gold and of 5% into [ICON_RESEARCH] Science</Text>
 	</Row>
 		<!--HEALING-->
 		<Row Tag="TXT_KEY_PROCESS_HEALING">
 			<Text>Healing</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROCESS_HEALING_STRATEGY">
-			<Text>Provides a Healtj boost.</Text>
+			<Text>Provides a Health boost.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROCESS_HEALING_HELP">
-			<Text>Provides +5 [ICON_HEALTH] HEalth</Text>
+			<Text>Provides +5 [ICON_HEALTH] Health</Text>
 		</Row>
 	</Language_en_US>
   <!--Have a nice Day:=)-->

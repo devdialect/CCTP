@@ -1987,7 +1987,6 @@
 			<MaxStartEra>ERA_INDUSTRIAL</MaxStartEra>
 			<SpecialistType>SPECIALIST_JUDGE</SpecialistType>
 			<SpecialistCount>1</SpecialistCount>
-			<GreatPeopleRateChange>2</GreatPeopleRateChange>
 			<NukeImmune>true</NukeImmune>
 			<HurryCostModifier>-1</HurryCostModifier>
 			<MinAreaSize>-1</MinAreaSize>

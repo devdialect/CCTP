@@ -8636,7 +8636,7 @@
 		
 		<!--***|Next|***-->
 		<Update>
-			<Set Text="Courthouse [ICON_ODER]" />
+			<Set Text="Courthouse [ICON_ORDER]" />
 			<Where Tag="TXT_KEY_BUILDING_COURTHOUSE" />
 		</Update>
 		

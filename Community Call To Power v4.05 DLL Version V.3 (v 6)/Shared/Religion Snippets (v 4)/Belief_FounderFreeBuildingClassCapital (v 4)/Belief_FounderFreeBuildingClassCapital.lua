@@ -43,17 +43,19 @@ function GiveBeliefBuildingCapitalMove(oldPlayerID, bCapital, iX, iY, newPlayerI
 	end
 	---------------------------------
 	-- If the new player just recovered their capital, they will need to have their buildings moved
-	if(newPlayer:GetCapitalCity():GetID() == city:GetID() and newPlayerReligion > 0) then
-		for row in GameInfo.Belief_FounderFreeBuildingClassCapital() do
-			if(ReligionHasBelief(newPlayerReligion, GameInfoTypes[row.BeliefType])) then
-				buildingType = GetBuildingTypeFromClass(row.BuildingClassType, newPlayer:GetCivilizationType());
-				if(buildingType ~= nil and buildingType ~= "") then
-					-- Remove capital only buildings from the new player's cities
-					for cityToRemove in newPlayer:Cities() do
-						cityToRemove:SetNumRealBuilding(GameInfoTypes[buildingType], 0);
+	if(newPlayer ~= nil and newPlayer:GetCapitalCity() ~= nil and city ~= nil and city:GetID() ~= nil) then
+		if(newPlayer:GetCapitalCity():GetID() == city:GetID() and newPlayerReligion > 0) then
+			for row in GameInfo.Belief_FounderFreeBuildingClassCapital() do
+				if(ReligionHasBelief(newPlayerReligion, GameInfoTypes[row.BeliefType])) then
+					buildingType = GetBuildingTypeFromClass(row.BuildingClassType, newPlayer:GetCivilizationType());
+					if(buildingType ~= nil and buildingType ~= "") then
+						-- Remove capital only buildings from the new player's cities
+						for cityToRemove in newPlayer:Cities() do
+							cityToRemove:SetNumRealBuilding(GameInfoTypes[buildingType], 0);
+						end
+						-- Add back the capital-only buildings
+						city:SetNumRealBuilding(GameInfoTypes[buildingType], 1);
 					end
-					-- Add back the capital-only buildings
-					city:SetNumRealBuilding(GameInfoTypes[buildingType], 1);
 				end
 			end
 		end

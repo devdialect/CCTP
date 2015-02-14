@@ -210,7 +210,7 @@
 			<Where Type="BUILDING_WORKSHOP"/>
 		</Update>
 		<Update>
-			<Set GoldMaintenance="0" Cost="540" ConquestProb="50" FoodKept="10" River="True" SpecialistType="SPECIALIST_ENGINEER" GreatPeopleRateChange="0" PrereqTech="TECH_SANITARY_ENGINEERING"/>
+			<Set GoldMaintenance="0" Cost="540" ConquestProb="50" FoodKept="10" River="False" FreshWater="False" SpecialistType="SPECIALIST_ENGINEER" GreatPeopleRateChange="0" PrereqTech="TECH_SANITARY_ENGINEERING"/>
 			<Where Type="BUILDING_AQUEDUCT" />
 		</Update>
 		<Update>
@@ -251,7 +251,7 @@
 			<Where Type="BUILDING_COLOSSEUM"/>
 		</Update>
 		<Update>
-			<Set Cost="380" PrereqTech="TECH_CODE_OF_LAWS" GoldMaintenance="6" SpecialistType="SPECIALIST_JUDGE" SpecialistCount="1" GreatPeopleRateChange="2"/>
+			<Set Cost="380" PrereqTech="TECH_CODE_OF_LAWS" GoldMaintenance="6" SpecialistType="SPECIALIST_JUDGE" SpecialistCount="1" GreatPeopleRateChange="0"/>
 			<Where Type="BUILDING_COURTHOUSE"/>
 		</Update>
 		<Update>

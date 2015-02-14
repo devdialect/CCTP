@@ -996,7 +996,7 @@
 		</Row>
 		<Row>
 			<PolicyType>POLICY_CCTP39</PolicyType>
-			<PrereqPolicy>POLICY_CCTP295</PrereqPolicy>
+			<PrereqPolicy>POLICY_REFORMATION</PrereqPolicy>
 		</Row>
 		<Row>
 			<PolicyType>POLICY_CCTP17</PolicyType>
@@ -1005,10 +1005,6 @@
 		<Row>
 			<PolicyType>POLICY_CCTP54</PolicyType>
 			<PrereqPolicy>POLICY_CCTP17</PrereqPolicy>
-		</Row>
-		<Row>
-			<PolicyType>POLICY_CCTP39</PolicyType>
-			<PrereqPolicy>POLICY_CCTP15</PrereqPolicy>
 		</Row>
 		<Row>
 			<PolicyType>POLICY_CCTP54</PolicyType>

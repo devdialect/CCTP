@@ -133,10 +133,10 @@
 			<Text>PSI Gate</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_PSI_TEXT">
-			<Text>upps</Text>
+			<Text>A massive upload terminal for transferring human consciousness.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_IMPROVEMENT_PSI_HELP">
-			<Text>upps</Text>
+			<Text>Generates golden age points for surrounding tiles</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_PSI">
 			<Text>Build PSI Gate</Text>
