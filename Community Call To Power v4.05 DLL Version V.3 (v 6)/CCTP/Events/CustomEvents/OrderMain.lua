@@ -51,7 +51,7 @@ function DoLowCrime(pPlayer, pCity, iCityOrder)
 	local randDie = Game.Rand(200, "Rand Die");
 
 	if iLCChance > randDie then
-		local iPilfer = math.random(5, 25);
+		local iPilfer = pPlayer:GetGold() / math.random(7, 10);
 		local crimeChoice = math.random(1, 3)
 		print("crime", crimeChoice)
 		local pGetResource,
@@ -88,7 +88,7 @@ function DoMedCrime(pPlayer, pCity, iCityOrder)
 	local randDie = Game.Rand(200, "Rand Die");
 
 	if iLCChance < randDie then
-		local iPilfer = math.random(20, 50);
+		local iPilfer = pPlayer:GetGold() / math.random(5, 7);
 		local crimeChoice = math.random(1, 5)
 		print("crime", crimeChoice)
 		local pGetResource,
@@ -151,7 +151,7 @@ function DoHighCrime(pPlayer, pCity, iCityOrder)
 		end
 	end
 	if iLCChance < randDie then
-		local iPilfer = math.random(40, 100);
+		local iPilfer = pPlayer:GetGold() / math.random(2, 3);
 		local crimeChoice = math.random(1, 7)
 		print("crime", crimeChoice)
 		local pGetResource,
