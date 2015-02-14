@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_MECH_INFANTRY</Type>
+			<Description>TXT_KEY_UNIT_MECH_INFANTRY</Description>
+			<DefaultUnit>UNIT_MECH_INFANTRY</DefaultUnit>
+		</Row>
+	</UnitClasses>
+
+	<Units>
+		<Row>
+			<Class>UNITCLASS_MECH_INFANTRY</Class>
+			<Type>UNIT_MECH_INFANTRY</Type>
+			<PrereqTech>TECH_PARTICLE_PHYSICS</PrereqTech>
+			<Combat>120</Combat>
+			<Cost>650</Cost>
+			<FaithCost>875</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MECH_INFANTRY</Description>
+			<Civilopedia>TXT_KEY_CIV5_MODERN_MECHINFANTRY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MECH_INFANTRY_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_MECH_INFANTRY</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<AdvancedStartCost>70</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_MECH_INFANTRY</UnitArtInfo>
+      <UnitFlagAtlas>UNITS_MECHINF_FLAG_ATLAS</UnitFlagAtlas>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>UNITS_MECHINF_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<MoveRate>ROBOT</MoveRate>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_MECHANIZED_INFANTRY</UnitType>
+			<UnitClassType>UNITCLASS_MECH_INFANTRY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_MECH_INFANTRY</UnitType>
+			<SelectionSound>AS2D_SELECT_MECH</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_MECH</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_MECH_INFANTRY">
+			<Text>Mech Infantry</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MECH_INFANTRY">
+			<Text>Fast, power-suited infantry of the Late-Modern Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MECH_INFANTRY_STRATEGY">
+			<Text>The "mech" is a personal power-suit for the modern infantry man. It has a shockingly high Combat Strength, allowing them to stomp virtually any unit they meet into a thin smear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MODERN_MECHINFANTRY_HEADING">
+			<Text>Mech Infantry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MODERN_MECHINFANTRY_TEXT">
+			<Text>The "mech" is a bipedal mechanical power-suit armed with a variety of RPGs, semi-automatic guns, night- and heat- vision "eyes", etc. Although not currently found on the modern battlefield, no doubt across the world governments and evil corporations are secretly developing these advancements in "personal survival suits" even as we speak.</Text>
+		</Row>
+	</Language_en_US>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_MECH_INFANTRY</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+</GameData>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/21/2014 10:31:33 PM -->
+<GameData>
+  
+<!--*****Improvement_TechFreshWaterYieldChanges*****-->
+<Improvement_TechFreshWaterYieldChanges>
+<Delete ImprovementType="IMPROVEMENT_FARM" TechType="TECH_CIVIL_SERVICE" YieldType="YIELD_FOOD" Yield="1" />
+
+<Row>
+	<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+	<TechType>TECH_CHEMICAL_REVOLUTION</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+	<TechType>TECH_AGRICULTURAL_ENGINEERING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_POLDER</ImprovementType>
+	<TechType>TECH_CHEMICAL_REVOLUTION</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TERRACE_FARM</ImprovementType>
+	<TechType>TECH_CHEMICAL_REVOLUTION</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+	<TechType>TECH_BIOLOGICAL_SYNTHESIS</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_POLDER</ImprovementType>
+	<TechType>TECH_BIOLOGICAL_SYNTHESIS</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TERRACE_FARM</ImprovementType>
+	<TechType>TECH_BIOLOGICAL_SYNTHESIS</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+	<!---->
+<Row>
+	<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+	<TechType>TECH_CRAFTSMAN</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!---->
+<Row>
+	<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+	<TechType>TECH_NOBLESSE_OBLIGE</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>2</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TIPI</ImprovementType>
+	<TechType>TECH_FRESHWATER</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+	<TechType>TECH_AQUAPONICS</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+	<TechType>TECH_AQUAPONICS</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+	<TechType>TECH_CONSTRUCTION</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+	<TechType>TECH_AQUAPONICS</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Improvement_TechFreshWaterYieldChanges>
+
+	
+
+</GameData>
+<!--Have a nice Day;=)-->

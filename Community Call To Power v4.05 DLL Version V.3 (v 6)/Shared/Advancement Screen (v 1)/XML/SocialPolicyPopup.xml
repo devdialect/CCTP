@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Social Policy and Ideology Screen -->
+<!-- Author: Eric "Jheral" Lindroth -->
+<Context ColorSet="Beige_Black_Alpha" Font="TwCenMT16" FontStyle="Shadow">
+	<!-- Social Policy Screen Size="1024,768" -->
+	<Box Style="BGBlock_ClearTopBar" ID="BGBlock"/>
+	<!-- Instances -->
+	<!-- Policy Tab Button Instance -->
+	<Instance Name="TabButtonInstance">
+		<Button Anchor="L,T" Size="150,24" Offset="0,0" String="" ID="TabButton">
+			<ShowOnMouseOver>
+				<AlphaAnim Anchor="L,C" Size="150,27" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+					<Grid Size="150,27" Offset="0,2" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+				</AlphaAnim>
+			</ShowOnMouseOver>
+			<!-- Selected State  -->
+			<Grid Anchor="C,C" Offset="0,1" Size="150,26" Style="Grid9FrameTurns" Hidden="1" ID="TabButtonHL"/>
+		</Button>
+	</Instance>
+
+	<!-- Policy Branch Button Instance -->
+	<Instance Name="BranchButtonInstance">
+		<Button Anchor="L,C" Size="250,38" Offset="12,6" ID="BranchButton">
+			<!-- Selected State  -->
+			<Grid Anchor="C,C" Offset="-5,-3" Size="264,48" Style="Grid9FrameTurns" Hidden="1" ID="BranchButtonHL"/>
+			<!-- The Button Itself -->
+			<Label Anchor="L,T" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="" ID="BranchLabel"/>
+			<Label Anchor="L,T" Offset="34,20" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="" ID="PolicyCountLabel"/>
+			<Label Anchor="R,T" Offset="12,4" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="" ID="BranchStatusLabel"/>
+			<ShowOnMouseOver>
+				<AlphaAnim Anchor="C,C" Size="264,48" Offset="-5,-3" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+					<Grid Anchor="C,C" Size="264,48" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+				</AlphaAnim>
+			</ShowOnMouseOver>
+			<Box Color="255,255,200,128" Size="250,1" Anchor="C,B"/>
+		</Button>
+	</Instance>
+
+	<!-- Policy Button Instance -->
+	<Instance Name="PolicyButton">
+		<GridButton Size="48,48" Anchor="L,T" Offset="0,0" Hidden="0" ID="PolicyIcon">
+			<GridData Style="Grid9FrameButtons"/>
+			<ShowOnMouseOver>
+				<Container Size="48,48" ID="MouseOverContainer">
+					<AlphaAnim Anchor="R,C" AnchorSide="O.O" Offset="-2,0" Size="16,32" TextureOffset="16.0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+					<AlphaAnim Anchor="L,C" AnchorSide="O.O" Offset="-2,0" Size="16,32" TextureOffset="0.0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+					<Image Anchor="R,C" Offset="-2,0" TextureOffset="8.0" AnchorSide="O.O" Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16"/>
+					<Image Anchor="L,C" Offset="-2,0" TextureOffset="0.0" AnchorSide="O.O" Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16"/>
+				</Container>
+			</ShowOnMouseOver>
+			<Image Anchor="C,C" Offset="0,0" TextureOffset="0,0" Size="64,64" Texture="SocialPolicies512.dds" ID="PolicyImage"/>
+		</GridButton>
+	</Instance>
+
+	<!-- Connector Pipe Instance -->
+	<Instance Name="ConnectorPipe">
+		<Image Anchor="L,T" Offset="0,0" TextureOffset="0,0" Size="19,19" ID="ConnectorImage"/>
+	</Instance>
+
+	<!-- Policy Class Button Instance -->
+	<Instance Name="PolicyClassButtonInstance">
+		<Button Anchor="L,T" Size="300,24" Offset="0,0" String="" ID="PolicyClassButton">
+			<ShowOnMouseOver>
+				<AlphaAnim Anchor="L,C" Size="300,27" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+					<Grid Size="300,27" Offset="0,2" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+				</AlphaAnim>
+			</ShowOnMouseOver>
+			<!-- Selected State  -->
+			<Grid Anchor="C,C" Offset="0,1" Size="300,26" Style="Grid9FrameTurns" Hidden="1" ID="PolicyClassButtonHL"/>
+		</Button>
+	</Instance>
+
+	<!-- Ideology Button Instance -->
+	<Instance Name="IdeologyButtonInstance">
+		<Button Anchor="L,C" Size="140,24" Offset="12,6" ID="IdeologyButton">
+			<Label Anchor="L,T" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="" ID="IdeologyLabel"/>
+			<ShowOnMouseOver>
+				<AlphaAnim Anchor="C,C" Size="154,34" Offset="-5,-3" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+					<Grid Anchor="C,C" Size="154,34" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+				</AlphaAnim>
+			</ShowOnMouseOver>
+			<Box Color="255,255,200,128" Size="154,1" Anchor="C,B"/>
+		</Button>
+	</Instance>
+
+	<!-- Tenet Stack Instance -->
+	<Instance Name="TenetStackInstance">
+		<ScrollPanel Anchor="L,T" ID="StackPanel" Vertical="1" Offset="64,0" Size="480" AutoScrollBar="0">
+			<Button Anchor="L,T" Size="360,27" Offset="0,0" Texture="CivilopediaButtons272x27.dds" ID="TenetStackButton">
+				<Label Anchor="C,C" Offset="0,0" Font="TwCenMT20" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" ID="TenetStackLabel"/>
+			</Button>
+			<Stack Anchor="L,T" Offset="0,26" StackGrowth="Bottom" Padding="0" Color="0.0.0.0" ID="TenetStack"/>
+		</ScrollPanel>
+	</Instance>
+
+	<!-- Tenet Instance -->
+	<Instance Name="TenetInstance">
+		<Button ID="TenetButton" Anchor="L,T" Size="360,24" Color="255,255,255,255" Offset="0,0" StateOffsetIncrement="0,0" ToolTip="">
+			<Box ID="Box" Anchor="L,T" Size="360,24" Color="19,32,46,120"/>
+			<ShowOnMouseOver>
+				<AlphaAnim ID="BounceAnim" Anchor="L,T" Size="374,41" Offset="-5,-3" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+					<Grid ID="BounceGrid" Size="360,30" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL"/>
+				</AlphaAnim>
+			</ShowOnMouseOver>
+			<Box Color="255,255,200,128" Size="360,1" Anchor="C,B"/>
+			<Label ID="TenetLabel" Anchor="L,C" Offset="20,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" WrapWidth="877"/>
+			<!-- Adopt Button -->
+			<GridButton Anchor="R,C" Style="SmallButton" Size="100,24" Offset="-80,0" StateOffsetIncrement="0,0" ID="TenetAdoptButton" Hidden="1">
+				<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_TENET_ADOPT" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			</GridButton>
+		</Button>
+	</Instance>
+
+	<!-- Popup Window -->
+	<Box Size="1024,768" Anchor="C,C" Offset="0,24" Color="0,0,0,0" Hidden="0">
+		<Grid Size="1005,783" Anchor="C,T" Offset="0,-5" Padding="0,0" Style="Grid9DetailFive140" ConsumeMouse="1">
+			<!-- Caption for the popup - Text at the top of the screen -->
+			<Label Style="MenuTitleCaption" String="TXT_KEY_ADVANCEMENTS_SCREEN"/>
+
+			<!-- Top Panel - Contains the different "tabs" - the different policy types -->
+			<Container Anchor="L,T" Size="970,30" Offset="18,43" ID="TopPanel" >
+				<ScrollPanel Anchor="L,T" Size="970,30" Color="0,0,0,128" ID="TabPanel" AutoScrollBar="0" Vertical="0">
+					<Stack ID="TabStack" Anchor="C,T" Size="971,24" Offset="0,0" Padding="0" StackGrowth="Right"/>
+					<Image Anchor="C,B" Offset="0,0" Texture="HorizontalTrim.dds" Size="971.5"/>
+				</ScrollPanel>
+			</Container>
+
+			<!-- Social Policy Panel -->
+			<Container Anchor="L,B" ID="PolicyStyle" Size="990,614" Hidden="1">
+				<!-- Left Sidebar - Policy Branch Buttons -->
+				<Container Anchor="L,B" Size="270,614" Offset="18,96" Padding="5,5" ID="BranchPanel" >
+					<ScrollPanel Anchor="L,T" Offset="0,0" Size="270,614" Vertical="1" ID="BranchListScrollPanel" AutoScrollBar="1" >
+						<ScrollBar Offset="0,18" Style="VertSlider" Anchor="R,t" Length="424" ID="LeftScrollBar"/>
+						<UpButton  Offset="0,0"  Style="ScrollBarUp"  Anchor="R,T" ID="LeftUpButton"/>
+						<DownButton Offset="0,0" Style="ScrollBarDown"  Anchor="R,B" ID="LeftDownButton"/>
+						<!--list of articles in this category-->
+						<Stack Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="0" ID="BranchStack" />
+						<Image Anchor="R,C" AnchorSide="o,i" Texture="VerticalTrim.dds" Size="5,614"/>
+					</ScrollPanel>
+				</Container>
+
+				<!-- Right Box - Selected Branch's Policy Tree-->
+				<Container Size="720,614" Anchor="R,B" Offset="0, 96" Padding="0,0" Color="White.0" ID="PolicyTreePanel" Hidden="1">
+					<!-- Title -->
+					<Label ID="TreePanelLabel" Anchor="C,T" Offset="0,8" String="" Font="TwCenMT20" FontStyle="Shadow" Color0="Beige.255" Color1="Black.255"/>
+					<!-- Policy Choices ScrollPanel  -->
+					<ScrollPanel Anchor="C,T" Offset="20,86" Size="720,614" Vertical="1" ID="PolicyPanel">
+						<ScrollBar Offset="-4,0" Style="VertSlider" Anchor="R,C" AnchorSide="I,I" Length="610"/>
+						<UpButton Offset="-4,-3" Style="ScrollBarUp" Anchor="R,T" AnchorSide="I,I"/>
+						<DownButton Offset="-4,-3" Style="ScrollBarDown" Anchor="R,B" AnchorSide="I,I"/>
+					</ScrollPanel>
+					<Grid Anchor="R,C" Size="196,297" Offset="50,0" Style="Grid9Frame27">
+						<Image Anchor="L,T" Offset="3,3" Texture="" MaskTexture="SocialPolicies_Rounded_MASK_190x290.dds" Size="190,290" ID="BranchImage"/>
+						<Image ID="BranchImageFade" Anchor="C,T" Offset="0,3" Size="190,290" Color="255,255,255,200" MaskTexture="SocialPolicies_Rounded_MASK_190x290.dds" Texture="Assets/UI/Art/Icons/SocialPoliciesBranchBlackMask.dds"/>
+						<Image Anchor="C,B" Offset="0,-32" Texture="IconFrame64.dds" Size="64,64">
+							<Image ID="CivIconBG" Size="64,64" Anchor="C,C" Offset="-1,-1" Texture="CivIconBGSizes.dds"/>
+							<Image ID="CivIconShadow" Size="48.48" Anchor="C,C" Offset="1,1" Texture="CivSymbolAtlas48.dds" Color="Black.128"/>
+							<Image ID="CivIcon" Size="48,48" Offset="0,0" Anchor="C,C" Texture="CivSymbolsColor512.dds"/>
+						</Image>
+						<!-- Adopt Button -->
+						<GridButton ID="AdoptBranchButton" ToolTip="" Size="170,36" Anchor="C,T" Offset="0,26" Style="BaseButton" Font="TwCenMT18" Color="255,255,255,200" String="" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128" Hidden="0">
+							<Image Anchor="R,C" Offset="0,0" Size="48,48" Texture="48Lock.dds" ID="Lock"/>
+						</GridButton>
+					</Grid>
+				</Container>
+			</Container>
+
+			<!-- Ideology Panel -->
+			<Container Anchor="L,B" ID="TenetStyle" Size="990,614" Hidden="1">
+				<!-- Left Sidebar - Ideology Buttons -->
+				<Container Anchor="L,B" Size="170,614" Offset="18,96" Padding="5,5" ID="IdeologyPanel" >
+					<ScrollPanel Anchor="L,T" Offset="0,0" Size="170,614" Vertical="1" ID="IdeologyListScrollPanel" AutoScrollBar="1" >
+						<ScrollBar Offset="0,18" Style="VertSlider" Anchor="R,t" Length="424"/>
+						<UpButton  Offset="0,0"  Style="ScrollBarUp"  Anchor="R,T"/>
+						<DownButton Offset="0,0" Style="ScrollBarDown"  Anchor="R,B"/>
+						<!--list of articles in this category-->
+						<Stack Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="0" ID="IdeologyStack" />
+						<Image Anchor="R,C" AnchorSide="o,i" Texture="VerticalTrim.dds" Size="5,614"/>
+					</ScrollPanel>
+				</Container>
+
+				<!-- Right Box - Selected Ideology's Tenets -->
+				<Container Size="820,614" Anchor="R,B" Offset="0, 96" Padding="5,5" Color="White.0" ID="TenetTreePanel" Hidden="1">
+					<CheckBox Anchor="R,T" Offset="0,0" Font="TwCenMT18" FontStyle="Shadow" Style="SquareCheck" String="TXT_KEY_TENET_SHOW_ALL" IsChecked="0" ID="ShowAllCheck"/>
+					<ScrollPanel Anchor="L,T" Offset="0,20" Size="500,594" Vertical="1" AutoScrollBar="1" ID="TenetScrollPanel">
+						<UpButton   Anchor="L,T" Offset="23,-20" Style="ScrollBarUp"/>
+						<ScrollBar  Anchor="L,T" Offset="23,-2" Length="576" Style="VertSlider"/>
+						<DownButton Anchor="L,B" Offset="23, 2" Style="ScrollBarDown"/>
+						<Stack StackGrowth="Bottom" ID="TenetWrapper" Offset="0,0" Padding="0"/>
+					</ScrollPanel>
+					<Grid Anchor="R,B" Size="196,297" Offset="50,150" Style="Grid9Frame27">
+						<Image Anchor="L,T" Offset="3,3" Texture="" MaskTexture="SocialPolicies_Rounded_MASK_190x290.dds" Size="190,290" ID="IdeologyImage"/>
+						<Image ID="BranchImageFade" Anchor="C,T" Offset="0,3" Size="190,290" Color="255,255,255,200" MaskTexture="SocialPolicies_Rounded_MASK_190x290.dds" Texture="Assets/UI/Art/Icons/SocialPoliciesBranchBlackMask.dds"/>
+						<Image Anchor="C,B" Offset="0,-32" Texture="IconFrame64.dds" Size="64,64">
+							<Image ID="TenetCivIconBG" Size="64,64" Anchor="C,C" Offset="-1,-1" Texture="CivIconBGSizes.dds"/>
+							<Image ID="TenetCivIconShadow" Size="48.48" Anchor="C,C" Offset="1,1" Texture="CivSymbolAtlas48.dds" Color="Black.128"/>
+							<Image ID="TenetCivIcon" Size="48,48" Offset="0,0" Anchor="C,C" Texture="CivSymbolsColor512.dds"/>
+						</Image>
+					</Grid>
+					<Container ID="PublicOpinionPanel" Anchor="R,B" Size="196,90" Offset="50,30" Hidden="1">
+						<Label ID="PublicOpinionHeader"				Offset="10,10" Anchor="L,T" Font="TwCenMT18" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128" String="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_HEADER" ToolTip="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_HEADER_TT"/>
+						<Box Color="255,255,200,128" Size="176,1" Offset="10,28" Anchor="L,T"/>
+						<Label ID="PublicOpinion"					Offset="10,38" Anchor="L,T" Font="TwCenMT18" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128"/>
+						<Label ID="PublicOpinionUnhappinessHeader"	Offset="10,38" Anchor="R,T" Font="TwCenMT18" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128" String="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER" ToolTip="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER_TT"/>
+						<Label ID="PublicOpinionUnhappiness"		Offset="32,38" Anchor="R,T" Font="TwCenMT18" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128" TextAnchorSide="Right"/>
+						<GridButton Anchor="C,B" Style="SmallButton" Size="150,30" StateOffsetIncrement="0,0" ID="SwitchIdeologyButton">
+							<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_POLICYSCREEN_CHANGE_IDEOLOGY" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+						</GridButton>
+					</Container>
+				</Container>
+			</Container>
+
+			<!-- Bottom Panel - Contains the close button and the culture yield data -->
+			<Box Anchor="C,B" AnchorSide="I.I" Offset="0,92" Size="971.5,46" Color="0,0,0,0">
+				<Image Anchor="C,T" Offset="0, 0" Texture="HorizontalTrim.dds" Size="971.5"/>
+				<!-- Close Button  -->
+				<GridButton Anchor="L,T" Style="SmallButton" Size="150,32" Offset="24,14" StateOffsetIncrement="0,0" ID="CloseButton">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_CLOSE" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+				</GridButton>
+				<Label Anchor="L,C" Offset="200,0" WrapWidth="500" Font="TwCenMT16" ID="LabelPoliciesDisabled" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128" String="TXT_KEY_TOP_PANEL_POLICIES_OFF_TOOLTIP" Hidden="1"/>
+				<Stack ID="InfoStack" Anchor="L,T" Offset="200,12" Padding="6" Size="0,0" StackGrowth="Bottom">
+					<!-- Culture Info Labels -->
+					<Label Anchor="L,C" Offset="0,0" String="" Font="TwCenMT18" ID="NextCost" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128"/>
+					<Label Anchor="L,C" Offset="0,0" String="" Font="TwCenMT18" ID="CurrentCultureLabel" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128"/>
+				</Stack>
+				<Stack ID="InfoStack2" Anchor="L,T" Offset="450,12" Padding="6" Size="0,0" StackGrowth="Bottom">
+					<!-- Culture Info Labels -->
+					<Label Anchor="L,C" Offset="0,0" String="" Font="TwCenMT18" ID="CulturePerTurnLabel" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128"/>
+					<Label Anchor="L,C" Offset="0,0" String="" Font="TwCenMT18" ID="NextPolicyTurnLabel" FontStyle="Shadow" Color0="Beige.255" Color1="Black.128"/>
+				</Stack>
+				<Stack ID="InfoStack3" Anchor="L,T" Offset="700,12" Padding="6" Size="0,0" StackGrowth="Bottom">
+					<!-- Free Policies Labels -->
+					<Label Anchor="L,C" Offset="0,0" String="" Font="TwCenMT18" ID="FreePoliciesLabel" FontStyle="SoftShadow" Color0="Culture.255" Color1="Black.128" Color2="Culture.255" Hidden="1"/>
+				</Stack>
+			</Box>
+		</Grid>
+	</Box>
+
+	<!-- Confirmation Popup -->
+	<Box Color="Black.200" Size="Full.Full" ID="PolicyConfirm" Hidden="1" ConsumeMouseOver="1" ConsumeMouseButton="1">
+		<Grid Size="500,310" Anchor="C,C" Offset="0,0" Padding="0,20" Style="Grid9DetailFive140" Hidden="0">
+			<!-- Side treatments -->
+			<Box Style="MenuLeftSideTreatment"/>
+			<Box Style="MenuRightSideTreatment"/>
+			<Image Anchor="C,T" AnchorSide="I.O" Offset="0,-14" Size="256,64" Texture="Top512IconTrim.dds">
+				<Image Anchor="C,C" Offset="0,-6" Size="80,80" Texture="NotificationFrameBase.dds">
+					<AlphaAnim Anchor="C,C" Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationGenericGlow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".5"/>
+				</Image>
+			</Image>
+			<Label Anchor="C,T" Offset="0,74" WrapWidth="440" String="TXT_KEY_CONFIRM_POLICY" Font="TwCenMT22" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Stack Anchor="C,B" Offset="0,80" Padding="24" StackGrowth="Bottom" ID="ButtonStack">
+				<!-- Yes Button  -->
+				<GridButton Style="BaseButton" ID="Yes" Size="400,42" Anchor="C,T" Offset="0,0" Hidden="0">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_YES_BUTTON" ColorSet="Beige_Black" Font="TwCenMT24" FontStyle="Shadow"/>
+				</GridButton>
+				<!-- No Button  -->
+				<GridButton Style="BaseButton" ID="No" Size="400,42" Anchor="C,T" Offset="0,0" Hidden="0">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_NO_BUTTON" ColorSet="Beige_Black" Font="TwCenMT24" FontStyle="Shadow"/>
+				</GridButton>
+			</Stack>
+		</Grid>
+	</Box>
+	<!-- Change Ideology Confirmation Popup -->
+	<Box Color="Black.200" Size="Full.Full" ID="ChangeIdeologyConfirm" Hidden="1" ConsumeMouseOver="1" ConsumeMouseButton="1">
+		<Grid Size="610,600" Anchor="C,C" Offset="0,0" Padding="0,20" Style="Grid9DetailFive140" Hidden="0">
+			<!-- Side treatments -->
+			<Box Style="MenuLeftSideTreatment"/>
+			<Box Style="MenuRightSideTreatment"/>
+			<Image Anchor="C,T" AnchorSide="I.O" Offset="0,-14" Size="256,64" Texture="Top512IconTrim.dds">
+				<Image Anchor="C,C" Offset="0,-6" Size="80,80" Texture="NotificationFrameBase.dds">
+					<AlphaAnim Anchor="C,C" Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationGenericGlow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".5"/>
+				</Image>
+			</Image>
+			<Label Anchor="C,T" Offset="0,54" WrapWidth="550" ID="LabelConfirmChangeIdeology" Font="TwCenMT22" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Stack Anchor="C,B" Offset="0,60" Padding="24" StackGrowth="Bottom">
+				<!-- Yes Button  -->
+				<GridButton Style="BaseButton" ID="ChangeIdeologyConfirmYes" Size="400,42" Anchor="C,T" Offset="0,0" Hidden="0">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_YES_BUTTON" ColorSet="Beige_Black" Font="TwCenMT24" FontStyle="Shadow"/>
+				</GridButton>
+				<!-- No Button  -->
+				<GridButton Style="BaseButton" ID="ChangeIdeologyConfirmNo" Size="400,42" Anchor="C,T" Offset="0,0" Hidden="0">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_NO_BUTTON" ColorSet="Beige_Black" Font="TwCenMT24" FontStyle="Shadow"/>
+				</GridButton>
+			</Stack>
+		</Grid>
+	</Box>
+</Context>

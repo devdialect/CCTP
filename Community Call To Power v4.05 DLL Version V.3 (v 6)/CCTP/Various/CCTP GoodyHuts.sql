@@ -1,0 +1,51 @@
+
+UPDATE GoodyHuts
+SET Experience= 10
+WHERE Type='GOODY_POPULATION';
+
+UPDATE GoodyHuts
+SET Experience= 10
+WHERE Type='GOODY_CULTURE';
+
+UPDATE GoodyHuts
+SET Experience= 10
+WHERE Type='GOODY_PANTHEON_FAITH';
+
+UPDATE GoodyHuts
+SET Experience= 10
+WHERE Type='GOODY_PROPHET_FAITH';
+
+UPDATE GoodyHuts
+SET Gold= 60
+WHERE Type='GOODY_GOLD';
+
+UPDATE GoodyHuts
+SET Experience= 15
+WHERE Type='GOODY_MAP';
+
+UPDATE GoodyHuts
+SET Experience= 15
+WHERE Type='REVEAL_RESOURCE';
+
+UPDATE GoodyHuts
+SET Experience= 15
+WHERE Type='GOODY_BARBARIANS_WEAK';
+
+UPDATE GoodyHuts
+SET BarbarianUnitClass='UNITCLASS_CAVEMAN'
+WHERE Type='GOODY_BARBARIANS_WEAK';
+
+UPDATE GoodyHuts
+SET BarbarianUnitClass='UNITCLASS_CAVEMAN'
+WHERE Type='GOODY_BARBARIANS_STRONG';
+
+UPDATE GoodyHuts
+SET Experience= 25
+WHERE Type='GOODY_BARBARIANS_STRONG';
+
+UPDATE GoodyHuts
+SET Experience= 15
+WHERE Type='GOODY_HEALING';
+
+
+ 

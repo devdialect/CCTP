@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2014 8:23:00 AM -->
+<GameData>
+	<!--/////////National*Buildings*Gametext\\\\\\\\\\\\-->
+	<Language_en_US>
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--BUILDINGS-->
+
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_SHAMANIC_CIRCLE">
+	<Text>Shamanic Circle [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SHAMANIC_CIRCLE_HELP">
+	<Text>Grands a free [ICON_CULTURE] Social Policy and all new, in this City trained military land [ICON_SILVER_FIST] units get the free Promotion "Haka War Dance"[NEWLINE][NEWLINE]Requires a [COLOR_WARNING_TEXT]Shaman Hut[ENDCOLOR][NEWLINE] in each of your Cities.[NEWLINE]Becomes obsolete with the discovering of Philosophy.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SHAMANIC_CIRCLE_STRATEGY">
+	<Text>Provides a boost for [ICON_RELIGION] Faith and [ICON_CULTURE] Culture and a free [ICON_CULTURE] Social Policy.</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHAMANIC_CIRCLE_TEXT">
+	<Text>upps</Text>
+</Row>
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_STAMM">
+	<Text>Tribe Hut [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_STAMM_HELP">
+	<Text>Provides a free [ICON_FLOWER] Settler.[NEWLINE][NEWLINE]Requires a [COLOR_WARNING_TEXT]Chieftain Hut[ENDCOLOR] to be build.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_STAMM_STRATEGY">
+	<Text>Provides a free Settler.[NEWLINE][NEWLINE]You may build one.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_STAMM_PEDIA">
+	<Text>upps</Text>
+</Row>
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_SCHATZHAUS">
+	<Text>Treasure House [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SCHATZHAUS_HELP">
+	<Text>+10% [ICON_GOLD] Gold in this city.[NEWLINE][NEWLINE]Provides two extra [ICON_TRADE] trade routes.[NEWLINE][NEWLINE]Enemy Plunderrate increased by 10%.[NEWLINE][NEWLINE]In every of your cities must build a Market.[NEWLINE][NEWLINE]Requires five [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Hierachy[ENDCOLOR] must be discovered.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SCHATZHAUS_PEDIA">
+	<Text></Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SCHATZTHAUS_STRATEGY">
+	<Text>Increases massiv the [ICON_GOLD] Gold and also boost [ICON_TRADE] Trade route [ICON_GOLD] Gold income in this City.[NEWLINE][NEWLINE]+2 [ICON_TRADE] Trade Routes.</Text>
+</Row>
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->		
+<Row Tag="TXT_KEY_BUILDING_KEY_GIGANT">
+		<Text>Gigant [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_GIGANT_HELP">
+		<Text>Add yields +1 [ICON_PEACE] Faith to every Menhir you own.[NEWLINE][NEWLINE]Requires at least five Menhir to be build and two [ICON_RES_MANPOWER] Manpower.</Text>
+</Row>
+<Row Tag="TXT_KEY_GIGANT_PEDIA">
+	    <Text>.</Text>
+</Row>
+<Row Tag="TXT_KEY_GIGANT_STRATEGY">
+		<Text>Provides a boost to [ICON_PEACE] Faith in your Empire.</Text>
+</Row>
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_SENAT">
+	<Text>Senat [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SENAT_HELP">
+	<Text>[ICON_GOLDE_AGE] Golden Ages are now +10% longer and +1 [ICON_HAPPINESS_1] Happiness for each 5 [ICON_CULTURE] Social Policies you have adopted.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement[ENDCOLOR][NEWLINE]5 [ICON_RES_MANPOWER] Manpower are needed.[NEWLINE][NEWLINE]Also your Empire must have at least five cities.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SENAT_STRATEGY">
+		<Text>Provides a boost foward to the lenght of [ICON_GOLDE_AGE] Golden Ages and [ICON_HAPPINESS_1] Happiness</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SENAT_PEDIA">
+	<Text>upps</Text>
+</Row>
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_IMPERIALER_GERICHTSHOF">
+	<Text>National Court [ICON_RES_MANPOWER][ICON_ORDER]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_IMPERIALER_GERICHTSHOF_PEDIA">
+	<Text>upps</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_IMPERIALER_GERICHTSHOF_HELP">
+	<Text>+10 [ICON_HAPPINESS_1] Happiness, when the [ICON_CULTURE] Socoal Policy Sovereignty is adopted.[NEWLINE][NEWLINE]Provides a free [ICON_CULTURE] Social Policy.[NEWLINE]Add yields +3 [ICON_GOLDEN_AGE] Golden Age Points.[NEWLINE]Increase [ICON_ORDER] Order by +2.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note[ENDCOLOR][NEWLINE]Requires 3 Courthouse in your civilization to be build.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_IMPERIALER_GERICHTSHOF_STRATEGY">
+	<Text>Big boost for [ICON_HAPPINESS_1] Happiness when the [ICON_CULTURE] Social Policy Sovereignty is adopted.[NEWLINE][NEWLINE]Grants one free [ICON_CULTURE] Social Policy.</Text>
+</Row>
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_NHS">
+	<Text>National Health System [ICON_RES_MANPOWER][ICON_HEALTH]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_NHS_HELP">
+	<Text>+1 [ICON_HAPPINESS_1] Happiness for each city you control and adds +1 yield [ICON_RESEARCH] Science to each Hospital.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note[ENDCOLOR][NEWLINE]Requires a Hospital in each of your cities and the more cities you have the more it cost to build.[NEWLINE]Increase [ICON_HEALTH] Health by +3.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 10 [ICON_POWER3] Electricity.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_NHS_STRATEGY">
+	<Text>Boost global [ICON_HAPPINESS_1] Happiness and also a little [ICON_RESEARCH] Science boost.</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_NHS_TEXT">
+	<Text>upps</Text>
+</Row>
+
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_NATIONALFEST">
+	<Text>National Harvest [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_NATIONALFEST_HELP">
+	<Text>-5% [ICON_HAPPINESS_4] Unhappiness in all of your cities and add yield +1 [ICON_FOOD] Food to each harvest.[NEWLINE][NEWLINE]Requires a Harvest in all of your cities and the more cities you have the more it cost to build.</Text>
+</Row>
+<Row Tag="TXT_KEY_NATIONALFEST_PEDIA">
+	<Text>upps</Text>
+</Row>
+<Row Tag="TXT_KEY_NATIONALFEST_STRATEGY">
+	<Text>Provides a boost for global [ICON_HAPPINESS_1] Happiness and adds + 1 [ICON_FOOD] Food for each Harvest you own.</Text>
+</Row>
+		
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_SILO">
+	<Text>Silo ([ICON_RES_MANPOWER][ICON_HEALTH])</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SILO_HELP">
+	<Text>+10% [ICON_FOOD] Food in this city.[NEWLINE]Increase [ICON_HEALTH] Health by +1.[NEWLINE][NEWLINE]May build up to two.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SILO_STRATEGY">
+	<Text>Provides a 10% [ICON_FOOD] Food boost in the city it is build.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_SILO_PEDIA">
+	<Text>Archaeological ruins and ancient texts show that silos were used in ancient Greece as far back as the late 8th century BC, as well as the 5th Millennium B.C site of Tell Tsaf, Israel. The term silo is derived from the Greek σιρός (siros), "pit for holding grain". The first modern silo, a wooden and upright one filled with grain, was invented and built in 1873 by Fred Hatch of McHenry County, Illinois, USA</Text>
+</Row>
+
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_MINNE">
+	<Text>Barde [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_MINNE_HELP">
+	<Text>+1 [ICON_PEACE]Faith for each Folklore and provides one free [ICON_GREAT_MUSICIAN] Musician.[NEWLINE][NEWLINE]The building Folklore must build in all cities The more cities you have the more it cost. </Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_MINNE_PEDIA">
+	<Text>upps.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_MINNE_STRATEGY">
+	<Text>Provides a free Musician, a Faith boost and two Musik Slots.</Text>
+</Row>
+
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+<Row Tag="TXT_KEY_BUILDING_NATIONALER_SHRINE_HELP">
+	<Text>+2 [ICON_GOLD] Gold and +1 [ICON_HAPPINESS_1] Global Happiness for every Shrine you own.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note[ENDCOLOR][NEWLINE]You must build a Shrine in each of your cities, the more cities you have the more it cost.</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_NATIONALER_SHRINE">
+	<Text>National Shrine [ICON_RES_MANPOWER]</Text>
+</Row>
+<Row Tag="TXT_KEY_BUILDING_NATIONALER_SHRINE_STRATEGY">
+	<Text>Add yields +2 [ICON_GOLD] Gold and +1 [ICON_HAPPINESS_1] Happiness to every Shrine.</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_NATIONALER_SHRINE_PEDIA">
+	<Text>National Shrine</Text>
+</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_NATIONALER_SHRINE_TEXT">
+	<Text>National Shrine</Text>
+</Row>
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->	
+<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+</Language_en_US>
+<!--Have a nice Day:=)-->
+</GameData>

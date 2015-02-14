@@ -1,0 +1,3089 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/17/2014 7:56:47 AM -->
+<GameData>
+<BuildingClasses>
+	
+	     <!--<<<<<<<<<<[Wonder Building Classes]>>>>>>>>>>-->
+	
+	<!--<<<<<<<<<<[TRAPPER]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[TRAPPER]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[TRAPPER]>>>>>>>>>>-->
+		<!--<Row>
+		<Type>BUILDINGCLASS__EAST_INDIA_COMPANY</Type>
+		<Description>TXT_KEY_BUILDING_EAST_INDIA_COMPANY</Description>
+		<DefaultBuilding>BUILDING_EAST_INDIA_COMPANY</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<Row>
+		<Type>BUILDINGCLASS_TREE</Type>
+		<DefaultBuilding>BUILDING_TREE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TREE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>-->
+	
+	<!--<Row>
+	<Type>BUILDINGCLASS_TERRACOTTA_ARMY</Type>
+	<Description>TXT_KEY_BUILDING_TERRACOTTA_ARMY</Description>
+	<DefaultBuilding>BUILDING_TERRACOTTA_ARMY</DefaultBuilding>
+	<MaxGlobalInstances>1</MaxGlobalInstances></Row>
+	-<Row><Type>BUILDINGCLASS_TERRACOTTA_ARMY</Type>
+	<Description>TXT_KEY_BUILDING_TERRACOTTA_ARMY</Description>
+	<DefaultBuilding>BUILDING_TERRACOTTA_ARMY</DefaultBuilding>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	<Type>BUILDINGCLASS_LEANING_TOWER</Type>
+	<DefaultBuilding>BUILDING_LEANING_TOWER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_LEANING_TOWER</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>	
+<Row> <<<<<<<<<<[FREEDOMTOWER]>>>>>>>>>>
+	<Type>BUILDINGCLASS_FREEDOMTOWER</Type>
+	<DefaultBuilding>BUILDING_TOWER</DefaultBuilding>
+	<Description>Freedom Tower</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>	
+	<Row>
+	<Type>BUILDINGCLASS_PARTHENON</Type>
+	<Description>TXT_KEY_BUILDING_PARTHENON</Description>
+	<DefaultBuilding>BUILDING_PARTHENON</DefaultBuilding>
+	    <MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>-->
+	
+<!--<<<<<<<<<<[1]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TREE</Type>
+		<DefaultBuilding>BUILDING_TREE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TREE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_BARNENEZ</Type>
+		<DefaultBuilding>BUILDING_BARNENEZ</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BARNENEZ</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[2]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_THEOPETRACAVE</Type>
+		<DefaultBuilding>BUILDING_THEOPETRACAVE</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_THEOPETRACAVE_DESC</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[3]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KONG_MIAO</Type>
+		<Description>TXT_KEY_BUILDING_KONG_MIAO</Description>
+		<DefaultBuilding>BUILDING_KONG_MIAO</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[4]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SPHINX</Type>
+		<Description>TXT_KEY_BUILDING_SPHINX</Description>
+		<DefaultBuilding>BUILDING_SPHINX</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[5]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_STATUE_OF_ZEUS</Type>
+		<Description>TXT_KEY_BUILDING_STATUE_OF_ZEUS</Description>
+		<DefaultBuilding>BUILDING_STATUE_OF_ZEUS</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[6]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WAR_ROOM</Type>
+		<DefaultBuilding>BUILDING_WAR_ROOM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WAR_ROOM</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[7]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_NEWGRANGE</Type>
+	<DefaultBuilding>BUILDING_NEWGRANGE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NEWGRANGE</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[8]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NAZCA_LINES</Type>
+		<Description>TXT_KEY_BUILDING_NAZCA_LINES</Description>
+		<DefaultBuilding>BUILDING_NAZCA_LINES</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[9]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_BENHADDOU</Type>
+	<DefaultBuilding>BUILDING_BENHADDOU</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_BENHADDOU</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[10]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MOGAO</Type>
+		<DefaultBuilding>BUILDING_MOGAO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MOGAO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+		<!--<<<<<<<<<<[11]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GGANTIJA</Type>
+		<DefaultBuilding>BUILDING_GGANTIJA</DefaultBuilding>
+		<Description>Ggantija</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+		<!--<<<<<<<<<<[12]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WONDERWERK</Type>
+		<DefaultBuilding>BUILDING_WONDERWERK</DefaultBuilding>
+		<Description>Wonderwerk Cave</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<Row>
+		<!--<<<<<<<<<<[13]>>>>>>>>>>-->
+	  <Type>BUILDINGCLASS_COLOGNE</Type>
+	  <DefaultBuilding>BUILDING_COLOGNE</DefaultBuilding>
+	  <Description>TXT_KEY_BUILDING_COLOGNE</Description>
+	  <MaxGlobalInstances>1</MaxGlobalInstances>
+  </Row>
+	
+	<!--<<<<<<<<<<[14]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KALMAR</Type>
+		<DefaultBuilding>BUILDING_KALMAR</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KALMAR</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[15]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SUOMENLINNA</Type>
+		<DefaultBuilding>BUILDING_SUOMENLINNA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SUOMENLINNA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[16 MATTERHORN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MATTERHORN</Type>
+		<DefaultBuilding>BUILDING_MATTERHORN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MATTERHORN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[17 HEDDAL]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HEDDAL</Type>
+		<DefaultBuilding>BUILDING_HEDDAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HEDDAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[18 DOGESPALACE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DOGESPALACE</Type>
+		<DefaultBuilding>BUILDING_DOGESPALACE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DOGESPALACE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[19 EMPIRE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_EMPIRE</Type>
+		<DefaultBuilding>BUILDING_EMPIRE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_EMPIRE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[20 BROOKLYN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BROOKLYN</Type>
+		<DefaultBuilding>BUILDING_BROOKLYN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BROOKLYN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+		
+	</Row>
+	<!--<<<<<<<<<<[21 MAHABODHI_TEMPLE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MAHABODHI_TEMPLE</Type>
+		<Description>TXT_KEY_BUILDING_MAHABODHI_TEMPLE</Description>
+		<DefaultBuilding>BUILDING_MAHABODHI_TEMPLE</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+		<!--<<<<<<<<<<[22ZIGGURAT_OF_MARDUK]>>>>>>>>>>-->
+		<Row>
+			<Type>BUILDINGCLASS_ZIGGURAT_OF_MARDUK</Type>
+			<Description>TXT_KEY_ZIGGURAT_OF_MARDUK</Description>
+			<DefaultBuilding>BUILDING_ZIGGURAT_OF_MARDUK</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>	
+		<!--<<<<<<<<<<[23]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_THE_LABYRINTH</Type>
+		<Description>TXT_KEY_THE_LABYRINTH</Description>
+		<DefaultBuilding>BUILDING_THE_LABYRINTH</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+			
+		<!--<<<<<<<<<<[24]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TEMPLE_OF_HEAVEN</Type>
+		<Description>TXT_KEY_BUILDING_TEMPLE_OF_HEAVEN</Description>
+		<DefaultBuilding>BUILDING_TEMPLE_OF_HEAVEN</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[25]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TEMPLE_OF_SOLOMON</Type>
+		<Description>TXT_KEY_BUILDING_TEMPLE_OF_SOLOMON</Description>
+		<DefaultBuilding>BUILDING_TEMPLE_OF_SOLOMON</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[26 BURJ_KHALIFA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BURJ_KHALIFA</Type>
+		<DefaultBuilding>BUILDING_BURJ_KHALIFA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BURJ_KHALIFA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[27ROCKEFELLER]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ROCKEFELLER</Type>
+		<DefaultBuilding>BUILDING_ROCKEFELLER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ROCKEFELLER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[28EXODUS]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_EXODUS</Type>
+		<DefaultBuilding>BUILDING_EXODUS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_EXODUS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[29 TETII]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TETII</Type>
+		<DefaultBuilding>BUILDING_TETII</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TETII</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[30 WEIYANG]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WEIYANG</Type>
+		<DefaultBuilding>BUILDING_WEIYANG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WEIYANG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[31BAMIYAN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BAMIYAN</Type>
+		<DefaultBuilding>BUILDING_BAMIYAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BAMIYAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[32YANGTZE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_YANGTZE</Type>
+		<DefaultBuilding>BUILDING_YANGTZE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_YANGTZE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[33 PERGAMON]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PERGAMON</Type>
+		<DefaultBuilding>BUILDING_PERGAMON</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PERGAMON</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[34CARNIVAL]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CARNIVAL</Type>
+		<DefaultBuilding>BUILDING_CARNIVAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CARNIVAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[35]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BERLINER_MAUER</Type>
+		<DefaultBuilding>BUILDING_BERLINER_MAUER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BERLINER_MAUER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[36]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_RUSHMORE</Type>
+		<DefaultBuilding>BUILDING_RUSHMORE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_RUSHMORE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[37 JELLING]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_JELLING</Type>
+		<DefaultBuilding>BUILDING_JELLING</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_JELLING</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[38 TERRACES]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TERRACES</Type>
+		<DefaultBuilding>BUILDING_TERRACES</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TERRACES</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[39 RELIGOSES_HEILIGTUM]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_RELIGOSES_HEILIGTUM</Type>
+		<DefaultBuilding>BUILDING_RELIGOSES_HEILIGTUM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_RELIGOSES_HEILIGTUM</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[40 PETRONAS]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PETRONAS</Type>
+		<DefaultBuilding>BUILDING_PETRONAS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PETRONAS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[41 ITSUKUSHIMA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ITSUKUSHIMA</Type>
+		<DefaultBuilding>BUILDING_ITSUKUSHIMA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ITSUKUSHIMA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[42]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HANDLER</Type>
+		<DefaultBuilding>BUILDING_HANDLER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HANDLER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[43]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SKYTREE</Type>
+		<DefaultBuilding>BUILDING_SKYTREE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SKYTREE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[44 GOLDEN_PAVILION]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GOLDEN_PAVILION</Type>
+		<DefaultBuilding>BUILDING_GOLDEN_PAVILION</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GOLDEN_PAVILION</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[45 VAULT]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_VAULT</Type>
+		<DefaultBuilding>BUILDING_VAULT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_VAULT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[46 METEORA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_METEORA</Type>
+		<DefaultBuilding>BUILDING_METEORA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_METEORA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[47]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KARNAK</Type>
+		<DefaultBuilding>BUILDING_KARNAK</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KARNAK</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[48]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PENA</Type>
+		<DefaultBuilding>BUILDING_PENA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PENA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[49 TODAIJI]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TODAIJI</Type>
+		<DefaultBuilding>BUILDING_TODAIJI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TODAIJI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[50]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GB1</Type>
+		<DefaultBuilding>BUILDING_GB1</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GB1</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[51]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WELTGERICHT</Type>
+		<DefaultBuilding>BUILDING_WELTGERICHT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WELTGERICHT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[52]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WORLDHISTORY1</Type>
+		<DefaultBuilding>BUILDING_WORLDHISTORY1</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WORLDHISTORY1</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[53]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WTO</Type>
+		<DefaultBuilding>BUILDING_WTO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WTO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[54]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NHS</Type>
+		<DefaultBuilding>BUILDING_NHS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NHS</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[55]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KASHI</Type>
+		<DefaultBuilding>BUILDING_KASHI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KASHI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[56]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GARD</Type>
+		<DefaultBuilding>BUILDING_GARD</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GARD</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[57]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ABU</Type>
+		<DefaultBuilding>BUILDING_ABU</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ABU</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[58]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TAIPEI</Type>
+		<DefaultBuilding>BUILDING_TAIPEI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TAIPEI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[59]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_RED_CROSS</Type>
+		<DefaultBuilding>BUILDING_RED_CROSS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_RED_CROSS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[60]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GOLDENGATE</Type>
+		<DefaultBuilding>BUILDING_GOLDENGATE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GOLDENGATE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[61]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_POTALA</Type>
+		<DefaultBuilding>BUILDING_POTALA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_POTALA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[62]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SKYCITY</Type>
+		<DefaultBuilding>BUILDING_SKYCITY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SKYCITY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[63]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_FLOATINGISLANDSCT</Type>
+		<DefaultBuilding>BUILDING_FLOATINGISLANDSCT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_FLOATINGISLANDSCT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[64]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HUETTE</Type>
+		<DefaultBuilding>BUILDING_HUETTE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HUETTE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[65]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LAQROX</Type>
+		<DefaultBuilding>BUILDING_LAQROX</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_LAQROX</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[66]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SHIMIZUMCPCT</Type>
+		<DefaultBuilding>BUILDING_SHIMIZUMCPCT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SHIMIZUMCPCT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[67 BANAUE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BANAUE</Type>
+		<DefaultBuilding>BUILDING_BANAUE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BANAUE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[68 UNITED_NATIONS_HQ]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_UNITED_NATIONS_HQ</Type>
+		<DefaultBuilding>BUILDING_UNITED_NATIONS_HQ</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_UNITED_NATIONS_HQ</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[69 LONDON_ARRAY]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LONDON_ARRAY</Type>
+		<DefaultBuilding>BUILDING_LONDON_ARRAY</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_LONDON_ARRAY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[70 HELD]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HELD</Type>
+		<DefaultBuilding>BUILDING_HELD</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HELD</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[71]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MAUSOLEUM_OF_MAUSOLUS</Type>
+		<Description>TXT_KEY_BUILDING_MAUSOLEUM_OF_MAUSOLUS</Description>
+		<DefaultBuilding>BUILDING_MAUSOLEUM_OF_MAUSOLUS</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[72 OLLI]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_OLLI</Type>
+		<DefaultBuilding>BUILDING_OLLI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_OLLI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[73 CAPITOL]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CAPITOL</Type>
+		<DefaultBuilding>BUILDING_CAPITOL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CAPITOL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[74 MADOL]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MADOL</Type>
+		<DefaultBuilding>BUILDING_MADOL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MADOL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[75 LONDON]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LONDON</Type>
+		<DefaultBuilding>BUILDING_LONDON</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_LONDON</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[76BUDA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BUDA</Type>
+		<DefaultBuilding>BUILDING_BUDA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BUDA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[77 HAMMURABI]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HAMMURABI</Type>
+		<DefaultBuilding>BUILDING_HAMMURABI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HAMMURABI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[78 GATEWAY]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GATEWAY</Type>
+		<DefaultBuilding>BUILDING_GATEWAY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GATEWAY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[79 SPUTNIK]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SPUTNIK</Type>
+		<DefaultBuilding>BUILDING_SPUTNIK</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SPUTNIK</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[80 TOPKAP]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TOPKAPI</Type>
+		<DefaultBuilding>BUILDING_TOPKAPI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TOPKAPI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[81 WARTBURG]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WARTBURG</Type>
+		<DefaultBuilding>BUILDING_WARTBURG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WARTBURG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[82 MESAVERDE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MESAVERDE</Type>
+		<DefaultBuilding>BUILDING_MESAVERDE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MESAVERDE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[83 SMITHSONIAN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SMITHSONIAN</Type>
+		<DefaultBuilding>BUILDING_SMITHSONIAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SMITHSONIAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[84 TAJIN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TAJIN</Type>
+		<DefaultBuilding>BUILDING_TAJIN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TAJIN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[85]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GOBEKLI</Type>
+		<DefaultBuilding>BUILDING_GOBEKLI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GOBEKLI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[86 OLYMPICS]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_OLYMPICS</Type>
+		<Description>TXT_KEY_BUILDING_OLYMPICS</Description>
+		<DefaultBuilding>BUILDING_OLYMPICS</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[87 BABEL]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BABEL</Type>
+		<DefaultBuilding>BUILDING_BABEL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BABEL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[88]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MILLAU</Type>
+		<DefaultBuilding>BUILDING_MILLAU</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MILLAU</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[89]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DARJEELING</Type>
+		<DefaultBuilding>BUILDING_DARJEELING</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DARJEELING</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[90]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GRIPSHOLM</Type>
+		<DefaultBuilding>BUILDING_GRIPSHOLM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GRIPSHOLM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[91]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ARECIBO</Type>
+		<DefaultBuilding>BUILDING_ARECIBO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ARECIBO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[92]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MLK</Type>
+		<DefaultBuilding>BUILDING_MLK</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MLK</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[93]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WHITESANDS</Type>
+		<DefaultBuilding>BUILDING_WHITESANDS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WHITESANDS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[94]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PANAMA</Type>
+		<DefaultBuilding>BUILDING_PANAMA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PANAMA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[95]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TEMPLO</Type>
+		<DefaultBuilding>BUILDING_TEMPLO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TEMPLO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[96]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TOTEM</Type>
+		<DefaultBuilding>BUILDING_TOTEM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TOTEM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[97 TEOTIHUACAN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TEOTIHUACAN</Type>
+		<DefaultBuilding>BUILDING_TEOTIHUACAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TEOTIHUACAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[98 STONE_TOWN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_STONE_TOWN</Type>
+		<DefaultBuilding>BUILDING_STONE_TOWN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_STONE_TOWN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[99 ISHTAR]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ISHTAR</Type>
+		<DefaultBuilding>BUILDING_ISHTAR</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ISHTAR</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[100 PALM]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALM</Type>
+		<DefaultBuilding>BUILDING_PALM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[101 TITICACA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TITICACA</Type>
+		<DefaultBuilding>BUILDING_TITICACA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TITICACA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[102 TAHRIR]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TAHRIR</Type>
+		<DefaultBuilding>BUILDING_TAHRIR</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TAHRIR</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[103 MARTYRS]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MARTYRS</Type>
+		<DefaultBuilding>BUILDING_MARTYRS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MARTYRS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+
+	</Row>
+	<!--<<<<<<<<<<[104 PEARL_MONUMENT]>>>>>>>>>>-->
+	<Row>
+		
+		<Type>BUILDINGCLASS_PEARL_MONUMENT</Type>
+		<DefaultBuilding>BUILDING_PEARL_MONUMENT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PEARL_MONUMENT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[105 HABIB_BOURGUIBA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HABIB_BOURGUIBA</Type>
+		<DefaultBuilding>BUILDING_HABIB_BOURGUIBA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HABIB_BOURGUIBA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[106 SELARON]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SELARON</Type>
+		<DefaultBuilding>BUILDING_SELARON</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SELARON</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[107 HAJI_ALI_DARGAH]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HAJI_ALI_DARGAH</Type>
+		<DefaultBuilding>BUILDING_HAJI_ALI_DARGAH</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HAJI_ALI_DARGAH</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[108 VATICAN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_VATICAN</Type>
+		<DefaultBuilding>BUILDING_VATICAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_VATICAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[109 WATPHRAKAEW]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WATPHRAKAEW</Type>
+		<DefaultBuilding>BUILDING_WATPHRAKAEW</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WATPHRAKAEW</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[110 DOME]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DOME</Type>
+		<DefaultBuilding>BUILDING_DOME</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DOME</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[111 YELLOW_CRANE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_YELLOW_CRANE</Type>
+		<DefaultBuilding>BUILDING_YELLOW_CRANE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_YELLOW_CRANE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[112 XUANKONG]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_XUANKONG</Type>
+		<DefaultBuilding>BUILDING_XUANKONG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_XUANKONG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[113]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SHANGHAI_WFC</Type>
+		<DefaultBuilding>BUILDING_SHANGHAI_WFC</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SHANGHAI_WFC</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[114 JIAYUGUAN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_JIAYUGUAN</Type>
+		<DefaultBuilding>BUILDING_JIAYUGUAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_JIAYUGUAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[115 GULOU]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GULOU</Type>
+		<DefaultBuilding>BUILDING_GULOU</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GULOU</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[116 GATE_SUN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GATE_SUN</Type>
+		<DefaultBuilding>BUILDING_GATE_SUN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GATE_SUN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[117 KNOSSOS]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KNOSSOS</Type>
+		<DefaultBuilding>BUILDING_KNOSSOS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KNOSSOS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[118LALIBELA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LALIBELA</Type>
+		<DefaultBuilding>BUILDING_LALIBELA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_LALIBELA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[119]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CRYSTAL_CATHEDRAL</Type>
+		<Description>TXT_KEY_BUILDING_CRYSTAL_CATHEDRAL</Description>
+		<DefaultBuilding>BUILDING_CRYSTAL_CATHEDRAL</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[119 HORYUJI]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HORYUJI</Type>
+		<DefaultBuilding>BUILDING_HORYUJI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HORYUJI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[120 TORRE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TORRE</Type>
+		<DefaultBuilding>BUILDING_TORRE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TORRE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[121 TAKTSANG]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TAKTSANG</Type>
+		<DefaultBuilding>BUILDING_TAKTSANG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TAKTSANG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[122 LESHAN]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LESHAN</Type>
+		<DefaultBuilding>BUILDING_LESHAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_LESHAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[123 HANSA]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HANSA</Type>
+		<DefaultBuilding>BUILDING_HANSA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HANSA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[124]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GALILEO_TELESCOPE</Type>
+		<Description>TXT_KEY_BUILDING_GALILEO_TELESCOPE</Description>
+		<DefaultBuilding>BUILDING_GALILEO_TELESCOPE</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[125]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SHAKESPEARE_THEATER</Type>
+		<Description>TXT_KEY_BUILDING_SHAKESPEARE_THEATER</Description>
+		<DefaultBuilding>BUILDING_SHAKESPEARE_THEATER</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>		
+	
+		<!--<<<<<<<<<<[126]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SUN_TZU_ART_OF_WAR</Type>
+		<Description>TXT_KEY_BUILDING_SUN_TZU_ART_OF_WAR</Description>
+		<DefaultBuilding>BUILDING_SUN_TZU_ART_OF_WAR</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[127]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ARCHIMEDES_LAB</Type>
+		<Description>TXT_KEY_BUILDING_ARCHIMEDES_LAB</Description>
+		<DefaultBuilding>BUILDING_ARCHIMEDES_LAB</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[128]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LEONARDO_WORKSHOP</Type>
+		<Description>TXT_KEY_BUILDING_LEONARDO_WORKSHOP</Description>
+		<DefaultBuilding>BUILDING_LEONARDO_WORKSHOP</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[129]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_THE_GRAND_MOSQUE</Type>
+		<Description>TXT_KEY_BUILDING_THE_GRAND_MOSQUE</Description>
+		<DefaultBuilding>BUILDING_THE_GRAND_MOSQUE</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[130]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BACH_CATHEDRAL</Type>
+		<Description>TXT_KEY_BUILDING_BACH_CATHEDRAL</Description>
+		<DefaultBuilding>BUILDING_BACH_CATHEDRAL</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[131]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_AL_JABR</Type>
+		<Description>TXT_KEY_BUILDING_AL_JABR</Description>
+		<DefaultBuilding>BUILDING_AL_JABR</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[132]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NATIONAL_ACADEMY</Type>
+		<Description>TXT_KEY_BUILDING_NATIONAL_ACADEMY</Description>
+		<DefaultBuilding>BUILDING_NATIONAL_ACADEMY</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[133]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_COPERNICUS_OBSERVATORY</Type>
+		<Description>TXT_KEY_BUILDING_COPERNICUS_OBSERVATORY</Description>
+		<DefaultBuilding>BUILDING_COPERNICUS_OBSERVATORY</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>		
+	
+		<!--<<<<<<<<<<[134]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GUTENBERG_BIBLE</Type>
+		<Description>TXT_KEY_BUILDING_GUTENBERG_BIBLE</Description>
+		<DefaultBuilding>BUILDING_GUTENBERG_BIBLE</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[135]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PRINCIPIA_MATHEMATICA</Type>
+		<Description>TXT_KEY_BUILDING_PRINCIPIA_MATHEMATICA</Description>
+		<DefaultBuilding>BUILDING_PRINCIPIA_MATHEMATICA</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[136]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MAGELLAN_VOYAGE</Type>
+		<Description>TXT_KEY_BUILDING_MAGELLAN_VOYAGE</Description>
+		<DefaultBuilding>BUILDING_MAGELLAN_VOYAGE</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[137]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_THEORY_OF_EVOLUTION</Type>
+		<Description>TXT_KEY_BUILDING_THEORY_OF_EVOLUTION</Description>
+		<DefaultBuilding>BUILDING_THEORY_OF_EVOLUTION</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[138]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WEALTH_OF_NATIONS</Type>
+	<Description>TXT_KEY_BUILDING_WEALTH_OF_NATIONS</Description>
+	<DefaultBuilding>BUILDING_WEALTH_OF_NATIONS</DefaultBuilding>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[139]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_COMMUNIST_MANIFESTO</Type>
+	<Description>TXT_KEY_BUILDING_COMMUNIST_MANIFESTO</Description>
+	<DefaultBuilding>BUILDING_COMMUNIST_MANIFESTO</DefaultBuilding>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[140]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WAR_COLLEGE</Type>
+	<Description>TXT_KEY_BUILDING_WAR_COLLEGE</Description>
+	<DefaultBuilding>BUILDING_WAR_COLLEGE</DefaultBuilding>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[141]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_EDISON_LAB</Type>
+	<Description>TXT_KEY_BUILDING_EDISON_LAB</Description>
+	<DefaultBuilding>BUILDING_EDISON_LAB</DefaultBuilding>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[142]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HOLLYWOOD</Type>
+		<Description>TXT_KEY_BUILDING_HOLLYWOOD</Description>
+		<DefaultBuilding>BUILDING_HOLLYWOOD</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[143]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HUMAN_GENOME_PROJECT</Type>
+		<Description>TXT_KEY_BUILDING_HUMAN_GENOME_PROJECT</Description>
+		<DefaultBuilding>BUILDING_HUMAN_GENOME_PROJECT</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[144]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SHAMANIC_CIRCLE</Type>
+		<DefaultBuilding>BUILDING_SHAMANIC_CIRCLE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SHAMANIC_CIRCLE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[145]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_WALL_STREET</Type>
+	<Description>TXT_KEY_BUILDING_WALL_STREET</Description>
+	<DefaultBuilding>BUILDING_WALL_STREET</DefaultBuilding>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[146]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SUPERCOMPUTER</Type>
+		<Description>TXT_KEY_BUILDING_SUPERCOMPUTER</Description>
+		<DefaultBuilding>BUILDING_SUPERCOMPUTER</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[147>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ELLORA</Type>
+		<DefaultBuilding>BUILDING_ELLORA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ELLORA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+<!--<<<<<<<<<<[148 STAMM]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_STAMM</Type>
+	<DefaultBuilding>BUILDING_STAMM</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_STAMM</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+<!--<<<<<<<<<<[149 CONSTITUTION]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CONSTITUTION</Type>
+	<Description>TXT_KEY_BUILDING_CONSTITUTION</Description>
+	<DefaultBuilding>BUILDING_CONSTITUTION</DefaultBuilding>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[150 NATIONALFEST]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NATIONALFEST</Type>
+		<DefaultBuilding>BUILDING_NATIONALFEST</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NATIONALFEST</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[151 PALACE_SCIENCE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALACE_SCIENCE</Type>
+		<Description>TXT_KEY_BUILDING_PALACE_SCIENCE</Description>
+		<DefaultBuilding>BUILDING_PALACE_SCIENCE</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[152]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PRAMBANAN</Type>
+		<DefaultBuilding>BUILDING_PRAMBANAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PRAMBANAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[153]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SEMICONDUCTOR_PLANT</Type>
+		<Description>TXT_KEY_BUILDING_SEMICONDUCTOR_PLANT</Description>
+		<DefaultBuilding>BUILDING_SEMICONDUCTOR_PLANT</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[154 ART_ACADEMY]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ART_ACADEMY</Type>
+		<DefaultBuilding>BUILDING_ART_ACADEMY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ART_ACADEMY</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[155]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HORSE_DERBY</Type>
+		<Description>TXT_KEY_BUILDING_HORSE_DERBY</Description>
+		<DefaultBuilding>BUILDING_HORSE_DERBY</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[156]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WIEDERAUFBEREITUNGSANLAGE</Type>
+		<DefaultBuilding>BUILDING_WIEDERAUFBEREITUNGSANLAGE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WIEDERAUFBEREITUNGSANLAGE</Description>
+		<MaxPlayerInstances>5</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[157 NATIONALER_SHRINE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NATIONALER_SHRINE</Type>
+		<DefaultBuilding>BUILDING_NATIONALER_SHRINE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NATIONALER_SHRINE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[158]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_REGIONAL_FAIR</Type>
+	<Description>TXT_KEY_BUILDING_REGIONAL_FAIR</Description>
+	<DefaultBuilding>BUILDING_REGIONAL_FAIR</DefaultBuilding>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[159]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MINNE</Type>
+		<DefaultBuilding>BUILDING_MINNE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MINNE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[160 DECLARATION_OF_INDEPENDENCE]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DECLARATION_OF_INDEPENDENCE</Type>
+		<Description>TXT_KEY_BUILDING_DECLARATION_OF_INDEPENDENCE</Description>
+		<DefaultBuilding>BUILDING_DECLARATION_OF_INDEPENDENCE</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[161]>>>>>>>>>>-->	
+	<Row>
+		<Type>BUILDINGCLASS_MEGA_DAM</Type>
+		<Description>TXT_KEY_BUILDING_MEGA_DAM</Description>
+		<DefaultBuilding>BUILDING_MEGA_DAM</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[162]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CONTRACEPTION</Type>
+		<Description>TXT_KEY_BUILDING_CONTRACEPTION</Description>
+		<DefaultBuilding>BUILDING_CONTRACEPTION</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>	
+	
+	<!--<<<<<<<<<<[163]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_INTERSTATE_HIGHWAY_SYSTEM</Type>
+		<Description>TXT_KEY_BUILDING_INTERSTATE_HIGHWAY_SYSTEM</Description>
+		<DefaultBuilding>BUILDING_INTERSTATE_HIGHWAY_SYSTEM</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[164]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_INTERNATIONAL_AID_ORGANIZATION</Type>
+		<Description>TXT_KEY_BUILDING_INTERNATIONAL_AID_ORGANIZATION</Description>
+		<DefaultBuilding>BUILDING_INTERNATIONAL_AID_ORGANIZATION</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[165]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SMALLPOX_ERADICATION</Type>
+		<Description>TXT_KEY_BUILDING_SMALLPOX_ERADICATION</Description>
+		<DefaultBuilding>BUILDING_SMALLPOX_ERADICATION</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[167 SILO]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SILO</Type>
+		<DefaultBuilding>BUILDING_SILO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SILO</Description>
+		<MaxPlayerInstances>2</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[168 IMPERIALER_GERICHTSHOF]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_IMPERIALER_GERICHTSHOF</Type>
+		<DefaultBuilding>BUILDING_IMPERIALER_GERICHTSHOF</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_IMPERIALER_GERICHTSHOF</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[169]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_OLYMPIADEX</Type>
+		<DefaultBuilding>BUILDING_OLYMPIADEX</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_OLYMPIADEX</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[170]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LITERARY_EPIC</Type>
+		<Description>TXT_KEY_BUILDING_LITERARY_EPIC</Description>
+		<DefaultBuilding>BUILDING_LITERARY_EPIC</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[171]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_FACEBOOK</Type>
+		<Description>TXT_KEY_BUILDING_FACEBOOK</Description>
+		<DefaultBuilding>BUILDING_FACEBOOK</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[172]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_INTERNET</Type>
+		<Description>TXT_KEY_BUILDING_INTERNET</Description>
+		<DefaultBuilding>BUILDING_INTERNET</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[173]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LARGE_HADRON_COLLIDER</Type>
+		<Description>TXT_KEY_BUILDING_LARGE_HADRON_COLLIDER</Description>
+		<DefaultBuilding>BUILDING_LARGE_HADRON_COLLIDER</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[174]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HUMAN_BRAIN_MAP</Type>
+		<Description>TXT_KEY_BUILDING_HUMAN_BRAIN_MAP</Description>
+		<DefaultBuilding>BUILDING_HUMAN_BRAIN_MAP</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[175]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GPS_SATELLITES</Type>
+		<Description>TXT_KEY_BUILDING_GPS_SATELLITES</Description>
+		<DefaultBuilding>BUILDING_GPS_SATELLITES</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[176]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CURE_FOR_CANCER</Type>
+		<Description>TXT_KEY_BUILDING_CURE_FOR_CANCER</Description>
+		<DefaultBuilding>BUILDING_CURE_FOR_CANCER</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[177]>>>>>>>>>>
+	<Row>
+		<Type>BUILDINGCLASS_APOLLO_PROGRAM</Type>
+		<Description>TXT_KEY_BUILDING_APOLLO_PROGRAM</Description>
+		<DefaultBuilding>BUILDING_APOLLO_PROGRAM</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>-->
+	
+	<!--<<<<<<<<<<[178]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NATIONAL_LABORATORY</Type>
+		<Description>TXT_KEY_BUILDING_NATIONAL_LABORATORY</Description>
+		<DefaultBuilding>BUILDING_NATIONAL_LABORATORY</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[179]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BIOTECH_INDUSTRIAL_PARK</Type>
+		<Description>TXT_KEY_BUILDING_BIOTECH_INDUSTRIAL_PARK</Description>
+		<DefaultBuilding>BUILDING_BIOTECH_INDUSTRIAL_PARK</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[180]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_X_GAMES</Type>
+		<Description>TXT_KEY_BUILDING_X_GAMES</Description>
+		<DefaultBuilding>BUILDING_X_GAMES</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[181]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NATIONAL_PARK_SERVICE</Type>
+		<Description>TXT_KEY_BUILDING_NATIONAL_PARK_SERVICE</Description>
+		<DefaultBuilding>BUILDING_NATIONAL_PARK_SERVICE</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[182]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TRANSCONTINENTAL_RAILROAD</Type>
+		<Description>TXT_KEY_BUILDING_TRANSCONTINENTAL_RAILROAD</Description>
+		<DefaultBuilding>BUILDING_TRANSCONTINENTAL_RAILROAD</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[183]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BOND_MARKET</Type>
+		<Description>TXT_KEY_BUILDING_BOND_MARKET</Description>
+		<DefaultBuilding>BUILDING_BOND_MARKET</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[184]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_RACE_TRACK</Type>
+		<Description>TXT_KEY_BUILDING_RACE_TRACK</Description>
+		<DefaultBuilding>BUILDING_RACE_TRACK</DefaultBuilding>
+		<MaxPlayerInstances>3</MaxPlayerInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[185]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_FUSION_POWER_PLANT</Type>
+		<Description>TXT_KEY_BUILDING_FUSION_POWER_PLANT</Description>
+		<DefaultBuilding>BUILDING_FUSION_POWER_PLANT</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[186]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DINOSAUR_PARK</Type>
+		<Description>TXT_KEY_BUILDING_DINOSAUR_PARK</Description>
+		<DefaultBuilding>BUILDING_DINOSAUR_PARK</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[187]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_QUANTUM_SUPERCOMPUTER</Type>
+		<Description>TXT_KEY_BUILDING_QUANTUM_SUPERCOMPUTER</Description>
+		<DefaultBuilding>BUILDING_QUANTUM_SUPERCOMPUTER</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[188]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_AI_CORE</Type>
+		<Description>TXT_KEY_BUILDING_AI_CORE</Description>
+		<DefaultBuilding>BUILDING_AI_CORE</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[188]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CYBER_COMMAND</Type>
+		<Description>TXT_KEY_BUILDING_CYBER_COMMAND</Description>
+		<DefaultBuilding>BUILDING_CYBER_COMMAND</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[189]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_IMAGINARIUM</Type>
+		<Description>TXT_KEY_BUILDING_IMAGINARIUM</Description>
+		<DefaultBuilding>BUILDING_IMAGINARIUM</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[190]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_VIRTUAL_SECURITIES_EXCHANGE</Type>
+		<Description>TXT_KEY_BUILDING_VIRTUAL_SECURITIES_EXCHANGE</Description>
+		<DefaultBuilding>BUILDING_VIRTUAL_SECURITIES_EXCHANGE</DefaultBuilding>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[191]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GIGA_TOWER</Type>
+		<Description>TXT_KEY_BUILDING_GIGA_TOWER</Description>
+		<DefaultBuilding>BUILDING_GIGA_TOWER</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[192]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BEEF_VAT</Type>
+		<Description>TXT_KEY_BUILDING_BEEF_VAT</Description>
+		<DefaultBuilding>BUILDING_BEEF_VAT</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	
+	<!--<<<<<<<<<<[193]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SPACE_ELEVATOR</Type>
+		<Description>TXT_KEY_BUILDING_SPACE_ELEVATOR</Description>
+		<DefaultBuilding>BUILDING_SPACE_ELEVATOR</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[194]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SPACE_MANIPULATION_TESTING_STATION</Type>
+		<Description>TXT_KEY_BUILDING_SPACE_MANIPULATION_TESTING_STATION</Description>
+		<DefaultBuilding>BUILDING_SPACE_MANIPULATION_TESTING_STATION</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+		
+	<!--<<<<<<<<<<[195]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_EMPATHIC_NETWORK</Type>
+		<Description>TXT_KEY_BUILDING_EMPATHIC_NETWORK</Description>
+		<DefaultBuilding>BUILDING_EMPATHIC_NETWORK</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+		
+	<!--<<<<<<<<<<[196]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ROBOTIC_EGALITARIAN_ACT</Type>
+		<Description>TXT_KEY_BUILDING_ROBOTIC_EGALITARIAN_ACT</Description>
+		<DefaultBuilding>BUILDING_ROBOTIC_EGALITARIAN_ACT</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>		
+		
+	<!--<<<<<<<<<<[197]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_OCEAN_HABITAT_PROTOTYPE</Type>
+		<Description>TXT_KEY_BUILDING_OCEAN_HABITAT_PROTOTYPE</Description>
+		<DefaultBuilding>BUILDING_OCEAN_HABITAT_PROTOTYPE</DefaultBuilding>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+
+		<!--<<<<<<<<<<[198]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MOHENJO</Type>
+		<DefaultBuilding>BUILDING_MOHENJO</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_MOHENJO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+		<!--<<<<<<<<<<[199]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HATTUSA</Type>
+		<DefaultBuilding>BUILDING_HATTUSA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HATTUSA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[200]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BAHRI</Type>
+		<DefaultBuilding>BUILDING_BAHRI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BAHRI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_STELZENDORF</Type>
+		<DefaultBuilding>BUILDING_STELZENDORF</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_STELZENDORF</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[202]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MINJAM</Type>
+		<DefaultBuilding>BUILDING_MINJAM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MINJAM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[203]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_LONGMEN</Type>
+		<DefaultBuilding>BUILDING_LONGMEN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_LONGMEN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[204]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MAGAO</Type>
+		<DefaultBuilding>BUILDING_MAGAO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MAGAO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[205]>>>>>>>>>>-->
+	<!--Row>
+		<Type>BUILDINGCLASS_TOWER</Type>
+		<DefaultBuilding>BUILDING_TOWER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TOWER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row-->
+	<!--<<<<<<<<<<[206]>>>>>>>>>>-->
+
+	<!--<<<<<<<<<<[207]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TABRIZ</Type>
+		<DefaultBuilding>BUILDING_TABRIZ</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TABRIZ</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[208]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_THRONE_ROOM</Type>
+		<DefaultBuilding>BUILDING_THRONE_ROOM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_THRONE_ROOM</Description>
+	</Row>
+	<!--<<<<<<<<<<[209]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_TREASURE_ROOM</Type>
+		<DefaultBuilding>BUILDING_TREASURE_ROOM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TREASURE_ROOM</Description>
+	</Row>
+	<!--<<<<<<<<<<[210]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALACE_GALLERY</Type>
+		<DefaultBuilding>BUILDING_PALACE_GALLERY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALACE_GALLERY</Description>
+	</Row>
+	<!--<<<<<<<<<<[211]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALACE_GARDEN</Type>
+		<DefaultBuilding>BUILDING_PALACE_GARDEN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALACE_GARDEN</Description>
+	</Row>
+	<!--<<<<<<<<<<[212]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GUARD_ROOM</Type>
+		<DefaultBuilding>BUILDING_GUARD_ROOM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GUARD_ROOM</Description>
+	</Row>
+	<!--<<<<<<<<<<[213]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALACE_OBSERVATORY</Type>
+		<DefaultBuilding>BUILDING_PALACE_OBSERVATORY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALACE_OBSERVATORY</Description>
+	</Row>
+	<!--<<<<<<<<<<[214]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DINING_ROOM</Type>
+		<DefaultBuilding>BUILDING_DINING_ROOM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DINING_ROOM</Description>
+	</Row>
+	<!--<<<<<<<<<<[215]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CONSERVATORY</Type>
+		<DefaultBuilding>BUILDING_CONSERVATORY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CONSERVATORY</Description>
+	</Row>
+	<!--<<<<<<<<<<[216]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_STAFF_HOUSING</Type>
+		<DefaultBuilding>BUILDING_STAFF_HOUSING</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_STAFF_HOUSING</Description>
+	</Row>
+	<!--<<<<<<<<<<[217]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ACREAGE</Type>
+		<DefaultBuilding>BUILDING_ACREAGE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ACREAGE</Description>
+	</Row>
+	<!--<<<<<<<<<<[218]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GREAT_HALL</Type>
+		<DefaultBuilding>BUILDING_GREAT_HALL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GREAT_HALL</Description>
+	</Row>
+	<!--<<<<<<<<<<[219]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GRAND_ENTRANCE</Type>
+		<DefaultBuilding>BUILDING_GRAND_ENTRANCE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GRAND_ENTRANCE</Description>
+	</Row>
+	<!--<<<<<<<<<<[220]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MONTMICHEL</Type>
+		<DefaultBuilding>BUILDING_MONTMICHEL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MONTMICHEL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[221]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MALBORK</Type>
+		<DefaultBuilding>BUILDING_MALBORK</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MALBORK</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[222]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KRONBORG</Type>
+		<DefaultBuilding>BUILDING_KRONBORG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KRONBORG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[223]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ZANBIL</Type>
+		<DefaultBuilding>BUILDING_ZANBIL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ZANBIL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[224]>>>>>>>>>>-->
+	
+	<!--<<<<<<<<<<[225]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ALTAR</Type>
+		<DefaultBuilding>BUILDING_ALTAR</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ALTAR</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[226]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GNOSIS</Type>
+		<DefaultBuilding>BUILDING_GNOSIS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GNOSIS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[227]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SCHREIBSTUBE</Type>
+		<DefaultBuilding>BUILDING_SCHREIBSTUBE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SCHREIBSTUBE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[228]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALACE_THERME</Type>
+		<DefaultBuilding>BUILDING_PALACE_THERME</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALACE_THERME</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[229]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CARCASSONNE</Type>
+		<DefaultBuilding>BUILDING_CARCASSONNE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CARCASSONNE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[230]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALAST_VERLIESS</Type>
+		<DefaultBuilding>BUILDING_PALAST_VERLIESS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALAST_VERLIESS</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[231]>>>>>>>>>>-->
+	
+	<!--<<<<<<<<<<[232]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ORGIE</Type>
+		<DefaultBuilding>BUILDING_ORGIE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ORGIE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+<!--<<<<<<<<<<[233]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GIGANT</Type>
+	<DefaultBuilding>BUILDING_GIGANT</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_GIGANT</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+<!--<<<<<<<<<<[234]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CODEX</Type>
+	<DefaultBuilding>BUILDING_CODEX</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CODEX</Description>
+</Row>
+<!--<<<<<<<<<<[235]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SCHATZHAUS</Type>
+	<DefaultBuilding>BUILDING_SCHATZHAUS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SCHATZHAUS</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NIMROD</Type>
+	<DefaultBuilding>BUILDING_NIMROD</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NIMROD</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FOUNDER_TEMPLE</Type>
+	<DefaultBuilding>BUILDING_FOUNDER_TEMPLE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FOUNDER_TEMPLE</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GATE_PA</Type>
+	<DefaultBuilding>BUILDING_GATE_PA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_GATE_PA</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_EUREKA</Type>
+	<DefaultBuilding>BUILDING_EUREKA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_EUREKA</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SENAT</Type>
+	<DefaultBuilding>BUILDING_SENAT</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SENAT</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ALCATRAZ</Type>
+	<DefaultBuilding>BUILDING_ALCATRAZ</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ALCATRAZ</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HAWA</Type>
+	<DefaultBuilding>BUILDING_HAWA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_HAWA</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MAHADEVA</Type>
+	<DefaultBuilding>BUILDING_MAHADEVA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_MAHADEVA</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_AGRA</Type>
+	<DefaultBuilding>BUILDING_AGRA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_AGRA</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ABER</Type>
+	<DefaultBuilding>BUILDING_ABER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ABER</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HARMANDIR</Type>
+	<DefaultBuilding>BUILDING_HARMANDIR</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_HARMANDIR</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GARDENSUZHOU</Type>
+	<DefaultBuilding>BUILDING_GARDENSUZHOU</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_GARDENSUZHOU</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ETEMENANKI</Type>
+	<DefaultBuilding>BUILDING_ETEMENANKI</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ETEMENANKI</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FORUM</Type>
+	<DefaultBuilding>BUILDING_FORUM</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FORUM</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CONSTANT_HIPPO</Type>
+	<DefaultBuilding>BUILDING_CONSTANT_HIPPO</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CONSTANT_HIPPO</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PALACE_STABLES</Type>
+	<DefaultBuilding>BUILDING_PALACE_STABLES</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PALACE_STABLES</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BETHCHURCH</Type>
+	<DefaultBuilding>BUILDING_BETHCHURCH</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_BETHCHURCH</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HOFBURG</Type>
+	<DefaultBuilding>BUILDING_HOFBURG</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_HOFBURG</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MATSUMOTO</Type>
+	<DefaultBuilding>BUILDING_MATSUMOTO</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_MATSUMOTO</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PAMUKKALE</Type>
+	<DefaultBuilding>BUILDING_PAMUKKALE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PAMUKKALE</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PRACA_COMERCIO</Type>
+	<DefaultBuilding>BUILDING_PRACA_COMERCIO</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PRACA_COMERCIO</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SUMMERP</Type>
+	<DefaultBuilding>BUILDING_SUMMERP</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SUMMERP</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_STAMBHA</Type>
+	<DefaultBuilding>BUILDING_STAMBHA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_STAMBHA</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NABWI</Type>
+	<DefaultBuilding>BUILDING_NABWI</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NABWI</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ASSISI</Type>
+	<DefaultBuilding>BUILDING_ASSISI</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ASSISI</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>
+<Row>
+	<Type>BUILDINGCLASS_SUMMERRP</Type>
+	<DefaultBuilding>BUILDING_SUMMERRP</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SUMMERRP</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>>-->
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GARNIER</Type>
+	<DefaultBuilding>BUILDING_GARNIER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_GARNIER</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_LA_MAESTRANZA</Type>
+	<DefaultBuilding>BUILDING_LA_MAESTRANZA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_LA_MAESTRANZA</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_RILA</Type>
+		<DefaultBuilding>BUILDING_RILA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_RILA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BELLAGIO</Type>
+	<DefaultBuilding>BUILDING_BELLAGIO</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_BELLAGIO</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GRANDBAZAAR</Type>
+	<DefaultBuilding>BUILDING_GRANDBAZAAR</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_GRANDBAZAAR</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_KEUKONHOF</Type>
+	<DefaultBuilding>BUILDING_KEUKONHOF</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_KEUKONHOF</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MBAYSANDS</Type>
+	<DefaultBuilding>BUILDING_MBAYSANDS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_MBAYSANDS</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_OTTAWAGOVERN</Type>
+	<DefaultBuilding>BUILDING_OTTAWAGOVERN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_OTTAWAGOVERN</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_COLON</Type>
+	<DefaultBuilding>BUILDING_COLON</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_COLON</Description>
+	<MaxGlobalInstances>1</MaxGlobalInstances>
+</Row>
+	
+	
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HAREM</Type>
+		<DefaultBuilding>BUILDING_HAREM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HAREM</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_RITUELLE_ZEREMONIE</Type>
+		<DefaultBuilding>BUILDING_RITUELLE_ZEREMONIE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_RITUELLE_ZEREMONIE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ROYAL_CASTLE</Type>
+		<DefaultBuilding>BUILDING_ROYAL_CASTLE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ROYAL_CASTLE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DOLMABAHCE</Type>
+		<DefaultBuilding>BUILDING_DOLMABAHCE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DOLMABAHCE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_DIENER</Type>
+		<DefaultBuilding>BUILDING_DIENER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DIENER</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ALAQSA</Type>
+		<DefaultBuilding>BUILDING_ALAQSA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ALAQSA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KGB</Type>
+		<DefaultBuilding>BUILDING_KGB</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KGB</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CARTAGENA</Type>
+		<DefaultBuilding>BUILDING_CARTAGENA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CARTAGENA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SANTIAGO</Type>
+		<DefaultBuilding>BUILDING_SANTIAGO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SANTIAGO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_YAZD</Type>
+		<DefaultBuilding>BUILDING_YAZD</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_YAZD</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KANDY_TEMPLE</Type>
+		<DefaultBuilding>BUILDING_KANDY_TEMPLE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KANDY_TEMPLE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ARUN</Type>
+		<DefaultBuilding>BUILDING_ARUN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ARUN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GRANDDHABI</Type>
+		<DefaultBuilding>BUILDING_GRANDDHABI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GRANDDHABI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SCHONBRUNN</Type>
+		<DefaultBuilding>BUILDING_SCHONBRUNN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SCHONBRUNN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_VERSAILLES</Type>
+		<DefaultBuilding>BUILDING_VERSAILLES</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_VERSAILLES</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BARDO</Type>
+		<DefaultBuilding>BUILDING_BARDO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BARDO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HOHENZOLLERN</Type>
+		<DefaultBuilding>BUILDING_HOHENZOLLERN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HOHENZOLLERN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_WILLIS</Type>
+		<DefaultBuilding>BUILDING_WILLIS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WILLIS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MET</Type>
+		<DefaultBuilding>BUILDING_MET</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MET</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_KAIROUAN</Type>
+		<DefaultBuilding>BUILDING_KAIROUAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KAIROUAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GYEONGBOKGUNG</Type>
+		<DefaultBuilding>BUILDING_GYEONGBOKGUNG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GYEONGBOKGUNG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CHEVALIERS</Type>
+		<DefaultBuilding>BUILDING_CHEVALIERS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CHEVALIERS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ANDREWKIEV</Type>
+		<DefaultBuilding>BUILDING_ANDREWKIEV</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ANDREWKIEV</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_THEATRO_MUNICIPAL</Type>
+		<DefaultBuilding>BUILDING_THEATRO_MUNICIPAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_THEATRO_MUNICIPAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_FUJIAN</Type>
+		<DefaultBuilding>BUILDING_FUJIAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_FUJIAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_RIJKSMUSEUM</Type>
+		<DefaultBuilding>BUILDING_RIJKSMUSEUM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_RIJKSMUSEUM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PREAL</Type>
+		<DefaultBuilding>BUILDING_PREAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PREAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_UCH</Type>
+		<DefaultBuilding>BUILDING_UCH</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_UCH</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MEDINAMARRAKECH</Type>
+		<DefaultBuilding>BUILDING_MEDINAMARRAKECH</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MEDINAMARRAKECH</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NOTREDAME_MONTREAL</Type>
+		<DefaultBuilding>BUILDING_NOTREDAME_MONTREAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NOTREDAME_MONTREAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MIAPOLISCT</Type>
+		<DefaultBuilding>BUILDING_MIAPOLISCT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MIAPOLISCT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALACE_ALCHEMY_HALL</Type>
+		<DefaultBuilding>BUILDING_PALACE_ALCHEMY_HALL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALACE_ALCHEMY_HALL</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_FIRSTBANK</Type>
+		<DefaultBuilding>BUILDING_FIRSTBANK</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_FIRSTBANK</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ROM</Type>
+		<DefaultBuilding>BUILDING_ROM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ROM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MOON_COLONY</Type>
+		<DefaultBuilding>BUILDING_MOON_COLONY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MOON_COLONY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MADAIN_SALEH</Type>
+		<DefaultBuilding>BUILDING_MADAIN_SALEH</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MADAIN_SALEH</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[Added 30.7.14]>>>>>>>>>>-->
+	
+	<Row>
+		<Type>BUILDINGCLASS_HMEXICO</Type>
+		<DefaultBuilding>BUILDING_HMEXICO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HMEXICO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->	
+	<Row>
+		<Type>BUILDINGCLASS_PERSEPOLIS</Type>
+		<DefaultBuilding>BUILDING_PERSEPOLIS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PERSEPOLIS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+
+	<Row>
+		<Type>BUILDINGCLASS_GRAND_PALACE</Type>
+		<DefaultBuilding>BUILDING_GRAND_PALACE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GRAND_PALACE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[Added 29.7.14]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MEVLANA</Type>
+		<DefaultBuilding>BUILDING_MEVLANA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MEVLANA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_HUNGARYPARLIAMENT</Type>
+		<DefaultBuilding>BUILDING_HUNGARYPARLIAMENT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HUNGARYPARLIAMENT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_TRAFALGAR</Type>
+		<DefaultBuilding>BUILDING_TRAFALGAR</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TRAFALGAR</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NQJ</Type>
+		<DefaultBuilding>BUILDING_NQJ</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NQJ</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_BAGAN</Type>
+		<DefaultBuilding>BUILDING_BAGAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BAGAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_PRAGUE_CASTLE</Type>
+		<DefaultBuilding>BUILDING_PRAGUE_CASTLE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PRAGUE_CASTLE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MUSEUM_ISLAND</Type>
+		<DefaultBuilding>BUILDING_MUSEUM_ISLAND</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MUSEUM_ISLAND</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_FREEDOMTOWER</Type>
+		<DefaultBuilding>BUILDING_FREEDOMTOWER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_FREEDOMTOWER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_WESTMINSTER</Type>
+		<DefaultBuilding>BUILDING_WESTMINSTER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WESTMINSTER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_TAISHAN</Type>
+		<DefaultBuilding>BUILDING_TAISHAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TAISHAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>	
+	
+	<Row>
+		<Type>BUILDINGCLASS_PAUL</Type>
+		<DefaultBuilding>BUILDING_PAUL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PAUL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>	
+	<Row>
+		<Type>BUILDINGCLASS_KIYOMIZU</Type>
+		<DefaultBuilding>BUILDING_KIYOMIZU</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KIYOMIZU</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MONTE_CARLO</Type>
+		<DefaultBuilding>BUILDING_MONTE_CARLO</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_MONTE_CARLO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_TRIOMPHE</Type>
+		<DefaultBuilding>BUILDING_TRIOMPHE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TRIOMPHE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_UMAYYAD</Type>
+		<DefaultBuilding>BUILDING_UMAYYAD</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_UMAYYAD</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<Row>
+		<Type>BUILDINGCLASS_SHAHI</Type>
+		<DefaultBuilding>BUILDING_SHAHI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SHAHI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<Row>
+		<Type>BUILDINGCLASS_SELIMIYE</Type>
+		<DefaultBuilding>BUILDING_SELIMIYE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SELIMIYE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_PETERHOF</Type>
+		<DefaultBuilding>BUILDING_PETERHOF</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PETERHOF</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_PUUKOHOLA_HEIAU</Type>
+		<DefaultBuilding>BUILDING_PUUKOHOLA_HEIAU</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PUUKOHOLA_HEIAU</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<!--<<<<<<<<<<[201]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_NATIONAL_PRISON</Type>
+		<DefaultBuilding>BUILDING_NATIONAL_PRISON</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NATIONAL_PRISON</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_PLANETARY_DATALINKS</Type>
+		<DefaultBuilding>BUILDING_PLANETARY_DATALINKS</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_PLANETARY_DATALINKS</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_PLANETARY_TRANSIT_SYSTEM</Type>
+		<DefaultBuilding>BUILDING_PLANETARY_TRANSIT_SYSTEM</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_PLANETARY_TRANSIT_SYSTEM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_LONGEVITY_VACCINE</Type>
+		<DefaultBuilding>BUILDING_LONGEVITY_VACCINE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_LONGEVITY_VACCINE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_PLANETARY_ENERGY_GRID</Type>
+		<DefaultBuilding>BUILDING_PLANETARY_ENERGY_GRID</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_PLANETARY_ENERGY_GRID</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_HUNTER_SEEKER_ALGORITHM</Type>
+		<DefaultBuilding>BUILDING_HUNTER_SEEKER_ALGORITHM</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_HUNTER_SEEKER_ALGORITHM</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_VIRTUAL_WORLD</Type>
+		<DefaultBuilding>BUILDING_VIRTUAL_WORLD</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_VIRTUAL_WORLD</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MERCHANT_EXCHANGE</Type>
+		<DefaultBuilding>BUILDING_MERCHANT_EXCHANGE</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_MERCHANT_EXCHANGE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NETHACK_TERMINUS</Type>
+		<DefaultBuilding>BUILDING_NETHACK_TERMINUS</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_NETHACK_TERMINUS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_WEATHER_PARADIGM</Type>
+		<DefaultBuilding>BUILDING_WEATHER_PARADIGM</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_WEATHER_PARADIGM</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_YONAGUNI</Type>
+		<DefaultBuilding>BUILDING_YONAGUNI</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_YONAGUNI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_EXPEDITION</Type>
+		<DefaultBuilding>BUILDING_EXPEDITION</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_EXPEDITION</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+	<Row>
+		<Type>BUILDINGCLASS_SUBTERRANEAN_COLONY</Type>
+		<DefaultBuilding>BUILDING_SUBTERRANEAN_COLONY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SUBTERRANEAN_COLONY</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	
+	<Row>
+		<Type>BUILDINGCLASS_HEALTH1</Type>
+		<DefaultBuilding>BUILDING_HEALTH1</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_HEALTH1</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_HEALTH2</Type>
+		<DefaultBuilding>BUILDING_HEALTH2</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_HEALTH2</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_HEALTH3</Type>
+		<DefaultBuilding>BUILDING_HEALTH3</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_HEALTH3</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_SKUNKWORKS</Type>
+		<DefaultBuilding>BUILDING_SKUNKWORKS</DefaultBuilding>
+		<Description>TXT_KEY_WONDER_SKUNKWORKS</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_VENICE</Type>
+		<DefaultBuilding>BUILDING_VENICE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_VENICE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MARIA</Type>
+		<DefaultBuilding>BUILDING_MARIA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MARIA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+    <Row>
+		<Type>BUILDINGCLASS_NIKKO</Type>
+		<DefaultBuilding>BUILDING_NIKKO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NIKKO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_STEPHANSDOM</Type>
+		<DefaultBuilding>BUILDING_STEPHANSDOM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_STEPHANSDOM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_ARTCHICAGO</Type>
+		<DefaultBuilding>BUILDING_ARTCHICAGO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ARTCHICAGO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>	
+	<Row>
+		<Type>BUILDINGCLASS_CANWONDER</Type>
+		<DefaultBuilding>BUILDING_CANWONDER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CANWONDER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_KRIEGSMINISTERIUM</Type>
+		<DefaultBuilding>BUILDING_KRIEGSMINISTERIUM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KRIEGSMINISTERIUM</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_BIG_BROTHER</Type>
+		<DefaultBuilding>BUILDING_BIG_BROTHER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BIG_BROTHER</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NATIONAL_BOTANY</Type>
+		<DefaultBuilding>BUILDING_NATIONAL_BOTANY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NATIONAL_BOTANY</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_HYPER</Type>
+		<DefaultBuilding>BUILDING_HYPER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HYPER</Description>
+		<MaxPlayerInstances>3</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NEBANK</Type>
+		<DefaultBuilding>BUILDING_NEBANK</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NEBANK</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_SPRACHE</Type>
+		<DefaultBuilding>BUILDING_SPRACHE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SPRACHE</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_APOLLO</Type>
+		<DefaultBuilding>BUILDING_APOLLO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_APOLLO</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_REGISTAN</Type>
+		<DefaultBuilding>BUILDING_REGISTAN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_REGISTAN</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_ELYSEES</Type>
+		<DefaultBuilding>BUILDING_ELYSEES</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CHAMPSELYSEES</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+    <Row>
+		<Type>BUILDINGCLASS_FRONTENAC</Type>
+		<DefaultBuilding>BUILDING_FRONTENAC</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_FRONTENAC</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_GUYAJU</Type>
+		<DefaultBuilding>BUILDING_GUYAJU</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GUYAJU</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_VENUS</Type>
+		<DefaultBuilding>BUILDING_VENUS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_VENUS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_UGARIT</Type>
+		<DefaultBuilding>BUILDING_UGARIT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_UGARIT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+    <Row>
+		<Type>BUILDINGCLASS_AKRO</Type>
+		<DefaultBuilding>BUILDING_AKRO</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_AKRO</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_SOTOWER</Type>
+		<DefaultBuilding>BUILDING_SOTOWER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SOTOWER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_GUNUNG</Type>
+		<DefaultBuilding>BUILDING_GUNUNG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GUNUNG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_BAYER</Type>
+		<DefaultBuilding>BUILDING_BAYER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BAYER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_OCITY</Type>
+		<DefaultBuilding>BUILDING_OCITY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_OCITY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_FCITY</Type>
+		<DefaultBuilding>BUILDING_FCITY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_FCITY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_WDOME</Type>
+		<DefaultBuilding>BUILDING_WDOME</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_WDOME</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_LUNI</Type>
+		<DefaultBuilding>BUILDING_LUNI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_LUNI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_EMPATH_GUILD</Type>
+		<DefaultBuilding>BUILDING_EMPATH_GUILD</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_EMPATH_GUILD</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_BULK_MATTER_TRANSMITTER</Type>
+		<DefaultBuilding>BUILDING_BULK_MATTER_TRANSMITTER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BULK_MATTER_TRANSMITTER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_DREAM_TWISTER</Type>
+		<DefaultBuilding>BUILDING_DREAM_TWISTER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DREAM_TWISTER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NEURAL_AMPLIFIER</Type>
+		<DefaultBuilding>BUILDING_NEURAL_AMPLIFIER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NEURAL_AMPLIFIER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_TELEPATHIC_MATRIX</Type>
+		<DefaultBuilding>BUILDING_TELEPATHIC_MATRIX</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TELEPATHIC_MATRIX</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_THEORY_OF_EVERYTHING</Type>
+		<DefaultBuilding>BUILDING_THEORY_OF_EVERYTHING</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_THEORY_OF_EVERYTHING</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NETWORK_BACKBONE</Type>
+		<DefaultBuilding>BUILDING_NETWORK_BACKBONE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NETWORK_BACKBONE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MANIFOLD_HARMONICS</Type>
+		<DefaultBuilding>BUILDING_MANIFOLD_HARMONICS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MANIFOLD_HARMONICS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_BUCKINGHAM</Type>
+		<DefaultBuilding>BUILDING_BUCKINGHAM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BUCKINGHAM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_TERRA_COMPUTER</Type>
+		<DefaultBuilding>BUILDING_TERRA_COMPUTER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TERRA_COMPUTER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CLONING_VATS</Type>
+		<DefaultBuilding>BUILDING_CLONING_VATS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CLONING_VATS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CLINICAL_IMMORTALITY</Type>
+		<DefaultBuilding>BUILDING_CLINICAL_IMMORTALITY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CLINICAL_IMMORTALITY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_DWARF</Type>
+		<DefaultBuilding>BUILDING_DWARF</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DWARF</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CARNAC</Type>
+		<DefaultBuilding>BUILDING_CARNAC</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CARNAC</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CATAL</Type>
+		<DefaultBuilding>BUILDING_CATAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CATAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_ATLIT_YAM</Type>
+		<DefaultBuilding>BUILDING_ATLIT_YAM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ATLIT_YAM</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NEBRA</Type>
+		<DefaultBuilding>BUILDING_NEBRA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NEBRA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_OSIRION</Type>
+		<DefaultBuilding>BUILDING_OSIRION</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_OSIRION</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_REICHSTAG</Type>
+		<DefaultBuilding>BUILDING_REICHSTAG</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_REICHSTAG</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_INDRA</Type>
+		<DefaultBuilding>BUILDING_INDRA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_INDRA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_DIONYSUS</Type>
+		<DefaultBuilding>BUILDING_DIONYSUS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DIONYSUS</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_ANTI</Type>
+		<DefaultBuilding>BUILDING_ANTI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ANTI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CHALL</Type>
+		<DefaultBuilding>BUILDING_CHALL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CHALL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_RESURRECTION_DEVICE</Type>
+		<DefaultBuilding>BUILDING_RESURRECTION_DEVICE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_RESURRECTION_DEVICE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_PRECOG_PROJECT</Type>
+		<DefaultBuilding>BUILDING_PRECOG_PROJECT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PRECOG_PROJECT</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MASTER_CONTROL</Type>
+		<DefaultBuilding>BUILDING_MASTER_CONTROL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MASTER_CONTROL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CYBORG_FACTORY</Type>
+		<DefaultBuilding>BUILDING_CYBORG_FACTORY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CYBORG_FACTORY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_QUANTUM_TELEPORTER</Type>
+		<DefaultBuilding>BUILDING_QUANTUM_TELEPORTER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_QUANTUM_TELEPORTER</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MARKOV_ECLIPSE</Type>
+		<DefaultBuilding>BUILDING_MARKOV_ECLIPSE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MARKOV_ECLIPSE</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NGUARD</Type>
+		<DefaultBuilding>BUILDING_NGUARD</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NGUARD</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_NPRESS</Type>
+		<DefaultBuilding>BUILDING_NPRESS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NPRESS</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_MCONTROL</Type>
+		<DefaultBuilding>BUILDING_MCONTROL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MCONTROL</Description>
+		<MaxPlayerInstances>1</MaxPlayerInstances>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_GENEJACK_FACTORY</Type>
+		<DefaultBuilding>BUILDING_GENEJACK_FACTORY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GENEJACK_FACTORY</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<!--<<<<<<<<<<[Added 29.7.14]>>>>>>>>>>
+	
+
+	
+	
+	
+	<Row>
+		<Type>BUILDINGCLASS_NQJ</Type>
+		<DefaultBuilding>BUILDING_NQJ</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_NQJ</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+
+	
+	<Row>
+		<Type>BUILDINGCLASS_KONGSI</Type>
+		<DefaultBuilding>BUILDING_KONGSI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_KONGSI</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	<Row>
+		<Type>BUILDINGCLASS_ABRAJ</Type>
+		<DefaultBuilding>BUILDING_ABRAJ</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ABRAJ</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+	
+	<Row>
+		<Type>BUILDINGCLASS_MEVLANA</Type>
+		<DefaultBuilding>BUILDING_MEVLANA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MEVLANA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	<Row>
+		<Type>BUILDINGCLASS_STATEHISTORICAL</Type>
+		<DefaultBuilding>BUILDING_STATEHISTORICAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_STATEHISTORICAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+	
+	<Row>
+		<Type>BUILDINGCLASS_QUIRINAL</Type>
+		<DefaultBuilding>BUILDING_QUIRINAL</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_QUIRINAL</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+
+
+	
+	<Row>
+		<Type>BUILDINGCLASS_CORDOBA</Type>
+		<DefaultBuilding>BUILDING_CORDOBA</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CORDOBA</Description>
+		<MaxGlobalInstances>1</MaxGlobalInstances>
+	</Row>
+	
+-->
+</BuildingClasses>	
+
+<!--Have a nice Day:=)-->
+</GameData>

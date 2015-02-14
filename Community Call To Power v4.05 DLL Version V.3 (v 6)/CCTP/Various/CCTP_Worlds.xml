@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch -->
+<GameData>
+	<!--Worlds-->
+	<Worlds>
+		<Update>
+			<Set  FogTilesPerBarbarianCamp="10" NumCitiesTechCostMod="10" NumCitiesPolicyCostMod="40" ResearchPercent="130"/>
+			<Where Type="WORLDSIZE_DUEL"/>
+		</Update>
+		<Update>
+			<Set  FogTilesPerBarbarianCamp="14" NumCitiesTechCostMod="10" NumCitiesPolicyCostMod="35" ResearchPercent="145"/>
+			<Where Type="WORLDSIZE_TINY"/>
+		</Update>
+		<Update>
+			<Set MaxActiveReligions="4" FogTilesPerBarbarianCamp="18" NumCitiesTechCostMod="5" NumCitiesPolicyCostMod="30" ResearchPercent="150"/>
+			<Where Type="WORLDSIZE_SMALL"/>
+		</Update>
+		<Update>
+			<Set MaxActiveReligions="6" FogTilesPerBarbarianCamp="22" NumCitiesTechCostMod="4" NumCitiesPolicyCostMod="25" ResearchPercent="155"/>
+			<Where Type="WORLDSIZE_STANDARD"/>
+		</Update>
+		<Update>
+			<Set MaxActiveReligions="8" FogTilesPerBarbarianCamp="26" NumCitiesTechCostMod="3" NumCitiesPolicyCostMod="20" NumCitiesUnhappinessPercent="95" ResearchPercent="160"/>
+			<Where Type="WORLDSIZE_LARGE"/>
+		</Update>
+		<Update>
+			<Set GridWidth="136" GridHeight="86" MaxActiveReligions="9" FogTilesPerBarbarianCamp="28" NumCitiesTechCostMod="15" NumCitiesPolicyCostMod="15" NumCitiesUnhappinessPercent="85" ResearchPercent="170"/>
+			<Where Type="WORLDSIZE_HUGE"/>
+		</Update>
+	</Worlds>
+	<!--Have a nice Day:=)-->
+</GameData>

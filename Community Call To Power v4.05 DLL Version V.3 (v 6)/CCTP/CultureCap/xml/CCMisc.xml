@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<GameData>
+	<Table name="CCMapScales">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" reference="Worlds(Type)" unique="true"/>
+		<Column name="NoOfCityModifier" type="float" default="1.0" /> <!-- For No of city requirement -->
+		<Column name="CityMalusModifier" type="float" default="0.25" /> <!-- Malus for election points -->
+	</Table>
+	<CCMapScales>
+		<Row>
+			<ID>0</ID>
+			<Type>WORLDSIZE_DUEL</Type>
+			<NoOfCityModifier>0.5</NoOfCityModifier>
+			<CityMalusModifier>0.30</CityMalusModifier>
+		</Row>
+		<Row>
+			<Type>WORLDSIZE_TINY</Type>
+			<NoOfCityModifier>0.5</NoOfCityModifier>
+			<CityMalusModifier>0.30</CityMalusModifier>
+		</Row>
+		<Row>
+			<Type>WORLDSIZE_SMALL</Type>
+			<NoOfCityModifier>0.75</NoOfCityModifier>
+			<CityMalusModifier>0.25</CityMalusModifier>
+		</Row>
+		<Row>
+			<Type>WORLDSIZE_STANDARD</Type>
+			<NoOfCityModifier>1.0</NoOfCityModifier>
+			<CityMalusModifier>0.25</CityMalusModifier>
+		</Row>
+		<Row>
+			<Type>WORLDSIZE_LARGE</Type>
+			<NoOfCityModifier>1.5</NoOfCityModifier>
+			<CityMalusModifier>0.20</CityMalusModifier>
+		</Row>
+		<Row>
+			<Type>WORLDSIZE_HUGE</Type>
+			<NoOfCityModifier>2.0</NoOfCityModifier>
+			<CityMalusModifier>0.20</CityMalusModifier>
+		</Row>
+	</CCMapScales>
+
+	<Table name="CCSpeedScales">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" reference="GameSpeeds(Type)" unique="true"/>
+		<Column name="Duration" type="integer" default="10" />
+		<Column name="BribeDuration" type="integer" default="10" />
+		<Column name="BribeCooldown" type="integer" default="10" />
+		<Column name="ThresholdModifier" type="float" default="1.0" /> <!-- Threshold Mod for next election-->
+		
+		<!-- Bonus Scalers -->
+		<Column name="GlobalModifier" type="float" default="1.0" />
+	</Table>
+	<CCSpeedScales>
+		<Row>
+			<ID>0</ID>
+			<Type>GAMESPEED_MARATHON</Type>
+			<Duration>30</Duration>
+			<BribeDuration>9</BribeDuration>
+			<BribeCooldown>36</BribeCooldown>
+			<ThresholdModifier>3.0</ThresholdModifier>
+			<GlobalModifier>3.0</GlobalModifier>
+		</Row>
+		<Row>
+			<Type>GAMESPEED_EPIC</Type>
+			<Duration>15</Duration>
+			<BribeDuration>5</BribeDuration>
+			<BribeCooldown>18</BribeCooldown>
+			<ThresholdModifier>1.5</ThresholdModifier>
+			<GlobalModifier>1.5</GlobalModifier>
+		</Row>
+		<Row>
+			<Type>GAMESPEED_STANDARD</Type>
+			<Duration>10</Duration>
+			<BribeDuration>3</BribeDuration>
+			<BribeCooldown>12</BribeCooldown>
+			<ThresholdModifier>1.0</ThresholdModifier>
+			<GlobalModifier>1.0</GlobalModifier>
+		</Row>
+		<Row>
+			<Type>GAMESPEED_QUICK</Type>
+			<Duration>7</Duration>
+			<BribeDuration>2</BribeDuration>
+			<BribeCooldown>9</BribeCooldown>
+			<ThresholdModifier>0.67</ThresholdModifier>
+			<GlobalModifier>0.67</GlobalModifier>
+		</Row>
+	</CCSpeedScales>
+
+	<GameOptions>
+		<Row>
+			<Type>GAMEOPTION_CULTURALCAPITALS</Type>
+			<Description>TXT_KEY_GAME_OPTION_CULTURALCAPITALS</Description>
+			<Help>TXT_KEY_GAME_OPTION_CULTURALCAPITALS_HELP</Help>
+			<Default>true</Default>
+		</Row>
+	</GameOptions>
+	
+  <Defines>
+    <Row Name="CC_PROGRESSINCREASE_BASE">
+      <Value>20</Value>
+    </Row>
+    <Row Name="CC_PROGRESSINCREASE_PERELECTION">
+      <Value>20</Value>
+    </Row>
+		<Row Name="CC_PROGRESSINCREASE_EXPONENT">
+			<Value>1.20</Value>
+		</Row>
+		<Row Name="CC_PROGRESSINCREASE_TURNMODIFIER"> <!-- adds n * turnselapsed -->
+			<Value>0.15</Value>
+		</Row>
+    <Row Name="CC_PROGRESS_VISIBLEDIVISOR"> <!-- Points needed for the win will be rounded to this value -->
+      <Value>25</Value>
+    </Row>
+    <Row Name="CC_WONDERSREQUIRED"> <!-- Amount of wonders a player needs to form the cultural committee -->
+      <Value>3</Value>
+    </Row>
+		<Row Name="CC_CITYELECTION_POPMOD"> <!-- Multiplier with average city-Population; the lower the more cities can become eligible as cultural capital; if avg size=4 and the value=0.75 => cities must be >= size 3 -->
+			<Value>1.25</Value>
+		</Row>
+		<Row Name="CC_CITYELECTION_CULTUREMOD"> <!-- Multiplier with average city-Culture -->
+			<Value>0.75</Value>
+		</Row>
+		<Row Name="CC_PROGRESS_WONDERSREQUIRED"> <!-- The player needs this amount of wonders to gain election Points -->
+			<Value>0</Value>
+		</Row>
+    <Row Name="CC_MINORCIV_BONUSPERCENTAGE"> <!-- Bonus culture percentage you get from cultural city states for the race  -->
+      <Value>100</Value>
+    </Row>
+    <Row Name="CC_WONDERS_BONUSPERCENTAGE"> <!-- Bonus percentage you get from world wonders (total culture per turn * (noOfWonders * (value / 100)))  -->
+      <Value>5</Value>
+    </Row>
+		<Row Name="CC_LASTWIN_MALUS"> <!-- Malus you get when you have won the last election  -->
+			<Value>80</Value>
+		</Row>
+		<Row Name="CC_OVERVIEW_PROGRESS_FUZZINESS">
+			<!-- Defines in how many segments the progress in the progressview will be devided; must be above 0 -->
+			<Value>5</Value>
+		</Row>
+		<Row Name="CC_USE_COMMITTEESTART">
+			<!-- Defines whether or not the election start instantly or with the forming of the committee, giving the committee-building to the instigating player-->
+			<Value>1</Value>
+		</Row>
+		<Row Name="CC_BUILDINGCLASS_COMMITTEE">
+			<!-- The building class (and its default building) used when using committeestart -->
+			<Value>BUILDINGCLASS_CC_COMMITTEE</Value>
+		</Row>
+		
+		<!-- Bribing -->
+		<Row Name="CC_BRIBE_ALLOWED"> <!-- Defines if the players are allowed to bribe the committee for election points -->
+			<Value>1</Value>
+		</Row>
+		<Row Name="CC_BRIBE_BASECOST">
+			<Value>60</Value>
+		</Row>
+		<Row Name="CC_BRIBE_COSTINCREASE_PERBRIBE">
+			<Value>90</Value>
+		</Row>
+		<Row Name="CC_BRIBE_COSTINCREASE_PERERA">
+			<Value>60</Value>
+		</Row>
+		<Row Name="CC_BRIBE_BONUSPERCENTAGE"> <!-- Defines how much will be election points will be additionally gained from bribing-->
+			<Value>100</Value>
+		</Row>
+		<!-- /Bribing -->
+		
+		<!-- AI Stuff -->
+		<Row Name="CC_AI_NEEDS_HAPPINESS_THRESHOLD"> <!-- When the AI's Happiness drops below this value, it will set FLAVOR_HAPPINESS themes on its priority list -->
+			<Value>5</Value>
+		</Row>
+		<Row Name="CC_AI_NEEDS_GOLD_THRESHOLD"> <!-- Scales with GameSpeed; When the AI's Gold drops below this value and has too little income, it will set FLAVOR_GOLD themes on its priority list -->
+			<Value>250</Value>
+		</Row>
+		<Row Name="CC_AI_NEEDS_INCOME_THRESHOLD"><!-- When the AI needs Gold and its Income drops below this value and has a negative income, it will set FLAVOR_GOLD themes on its priority list; -->
+			<Value>0</Value>
+		</Row>
+
+		<Row Name="CC_AI_BRIBE_MINGOLDNEEDED_MOD"> <!-- The AI needs at least this value times bribe amount to consider bribing -->
+			<Value>2.0</Value>
+		</Row>
+		<Row Name="CC_AI_BRIBE_ALWAYSBRIBE_MOD"> <!-- Player will always bribe if he has more gold than n-times bribecost -->
+			<Value>10.0</Value>
+		</Row>
+		<Row Name="CC_AI_BRIBE_FLAVOR_CULTURE_WEIGHT">
+			<Value>4.5</Value>
+		</Row>
+		<Row Name="CC_AI_BRIBE_FLAVOR_WONDER_WEIGHT">
+			<Value>2.5</Value>
+		</Row>
+		<Row Name="CC_AI_BRIBE_FLAVOR_INFRASTRUCTURE_WEIGHT">
+			<Value>1.5</Value>
+		</Row>
+		<Row Name="CC_AI_BRIBE_FLAVOR_GROWTH_WEIGHT">
+			<Value>1.5</Value>
+		</Row>
+		
+		<!-- ## Debugging ## -->
+		
+		<!-- !!! NOTE to myself: Don't forget disabling isdebug in CCTypes.xml !!! -->
+		<Row Name="CC_FASTDEBUG"> <!-- Committee will be formed after the n-th turn in the capital; sets variables to low values; 0 = disabled -->
+			<Value>0</Value>
+		</Row>
+		<Row Name="CC_FASTDEBUG_PLAYER"> <!-- Defines which player (by id) will win when fastdebug is on (0 = human) -->
+			<Value>0</Value>
+		</Row>
+		<Row Name="CC_DEBUG"> <!-- Defines whether or not to output debug text -->
+			<Value>0</Value>
+		</Row>
+  </Defines>
+</GameData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="TRADE_WONDER_RESOURCE_ROUTES"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<Resources>
+		<Update>
+			<Where Type="RESOURCE_MARBLE"/>
+			<Set WonderProductionModObsoleteEra="ERA_INDUSTRIAL"/>
+		</Update>
+	</Resources>
+</GameData>

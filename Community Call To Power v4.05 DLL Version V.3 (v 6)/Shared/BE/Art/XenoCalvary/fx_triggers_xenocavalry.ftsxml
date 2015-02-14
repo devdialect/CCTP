@@ -1,0 +1,428 @@
+<trigger_system type="FGrannyTimedTriggerSystem">
+  <event_tracks>
+    <event_track ec="1000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1120">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1160">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+      <track id="8" name="Effect" />
+    </event_track>
+    <event_track ec="1200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1280">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1400">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1520">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1560">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1600">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1640">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1800">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1290">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+      <track id="8" name="Effect" />
+    </event_track>
+    <event_track ec="1140">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+      <track id="8" name="Effect" />
+    </event_track>
+    <event_track ec="1220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1420">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1500">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1540">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1580">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1620">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+      <track id="8" name="Effect" />
+    </event_track>
+    <event_track ec="2220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1285">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1110">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1450">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1180">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+      <track id="8" name="Effect" />
+    </event_track>
+    <event_track ec="1130">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+      <track id="8" name="Effect" />
+    </event_track>
+  </event_tracks>
+  <triggers>
+    <trigger type="FTimedTriggerEffect" id="14" time="0.028916" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_BLUNT_HIT_SM" bone="PantherSpine2" />
+    <trigger type="FTimedTriggerEffect" id="29" time="0.027673" duration="0" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_BLUNT_HIT_MD" bone="PantherHead" />
+    <trigger type="FTimedTriggerAction" id="60" time="0.44027862" duration="0" repeat="0" ec="1140" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="74" time="0.492592722" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="75" time="0.383111417" duration="0.235" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherRLegDigit01_unique" />
+    <trigger type="FTimedTriggerEffect" id="102" time="2.41438866" duration="0" repeat="0" ec="1040" track="2" event="ART_DEF_VEFFECT_BEETLE_FOOT_DUST_$(TERRAIN)" bone="PantherLLegPlatform_unique" />
+    <trigger type="FTimedTriggerEffect" id="105" time="2.976476" duration="0" repeat="0" ec="1040" track="2" event="ART_DEF_VEFFECT_BEETLE_FOOT_DUST_$(TERRAIN)" bone="PantherLLegPlatform_unique" />
+    <trigger type="FTimedTriggerAction" id="109" time="0.4629154" duration="0" repeat="0" ec="1160" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="110" time="0.461724967" duration="0" repeat="0" ec="1180" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="114" time="0" duration="0.5" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_DUST_TRAIL_SM" bone="Panther" />
+    <trigger type="FTimedTriggerSound" id="8" time="0.405555516" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="9" time="0.08148148" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="10" time="0.424074143" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="11" time="0.125925943" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="13" time="0.5555557" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="15" time="0.855555534" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="24" time="0.109259233" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="25" time="0.3629629" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="26" time="0.168518409" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="28" time="0.196296245" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="34" time="0" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="35" time="0.1037037" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="37" time="0.229629546" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="38" time="0.7592593" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="39" time="0.411111146" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="48" time="0" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="49" time="0.103703722" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="50" time="0.229629546" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="51" time="0.411111146" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="52" time="0.785185158" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="56" time="0" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_XENO_RAPTOR_DEATH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="57" time="0" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_XENO_RAPTOR_DEATH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="63" time="0.179629624" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="64" time="0.274074048" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="66" time="0.290740758" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_XENO_RAPTOR_ATTACK_T1" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="70" time="0.429629624" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_XENO_RAPTOR_MOVE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="71" time="0" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="76" time="0.181481391" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="80" time="0.377777725" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="94" time="0.55" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="138" time="2.95145345" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="139" time="3.66937685" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="140" time="2.4161222" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="141" time="4.52218342" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="142" time="4.70093727" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="143" time="4.90329933" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="144" time="4.313079" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="72" time="0.396296263" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="1" time="0.179629624" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="137" time="0" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_XENO_RAPTOR_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="153" time="0" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_XENO_RAPTOR_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="127" time="0.6092593" duration="0" repeat="0" ec="1040" track="1" event="AS3D_UNIT_XENO_RAPTOR_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="130" time="0.324074" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_XENO_RAPTOR_SWORD_SWING" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="131" time="0.5037036" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_XENO_RAPTOR_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="134" time="0.008032128" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="148" time="0.7870371" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="154" time="0.525925934" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="155" time="0" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_RAPTOR_MOVE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="162" time="0.4259259" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_XENO_RAPTOR_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="163" time="0.04074074" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_XENO_RAPTOR_SQUEAK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="2" time="0.279629558" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_XENO_RAPTOR_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="20" time="0.0148148146" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_XENO_RAPTOR_MOVE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="31" time="0.3314815" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="42" time="0.0425925925" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="43" time="0.320370376" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="44" time="0.251851827" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="45" time="0.459259242" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="47" time="0.251851827" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="53" time="0.32407403" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="55" time="0.459259242" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_RUN_T1_$(TERRAIN)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="21" time="0" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_RAPTOR_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerEffect" id="7" time="0.314294249" duration="0.25" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherRLegDigit01_unique" />
+    <trigger type="FTimedTriggerEffect" id="22" time="0.273434073" duration="0.235" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherLLegDigit01_unique" />
+    <trigger type="FTimedTriggerAction" id="23" time="0.3478056" duration="0" repeat="0" ec="1140" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="58" time="1.00858617" duration="0.3" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_L" />
+    <trigger type="FTimedTriggerEffect" id="62" time="0.2808415" duration="0.3" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_R" />
+    <trigger type="FTimedTriggerEffect" id="65" time="0.2752523" duration="0.3" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_L" />
+    <trigger type="FTimedTriggerEffect" id="67" time="0.273434073" duration="0.3" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_R" />
+    <trigger type="FTimedTriggerAction" id="69" time="0.3478056" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="73" time="0.44027862" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="77" time="0" duration="0.5" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_DUST_TRAIL_SM" bone="Panther" />
+    <trigger type="FTimedTriggerSound" id="19" time="1.28703713" duration="0" repeat="0" ec="1160" track="1" event="AS3D_IMPACT_LASERLG_CITY" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="3" time="0.0129629625" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_XENO_RAPTOR_SQUEAK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="5" time="0.227777809" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_XENO_MARINE_RIFLE_FIRE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="6" time="0.06481481" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_CHARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="12" time="0.209259257" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerEffect" id="27" time="0.383111417" duration="0.235" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherRLegDigit01_unique" />
+    <trigger type="FTimedTriggerSound" id="33" time="0.0129629625" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_XENO_RAPTOR_SQUEAK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="46" time="0.07037037" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_CHARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="78" time="0.496296436" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_XENO_MARINE_RIFLE_FIRE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="79" time="0.0129629625" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_XENO_RAPTOR_SQUEAK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="81" time="0.07037037" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_CHARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="82" time="1.00740778" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_XENO_MARINE_RIFLE_FIRE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="83" time="0.277777731" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_XENO_MARINE_RIFLE_FIRE" bone="" tier="0" />
+    <trigger type="FTimedTriggerEffect" id="84" time="1.00673389" duration="0.3" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_L" />
+    <trigger type="FTimedTriggerEffect" id="85" time="0.275252283" duration="0.3" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_L" />
+    <trigger type="FTimedTriggerSound" id="86" time="0.0129629625" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_XENO_RAPTOR_SQUEAK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="87" time="0.07037037" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_CHARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="88" time="0.277777731" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_XENO_MARINE_RIFLE_FIRE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="89" time="1.00740778" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_XENO_MARINE_RIFLE_FIRE" bone="" tier="0" />
+    <trigger type="FTimedTriggerEffect" id="91" time="1.00673389" duration="0.3" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_L" />
+    <trigger type="FTimedTriggerEffect" id="92" time="1.00858629" duration="0.3" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherBone_Teeth_L" />
+    <trigger type="FTimedTriggerSound" id="93" time="0.6925926" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="95" time="0.0629629642" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_XENO_MARINE_DEATH_MASK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="96" time="0.466666669" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="97" time="0.466666669" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="98" time="0.974051654" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="99" time="0.3314815" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="100" time="0.346720219" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="101" time="0.459170043" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="103" time="0.615796447" duration="0" repeat="1" ec="1560" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="104" time="0.6265061" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="106" time="0.181481391" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="107" time="0.5585006" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_XENO_RAPTOR_FOOT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="108" time="0.6238287" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="111" time="0.0129629625" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_XENO_RAPTOR_SQUEAK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="112" time="0.06481481" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_CHARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="113" time="0.379629642" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_XENO_MARINE_RIFLE_FIRE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="115" time="0.6238287" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="117" time="0.0629629642" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_XENO_MARINE_DEATH_MASK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="118" time="0.6238287" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_XENO_MARINE_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="4" time="0.5407408" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="17" time="0.129629627" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="18" time="0.129629627" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="30" time="0.5407408" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="32" time="0.279629648" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="36" time="0.5407408" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="40" time="0.279629648" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="41" time="0.0444444567" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="54" time="0.279629648" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="61" time="0.0444444567" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="116" time="0.398148149" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="119" time="0.0444444567" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="120" time="0.398148149" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="121" time="0.0444444567" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="122" time="0.398148149" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="123" time="0.398148149" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="124" time="0.398148149" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_XENO_MARINE_MOVE_SUIT_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerEffect" id="125" time="0.229600653" duration="0.069" repeat="0" ec="1100" track="7" event="ART_DEF_VEFFECT_PLASMA_HEAVY_PROJ_04H" bone="Point_projectile" />
+    <trigger type="FTimedTriggerEffect" id="128" time="0.21347402" duration="0.15" repeat="0" ec="1100" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents01" />
+    <trigger type="FTimedTriggerEffect" id="132" time="0.227043018" duration="0" repeat="0" ec="1100" track="6" event="ART_DEF_VEFFECT_MUZZLE_FLASH_H04" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="133" time="0.2497997" duration="0.11" repeat="0" ec="1100" track="6" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_SM" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="135" time="0.272427917" duration="0.15" repeat="0" ec="1100" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents02" />
+    <trigger type="FTimedTriggerTransfer" id="145" time="0.295306027" duration="0" repeat="0" ec="1100" track="3" refid="125" speed="0" tangent.x="1.75031545E-08" tangent.y="-1" tangent.z="1.40025236E-07" />
+    <trigger type="FTimedTriggerTransfer" id="126" time="0.6228871" duration="0" repeat="0" ec="1130" track="3" refid="136" speed="0" tangent.x="0.06286637" tangent.y="-0.509864867" tangent.z="0.8579544" />
+    <trigger type="FTimedTriggerEffect" id="151" time="0.529258668" duration="0.15" repeat="0" ec="1130" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents02" />
+    <trigger type="FTimedTriggerEffect" id="149" time="0.509753168" duration="0.11" repeat="0" ec="1130" track="6" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_SM" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="136" time="0.488773376" duration="0.138" repeat="0" ec="1130" track="7" event="ART_DEF_VEFFECT_PLASMA_HEAVY_PROJ_04H" bone="Point_projectile" />
+    <trigger type="FTimedTriggerEffect" id="147" time="0.486996144" duration="0" repeat="0" ec="1130" track="6" event="ART_DEF_VEFFECT_MUZZLE_FLASH_H04" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="146" time="0.47576943" duration="0.15" repeat="0" ec="1130" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents01" />
+    <trigger type="FTimedTriggerEffect" id="167" time="0.292678356" duration="0.065" repeat="0" ec="1180" track="7" event="ART_DEF_VEFFECT_PLASMA_HEAVY_PROJ_04H" bone="Point_projectile" />
+    <trigger type="FTimedTriggerEffect" id="168" time="0.3128774" duration="0.11" repeat="0" ec="1180" track="6" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_SM" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="169" time="0.3355056" duration="0.15" repeat="0" ec="1180" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents02" />
+    <trigger type="FTimedTriggerEffect" id="170" time="0.2890332" duration="0" repeat="0" ec="1180" track="6" event="ART_DEF_VEFFECT_MUZZLE_FLASH_H04" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="171" time="0.2770955" duration="0.15" repeat="0" ec="1180" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents01" />
+    <trigger type="FTimedTriggerTransfer" id="173" time="0.354337275" duration="0" repeat="0" ec="1180" track="3" refid="167" speed="0" tangent.x="-1.34128806E-08" tangent.y="-1" tangent.z="0" />
+    <trigger type="FTimedTriggerEffect" id="174" time="0.292678356" duration="0.065" repeat="0" ec="1160" track="7" event="ART_DEF_VEFFECT_PLASMA_HEAVY_PROJ_04H" bone="Point_projectile" />
+    <trigger type="FTimedTriggerTransfer" id="175" time="0.354337275" duration="0" repeat="0" ec="1160" track="3" refid="174" speed="0" tangent.x="-1.34128806E-08" tangent.y="-1" tangent.z="0" />
+    <trigger type="FTimedTriggerEffect" id="176" time="0.3128774" duration="0.11" repeat="0" ec="1160" track="6" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_SM" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="177" time="0.3355056" duration="0.15" repeat="0" ec="1160" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents02" />
+    <trigger type="FTimedTriggerEffect" id="178" time="0.2890332" duration="0" repeat="0" ec="1160" track="6" event="ART_DEF_VEFFECT_MUZZLE_FLASH_H04" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="179" time="0.2770955" duration="0.15" repeat="0" ec="1160" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents01" />
+    <trigger type="FTimedTriggerEffect" id="59" time="0.273434073" duration="0.235" repeat="0" ec="2100" track="5" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherLLegDigit01_unique" />
+    <trigger type="FTimedTriggerEffect" id="68" time="0.314294249" duration="0.25" repeat="0" ec="2100" track="5" event="ART_DEF_VEFFECT_CLAW_TRAIL_01" bone="PantherRLegDigit01_unique" />
+    <trigger type="FTimedTriggerEffect" id="152" time="0.3928672" duration="0.069" repeat="0" ec="2100" track="8" event="ART_DEF_VEFFECT_PLASMA_HEAVY_PROJ_04H" bone="Point_projectile" />
+    <trigger type="FTimedTriggerEffect" id="156" time="0.389335483" duration="0" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_MUZZLE_FLASH_H04" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="157" time="0.411507964" duration="0.11" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_SM" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="159" time="0.376939118" duration="0.15" repeat="0" ec="2100" track="7" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents01" />
+    <trigger type="FTimedTriggerEffect" id="158" time="0.4321828" duration="0.15" repeat="0" ec="2100" track="7" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents02" />
+    <trigger type="FTimedTriggerTransfer" id="180" time="0.458479732" duration="0" repeat="0" ec="2100" track="3" refid="152" speed="0" tangent.x="1.42305661E-08" tangent.y="-1" tangent.z="0" />
+    <trigger type="FTimedTriggerEffect" id="186" time="1.0284965" duration="0.15" repeat="0" ec="1180" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents01" />
+    <trigger type="FTimedTriggerEffect" id="187" time="1.0397234" duration="0" repeat="0" ec="1180" track="6" event="ART_DEF_VEFFECT_MUZZLE_FLASH_H04" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="188" time="1.04234457" duration="0.0875" repeat="0" ec="1180" track="7" event="ART_DEF_VEFFECT_PLASMA_HEAVY_PROJ_04H" bone="Point_projectile" />
+    <trigger type="FTimedTriggerEffect" id="189" time="1.06611633" duration="0.11" repeat="0" ec="1180" track="6" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_SM" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="190" time="1.08562219" duration="0.15" repeat="0" ec="1180" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents02" />
+    <trigger type="FTimedTriggerTransfer" id="191" time="1.12807143" duration="0" repeat="0" ec="1180" track="3" refid="188" speed="0" tangent.x="0" tangent.y="-1" tangent.z="1.32038863E-07" />
+    <trigger type="FTimedTriggerEffect" id="192" time="1.04234457" duration="0.0875" repeat="0" ec="1160" track="7" event="ART_DEF_VEFFECT_PLASMA_HEAVY_PROJ_04H" bone="Point_projectile" />
+    <trigger type="FTimedTriggerEffect" id="193" time="1.06611633" duration="0.11" repeat="0" ec="1160" track="6" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_SM" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="194" time="1.08562219" duration="0.15" repeat="0" ec="1160" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents02" />
+    <trigger type="FTimedTriggerEffect" id="195" time="1.0397234" duration="0" repeat="0" ec="1160" track="6" event="ART_DEF_VEFFECT_MUZZLE_FLASH_H04" bone="FX_Muzzel_Flash" />
+    <trigger type="FTimedTriggerEffect" id="196" time="1.0284965" duration="0.15" repeat="0" ec="1160" track="5" event="ART_DEF_VEFFECT_MUZZLE_STEAM_MIASMA_2SIDES" bone="FX_Gun_SideVents01" />
+    <trigger type="FTimedTriggerTransfer" id="197" time="1.12690938" duration="0" repeat="0" ec="1160" track="3" refid="192" speed="0" tangent.x="1.59201967E-08" tangent.y="-1" tangent.z="0" />
+    <trigger type="FTimedTriggerEffect" id="16" time="0.300000131" duration="0" repeat="0" ec="1200" track="4" event="ART_DEF_VEFFECT_BUGJUICE_DEATHSPLAT_02_SM" bone="PantherLLeg1_unique" />
+    <trigger type="FTimedTriggerEffect" id="90" time="0.0370370373" duration="0" repeat="0" ec="1200" track="4" event="ART_DEF_VEFFECT_BUGJUICE_DEATHSPLAT_01_MED" bone="PantherSpine3" />
+    <trigger type="FTimedTriggerEffect" id="129" time="0" duration="0" repeat="0" ec="1200" track="4" event="ART_DEF_VEFFECT_BUGJUICE_DEATHSPLAT_01_SM" bone="PantherNeck2" />
+    <trigger type="FTimedTriggerEffect" id="160" time="0.227777809" duration="0" repeat="0" ec="2200" track="4" event="ART_DEF_VEFFECT_BUGJUICE_DEATHSPLAT_02_SM" bone="PantherLLeg1_unique" />
+    <trigger type="FTimedTriggerEffect" id="161" time="0.157407448" duration="0" repeat="0" ec="2200" track="4" event="ART_DEF_VEFFECT_BUGJUICE_DEATHSPLAT_01_SM" bone="PantherRLeg1_unique" />
+    <trigger type="FTimedTriggerEffect" id="164" time="0.5277783" duration="0" repeat="0" ec="2200" track="4" event="ART_DEF_VEFFECT_BUGJUICE_DEATHSPLAT_02_MED" bone="PantherRLeg1_unique" />
+  </triggers>
+</trigger_system>

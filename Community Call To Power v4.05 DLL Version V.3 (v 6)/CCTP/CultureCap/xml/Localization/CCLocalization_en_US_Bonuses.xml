@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 10:56:46 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_CULTURE">
+			<Text>+{1_value}[ICON_CULTURE] Culture in this City.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CULTURE_MODIFIER">
+			<Text>+{1_value}%[ICON_CULTURE] Culture in this City.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_FOOD">
+			<Text>+{1_value}[ICON_FOOD] Food in this City.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_SCIENCE">
+			<Text>+{1_value}[ICON_RESEARCH] Science in this City.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_PRODUCTION">
+			<Text>+{1_value}[ICON_PRODUCTION] Production in this City.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_GOLD">
+			<Text>+{1_value}[ICON_GOLD] Gold in this City.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_WONDERPRODUCTIONMODIFIER">
+			<Text>+{1_value}%[ICON_PRODUCTION] Production towards Wonders in this City.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_CC_BONUS_TEMPLE">
+			<Text>The City receives a [ICON_PEACE][ICON_HAPPINESS_1]Temple of Worship.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CC_BONUS_CATHEDRAL">
+			<Text>The City receives an [ICON_PEACE][ICON_CULTURE]Imperial Cathedral.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EMPOWERMENT">
+			<Text>The City receives an [ICON_CULTURE]Statue of Empowerment.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_POPULATION">
+			<Text>The City receives instantly {1_value}[ICON_CITIZEN] Citizen(s).</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_HEALCITY">
+			<Text>The City is being instantly fully healed.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXHIBITION">
+			<Text>Starts an [ICON_HAPPINESS_4][ICON_GREAT_PEOPLE]Exhibition of Controversy in this city.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_PHILOSOPHY">
+			<Text>The City receives a [ICON_GREAT_PEOPLE]Think Tank.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CONSTRUCTION">
+			<Text>The City receives a [ICON_PRODUCTION]Construction Hall.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_TRADE">
+			<Text>The City receives a [ICON_INTERNATIONAL_TRADE][ICON_FOOD]Trading House.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_TECHNOLOGY">
+			<Text>Starts the [ICON_RESEARCH][ICON_GREAT_ARTIST]Ars Technica in the City.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_DEFENSE">
+			<Text>The City receives a [ICON_STRENGTH]Palisade.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_ADV_DEFENSE">
+			<Text>The City receives a [ICON_STRENGTH][ICON_RESEARCH]Bunker.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_CULTUREONKILL">
+			<Text>The City stores [ICON_CULTURE]Culture when an enemy Unit gets killed within your Borders ({1_value}x[ICON_STRENGTH]).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_FOODONKILL">
+			<Text>The City stores [ICON_FOOD]Food when an enemy Unit gets killed within your Borders ({1_value}x[ICON_STRENGTH]).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_PRODUCTIONONKILL">
+			<Text>The City stores [ICON_PRODUCTION]Production when an enemy Unit gets killed within your Borders ({1_value}x[ICON_STRENGTH]).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_PLAYER_FREEPOLICIES">
+			<Text>You receive {1_value} free [ICON_CULTURE]Policy/Policies.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_UNIT_EXP">
+			<Text>The Garrison receives instantly {1_value} Experience.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ECOLOGY">
+			<Text>The City receives an [ICON_FOOD][ICON_RESEARCH]Ecological Center.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_BENEVOLENCE">
+			<Text>You receive a [ICON_GREAT_WRITER]Great Writer.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_HORIZON_UNITS">
+			<Text>You receive {1_value} Settler(s).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_IDOLS">
+			<Text>The City receives a [ICON_WAR]Memorial.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_FOOD">
+			<Text>The City stores instantly {1_value}[ICON_FOOD] Food.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_PRODUCTION">
+			<Text>The City stores instantly {1_value}[ICON_PRODUCTION] Production.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CULTURE">
+			<Text>The City stores instantly {1_value}[ICON_CULTURE] Culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXCHANGE">
+			<Text>The City receives an [ICON_TRADE][ICON_INTERNATIONAL_TRADE]Exchange Market.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_LOYALTY">
+			<Text>You receive a [ICON_GREAT_GENERAL]Great General.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_INFORMATION">
+			<Text>You receive a [ICON_GREAT_SCIENTIST]Great Scientist.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_GEOLOGY">
+			<Text>The City receives a [ICON_CULTURE][ICON_RESEARCH][ICON_GREAT_ARTIST]Geology Museum.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ENTERTAINMENT">
+			<Text>The City receives a [ICON_HAPPINESS_1][ICON_GOLD][ICON_GREAT_MUSICIAN]Radio Station.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXTRACTION">
+			<Text>Unveils {1_value} new [ICON_RES_IRON]Iron source(s) near the City.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_DEEP_EXTRACTION">
+			<Text>Unveils {1_value} new [ICON_RES_URANIUM]Uranium source(s) near the City.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_LABOR">
+			<Text>The City receives temporarily a Labor Camp.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BONUS_LABOR_UNITS">
+			<Text>You receive {1_value} Worker(s).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_INVESTIGATION">
+			<Text>The City receives a [ICON_SPY]Detective Bureau.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ASCENDANCY">
+			<Text>The City receives temporarily a [ICON_PEACE]Beacon of Heavens.</Text>
+		</Row>
+
+		<!-- ### Malus Texts ### -->
+		<Row Tag="TXT_KEY_CC_MALUS_POPULATION">
+			<Text>The City loses {1_value}[ICON_CITIZEN] Citizen(s).</Text>
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

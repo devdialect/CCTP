@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+		<!-- <UnitClasses>
+		<Row>
+			<Type>UNITCLASS_AIRSHIP</Type>
+			<Description>TXT_KEY_MOD_UNIT_AIRSHIP</Description>
+			<DefaultUnit>UNIT_AIRSHIP</DefaultUnit>
+		</Row>
+
+		<Row>
+			<Type>UNITCLASS_SKY_FORTRESS</Type>
+			<Description>TXT_KEY_MOD_UNIT_SKY_FORTRESS</Description>
+			<DefaultUnit>UNIT_SKY_FORTRESS</DefaultUnit>
+		</Row>
+	</UnitClasses>
+
+	<Units>
+		<Row>
+			<Type>UNIT_AIRSHIP</Type>
+			<Class>UNITCLASS_AIRSHIP</Class>
+			<PrereqTech>TECH_FLIGHT</PrereqTech>
+			<ObsoleteTech>TECH_RADAR</ObsoleteTech>
+			<Combat>65</Combat>
+			<Cost>475</Cost>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_MOD_UNIT_AIRSHIP</Description>
+			<Civilopedia>TXT_KEY_MOD_UNIT_AIRSHIP_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_MOD_UNIT_AIRSHIP_STRATEGY</Strategy>
+			<Help>TXT_KEY_MOD_UNIT_AIRSHIP_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP_LEVEL_1</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>7</UnitFlagIconOffset>
+			<UnitFlagAtlas>EXPANSION_SCEN_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_UNIT_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>UNIT_SKY_FORTRESS</Type>
+			<Class>UNITCLASS_SKY_FORTRESS</Class>
+			<PrereqTech>TECH_RADAR</PrereqTech>
+			<Combat>80</Combat>
+			<Cost>575</Cost>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
+			<Domain>DOMAIN_HOVER</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_MOD_UNIT_SKY_FORTRESS</Description>
+			<Civilopedia>TXT_KEY_MOD_UNIT_SKY_FORTRESS_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_MOD_UNIT_SKY_FORTRESS_STRATEGY</Strategy>
+			<Help>TXT_KEY_MOD_UNIT_SKY_FORTRESS_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_FIGHTER</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>8</UnitFlagIconOffset>
+			<UnitFlagAtlas>EXPANSION_SCEN_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_UNIT_ATLAS</IconAtlas>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<UnitAIType>UNITAI_CARRIER_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<UnitClassType>UNITCLASS_SKY_FORTRESS</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>18</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>14</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>14</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>18</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>14</Flavor>
+		</Row>
+	</Unit_Flavors>
+ -->
+	<!-- Make hovering units (helicopters et al) hover over the coast and not embark -->
+	<UnitPromotions_UnitCombats>
+		<Delete UnitCombatType="UNITCOMBAT_HELICOPTER" PromotionType="PROMOTION_EMBARKATION"/>
+		<Delete UnitCombatType="UNITCOMBAT_HELICOPTER" PromotionType="PROMOTION_DEFENSIVE_EMBARKATION"/>
+		<Delete UnitCombatType="UNITCOMBAT_HELICOPTER" PromotionType="PROMOTION_ALLWATER_EMBARKATION"/>
+	</UnitPromotions_UnitCombats>
+<!--
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_INFERNAL_MACHINES</Type>
+			<Description>TXT_KEY_PROMOTION_INFERNAL_MACHINES</Description>
+			<Help>TXT_KEY_PROMOTION_INFERNAL_MACHINES_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_INFERNAL_MACHINES</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<NearbyEnemyCombatMod>-10</NearbyEnemyCombatMod>
+			<NearbyEnemyCombatRange>1</NearbyEnemyCombatRange>
+		</Row>
+
+		<Row>
+			<Type>PROMOTION_INFERNAL_MOVEMENT_I</Type>
+			<Description>TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_I</Description>
+			<Help>TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_I_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PortraitIndex>58</PortraitIndex>
+			<PediaEntry>TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_I</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FlatMovementCost>true</FlatMovementCost>
+			<CanMoveImpassable>true</CanMoveImpassable>
+			<HoveringUnit>true</HoveringUnit>
+			<LostWithUpgrade>true</LostWithUpgrade>
+		</Row>
+		<Row>
+			<Type>PROMOTION_INFERNAL_MOVEMENT_II</Type>
+			<Description>TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_II</Description>
+			<Help>TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_II_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PortraitIndex>58</PortraitIndex>
+			<PediaEntry>TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_II</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FlatMovementCost>true</FlatMovementCost>
+			<CanMoveAllTerrain>true</CanMoveAllTerrain>
+			<LostWithUpgrade>true</LostWithUpgrade>
+		</Row>
+	</UnitPromotions>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<PromotionType>PROMOTION_INFERNAL_MACHINES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<PromotionType>PROMOTION_INFERNAL_MOVEMENT_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<PromotionType>PROMOTION_ANTI_TANK</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<PromotionType>PROMOTION_NO_CAPTURE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_INFERNAL_MACHINES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_INFERNAL_MOVEMENT_II</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_IGNORE_PLOT_DAMAGE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_CARGO_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_ANTI_TANK</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_NO_CAPTURE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<PromotionType>PROMOTION_EXTRA_SIGHT_II</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+
+	<UnitGameplay2DScripts>
+		<Row UnitType="UNIT_AIRSHIP">
+			<SelectionSound>AS2D_SELECT_BOMBER</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_BOMBER</FirstSelectionSound>
+		</Row>
+
+		<Row UnitType="UNIT_SKY_FORTRESS">
+			<SelectionSound>AS2D_SELECT_BOMBER</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_BOMBER</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_BARRACKS</BuildingType>
+			<DomainType>DOMAIN_HOVER</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ARMORY</BuildingType>
+			<DomainType>DOMAIN_HOVER</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_ACADEMY</BuildingType>
+			<DomainType>DOMAIN_HOVER</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KREPOST</BuildingType>
+			<DomainType>DOMAIN_HOVER</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BRANDENBURG_GATE</BuildingType>
+			<DomainType>DOMAIN_HOVER</DomainType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<UnitClassType>UNITCLASS_AIRSHIP</UnitClassType>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<UnitClassType>UNITCLASS_AIRSHIP</UnitClassType>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitType/>
+		</Row>
+
+		<Row>
+			<UnitClassType>UNITCLASS_SKY_FORTRESS</UnitClassType>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<UnitClassType>UNITCLASS_SKY_FORTRESS</UnitClassType>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	-->
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>EXPANSION_SCEN_UNIT_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>ExpScen_UnitPortraits32.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION_SCEN_UNIT_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ExpScen_UnitPortraits45.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION_SCEN_UNIT_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ExpScen_UnitPortraits64.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION_SCEN_UNIT_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ExpScen_UnitPortraits80.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION_SCEN_UNIT_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>ExpScen_UnitPortraits128.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION_SCEN_UNIT_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ExpScen_UnitPortraits256.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>EXPANSION_SCEN_UNIT_FLAG_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>ExpScen_UnitFlagAtlasWhite32.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MOD_UNIT_AIRSHIP">
+			<Text>Airship</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_UNIT_AIRSHIP_TEXT">
+			<Text>Until the discovery of aluminum, it was believed that only light and maneuverable craft - such as the Triplane - would ever travel the skies.  The airship is a strange yet majestic contraption.  With the new material, the original engineers and inventors of the airship were free to put nearly anything in the air, going against the constraints of the science which had been the guiding laws of their professions heretofore.  Necessarily, the product reflected something familiar from past history: a seafaring vessel.  It had a deck, armaments on either side, and a balloon in place of a sail.  Early airship crews adopted naval conventions of rank and hierarchy.  Soon, though, the reality of sustained flight took on its own character.  Ship designs became more and more experimental.  Airship pilots and crew developed their own culture, at once genteel and whimsical.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_UNIT_AIRSHIP_STRATEGY">
+			<Text>The Airship is able to move over land and sea, shortening the distance needed to travel to the battlefield and opening up chances to strike enemies from a direction they do not expect.  Its large cannons can attack enemy Airships nearby or rain destruction down on targets below and they also strike fear into nearby enemy units, giving them all a negative combat modifier. .  Fighters and Anti-Air Guns pose a threat, so take them out early or bring other unit types for support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_UNIT_AIRSHIP_HELP">
+			<Text>First airship unit, able to move over land and sea.  Powerful against land targets, but vulnerable to fighters and strikes fear into nearby enemy units.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MOD_UNIT_SKY_FORTRESS">
+			<Text>Sky Fortress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_UNIT_SKY_FORTRESS_TEXT">
+			<Text>The majestic Sky Fortress is quite a sight to behold.  Much larger than the airship, it casts a wide shadow on the ground below that strikes fear into the hearts of foes.  It is outfitted with heavy weaponry, but kept aloft through advanced applications of aluminum's light-weight properties.  Inside the ship's body are a variety of accommodations: war rooms used by generals above the battlefield, a small hangar which can host a squadron of fighters, and even parlors for recreation.  The Sky Fortress became the centerpiece of airship fleets, a mobile command center that could rain death on the land below and blow enemy airships out of the sky.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_UNIT_SKY_FORTRESS_STRATEGY">
+			<Text>The Sky Fortress is the most advanced type of airship unit, and houses significant firepower.  Not only can it use its cannons to attack land targets and other airships, but also it can act as a mobile base for a fighter.  With a fighter running strikes on nearby airship units, the Sky Fortress poses a serious threat to many types of units, but is still vulnerable to enemy fighters and Anti-Air Guns. They also strike fear into nearby enemy units, giving them all a negative combat modifier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_UNIT_SKY_FORTRESS_HELP">
+			<Text>Most advanced airship unit.  May act as a base for a single fighter.  Powerful attacks against land targets, but vulnerable to fighters and strikes fear into nearby enemy units.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_INFERNAL_MACHINES">
+			<Text>Infernal Machines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INFERNAL_MACHINES_HELP">
+			<Text>Enemy units receive -10% [ICON_STRENGTH] Combat Strength when adjacent to any unit with this promotion.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_I">
+			<Text>Airship Movement I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_I_HELP">
+			<Text>As an airship, this unit may move over both land and coastal sea tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_II">
+			<Text>Airship Movement II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INFERNAL_MOVEMENT_II_HELP">
+			<Text>As an airship, this unit may move over both land and any sea tiles.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

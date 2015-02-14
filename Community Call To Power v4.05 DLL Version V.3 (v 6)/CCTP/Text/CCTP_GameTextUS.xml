@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 11/10/2010 1:49:15 PM -->
+<GameData>
+	<!-- English support-->
+	<Language_en_US>
+
+
+		<!-- Update Mods Menu -->
+		<Update>
+			<Set Text="START GAME"/>
+			<Where Tag="TXT_KEY_MODDING_CUSTOMGAME"/>
+		</Update>
+		<Update>
+			<Set Text="QUICK START"/>
+			<Where Tag="TXT_KEY_MODDING_MAPS"/>
+		</Update>
+
+		<!-- Update Gamespeed Names -->
+		<Update>
+			<Set Text="Fast"/>
+			<Where Tag="TXT_KEY_GAMESPEED_QUICK"/>
+		</Update>
+		<Update>
+			<Set Text="Normal"/>
+			<Where Tag="TXT_KEY_GAMESPEED_STANDARD"/>
+		</Update>
+		<Update>
+			<Set Text="Slow"/>
+			<Where Tag="TXT_KEY_GAMESPEED_EPIC"/>
+		</Update>
+		<Update>
+			<Set Text="Cruel"/>
+			<Where Tag="TXT_KEY_GAMESPEED_MARATHON"/>
+		</Update>
+		<!-- Update Gamespeed Help -->
+		<Update>
+			<Set Text="UNBALANCED. A fast paced game. Good for players that do not like to hang around. "/>
+			<Where Tag="TXT_KEY_GAMESPEED_QUICK_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="This is the standard option for use with CCTP, it is the only option that is balanced and enjoyable to play."/>
+			<Where Tag="TXT_KEY_GAMESPEED_STANDARD_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Using this option will BREAK the game, please use Extended CCTP if you wish to play Epic style games."/>
+			<Where Tag="TXT_KEY_GAMESPEED_EPIC_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Using this option will slow almost all parts down, but its playable."/>
+			<Where Tag="TXT_KEY_GAMESPEED_MARATHON_HELP"/>
+		</Update>
+
+
+		<!--Row>
+			<Tag>TXT_KEY_ERA_NANOTECH_QUOTE1</Tag>
+			<Text>[NEWLINE][TAB][TAB][TAB][TAB]"For tomorrow belongs to the people who prepare for it today."[NEWLINE][TAB][TAB][TAB][TAB]- African proverb[NEWLINE][TAB][TAB][TAB]</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_ERA_NANOTECH_QUOTE2</Tag>
+			<Text>[NEWLINE][TAB][TAB][TAB][TAB]"[T]he future is not what it used to be."[NEWLINE][TAB][TAB][TAB][TAB]- Paul Valery[NEWLINE][TAB][TAB][TAB]</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_ERA_NANOTECH_QUOTE3</Tag>
+			<Text>[NEWLINE][TAB][TAB][TAB][TAB]"I never think about the future. It comes soon enough."[NEWLINE][TAB][TAB][TAB][TAB]- Albert Einstein[NEWLINE][TAB][TAB][TAB]</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_ERA_NANOTECH_STRATEGY</Tag>
+			<Text>The NanoTech Era</Text>
+		</Row>
+
+
+	
+		<Row>
+			<Tag>TXT_KEY_ERA_71</Tag>
+			<Text>NanoTech Era</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_ERA_8</Tag>
+			<Text>Diamond Era</Text>
+		</Row>
+	
+		<Update>
+			<Set Text="Digital Era" />
+			<Where Tag="TXT_KEY_ERA_6" />
+		</Update-->
+
+		<Update>
+			<Set Text="While in a [ICON_GOLDEN_AGE] Golden Age, every tile in your empire that produces at least 1 [ICON_PRODUCTION] Production, 1 [ICON_GOLD] Gold, or 1 [ICON_RESEARCH] Science produces 1 extra."/>
+			<Where Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT" />
+		</Update>
+		<Update>
+			<Set Text="Strategic Resources provide +1 [ICON_PRODUCTION] Production and Horse, Iron and Uranium Resources provide double quantity." />
+			<Where Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" />
+		</Update>
+		<!-- Disabled due BNW
+		<Update>
+			<Set Text="+3 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route and Oil Resources provide double quantity." />
+			<Where Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD" />
+		</Update>-->
+
+
+		<!-- THEMING BONUS STRINGS, added for BNW-->
+
+		<Row Tag="TXT_KEY_THEMING_BONUS_MISSIONARY_CHURCH">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Art from the unique Eras and any player but not the owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_MISSIONARY_CHURCH">
+			<Text>Missionary Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHAKESPEARE_THEATER_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with equal Art from the same Era and Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SHAKESPEARE_THEATER">
+			<Text>Shakespeare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CRYSTAL_CATHEDRAL_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Art from the unique Eras and from any player but not the owner of the building.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_CRYSTAL_CATHEDRAL">
+			<Text>Crystal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BACH_CATHEDRAL_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Music from different Eras but the same Civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BACH_CATHEDRAL">
+			<Text>Bach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEONARDO_WORKSHOP_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Art from the same Era and Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_LEONARDO_WORKSHOP">
+			<Text>Leonardo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARCHIMEDES_LAB_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Artifacts from the same Era and Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_ARCHIMEDES">
+			<Text>Archimedes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GULOU_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Art from the same Era and Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_GULOU">
+			<Text>Gulou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARNIVAL_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Art from the unique Eras and unique Civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_CARNIVAL">
+			<Text>Carnival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEMPLO_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Art from the same Era and Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_TEMPLO">
+			<Text>Templo Mayor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DOME_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the [ICON_GREAT_WORK] Great Work Slots are all filled with Artifacts from unique Civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_DOME">
+			<Text>Dome of the Rock</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THEMING_BONUS_WORLDHISTORY1">
+			<Text>World Historxy</Text>
+		</Row>
+
+
+	</Language_en_US>
+	<!--Have a nice Day:=)-->
+</GameData>

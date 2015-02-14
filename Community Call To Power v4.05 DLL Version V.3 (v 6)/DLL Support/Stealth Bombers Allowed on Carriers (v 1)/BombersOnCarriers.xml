@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 5:24:36 AM -->
+<GameData>
+	<Units>		
+		<Update>
+			<Set Special="SPECIALUNIT_FIGHTER"/>
+			<Where Class="UNITCLASS_STEALTH_BOMBER"/>
+		</Update>
+	</Units>  
+</GameData>

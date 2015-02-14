@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 11:05:16 AM -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CC_THEME_ASCENDANCY">
+			<Text>权势</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ASCENDANCY_DESC">
+			<text>-</text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_INVESTIGATION">
+			<Text>调查</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_INVESTIGATION_DESC">
+			<text>-</text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_EXTRACTION">
+			<Text>萃取</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_EXTRACTION_DESC">
+			<Text>
+				“采矿本来就是搜索并毁灭的任务。”[NEWLINE]——斯图尔特·尤达尔
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_DEEP_EXTRACTION">
+			<Text>精炼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_DEEP_EXTRACTION_DESC">
+			<Text>
+				“我能嗅到你呼吸中铀的味道。”[NEWLINE]——戴维·朗伊
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_INFORMATION">
+			<Text>信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_INFORMATION_DESC">
+			<Text>
+				“生命迷失在生活之中。智慧迷失在知识之中。知识迷失在信息之中。”[NEWLINE]——托马斯·斯特恩斯·艾略特
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_LOYALTY">
+			<Text>忠诚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_LOYALTY_DESC">
+			<Text>
+				“我只忠诚于匹配我忠诚的人。”[NEWLINE]——乔伊斯·梅纳德
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_KINGS">
+			<Text>国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_KINGS_DESC">
+			<Text>
+				“每一个国王来自于奴隶们的种族，每一个奴隶的先祖们曾经是国王。”[NEWLINE]——柏拉图
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_IDOLS">
+			<Text>偶像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_IDOLS_DESC">
+			<Text>
+				“我们都有偶像。你可以像他们一样玩，但你还得做你自己。”[NEWLINE]——比比金
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_BELIEF">
+			<Text>信念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_BELIEF_DESC">
+			<Text>
+				“我们总拥有希望，信念，并确信地平线外有一个更好的生活，一个更好的世界。”[NEWLINE]——富兰克林·德拉诺·罗斯福
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_FAITH">
+			<Text>信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_FAITH_DESC">
+			<Text>
+				“对有信仰的人来说任何解释都是多余的。对没有信仰的人来说任何解释都是无用的。”[NEWLINE]——托马斯·阿奎那
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_CONTROVERSY">
+			<Text>争议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_CONTROVERSY_DESC">
+			<Text>
+				“追寻冒险独立思考者的步伐。将你的主意置于争议的危险。用大脑说话，比怪人的称号更可怕的是耻辱的一致性。”[NEWLINE]——托马斯·約翰·沃森
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ARCHITECTURE">
+			<Text>建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ARCHITECTURE_DESC">
+			<Text>
+				“有三种视觉艺术：绘画是可以看的艺术，雕塑是可以绕着走的艺术，建筑是可以穿过的艺术。”[NEWLINE]——丹·赖斯
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_CONSTRUCTION">
+			<Text>结构</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_CONSTRUCTION_DESC">
+			<Text>
+				“我们每人都在雕琢着石头，竖立着圆柱，或者切割着有色玻璃来构架比我们自己大得多的存在。”[NEWLINE]——阿德里安娜·克拉克森
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_PHILOSOPHY">
+			<Text>哲学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_PHILOSOPHY_DESC">
+			<Text>
+				"I would not think that philosophy and reason themselves will be man's guide in the foreseeable future; however, they will remain the most beautiful sanctuary they have always been for the select few."[NEWLINE]-Albert Einstein
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TECHNOLOGY">
+			<Text>科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TECHNOLOGY_DESC">
+			<Text>
+				"Technology is a gift of God. After the gift of life it is perhaps the greatest of God's gifts. It is the mother of civilizations, of arts and of sciences."[NEWLINE]-Freeman Dyson
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_TRADE">
+			<Text>贸易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TRADE_DESC">
+			<Text>
+				"By virtue of exchange, one man's prosperity is beneficial to all others."[NEWLINE]-Frederic Bastiat
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_TROPHIES">
+			<Text>战果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TROPHIES_DESC">
+			<Text>
+				"Language is the armory of the human mind, and at once contains the trophies of its past and the weapons of its future conquests."[NEWLINE]-Samuel T. Coleridge
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_SERVITUDE">
+			<Text>奴役</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_SERVITUDE_DESC">
+			<Text>
+				"Thought takes man out of servitude, into freedom."[NEWLINE]-Henry W. Longfellow
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_EMPOWERMENT">
+			<Text>激励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_EMPOWERMENT_DESC">
+			<Text>
+				"First they ignore you, then they laugh at you, then they fight you, then you win."[NEWLINE]-Mahatma Gandhi
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_BENEVOLENCE">
+			<Text>仁慈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_BENEVOLENCE_DESC">
+			<Text>
+				"We do no benevolences whose first benefit is not for ourselves."[NEWLINE]-Mark Twain
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ECOLOGY">
+			<Text>生态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ECOLOGY_DESC">
+			<Text>
+				"Modern technology[NEWLINE]Owes ecology[NEWLINE]An apology."[NEWLINE]-Alan M. Eddison
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_DEFENSE">
+			<Text>防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_DEFENSE_DESC">
+			<Text>
+				"Our defense is in the preservation of the spirit which prizes liberty as a heritage of all men, in all lands, everywhere. Destroy this spirit and you have planted the seeds of despotism around your own doors."[NEWLINE]-Abraham Lincoln
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ADV_DEFENSE">
+			<Text>守护</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ADV_DEFENSE_DESC">
+			<Text>
+				"A Jedi uses the Force for knowledge and defense, never for attack."[NEWLINE]-A Puppet
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_HORIZON">
+			<Text>视距</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_HORIZON_DESC">
+			<Text>
+				"A dream is the bearer of a new possibility, the enlarged horizon, the great hope."[NEWLINE]-Howard Thurman
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_SACRIFICE">
+			<Text>牺牲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_SACRIFICE_DESC">
+			<Text>
+				"An insatiable appetite for glory leads to sacrifice and death, but innate instinct leads to self-preservation and life."[NEWLINE]-Jose Marti
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_EXCHANGE">
+			<Text>交换</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_EXCHANGE_DESC">
+			<Text>
+				"Gold, on the contrary, though of little use compared with air or water, will exchange for a great quantity of other goods."[NEWLINE]-David Ricardo
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_GEOLOGY">
+			<Text>地质</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_GEOLOGY_DESC">
+			<Text>
+				"We cannot take one step in geology without drawing upon the fathomless stores of by-gone time."[NEWLINE]-Adam Sedgwick
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ENTERTAINMENT">
+			<Text>娱乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ENTERTAINMENT_DESC">
+			<Text>
+				"Nothing contributes to the entertainment of the reader more, than the change of times and the vicissitudes of fortune."[NEWLINE]-Cicero
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_LABOR">
+			<Text>劳动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_LABOR_DESC">
+			<Text>-</Text>
+		</Row>
+
+	</Language_zh_CN>
+
+</GameData>

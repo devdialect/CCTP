@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 3:03:34 PM -->
+<GameData>
+	
+<!--*******Belief_CoastalCityYieldChanges********works!!!-->
+<Belief_CoastalCityYieldChanges>
+<Row>
+	<BeliefType>BELIEF_IDUN</BeliefType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>3</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_NUN</BeliefType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>4</Yield>
+</Row>
+</Belief_CoastalCityYieldChanges>
+
+	
+</GameData>
+<!--Have a nice Day;=)-->
+  

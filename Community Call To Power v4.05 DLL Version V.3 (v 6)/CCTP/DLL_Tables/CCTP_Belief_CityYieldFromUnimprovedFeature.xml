@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 3:08:15 PM -->
+<GameData>
+
+<!--*******Belief_CityYieldFromUnimprovedFeature********works!!!-->
+<Belief_CityYieldFromUnimprovedFeature>
+<Row>
+	<BeliefType>BELIEF_DURIN</BeliefType>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>2</Yield>
+</Row>
+</Belief_CityYieldFromUnimprovedFeature>
+
+
+
+	
+  
+</GameData>
+<!--Have a nice Day;=)-->

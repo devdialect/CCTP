@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/25/2014 9:12:12 PM -->
+<GameData>
+	
+	
+ <!--<<<<<<<<<<[BuildingClasses]>>>>>>>>>>-->
+<BuildingClasses>
+	
+<!--*****Next*****-->
+<Row>
+	<Type>BUILDINGCLASS_SKY_HYDROPONICS_LAB</Type>
+	<DefaultBuilding>BUILDING_SKY_HYDROPONICS_LAB</DefaultBuilding>
+	<NoLimit>true</NoLimit>
+	<Description>TXT_KEY_BUILDING_SKY_HYDROPONICS_LAB</Description>
+</Row>
+	
+ <!--*****Next*****-->
+</BuildingClasses>
+	
+
+  
+</GameData> 
+ <!--Have a nice Day;=)-->

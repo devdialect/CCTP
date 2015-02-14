@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="56d06fd4-4a19-4b27-952e-c5af22e9059c" version="13">
+  <Properties>
+    <Name>UI - Enhanced Rankings</Name>
+    <Teaser>Modularised version of Dale Kent's Advanced Civilization Ranking Popup</Teaser>
+    <Description>Modularised version of Dale Kent's Advanced Civilization Ranking Popup - http://www.weplayciv.com/forums/downloads.php?do=file&amp;id=279
+
+Compatible with Utils - Modular DiploCorner - http://forums.2kgames.com/showthread.php?119091-MOD-Utils-Modular-DiploCorner
+
+Modifies the core game WhosWinningPopup.lua/xml files</Description>
+    <Authors>William Howard, Dale Kent</Authors>
+    <SpecialThanks>AndreP for the German translation</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+    <PediaCategory>UI</PediaCategory>
+    <PediaAtlas>UNIT_ATLAS_2</PediaAtlas>
+    <PediaIndex>47</PediaIndex>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="21e78f1f-06f9-4147-ac61-75aa7c403d18" minversion="3" maxversion="999" title="Utils - Modular DiploCorner" />
+    <Mod id="e1ccf71a-f248-498c-8f30-5ca6d851079d" minversion="1" maxversion="999" title="Tofts Flags +++" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2D43A7886B98BFB0F045E05BA1803EDC" import="1">UI/InGame/Popups/WhosWinningPopup.lua</File>
+    <File md5="BD366C2558082766D7EE4F6F7D17A04F" import="1">UI/InGame/Popups/WhosWinningPopup.xml</File>
+    <File md5="F69F43135A5C0C5297D9E813A3978CFE" import="0">XML/UIEnhancedRankings.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/UIEnhancedRankings.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

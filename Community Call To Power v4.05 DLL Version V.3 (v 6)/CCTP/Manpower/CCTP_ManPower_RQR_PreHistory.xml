@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/19/2014 2:21:25 PM -->
+<GameData>
+ <!--*****Building_ResourceQuantityRequirements*****-->
+<!--<<<<<<<<<<[Pre History|Manpower amount]>>>>>>>>>>-->
+<Building_ResourceQuantityRequirements>  
+<!--*****Next*****-->
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GNOSIS</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_OSIRION</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_DWARF</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CARNAC</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CATAL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ATLIT_YAM</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_VENUS</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_NIMROD</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GUYAJU</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_UGARIT</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_LUNI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GUNUNG</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GOBEKLI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TOTEM</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_THEOPETRACAVE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_LAQROX</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_HELD</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_JELLING</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GGANTIJA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_WONDERWERK</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BARNENEZ</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_YONAGUNI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+</Building_ResourceQuantityRequirements>
+ 
+  
+</GameData> 
+<!--Have a nice Day;=)-->

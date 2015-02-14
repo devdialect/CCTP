@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 11:04:06 AM -->
+<GameData>
+	<Language_de_DE>
+		<Row Tag="TXT_KEY_CC_THEME_ASCENDANCY">
+			<Text>Kulturhaupstadt des Aufstiegs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ASCENDANCY_DESC">
+			<Text>-</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CC_THEME_INVESTIGATION">
+			<Text>Kulturhaupstadt der Ermittlung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_INVESTIGATION_DESC">
+			<Text>-</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CC_THEME_EXTRACTION">
+			<Text>Kulturhaupstadt der Bodenschätze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_EXTRACTION_DESC">
+			<Text>-</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_DEEP_EXTRACTION">
+			<Text>Weltkulturhauptstadt des Bergbaus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_DEEP_EXTRACTION_DESC">
+			<Text>-</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_INFORMATION">
+			<Text>Informationskulturhaupstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_INFORMATION_DESC">
+			<Text>
+				"Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?"[NEWLINE]-T. S. Eliot
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_LOYALTY">
+			<Text>Weltkulturhauptstadt der Loyalität</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_LOYALTY_DESC">
+			<Text>
+				"A person who deserves my loyalty receives it."[NEWLINE]-Joyce Maynard
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_KINGS">
+			<Text>Weltkulturhauptstadt der Könige</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_KINGS_DESC">
+			<Text>
+				"Jeder König kommt aus einer Rasse von Sklaven empor, und jeder Sklave hatte Könige unter seinen Vorfahren"[NEWLINE]-Plato
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_IDOLS">
+			<Text>Weltkulturhauptstadt der Ikonen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_IDOLS_DESC">
+			<Text>
+				"We all have idols. Play like anyone you care about but try to be yourself while you're doing so."[NEWLINE]-B.B. King
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_BELIEF">
+			<Text>Weltkulturhauptstadt der Hoffnung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_BELIEF_DESC">
+			<Text>
+				"Ich würde lieber sterben bevor ich etwas tue, von dem ich weiß, dass es eine Sünde ist oder gegen Gottes Willen."[NEWLINE]-Jeanne d'Arc
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_THEME_FAITH">
+			<Text>Weltkulturhauptstadt des Vertrauens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_FAITH_DESC">
+			<Text>
+				"Der Glaube ist ein Vorausverkosten jener Erkenntnis, die uns in der Zukunft glückselig macht."[NEWLINE]-Heiliger Thomas von Aquin
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_CONTROVERSY">
+			<Text>Weltkulturhauptstadt der Kontroverse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_CONTROVERSY_DESC">
+			<Text>
+				"Follow the path of the unsafe, independent thinker. Expose your ideas to the danger of controversy. Speak your mind and fear less the label of "crackpot" than the stigma of conformity."[NEWLINE]-Thomas J. Watson
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ARCHITECTURE">
+			<Text>Architektonische Weltkulturhauptstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ARCHITECTURE_DESC">
+			<Text>
+				"There are three forms of visual art: Painting is art to look at, sculpture is art you can walk around, and architecture is art you can walk through."[NEWLINE]-Dan Rice
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_CONSTRUCTION">
+			<Text>Weltkulturhauptstadt des Aufbaus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_CONSTRUCTION_DESC">
+			<Text>
+				"Each of us is carving a stone, erecting a column, or cutting a piece of stained glass in the construction of something much bigger than ourselves."[NEWLINE]-Adrienne Clarkson
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_PHILOSOPHY">
+			<Text>Weltkulturhauptstadt der Philosophie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_PHILOSOPHY_DESC">
+			<Text>
+				"Ich würde nicht sagen, dass die Philosophie und die Vernunft uns Menschen in vorhersehbarer Zeit führen; jedoch bleiben sie der schönste Ort, zu dem einige Auserwählte stoßen konnten und können werden."[NEWLINE]-Albert Einstein
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TECHNOLOGY">
+			<Text>Weltkulturhauptstadt der Technik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TECHNOLOGY_DESC">
+			<Text>
+				"Technology is a gift of God. After the gift of life it is perhaps the greatest of God's gifts. It is the mother of civilizations, of arts and of sciences."[NEWLINE]-Freeman Dyson
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_TRADE">
+			<Text>Weltkulturhauptstadt des Handels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TRADE_DESC">
+			<Text>
+				"By virtue of exchange, one man's prosperity is beneficial to all others."[NEWLINE]-Frederic Bastiat
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_TROPHIES">
+			<Text>Weltkulturhauptstadt der Trophäen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_TROPHIES_DESC">
+			<Text>
+				"Language is the armory of the human mind, and at once contains the trophies of its past and the weapons of its future conquests."[NEWLINE]-Samuel T. Coleridge
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_SERVITUDE">
+			<Text>Weltkulturhauptstadt der Knechtschaft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_SERVITUDE_DESC">
+			<Text>
+				"Thought takes man out of servitude, into freedom."[NEWLINE]-Henry W. Longfellow
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_EMPOWERMENT">
+			<Text>Weltkulturhauptstadt des Volkes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_EMPOWERMENT_DESC">
+			<Text>
+				"First they ignore you, then they laugh at you, then they fight you, then you win."[NEWLINE]-Mahatma Gandhi
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_BENEVOLENCE">
+			<Text>Weltkulturhauptstadt der Gutmütigkeit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_BENEVOLENCE_DESC">
+			<Text>
+				"We do no benevolences whose first benefit is not for ourselves."[NEWLINE]-Mark Twain
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ECOLOGY">
+			<Text>Ökologische Weltkulturhauptstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ECOLOGY_DESC">
+			<Text>
+				"Modern technology[NEWLINE]Owes ecology[NEWLINE]An apology."[NEWLINE]-Alan M. Eddison
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_DEFENSE">
+			<Text>Weltkulturhauptstadt der Werte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_DEFENSE_DESC">
+			<Text>
+				"Our defense is in the preservation of the spirit which prizes liberty as a heritage of all men, in all lands, everywhere. Destroy this spirit and you have planted the seeds of despotism around your own doors."[NEWLINE]-Abraham Lincoln
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ADV_DEFENSE">
+			<Text>Weltkulturhauptstadt des Rechts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ADV_DEFENSE_DESC">
+			<Text>
+				"A Jedi uses the Force for knowledge and defense, never for attack."[NEWLINE]-A Puppet
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_HORIZON">
+			<Text>Weltkulturhauptstadt am Horizont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_HORIZON_DESC">
+			<Text>
+				"A dream is the bearer of a new possibility, the enlarged horizon, the great hope."[NEWLINE]-Howard Thurman
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_SACRIFICE">
+			<Text>Weltkulturhauptstadt des Opfers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_SACRIFICE_DESC">
+			<Text>
+				"An insatiable appetite for glory leads to sacrifice and death, but innate instinct leads to self-preservation and life."[NEWLINE]-Jose Marti
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_EXCHANGE">
+			<Text>Weltkulturhauptstadt der Banken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_EXCHANGE_DESC">
+			<Text>
+				"Gold, on the contrary, though of little use compared with air or water, will exchange for a great quantity of other goods."[NEWLINE]-David Ricardo
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_GEOLOGY">
+			<Text>Weltkulturhauptstadt der Geologie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_GEOLOGY_DESC">
+			<Text>
+				"We cannot take one step in geology without drawing upon the fathomless stores of by-gone time."[NEWLINE]-Adam Sedgwick
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_ENTERTAINMENT">
+			<Text>Weltkulturhauptstadt der Unterhaltung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_ENTERTAINMENT_DESC">
+			<Text>
+				"Nothing contributes to the entertainment of the reader more, than the change of times and the vicissitudes of fortune."[NEWLINE]-Cicero
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_THEME_LABOR">
+			<Text>Weltkulturhauptstadt der Arbeiterschaft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEME_LABOR_DESC">
+			<Text>-</Text>
+		</Row>
+	</Language_de_DE>
+  
+</GameData>

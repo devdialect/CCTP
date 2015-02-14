@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgameschon 9/2/2013 10:32:36 PM -->
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<GameData>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->	
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	<!--ClassesNeededInCity-->
+	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->	
+<Building_ClassesNeededInCity>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Delete BuildingType="BUILDING_HOSPITAL" BuildingClassType="BUILDINGCLASS_AQUEDUCT"/>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_QCELLS</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_BRENNZELLE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SAUNA</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_PUBLIC_BATHS</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_FEUER</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_BONFIRE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_YACHTHAFEN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SEAPORT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_COMMERCIAL_AIRPORT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_AIRPORT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_COLOSSEUM</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_GLADIATOR</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_DPOLICY</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_POLICE_STATION</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_BGARDEN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_CENTRAL_BANK</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_ACADEMYX</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_HANDELSPOSTEN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_CYROPRISON</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_PRISON</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_QUANTUM_LAB</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_FUSION_LAB</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_IUNIVERSITY</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_KATASTROPHENSCHUTZ</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_FEUERWEHR</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_PETROLEUM</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_OIL_REFINERY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_HEALER</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SHAMAN_HUT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SKLAVENMARKT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB146</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_CAVALRY_GARRISON</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_FUSION_LAB</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_HUNGARYPARLIAMENT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB104</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SMALLPOX_ERADICATION</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB100</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_HOSPITAL</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB99</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_RED_CROSS</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB87</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_DRUG_STORE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB88</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_GEHEIMDIENST</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB87</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_KGB</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB86</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEOPLANT2</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_WASTE_PLANT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEOPLANT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEODYNAMO</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB43</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEODYNAMO</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_WINDMILL</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEODYNAMO2</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_WATERMILL</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEODYNAMO2</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB43</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_ANGRY_TREE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_RITUALHUT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEOHIERACHY</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEONATURE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+	</Row>
+	
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEOKULT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NEOFOOD</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+	</Row>
+	
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_DANCING_ENT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_KONTOR</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_ADVANCED_STEEL_FOUNDRY</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_STEEL_FOUNDRY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_IMPERIALER_PALAST</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SKYLIFT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_SKYLIFT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_MUSEUM</BuildingClassType>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_SKYLIFT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_SKYLIFT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_SKYLIFT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_HOTEL</BuildingClassType>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_SKYLIFT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_AIRPORT</BuildingClassType>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_PALACE_ALCHEMY_HALL</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SCHREIBSTUBE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+
+	
+	
+	
+	
+	
+	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	
+<Row>
+	<BuildingType>BUILDING_HORSEMAN</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_RITUELLE_ZEREMONIE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_DIENER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_HAREM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_THRONE_ROOM</BuildingClassType>
+</Row>
+<Row>
+	<BuildingType>BUILDING_HAREM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_SUPPLY_HOUSE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+</Row>	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TAXCOLLECTOR</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_SENAT</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PERLENTAUCHER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_DOCK</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WALFANGERHAUS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_DOCK</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_KRABBENFISCHER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_DOCK</BuildingClassType>
+</Row>	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_NIMROD</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_TREE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_FOUNDER_TEMPLE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TOWN_SQUARE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+</Row>
+<!--/////////CODEX<\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_CODEX</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_SCHREIBSTUBE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_FREUDENHAUS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_TAVERNE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PALACE_WALL</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_GUARD_ROOM</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PALAST_VERLIESS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_GUARD_ROOM</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PALACE_THERME</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_SCHREIBSTUBE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GNOSIS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_CONSERVATORY</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->	
+<Row>
+	<BuildingType>BUILDING_DINING_ROOM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GRAND_ENTRANCE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GUARD_ROOM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PALACE_OBSERVATORY</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PALACE_GARDEN</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PALACE_GALLERY</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TREASURE_ROOM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_THRONE_ROOM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ACREAGE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_STAFF_HOUSING</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_GREAT_HALL</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GREAT_HALL</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ALTAR</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WAR_ROOM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+	
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_KATAKOMBEN</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_STAMM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_HUETTE</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GEHEIMDIENST</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_MILITARY_ACADEMY</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WASTE_PLANT</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+</Row>
+	
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GEOTHERM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_KOHLEKRAFTWERK</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WINDTURBINEN</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_KERKER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WACHTURM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WIEDERAUFBEREITUNGSANLAGE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_FEUERWEHR</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_RELIGIONSSCHULE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_IMPERIALER_GERICHTSHOF</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+	</Row>
+	<!-- 
+<Row>
+	<BuildingType>BUILDING_HANDLER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_</BuildingClassType>
+</Row>-->
+
+
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_PALACE_STABLES</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_STAFF_HOUSING</BuildingClassType>
+	</Row>
+<Row>
+	<BuildingType>BUILDING_ALCATRAZ</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_POLICE_STATION</BuildingClassType>
+</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ARCHITEKT</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ARBEITSLAGER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_KERKER</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TAVERNE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_RED_CROSS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+</Row>
+
+<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_FEUDAL</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SAFARI</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_HOTEL</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MAGELLAN_VOYAGE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPDUMMY9</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_VATICAN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB10</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MESAVERDE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB12</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SHAKESPEARE_THEATER</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB13</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_DECLARATION_OF_INDEPENDENCE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB15</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_TEOTIHUACAN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB16</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_TEOTIHUACAN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB17</BuildingClassType>
+	</Row>
+
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_TORRE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB18</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_GULOU</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB11</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_KASHI</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB18</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_KASHI</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB19</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SCHREINER</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_LUMBERJACK</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB22</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_PERGAMON</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB23</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_BAMIYAN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB25</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_TOTEM</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB27</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_DOGESPALACE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPDUMMY1</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_CCTPVENICE1</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPDUMMY1</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_CCTPVENICE2</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPVENICE1</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NATIONALFEST</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_HARVEST</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SILO</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_NATIONALER_SHRINE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MINNE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_MUSIK</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NHS</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_OLYMPIADEX</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_ART_ACADEMY</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_SCHOOL</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_HUETTE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_HUTT</BuildingClassType>
+</Row>
+<Row>
+	<BuildingType>BUILDING_SHIPYARDS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_DOCK</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_IRONMONGER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_ARMOURER</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ARMOURER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_BLACKSMITH</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_FARRIER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WEAPONSMITH</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_BLACKSMITH</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_ARMOUR_WORKSHOP</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_BLACKSMITH</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_WALTOURISMUS</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_HOTEL</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_WASTE_PLANT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GEOTHERM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+</Row>
+<Row>
+	<BuildingType>BUILDING_KOHLEKRAFTWERK</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+</Row>
+<Row>
+	<BuildingType>BUILDING_WINDTURBINEN</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_KERKER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_WACHTURM</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_WIEDERAUFBEREITUNGSANLAGE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_FEUERWEHR</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_RELIGIONSSCHULE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_IMPERIALER_GERICHTSHOF</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<!-- 
+<Row>
+	<BuildingType>BUILDING_HANDLER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_</BuildingClassType>
+</Row>-->
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ARCHITEKT</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ARBEITSLAGER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_KERKER</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TAVERNE</BuildingType>
+    <BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_RED_CROSS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_FEUDAL</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SAFARI</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_HOTEL</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_MAGELLAN_VOYAGE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPDUMMY9</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_VATICAN</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB10</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_MESAVERDE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB12</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SHAKESPEARE_THEATER</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB13</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_DECLARATION_OF_INDEPENDENCE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB15</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TEOTIHUACAN</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB16</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_TEOTIHUACAN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB17</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TORRE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB18</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_GULOU</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB11</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_KASHI</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB18</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_KASHI</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB19</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_SCHREINER</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_LUMBERJACK</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB22</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_PERGAMON</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB23</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_BAMIYAN</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB25</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_TOTEM</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB27</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_DOGESPALACE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB1</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_CCTPVENICE1</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPPB1</BuildingClassType>
+</Row>
+<Row>
+	<BuildingType>BUILDING_CCTPVENICE2</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_CCTPVENICE1</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+    <BuildingType>BUILDING_NATIONALFEST</BuildingType>
+   <BuildingClassType>BUILDINGCLASS_HARVEST</BuildingClassType>	
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_SILO</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NATIONALER_SHRINE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_MINNE</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_MUSIK</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_NHS</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_OLYMPIADEX</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+<Row>
+	<BuildingType>BUILDING_ART_ACADEMY</BuildingType>
+	<BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_PALACE_SCIENCE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_AQUEDUCT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SEWER_SYSTEM</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SEWER_SYSTEM</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MOVIE_THEATRE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_BURIAL_MOUND</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_FISCHERHAUS</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_DOCK</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_FOUNDRY</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_FORGE</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MISSIONARY_CHURCH</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_ABBEY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_AIRCRAFT_PLANT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_AIRBASE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_AUTO_PLANT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_INDUSTRIAL_SHIPYARD</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SEAPORT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_JEWELRY_STORE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_MINT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_NAVAL_BASE</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_SEAPORT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SUPERMARKET</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_CELL_TOWERS</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_ADVANCED_AIRCRAFT_PLANT</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_INDUSTRIAL_ROBOTICS</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MEGACHURCH</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_MISSIONARY_CHURCH</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_SERVER_FARM</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<!--<Row>
+		<BuildingType>BUILDING_CCTPRELIGION1</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_BUDDHISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION2</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_CHRISTIANITY</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION3</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_CONFUCIANISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION4</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_HINDUISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION5</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_ISLAM</BuildingClassType>
+	</Row>
+	>
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION6</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_JUDAISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION7</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_SHINTO</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION8</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_SIKHISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION9</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_TAOISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION10</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_TENGRIISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION11</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_ZOROASTRIANISM</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION12</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_ORTHODOXY</BuildingClassType>
+	</Row>
+
+	<Row>
+		<BuildingType>BUILDING_CCTPRELIGION13</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_RELIGION_PROTESTANTISM</BuildingClassType>
+	</Row>-->
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_CONSTITUTION</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB71</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_WORKSTATION5</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB72</BuildingClassType>
+	</Row>
+	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_WORKSTATION3</BuildingType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB115</BuildingClassType>
+	</Row>
+</Building_ClassesNeededInCity>
+<!-- Have a nice Day;=)-->
+</GameData>

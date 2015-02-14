@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 10:49:38 AM -->
+<GameData>
+	<Language_de_DE>
+		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS">
+			<Text>Weltkulturhauptstädte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS_HELP">
+			<Text>Aktiviert die Weltkulturhauptstädte- Mod.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_NAME">
+			<Text>Weltkulturhauptstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TITLE_PLAYER">
+			<Text>Weltkulturhauptstadt {1_year}:[COLOR_WHITE]{2_city}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TITLE">
+			<Text>Weltkulturhauptstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_NO_THEME">
+			<Text>Kein Thema gewählt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEMES">
+			<Text>Themen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_CHOOSE_THEME">
+			<Text>Wähle Thema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_THEME">
+			<Text>Aktiv: {1_theme}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_THEME_TOOLTIP">
+			<Text>Für aktuelle Effekte hier klicken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_EFFECTS">
+			<Text>Aktuelle Effekte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]Wählbar![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_ALREADY_CHOSEN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Sie haben bereits ein Thema gewählt![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_LR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE]Linksklick für Effekte.[NEWLINE]Rechtsklick für weitere Informationen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_INACTIVEBUTTON_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Nicht alle Bedingungen erfüllt.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_MUSTWIN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Sie müssen die Wahl zur Weltkulturhauptstadt gewinnen, um ein Thema wählen zu können![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_OBSOLETEBUTTON_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Dieses Thema ist veraltet.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_EFFECTS">
+			<Text>Effekte bei Adoption dieses Themas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_EFFECT_CIVI">
+			<Text>Klicken, um Civilopedia-Einträge einzusehen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TEMPORARY_EFFECT">
+			<Text>Temporärer Effekt über {1_turns} Runden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SHOW_ALL">
+			<Text>Zeige alle Themen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SHOW_ALL_TOOLTIP">
+			<Text>Zeige alle mögliche Themen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SHOW_OBSOLETE_TOOLTIP">
+			<Text>Zeige veraltete Themen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_VIEW_CC">
+			<Text>Zeige die Weltkulturhauptstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_DESCRIPTION_LABEL">
+			<Text>Beschreibung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_FULLFILLED_LABEL">
+			<Text>ERFÜLLTE BEDINGUNGEN</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_UNMET_LABEL">
+			<Text>NICHT ERFÜLLTE BEDINGUNGEN</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_DISTANT_CIV">
+			<Text>eine entfernte Zivilisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_PLAYER_THEMECHOSEN">
+			<Text>[COLOR_FONT_RED]{1_player}[ENDCOLOR] wählte das Thema [COLOR_YELLOW]{2_theme}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_WORLD_LCLICK_TOOLTIP">
+			<Text>Linksklick zeigt die Themen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_RCLICK_TOOLTIP">
+			<Text>Rechtsklick öffnet die Übersicht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MCLICK_TOOLTIP">
+			<Text>Klicke das Mausrad, um {1_city} zu sehen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_EMPTY_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Keiner hat das Kulturkomitée gegründet! Seien Sie die erste Zivilisation mit [ENDCOLOR][COLOR_FONT_GREEN] {1_value} [ENDCOLOR][COLOR_FONT_RED]Weltwundern,um das Komitée zu formen![NEWLINE]Das Komitée ermöglicht es Ihnen, den Wahl-Fortschritt aller anderen Zivilisation einzusehen.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_COUNTDOWN_TOOLTIP">
+			<Text>[COLOR_YELLOW]{1_turns}[ENDCOLOR] Runden bis zur nächsten Wahlperiode.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_CANCHOOSE_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]Gewonnen! Wählen Sie ein Thema.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_TURNSREMAINING_TOOLTIP">
+			<Text>[COLOR_YELLOW]{1_turns}[ENDCOLOR] Runden bis zum Wahlsieg.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_BASE_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Bonus Kultur.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_MINOR_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Bonus Stadtstaaten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_WONDER_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Bonus Weltwunder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MALUS_CITY_TOOLTIP">
+			<Text>[COLOR_FONT_RED]{1_value}[ENDCOLOR] Malus Anzahl der Städte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_BRIBE_TOOLTIP">
+			<Text>[COLOR_YELLOW]{1_value}[ENDCOLOR] Bonus Schmiergelder ({2_cooldown}).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MALUS_LASTWIN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]{1_value}[ENDCOLOR] Malus als letzter Gewinner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_TOTAL_TOOLTIP">
+			<Text>= [COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Gesamt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_ZERO_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Sie benötigen mindestens ein Weltwunder in ihrem Reich, um Punkte zu sammeln![ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_OVERVIEW_TITLE">
+			<Text>Übersicht Weltkulturhauptstädte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_SHOW_ALL">
+			<Text>Zeige alle Gewinner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_SHOW_ALL_TOOLTIP">
+			<Text>Zeige alle Gewinner früherer Wahlen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YEAR">
+			<Text>Jahr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YEAR_SORT">
+			<Text>Sortieren nach Jahr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINNER">
+			<Text>Gewinner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINNER_SORT">
+			<Text>Sortiere nach Gewinnern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_CITY">
+			<Text>Stadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_CITY_SORT">
+			<Text>Sortiere nach Städten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_THEME">
+			<Text>Thema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_THEME_SORT">
+			<Text>Sortiere nach Themen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNKNOWN_CITY">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PLAYER">
+			<Text>Spieler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PLAYER_SORT">
+			<Text>Sortiere nach Spieler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS">
+			<Text>Fortschritt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS_SORT">
+			<Text>Sortiere nach Fortschritt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINS">
+			<Text>Gewinnanzahl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINS_SORT">
+			<Text>Sortiere nach (bekannten) Gewinnen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YOU">
+			<Text>SIE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNMET">
+			<Text>Unbekannter Spieler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNKNOWN_THEME">
+			<Text>Unbekanntes Thema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_HISTORY_BUTTON">
+			<Text>Zeige Entwicklung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS_BUTTON">
+			<Text>Zeige Fortschritt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON">
+			<Text>Bestechung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_CONFIRM">
+			<Text>Wollen Sie das Komitée für [COLOR_YELLOW]{1_gold}[ENDCOLOR][ICON_GOLD] Gold bestechen?[NEWLINE][NEWLINE]Effektiv für [COLOR_FONT_GREEN]{2_duration}[ENDCOLOR] Wahlrunden.[NEWLINE][NEWLINE]Diese Bestechung erhöht die Wahlpunkte um [COLOR_FONT_GREEN]{3_bribemod}%[ENDCOLOR] pro Runde.[NEWLINE][NEWLINE][COLOR_FONT_RED]Sie dürfen in [ENDCOLOR]{4_cooldown}[COLOR_FONT_RED] Wahlrunden wieder bestechen[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_ALLOWED_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]Sie können das Komitée für [ENDCOLOR][COLOR_YELLOW]{1_gold}[ENDCOLOR][COLOR_FONT_GREEN][ICON_GOLD] Gold bestechen![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_COOLDOWN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Warten Sie noch [ENDCOLOR]{1_turns}[COLOR_FONT_RED] Wahlrunden![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_RACE_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Sie können das Komitée nur während einer Wahlperiode bestechen![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_GOLD_TOOLTIP">
+			<Text>[COLOR_FONT_RED]Sie brauchen mindestens [ENDCOLOR][COLOR_YELLOW]{1_gold}[ENDCOLOR][COLOR_FONT_RED] Gold![ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_COMMITTEE">
+			<Text>[COLOR_CULTURE_RATE]Kulturelles Komitée[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_COMMITTEENOTFORMED">
+			<Text>Kulturelles Komitée noch nicht gegründet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_COMMITTEEFORMED_NOTIFICATION">
+			<Text>{1_location} hat das [COLOR_CULTURE_RATE]Komitée um die Weltkulturhauptstadt gegründet[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_COMMITTEEMOVED_NOTIFICATION">
+			<Text>Das [COLOR_CULTURE_RATE]Komitée[ENDCOLOR] wurde in {1_location} neu errichtet!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WINNER_NOTIFICATION">
+			<Text>[COLOR_CULTURE_RATE]Weltkulturhauptstadt[ENDCOLOR] {1_year}:[NEWLINE]{2_location}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WONDERSERECTED_NOTIFICATION">
+			<Text>[COLOR_FONT_GREEN]{1_nWonders}[ENDCOLOR] Weltwunder wurden errichtet!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ELECTIONSTARTED_NOTIFICATION_TITLE">
+			<Text>Die Wahlperiode beginnt!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ELECTIONSTARTED_NOTIFICATION_DESC">
+			<Text>Die Wahlperiode zur Weltkulturhauptstadt beginnt! Sammeln Sie genügend [ICON_CC]Punkte, um zu gewinnen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WINNER">
+			<Text>Weltkulturhauptstadt Gewinner: </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_WONDERS_REQUIRED">
+			<Text>Mindestens {1_count} Weltwunder in dieser Stadt benötigt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MINCITIES_REQUIRED">
+			<Text>Der Spieler braucht minimal {1_count} ursprüngliche Städte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MAXCITIES_REQUIRED">
+			<Text>Der Spieler braucht maximal {1_count} ursprüngliche Städte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SPECIALISTBUILDING_REQUIRED">
+			<Text>Mindestens ein Gebäude für {1_type} Spezialisten benötigt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MINSIZE_REQUIRED">
+			<Text>Die Stadt braucht mindestens {1_size} Bevölkerung.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MAXSIZE_REQUIRED">
+			<Text>Die maximal erlaubte Stadtgröße beträgt {1_size} Bevölkerung.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TECH_REQUIRED">
+			<Text>{1_tech} muss erforscht sein.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ERA_REQUIRED">
+			<Text>Benötigtes Zeitalter: {1_era}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASS_REQUIRED">
+			<Text>Benötigtes Gebäude in Stadt: {1_building}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASSINEMPIRE_REQUIRED">
+			<Text>Sie brauchen das Gebäude {1_building} in ihrer Zivilisation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASS_EXCLUDED">
+			<Text>{1_building} ist in dieser Stadt nicht möglich.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASSINEMPIRE_EXCLUDED">
+			<Text>Sie können das Gebäude {1_building} nicht in ihrer Zivilisation errichten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_CANHAVERESOURCE">
+			<Text>Benötigt ein Feld neben der Stadt, auf dem {1_resource} entdeckt werden kann.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POLICY_REQUIRED">
+			<Text>{1_policy} wird benötigt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_GARRISON_REQUIRED">
+			<Text>Die Stadt benötigt eine Garnison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MUST_PRODUCE">
+			<Text>Die Stadt muss ein Gebäude oder eine Einheit produzieren.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OBSOLETE_TECH">
+			<Text>Dieses Thema veraltet mit der Technologie {1_tech}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OBSOLETE_ERA">
+			<Text>Dieses Thema veraltet im Zeitalter {1_era}.</Text>
+		</Row>
+
+	</Language_de_DE>
+
+</GameData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/15/2014 4:29:49 PM -->
+<GameData>
+	
+<!--*****Trait_TerrainYieldChanges*****-->
+<Trait_TerrainYieldChanges>
+<!--***Next***
+<Row>
+	<TraitType>TRAIT_SKI</TraitType>
+	<TechType>TECH_STONES</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+</Trait_TerrainYieldChanges>
+  
+
+</GameData>  
+<!--Have a nice Day;=)-->

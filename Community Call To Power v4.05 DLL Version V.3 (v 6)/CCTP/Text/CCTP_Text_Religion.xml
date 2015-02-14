@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:37:51 PM -->
+<GameData>
+	<!--/////////Religion***Gametext\\\\\\\\\-->
+	<Language_en_US>
+<!--<<<<<<<<<<[Beliefs]>>>>>>>>>>-->
+<!--
+<Update>
+	<Set Text="15% [ICON_PRODUCTION] Produktion beim Bau von Wundern in der Antike und Klassik. Zikurat einzigartiges GebAude"/>
+	<Where Tag="TXT_KEY_BELIEF_MONUMENT_GODS"/>
+</Update>-->
+	
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+<Update>
+	<Set Text="+1 [ICON_CULTURE] Culture from Forest and Jungle tiles."/>
+	<Where Tag="TXT_KEY_BELIEF_SACRED_PATH_HELP"/>
+</Update>
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<!--<<<<<<<<<<[BELIEF_NATUREONE]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_NATUREONE">
+	<Text>+1 [ICON_RESEARCH] Research for forest or jungles and +1 [ICON_HAPPINESS_1] Happiness for each Garden.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NATUREONE_SHORT">
+		<Text>Herbalism</Text>
+</Row>
+	
+	<!--<<<<<<<<<<[BELIEF_INQUISATION]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_INQUISATION">
+	<Text>Allows the construction of the Inquisiton building. +5 [ICON_PEACE] Faith and a free [ICON_INQUISITOR] Inquisitor.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_INQUISATION_SHORT">
+	<Text>Inquisition.</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NATURHEILIGTUM]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_NATURHEILIGTUM">
+		<Text>Allows the construction of the Nature Gods building, also add yields +2 [ICON_CULTURE] Culture and +2 [ICON_PEACE] Faith for mountain and natural wonders.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NATURHEILIGTUM_SHORT">
+		<Text>Animism</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_GAIA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_GAIA">
+		<Text>+1 [ICON_PEACE] Faith from forest and jungles.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_GAIA_SHORT">
+		<Text>World Tree</Text>
+</Row>
+	
+	<!--<<<<<<<<<<[BELIEF_BARBAROSSA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_BARBAROSSA">
+		<Text>Allows conversion of Barbarians.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_BARBAROSSA_SHORT">
+		<Text>Blood Cult</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_CULTIMPRO]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_CULTIMPRO">
+		<Text>+2 [ICON_CULTURE] Culture for each Great Person improvement.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_CULTIMPRO_SHORT">
+		<Text>God of the Sun</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_SCIENCEIMPRO]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_SCIENCEIMPRO">
+		<Text>+2 [ICON_RESEARCH] Science for each Great Person improvement.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_SCIENCEIMPRO_SHORT">
+		<Text>Goddess of Wisdom</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_GOLDIMPRO]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_GOLDIMPRO">
+		<Text>+2 [ICON_GOLD] Gold for each Great Person improvement</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_GOLDIMPRO_SHORT">
+		<Text>God of Fortune</Text>
+</Row>
+	
+	<!--<<<<<<<<<<[BELIEF_FOODIMPRO]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_FOODIMPRO">
+		<Text>+2 [ICON_FOOD] Food for each Great Person improvement.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_FOODIMPRO_SHORT">
+		<Text>Goddess of the Seasons</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_FAITHIMPRO]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_FAITHIMPRO">
+		<Text>+2 [ICON_PEACE] Faith for each Great Person improvement.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_FAITHIMPRO_SHORT">
+		<Text>Religious Retreats</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_PROIMPRO]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_PROIMPRO">
+	<Text>+2 [ICON_PRODUCTION] Production for each Great Person improvement.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_PROIMPRO_SHORT">
+		<Text>God of Crafts</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_REGSCHOOL]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_REGSCHOOL">
+		<Text>Construct the Religious School, +2 [ICON_PEACE] Faith, +1 [ICON_RESEARCH] Science and +1 [ICON_HAPPINESS_1] Happiness.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_REGSCHOOL_SHORT">
+	<Text>Religious Education</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_WONDERGOLD]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_WONDERGOLD">
+		<Text>+2 [ICON_GOLD] Gold for each World Wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_WONDERGOLD_SHORT">
+		<Text>Pilgrimage Sites</Text>
+</Row>	
+	
+<!--<<<<<<<<<<[BELIEF_WONDERPRO]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_WONDERPRO">
+	<Text>+1 [ICON_PRODUCTION] Production for each World Wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_WONDERPRO_SHORT">
+		<Text>Work Ethic</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_WONDERSCIENCE]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_WONDERSCIENCE">
+		<Text>+1 [ICON_RESEARCH] Science for each World Wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_WONDERSCIENCE_SHORT">
+		<Text>Neo Inspiration</Text>
+</Row>
+	
+	<!--<<<<<<<<<<[BELIEF_WONDERCULT]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_WONDERCULT">
+		<Text>+1 [ICON_CULTURE] Culture for each World Wonder</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_WONDERCULT_SHORT">
+		<Text>Holy Murals</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NATURALFOOD]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_WONDERFOOD">
+	<Text>+1 [ICON_PRODUCTION] Production for each World Wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_WONDERFOOD_SHORT">
+	<Text>Charitable Institutions</Text>
+</Row>
+	
+<Row Tag="TXT_KEY_BELIEF_NATURALFOOD">
+	<Text>+4 [ICON_FOOD] Food for each Natural Wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NATURALFOOD_SHORT">
+	<Text>Ritual Feasts</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NATURALFAITH]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_NATURALFAITH">
+	<Text>+4 [ICON_PEACE] Faith for each Natural Wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NATURALFAITH_SHORT">
+	<Text>Pilgrimage</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NATURALGOLD]>>>>>>>>>>-->
+	<Row Tag="TXT_KEY_BELIEF_NATURALGOLD">
+        <Text>+4 [ICON_GOLD] Gold for each Natural Wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NATURALGOLD_SHORT">
+	<Text>Goddess of Wealth</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NATURALSCIENCE]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_NATURALSCIENCE">
+	<Text>+4 [ICON_RESEARCH] Science for each Natural wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NATURALSCIENCE_SHORT">
+		<Text>Meditation</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NATURALCULT]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_NATURALCULT">
+		<Text>+4 [ICON_CULTURE] Culture for each Natural wonder.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NATURALCULT_SHORT">
+		<Text>Goddess of the Earth</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NATURALPRO]>>>>>>>>>>-->
+	<Row Tag="TXT_KEY_BELIEF_NATURALPRO">
+	 	<Text>+4 [ICON_PRODUCTION] Production for each Natural wonder.</Text>
+	</Row>
+	<Row 	Tag="TXT_KEY_BELIEF_NATURALPRO_SHORT">
+	 <Text>Abode of the Gods</Text>
+</Row>	
+	
+<!--<<<<<<<<<<[BELIEF_GLAUBENSKRIEG]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_GLAUBENSKRIEG">
+		<Text>Gain [ICON_PEACE] Faith each time you kill a enemy 8 tiles from your cities, -25% [ICON_STRENGTH] Strength from other [ICON_RELIGION] religions.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_GLAUBENSKRIEG_SHORT">
+		<Text>Jihad</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_WALFAHRT]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_WALFAHRT">
+		<Text>+1 [ICON_TOURISM] Tourism for each building purchased by [ICON_PEACE] Faith.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_WALFAHRT_SHORT">
+		<Text>Sacred Places</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_VISION]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_VISION">
+	<Text>+25% appairing of [ICON_PROPHET] Great Prophets.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_VISION_SHORT">
+	<Text>Oracles</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_KIRCHENSTEUER]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_KIRCHENSTEUER">
+	<Text>+1 [ICON_GOLD] Gold for each [ICON_CITIZEN] follower and yields +3 [ICON_PEACE] Faith for every Bank.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_KIRCHENSTEUER_SHORT">
+	<Text>Church Taxes</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_GEMEINSCHAFT]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_GEMEINSCHAFT">
+	<Text>+10% [ICON_INFLUENCE] influence with [ICON_CITY_STATE] City State  and [ICON_SILVER_FIST] units heal +10% faster.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_GEMEINSCHAFT_SHORT">
+	<Text>Religious Clan</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_KABALLA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_KABALLA">
+	<Text>Buy all [ICON_GREAT_PEOPLE] Great Persons with [ICON_PEACE] Faith.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_KABALLA_SHORT">
+	<Text>Kaballa</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_SACRIFICE]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_SACRIFICE">
+	<Text>+100 [ICON_PEACE] Faith when a [ICON_GREAT_PEOPLE] Great Person is expanded.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_SACRIFICE_SHORT">
+	<Text>Ritual Sacrifice</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_HOLYSECRETS]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_HOLYSECRETS_SHORT">
+	<Text>Holy Secrets</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_HOLYSECRETS">
+	<Text>Your [ICON_SPY] Espionagepressure is incresed +2.</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_RELIGIOUSUTOPIA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_RELIGIOUSUTOPIA">
+	<Text>+3 [ICON_HAPPINESS_1] for each city you control.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_RELIGIOUSUTOPIA_SHORT">
+	<Text>Religious Utopia</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_EPIC]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_EPIC">
+	<Text>+10% more [ICON_PRODUCTION] Production when construction of Wonders.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_EPIC_SHORT">
+	<Text>Pans Oath</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_FRIEDEN]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_FRIEDEN">
+	<Text>+20 [ICON_RELIGION] religious spreading and +50% fo friendly [ICON_CITY_STATE] Citystates.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_FRIEDEN_SHORT">
+	<Text>Friendly Cult</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_GOLDENREALM]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_GOLDENREALM">
+	<Text>+10 [ICON_CULTURE] Culturebonus in all of your cities.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_GOLDENREALM_SHORT">
+	<Text>Golden Realm</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_PARIA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_PARIA">
+	<Text>Gain [ICON_PEACE] Faith each time one of your [ICON_SILVER_FIST] units dies.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_PARIA_SHORT">
+	<Text>Paria</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_WARLORD]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_WARLORD">
+	<Text>Gain [ICON_PEACE] Faith each time you kill a enemy [ICON_SILVER_FIST]unit.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_WARLORD_SHORT">
+	<Text>God of War</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_CCTPTITHE]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_CCTPTITHE">
+	<Text>+1 [ICON_GOLD] Gold for each 2 [ICON_CITIZEN] Citizen following this [ICON_RELIGION] Religion.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_CCTPTITHE_SHORT">
+	<Text>Tithe</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_CCTPPROPERTY]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_CCTPPROPERTY">
+     <Text>+10 [ICON_GOLD] Gold for each city following this [ICON_RELIGION] Religion.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_CCTPPROPERTY_SHORT">
+		<Text>Church Property</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_CCCTPBURIAL]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_CCCTPBURIAL">
+	<Text>+1 [ICON_HAPPINESS_1] Happiness for each city following this [ICON_RELIGION] Religion.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_CCCTPBURIAL_SHORT">
+	<Text>Ceremonial Burial</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_MAMMON]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_MAMMON">
+	<Text>Allowes the construction of the Mammon temple.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_MAMMON_SHORT">
+	<Text>Mammon</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_ISHTAR]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_ISHTAR">
+	<Text>+1 [ICON_HAPPINESS_1] Happiness for each 10 [ICON_CITIZEN] follower in foreign cities and allowes the construction of the Temple of Ishtar.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_ISHTAR_SHORT">
+	<Text>Ishtar Cult</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_PERSONALCULT]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_PERSONALCULT">
+	<Text>+Gain +100 [ICON_PEACE] Faith each time a [ICON_GREAT_PEOPLE] Great Person was expanded.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_PERSONALCULT_SHORT">
+		<Text>Holy Relicts</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_PROMETHEUS]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_PROMETHEUS">
+	<Text>+10% [ICON_STRENGTH] Combat Strength near Cities that follow this [ICON_RELIGION] Religion. Buy military [ICON_SILVER_FIST] units till medieval.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_PROMETHEUS_SHORT">
+	<Text>Prometheus</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_TIAMAT]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_TIAMAT">
+		<Text>+5 [ICON_PEACE] Faith for each of your Cities with at least 5 [ICON_CITIZEN] Citizen.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_TIAMAT_SHORT">
+		<Text>Tiamat</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_ENKIDU]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_ENKIDU">
+	<Text>+10% [ICON_CULTURE] Culture in all of your Cities.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_ENKIDU_SHORT">
+	<Text>Enkidu</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_EDEN]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_EDEN">
+	<Text>+1 [ICON_FOOD] Food for each Forest and Jungle and adds +2 yields + [ICON_FOOD] Food for each Garden you own.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_EDEN_SHORT">
+		<Text>Eden</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_ZIRKURAT]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_ZIRKURAT">
+	<Text>Allowes the construction of the Zirkurat building, +1 [ICON_PEACE] Faith, +2 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_ZIRKURAT_SHORT">
+	<Text>Zirkurat</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_BESTATTUNGEN]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_BESTATTUNGEN">
+	<Text>Allowes the construction of the Ritual Burial building, +3 [ICON_PEACE] Faith ,+1 [ICON_HAPPINESS_1] und + 15 Gold [ICON_GOLD] each time a [ICON_GREAT_PEOPLE] Great Person is expanded.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_BESTATTUNGEN_SHORT">
+	<Text>Bestattungen</Text>
+</Row>	
+	
+<!--<<<<<<<<<<[BELIEF_LOKI]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_LOKI">
+	<Text>+1 [ICON_HAPPINESS] Happiness for each 10 [ICON_CITIZEN] follower in foreign Cities and +100% spread to friendly [ICON_CITY_STATE] City States.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_LOKI_SHORT">
+	<Text>Zirkurat</Text>
+</Row>
+	
+<!--<<<<<<<<<<[_BELIEF_UTOPIA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_UTOPIA">
+	<Text>+10 [ICON_HAPPINESS_1] Global Happiness.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_UTOPIA_SHORT">
+	<Text>Sacred Society</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_LIVINGGODS]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_LIVINGGODS">
+		<Text>Religion spreads 25% faster and +1% [ICON_RESEARCH] Science per follower (up to 10).</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_LIVINGGODS_SHORT">
+		<Text>Living Gods</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_VALLHALLA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_VALLHALLA">
+	<Text>+1 [ICON_FOOD] Food and +1 [ICON_PEACE] Faith from snow tiles.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_VALLHALLA_SHORT">
+     <Text>Vallhalla</Text>
+</Row> 
+	
+<!--<<<<<<<<<<[BELIEF_ATON]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_ATON">
+	<Text>[ICON_PROPHET] Prophets spreads [ICON_RELIGION] Religion with double [ICON_STRENGTH] Strength.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_ATON_SHORT">
+	<Text>Aton</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_MOOR]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_MOOR">
+	<Text>+3 [ICON_PEACE] Faith from Swamp tiles.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_MOOR_SHORT">
+	<Text>Moor of the Gods</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_IANNA]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_IANNA">
+	<Text>+1 [ICON_PEACE] and [ICON_HAPPINESS_1] Happines from each Monument.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_IANNA_SHORT">
+	<Text>Holy Signs</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_MIDAS]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_MIDAS">
+	<Text>+250 [ICON_GOLD] Gold when [ICON_MISSIONARY] converting a City the first time.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_MIDAS_SHORT">
+     <Text>Midas</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_GRAL]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_GRAL">
+	<Text>+1 [ICON_HAPPINESS_1] Happines and [ICON_TOURISM] Tourism fror each Castle.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_GRAL_SHORT">
+	<Text>Gral</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_JUSTICIA]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_JUSTICIA">
+	<Text>Allowes construction of the Temple of Justice, +1 [ICON_PEACE] Faith, +2 [ICON_CULTURE] Culture and +10% [ICON_GREAT_PEOPLE] Great People in this City.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_JUSTICIA_SHORT">
+	<Text>Holy Lore</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_POSEIDON]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_POSEIDON">
+	<Text>+1 [ICON_PEACE] Faith from Coast/Atoll tiles and Fishing Boats</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_POSEIDON_SHORT">
+	<Text>Poseidon</Text>
+</Row>
+	
+	<!--<<<<<<<<<<[BELIEF_MANNA]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_MANNA">
+	<Text>+1 [ICON_PEACE] Faith for each Farm and Granary.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_MANNA_SHORT">
+	<Text>Sacred Earth</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_ARGO]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_ARGO">
+		<Text>+1% [ICON_Gold] for each follower in this City (up to 25).</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_ARGO_SHORT">
+		<Text>Gold for the Gods</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_SANGREAL]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_SANGREAL">
+	<Text>+1 [ICON_HAPPINESS_1] Happiness and +15% [ICON_FOOD] Food in each City.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_SANGREAL_SHORT">
+		<Text>Gold for the Gods</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_HOLYLAND]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_HOLYLAND">
+		<Text>+1 [ICON_PEACE] Faith for every Landtile worked by a City you own.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_HOLYLAND_SHORT">
+	<Text>Holy Land</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_NEWAGE]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_NEWAGE">
+	<Text>+1 [ICON_HAPPINESS_1] Happiness for each 3 [ICON_CITIZEN] followers in foreign [ICON_FLOWER] contries and +5 [ICON_HAPPINESS_1] Culture for each Tradingroute.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_NEWAGE_SHORT">
+	<Text>New Age</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_POWER]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_POWER">
+		<Text>+50% [ICON_STRENGTH] Range strength for Cities and +25% Healrate for friendly [ICON_SILVER_FIST] units in your terrain.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_POWER_SHORT">
+		<Text>Fundamental Power</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_FANATISM_]>>>>>>>>>>-->	
+<Row Tag="TXT_KEY_BELIEF_FANATISM">
+	<Text>Buy military buildings with [ICON_PEACE] Faith.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_FANATISM_SHORT">
+	<Text>Fanatism</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_ZEUS]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_BELIEF_ZEUS">
+	<Text>Provides +1 [ICON_HAPPINESS_1] Happiness for every World Wonder you own.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_ZEUS_SHORT">
+	<Text>Glorious Wonder</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_THOR]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_THOR">
+	<Text>Provides +1 [ICON_TOURISM] Tourism for every World Wonder you own.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_THOR_SHORT">
+		<Text>Wonder Tourism</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_GARUDA]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_GARUDA">
+	<Text>Provides +2 yield [ICON_PEACE] Faith for each luxury resource worked by one of your cities.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_GARUDA_SHORT">
+	<Text>Holy Resources</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_ARES]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_ARES">
+	<Text>Provides yield +1 [ICON_PEACE] Faith and [ICON_PRODUCTION] Production for each strategic resource worked by one of your cities.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_ARES_SHORT">
+	<Text>Ares</Text>
+</Row>
+	
+<!--<<<<<<<<<<[BELIEF_APOLLO]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_BELIEF_APOLLO">
+	<Text>Provides yield +1 [ICON_PEACE] Faith for each bonus resource worked by one of your cities.</Text>
+</Row>
+<Row Tag="TXT_KEY_BELIEF_APOLLO_SHORT">
+	<Text>Apollo</Text>
+</Row>
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+</Language_en_US>
+<!--Have a nice Day:=)-->
+
+</GameData>

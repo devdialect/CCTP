@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2012 1:16:13 PM -->
+<GameData>
+	<!--TEXT STRINGS-->
+	<Language_fr_FR>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANT_FOREST_TEXT">
+			<Text>Le reboisement est le processus naturel ou intentionnel qui consiste à étoffer des forêts ou zones boisées qui ont été réduites par la déforestation.[1] Le reboisement peut être utilisé pour amméliorer la qualité de vie humaine en absorbant la pollution et la poussière de l'air, reconstruire des habitats naturels et des écosystèmes, ou même compenser l'effet du réchauffement naturel : les forêts facilitentla capture du dioxyde de carbone présent dans l'air. Enfin, le reboisement permet de renouveller les stocks de bois sur le long terme.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PLANT_FOREST">
+			<Text>Planter une forêt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST">
+			<Text>[LINK=IMPROVEMENT_PLANT_FOREST]Planter une forêt[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST_HELP">
+			<Text>Plantera une forêt, remplaçant toute amélioration présente sur cette case.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST_REC">
+			<Text>Reboisez le monde !</Text>
+		</Row>
+	</Language_fr_FR>
+</GameData>

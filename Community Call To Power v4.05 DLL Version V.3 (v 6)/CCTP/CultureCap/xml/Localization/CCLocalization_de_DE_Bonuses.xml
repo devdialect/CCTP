@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 11:01:56 AM -->
+<GameData>
+	<Language_de_DE>
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_CULTURE">
+			<Text>+{1_value}[ICON_CULTURE] Kultur in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CULTURE_MODIFIER">
+			<Text>+{1_value}%[ICON_CULTURE] Kultur in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_FOOD">
+			<Text>+{1_value}[ICON_FOOD] Nahrung in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_SCIENCE">
+			<Text>+{1_value}[ICON_RESEARCH] Wissenschaft in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_PRODUCTION">
+			<Text>+{1_value}[ICON_PRODUCTION] Produktion in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_GOLD">
+			<Text>+{1_value}[ICON_GOLD] Gold in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_WONDERPRODUCTIONMODIFIER">
+			<Text>+{1_value}%[ICON_PRODUCTION] Produktionsbonus für Wunder in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CATHEDRAL">
+			<Text>Diese Stadt bekommt den [ICON_PEACE][ICON_CULTURE]Kaiserdom.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_TEMPLE">
+			<Text>Diese Stadt bekommt den [ICON_PEACE][ICON_HAPPINESS_1]Gottestempel.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_POPULATION">
+			<Text>Diese Stadt bekommt sofort {1_value}[ICON_CITIZEN] neue Bürger.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_HEALCITY">
+			<Text>Diese Stadt wird sofort geheilt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXHIBITION">
+			<Text>Bietet eine [ICON_HAPPINESS_4][ICON_GREAT_PEOPLE]Ausstellung in dieser Stadt. Sehr diskussionswürdig...</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_PHILOSOPHY">
+			<Text>Diese Stadt bekommt eine [ICON_GREAT_PEOPLE][ICON_RESEARCH]Denkfabrik.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CONSTRUCTION">
+			<Text>Diese Stadt bekommt eine [ICON_PRODUCTION]Konstruktionshalle.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_TRADE">
+			<Text>Diese Stadt bekommt ein [ICON_INTERNATIONAL_TRADE][ICON_FOOD]Handelsposten.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_TECHNOLOGY">
+			<Text>Eröffnet die [ICON_GREAT_ARTIST][ICON_RESEARCH]Ars Technica in dieser Stadt.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_DEFENSE">
+			<Text>Diese Stadt bekommt eine [ICON_STRENGTH]Palisade.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_ADV_DEFENSE">
+			<Text>Diese Stadt bekommt einen [ICON_STRENGTH][ICON_RESEARCH]Bunker.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_CULTUREONKILL">
+			<Text>Diese Stadt bekommt [ICON_CULTURE]Kultur für jede im Reich getötete feindliche Einheit ({1_value}x[ICON_STRENGTH]).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_FOODONKILL">
+			<Text>Diese Stadt bekommt [ICON_FOOD]Nahrung für jede im Reich getötete feindliche Einheit ({1_value}x[ICON_STRENGTH]).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_PRODUCTIONONKILL">
+			<Text>Diese Stadt bekommt [ICON_PRODUCTION]Produktion für jede im Reich getötete feindliche Einheit ({1_value}x[ICON_STRENGTH]).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_PLAYER_FREEPOLICIES">
+			<Text>Wählen Sie {1_value} freie [ICON_CULTURE]Politikzweig(e).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_UNIT_EXP">
+			<Text>Die Garnison bekommt {1_value} Erfahrung.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ECOLOGY">
+			<Text>Diese Stadt bekommt ein [ICON_FOOD][ICON_RESEARCH]Ökologie-Center.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_BENEVOLENCE">
+			<Text>Sie erhalten einen [ICON_GREAT_WRITER]Großen Literaten.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_HORIZON_UNITS">
+			<Text>Sie erhalten {1_value} Siedler.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_IDOLS">
+			<Text>Diese Stadt bekommt eine [ICON_WAR]Gedenkstätte.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_FOOD">
+			<Text>Diese Stadt bekommt {1_value}[ICON_FOOD] Nahrung.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_PRODUCTION">
+			<Text>Diese Stadt bekommt {1_value}[ICON_PRODUCTION] Produktion.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CULTURE">
+			<Text>Diese Stadt bekommt {1_value}[ICON_CULTURE] Kultur.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXCHANGE">
+			<Text>Diese Stadt bekommt ein [ICON_TRADE][ICON_INTERNATIONAL_TRADE]Handelsposten.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EMPOWERMENT">
+			<Text>Diese Stadt bekommt eine [ICON_CULTURE]Statue der Ermächtigung.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CC_BONUS_LOYALTY">
+			<Text>Sie erhalten einen [ICON_GREAT_GENERAL]Großen General.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_INFORMATION">
+			<Text>Sie erhalten einen [ICON_GREAT_SCIENTIST]Großen Wissenschaftler.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_GEOLOGY">
+			<Text>Diese Stadt bekommt das [ICON_CULTURE][ICON_RESEARCH][ICON_GREAT_ARTIST]Museum der Erdgeschichte.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ENTERTAINMENT">
+			<Text>Diese Stadt bekommt einen [ICON_HAPPINESS_1][ICON_GOLD][ICON_GREAT_MUSICIAN]Radiosender.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXTRACTION">
+			<Text>Zeigt {1_value} neue [ICON_RES_IRON]Eisen Ressource(n) nahe dieser Stadt.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_DEEP_EXTRACTION">
+			<Text>Zeigt {1_value} neue [ICON_RES_URANIUM]Uran Ressource(n) nahe dieser Stadt.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_LABOR">
+			<Text>Diese Stadt bekommt zeitweise ein Arbeitslager.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BONUS_LABOR_UNITS">
+			<Text>Sie erhalten {1_value} Arbeiter.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_INVESTIGATION">
+			<Text>Diese Stadt bekommt ein [ICON_SPY]Detektivbüro.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ASCENDANCY">
+			<Text>Diese Stadt bekommt zeitweise ein [ICON_PEACE]Zeichen des Himmels.</Text>
+		</Row>
+		
+		<!-- ### Malus Texts ### -->
+		<Row Tag="TXT_KEY_CC_MALUS_POPULATION">
+			<Text>Diese Stadt verliert {1_value}[ICON_CITIZEN] Bevölkerung.</Text>
+		</Row>
+
+	</Language_de_DE>
+
+</GameData>

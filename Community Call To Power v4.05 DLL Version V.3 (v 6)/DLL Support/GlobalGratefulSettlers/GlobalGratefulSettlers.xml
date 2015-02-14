@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="GLOBAL_GRATEFUL_SETTLERS"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="GLOBAL_GRATEFUL_SETTLERS_PERCENT"/>
+			<Set Value="20"/>
+		</Update>
+	</CustomModOptions>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GRATEFUL_SETTLERS">
+			<Text>The settlers decided to join your civilization!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

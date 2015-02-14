@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/19/2014 2:21:25 PM -->
+<GameData>
+	<!--<<<<<<<<<<[Classic Era|Manpower amount]>>>>>>>>>>-->
+<Building_ResourceQuantityRequirements>
+		<!--*****Next*****-->
+	
+	<!--/////////Classic*4MP*\\\\\\\\\-->
+	
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+    <Row>
+		<BuildingType>BUILDING_DIONYSUS</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ANTI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_INDRA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SPRACHE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_METEORA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_LONGMEN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TEMPLE_OF_SOLOMON</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GREAT_WALL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ORACLE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GREAT_LIGHTHOUSE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_HORYUJI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_PETRA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_NAZCA_LINES</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BANAUE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_KONG_MIAO</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_COLOSSUS</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ISHTAR</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_HANGING_GARDEN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_JIAYUGUAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_PERGAMON</BuildingType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GREAT_LIBRARY</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_NATIONALER_SHRINE</BuildingType>
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_PARTHENON</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TEMPLO</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_HAMMURABI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MOGAO</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BETHCHURCH</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_FORUM</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CONSTANT_HIPPO</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MADAIN_SALEH</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TABRIZ</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TABRIZ</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BAGAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_NIKKO</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+
+
+
+
+
+</Building_ResourceQuantityRequirements>
+
+
+</GameData>
+<!--Have a nice Day;=)-->

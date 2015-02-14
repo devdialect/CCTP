@@ -1,0 +1,2351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 8/30/2013 6:33:57 PM -->
+<GameData>
+ 
+
+
+<!--<<<<<<<<<<[Resources]>>>>>>>>>>-->
+<Resources>
+<!--<<<<<<<<<<[Resources]>>>>>>>>>>-->
+
+		<!-- 
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_BONUS" RandApp1="20" RandApp2="20" />
+			<Where Type="RESOURCE_WHEAT" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_BONUS" RandApp1="20" RandApp2="20" />
+			<Where Type="RESOURCE_COW" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_BONUS" RandApp1="20" RandApp2="20" />
+			<Where Type="RESOURCE_SHEEP" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_BONUS" RandApp1="20" RandApp2="20" />
+			<Where Type="RESOURCE_DEER" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_CITRUS" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_BONUS" RandApp1="20" RandApp2="20" TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_BANANA" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_BONUS" RandApp1="20" RandApp2="20" />
+			<Where Type="RESOURCE_FISH" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_WHALE" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_PEARLS" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_GOLD" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_SILVER" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_GEMS" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_MARBLE" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_BONUS" RandApp1="20" RandApp2="20" HAPPINESS="0" />
+			<Where Type="RESOURCE_STONE" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_IVORY" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" />
+			<Where Type="RESOURCE_FUR" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" TechCityTrade="TECH_ECONOMY_OF_SCALE"  />
+			<Where Type="RESOURCE_DYE" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_SPICES" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_SILK" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_SUGAR" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_COTTON" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LURURY" RandApp1="20" RandApp2="20" HAPPINESS="4" TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_WINE" />
+		</Update>
+		<Update>
+			<Set ResourceClassType="RESOURCECLASS_LUXURY" RandApp1="20" RandApp2="20" HAPPINESS="4" TechCityTrade="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_INCENSE" />
+		</Update>
+
+		<Update>
+			<Set TechReveal="TECH_BRONZE_WORKING" />
+			<Where Type="RESOURCE_IRON" />
+		</Update>-->
+		<Update>
+			<Set TechCityTrade="TECH_PICTOGRAMS" TechReveal="TECH_PICTOGRAMS" Happiness="2"/>
+			<Where Type="RESOURCE_MARBLE"/>
+		</Update>
+		<Update>
+			<Set Happiness="2"/>
+			<Where Type="RESOURCE_NUTMEG" />
+		</Update>
+		<Update>
+			<Set Happiness="2"/>
+			<Where Type="RESOURCE_CLOVES" />
+		</Update>
+		<Update>
+			<Set Happiness="2"/>
+			<Where Type="RESOURCE_PEPPER" />
+		</Update>
+		<Update>
+			<Set Happiness="2"/>
+			<Where Type="RESOURCE_JEWELRY" />
+		</Update>
+		<Update>
+			<Set Happiness="2"/>
+			<Where Type="RESOURCE_PORCELAIN"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_COOKING" TechReveal="TECH_COOKING" Happiness="2"/>
+			<Where Type="RESOURCE_SALT"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_AGRICULTURE" />
+			<Where Type="RESOURCE_WHEAT" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_DOMESTIFICATION" TechReveal="TECH_DOMESTIFICATION" />
+			<Where Type="RESOURCE_COW"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_TOBACCO_TRADING" TechReveal="TECH_TOBACCO_TRADING" />
+			<Where Type="RESOURCE_TOBACCO"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_COPPER_WORKING" TechReveal="TECH_COPPER_WORKING" Happiness="2"/>
+			<Where Type="RESOURCE_COPPER"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_IRON_WORKING" TechReveal="TECH_IRON_WORKING" />
+			<Where Type="RESOURCE_IRON"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_WOODWORKING" TechReveal="TECH_WOODWORKING" />
+			<Where Type="RESOURCE_WOOD"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MASONRY" TechReveal="TECH_RAW_MATERIALS" />
+			<Where Type="RESOURCE_STONE"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MASONRY" TechReveal="TECH_RAW_MATERIALS" />
+			<Where Type="RESOURCE_JADE"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_FARMERS_MARKETS" TechReveal="TECH_FARMERS_MARKETS" />
+			<Where Type="RESOURCE_CORN"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_FRUITS" TechReveal="TECH_FRUITS" />
+			<Where Type="RESOURCE_BERRIES"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_FRUITS" TechReveal="TECH_FRUITS" />
+			<Where Type="RESOURCE_MANGO"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" TechReveal="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_BARLEY"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_NATUROPATY" TechReveal="TECH_NATUROPATY" />
+			<Where Type="RESOURCE_FLAX"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_FRUITS" TechReveal="TECH_FRUITS" />
+			<Where Type="RESOURCE_BANANA" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SHIPBUILDING" TechReveal="TECH_SHIPBUILDING" Happiness="2"/>
+			<Where Type="RESOURCE_WHALE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SAILING" TechReveal="TECH_SAILING" Happiness="2"/>
+			<Where Type="RESOURCE_PEARLS" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SAILING" TechReveal="TECH_SAILING" Happiness="2"/>
+			<Where Type="RESOURCE_CRAB" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_HARPOONING" TechReveal="TECH_HARPOONING" />
+			<Where Type="RESOURCE_FISH" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SAILING" TechReveal="TECH_SAILING" />
+			<Where Type="RESOURCE_SQUID" />
+		</Update>
+
+		<Update>
+			<Set TechCityTrade="TECH_DOMESTIFICATION" TechReveal="TECH_DOMESTIFICATION" Happiness="2"/>
+			<Where Type="RESOURCE_TRUFFLES" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_FRUITS" TechReveal="TECH_FRUITS" Happiness="2"/>
+			<Where Type="RESOURCE_CITRUS" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MINING" TechReveal="TECH_MINING" Happiness="2"/>
+			<Where Type="RESOURCE_GOLD" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MINING" TechReveal="TECH_MINING" Happiness="2"/>
+			<Where Type="RESOURCE_SILVER" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ART" TechReveal="TECH_ART" Happiness="2"/>
+			<Where Type="RESOURCE_GEMS" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_MEGAFAUNA" Happiness="2"/>
+			<Where Type="RESOURCE_IVORY" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_GILGA" TechReveal="TECH_GILGA" Happiness="2"/>
+			<Where Type="RESOURCE_FUR" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_AQUA" TechReveal="TECH_AQUA" Happiness="2"/>
+			<Where Type="RESOURCE_DYE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SURVIVAL" TechReveal="TECH_SURVIVAL" Happiness="2"/>
+			<Where Type="RESOURCE_SUGAR" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_WEAVER" TechReveal="TECH_WEAVER" Happiness="2"/>
+			<Where Type="RESOURCE_COTTON" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MYSTICISM" TechReveal="TECH_MYSTICISM" Happiness="2"/>
+			<Where Type="RESOURCE_WINE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SPIRITUALITY" TechReveal="TECH_SPIRITUALITY" Happiness="2"/>
+			<Where Type="RESOURCE_INCENSE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_IDOLS" TechReveal="TECH_IDOLS" Happiness="2"/>
+			<Where Type="RESOURCE_SILK" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_RITUALS" TechReveal="TECH_RITUALS" Happiness="2"/>
+			<Where Type="RESOURCE_SPICES" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_GATHERING" TechReveal="TECH_GATHERING" />
+			<Where Type="RESOURCE_SHEEP" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_DEER" />
+		</Update>
+	    <Update>
+		    <Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_HUNTING" />
+		    <Where Type="RESOURCE_BISON" />
+	    </Update>
+
+	
+	<!-- Manpower-->
+		<Row>
+			<Type>RESOURCE_MANPOWER</Type>
+			<TechReveal>TECH_SCENTIENCE</TechReveal>
+			<TechCityTrade>TECH_ANIMAL_HUSBANDRY</TechCityTrade>
+			<Description>TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER</Description>
+			<Civilopedia>TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_TEXT</Civilopedia>
+			<Help>TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
+			<ArtDefineTagHeavy>ART_DEF_RESOURCE_URANIUM_HEAVY</ArtDefineTagHeavy>
+			<AltArtDefineTag>ART_DEF_RESOURCE_URANIUM_MARSH</AltArtDefineTag>
+			<AltArtDefineTagHeavy>ART_DEF_RESOURCE_URANIUM_HEAVY_MARSH</AltArtDefineTagHeavy>
+			<AITradeModifier>30</AITradeModifier>
+			<AIObjective>1</AIObjective>
+			<PlacementOrder>2</PlacementOrder>
+			<ConstAppearance>100</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>10</RandApp1>
+			<RandApp2>10</RandApp2>
+			<Player>75</Player>
+			<Unique>6</Unique>
+			<Flatlands>true</Flatlands>
+			<NoRiverSide>true</NoRiverSide>
+			<IconString>[ICON_RES_MANPOWER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIVIL_WAR_RESOURCE_ATLAS_EXP2</IconAtlas>
+		</Row>
+
+		<!-- Electricity-->
+		<Row>
+			<Type>RESOURCE_ELECTRICITY</Type>
+			<TechReveal>TECH_ELECTRICITY</TechReveal>
+			<TechCityTrade>TECH_FUTURE_TECH</TechCityTrade>
+			<AIStopTradingEra>ERA_MODERN</AIStopTradingEra>
+			<Description>TXT_KEY_CIV5_RESOURCE_ELECTRICITY</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_ELECTRICITY_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_CIV5_ELECTRICITY_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+			<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+			<AIObjective>1</AIObjective>
+			<ResourceUsage>1</ResourceUsage>
+			<PlacementOrder>7</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>70</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>75</Player>
+			<IconString>[ICON_POWER3]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>IconAtlasE</IconAtlas>
+		</Row>
+		
+		<!--DIESEL-->
+		<Row>
+			<Type>RESOURCE_DIESEL</Type>
+			<TechReveal>TECH_COMBUSTION</TechReveal>
+			<TechCityTrade>TECH_COMBUSTION</TechCityTrade>
+			<Description>TXT_KEY_CIV5_RESOURCE_DIESEL</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_DIESEL_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_DIESEL_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_OIL</ArtDefineTag>
+			<ArtDefineTagHeavy>ART_DEF_RESOURCE_OIL_HEAVY</ArtDefineTagHeavy>
+			<AltArtDefineTag>ART_DEF_RESOURCE_OIL_MARSH</AltArtDefineTag>
+			<AltArtDefineTagHeavy>ART_DEF_RESOURCE_OIL_HEAVY_MARSH</AltArtDefineTagHeavy>
+			<AITradeModifier>20</AITradeModifier>
+			<ResourceUsage>1</ResourceUsage>
+			<PlacementOrder>1</PlacementOrder>
+			<AIObjective>1</AIObjective>
+			<ConstAppearance/>
+			<MinAreaSize/>
+			<MaxLatitude/>
+			<RandApp1/>
+			<RandApp2/>
+			<Player>100</Player>
+			<Hills/>
+			<Flatlands/>
+			<NoRiverSide/>
+			<IconString>[ICON_RES_DIESEL]</IconString>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CUSTOM_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--KEROSENE-->
+		<Row>
+			<Type>RESOURCE_KEROSENE</Type>
+			<TechReveal>TECH_COMBUSTION</TechReveal>
+			<TechCityTrade>TECH_COMBUSTION</TechCityTrade>
+			<Description>TXT_KEY_CIV5_RESOURCE_KEROSENE</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_KEROSENE_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_KEROSENE_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_OIL</ArtDefineTag>
+			<ArtDefineTagHeavy>ART_DEF_RESOURCE_OIL_HEAVY</ArtDefineTagHeavy>
+			<AltArtDefineTag>ART_DEF_RESOURCE_OIL_MARSH</AltArtDefineTag>
+			<AltArtDefineTagHeavy>ART_DEF_RESOURCE_OIL_HEAVY_MARSH</AltArtDefineTagHeavy>
+			<AITradeModifier>20</AITradeModifier>
+			<ResourceUsage>1</ResourceUsage>
+			<PlacementOrder>1</PlacementOrder>
+			<AIObjective>1</AIObjective>
+			<ConstAppearance/>
+			<MinAreaSize/>
+			<MaxLatitude/>
+			<RandApp1/>
+			<RandApp2/>
+			<Player>100</Player>
+			<Hills/>
+			<Flatlands/>
+			<NoRiverSide/>
+			<IconString>[ICON_RES_KEROSENE]</IconString>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CUSTOM_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--STEEL-->
+		<Row>
+			<Type>RESOURCE_STEEL</Type>
+			<TechReveal>TECH_STEEL</TechReveal>
+			<TechCityTrade>TECH_STEEL</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_STEEL</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_STEEL_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_STEEL_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_IRON</ArtDefineTag>
+			<ArtDefineTagHeavy>ART_DEF_RESOURCE_IRON_HEAVY</ArtDefineTagHeavy>
+			<AltArtDefineTag>ART_DEF_RESOURCE_IRON_MARSH</AltArtDefineTag>
+			<AltArtDefineTagHeavy>ART_DEF_RESOURCE_IRON_HEAVY_MARSH</AltArtDefineTagHeavy>
+			<AITradeModifier>20</AITradeModifier>
+			<ResourceUsage>1</ResourceUsage>
+			<PlacementOrder>1</PlacementOrder>
+			<AIObjective>1</AIObjective>
+			<ConstAppearance/>
+			<MinAreaSize/>
+			<MaxLatitude/>
+			<RandApp1/>
+			<RandApp2/>
+			<Player>100</Player>
+			<Hills/>
+			<Flatlands/>
+			<NoRiverSide/>
+			<IconString>[ICON_RES_STEEL]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CUSTOM_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--BLOCKBUSTER-->
+		<Row>
+			<Type>RESOURCE_BLOCKBUSTER</Type>
+			<Happiness>2</Happiness>
+			<TechCityTrade>TECH_TELECOM</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_BLOCKBUSTER</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_BLOCKBUSTER_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_BLOCKBUSTER_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_IVORY</ArtDefineTag>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>0</MaxLatitude>
+			<RandApp1>20</RandApp1>
+			<RandApp2>20</RandApp2>
+			<Unique>1</Unique>
+			<TilesPer>5</TilesPer>
+			<Hills>true</Hills>
+			<Normalize>true</Normalize>
+			<IconString>[ICON_RES_BLOCKBUSTER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>RESOURCE_ATLAS_2</IconAtlas>
+		</Row>
+		
+		<!--OLIVES-->
+		<Row>
+			<Type>RESOURCE_OLIVES</Type>
+			<TechReveal>TECH_ECONOMY_OF_SCALE</TechReveal>
+			<Description>TXT_KEY_RESOURCE_OLIVES</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_OLIVES_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_OLIVES_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_BONUS</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_OLIVES</ArtDefineTag>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>50</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Unique>1</Unique>
+			<TilesPer>5</TilesPer>
+			<Normalize>true</Normalize>
+			<IconString>[ICON_RES_OLIVES]</IconString>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>FA_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--OLIVE_OIL-->
+		<Row>
+			<Type>RESOURCE_OLIVE_OIL</Type>
+			<Happiness>2</Happiness>
+			<Description>TXT_KEY_RESOURCE_OLIVE_OIL</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_OLIVE_OIL_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_OLIVE_OIL_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_OLIVES</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<IconString>[ICON_RES_OLIVE_OIL]</IconString>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>FA_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--PLATINUM-->
+		<Row>
+			<Type>RESOURCE_PLATINUM</Type>
+			<TechReveal>TECH_METALLURGY</TechReveal>
+			<Description>TXT_KEY_RESOURCE_PLATINUM</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_PLATINUM_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_PLATINUM_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_BONUS</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_PLATINUM</ArtDefineTag>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Unique>1</Unique>
+			<TilesPer>5</TilesPer>
+			<Normalize>true</Normalize>
+			<Hills>true</Hills>
+			<IconString>[ICON_RES_PLATINUM]</IconString>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>FA_RESOURCE_ATLAS</IconAtlas>
+		</Row>
+			
+		<!--INFUSIONS-->
+		<Row>
+			<Type>RESOURCE_INFUSIONS</Type>
+			<Happiness>2</Happiness>
+			<Description>TXT_KEY_RESOURCE_INFUSIONS</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_INFUSIONS_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_INFUSIONS_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_INFUSIONS]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INFUSIONS_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--BEER-->
+		<Row>
+			<Type>RESOURCE_BEER</Type>
+			<Happiness>2</Happiness>
+			<TechReveal>TECH_FERMENTATION</TechReveal>
+			<TechCityTrade>TECH_FERMENTATION</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_BEER</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_BEER_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_BEER_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_BEER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>BEER_ATLAS</IconAtlas>
+		</Row>
+		<!--CIGARS-->
+		<Row>
+			<Type>RESOURCE_CIGARS</Type>
+			<Happiness>2</Happiness>
+			<TechCityTrade>TECH_CIGARS</TechCityTrade>
+			<TechReveal>TECH_CIGARS</TechReveal>
+			<Description>TXT_KEY_RESOURCE_CIGARS</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_CIGARS_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_CIGARS_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_CIGARS]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIGARS_ATLAS</IconAtlas>
+		</Row>
+		<!-- Electricity-->
+		<Row>
+			<Type>RESOURCE_ARTIFACT</Type>
+			<Happiness>2</Happiness>
+			<Description>TXT_KEY_RESOURCE_ARTIFACT</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_ARTIFACT_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_ARTIFACT_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_ARTIFACT]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>ARTIFACT_ATLAS</IconAtlas>
+		</Row>
+		<!--PAINTING-->
+		<Row>
+			<Type>RESOURCE_PAINTING</Type>
+			<Happiness>2</Happiness>
+			<TechReveal>TECH_PAPER</TechReveal>
+			<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_PAINTING</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_PAINTING_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_PAINTING_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_PAINTING]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PAINTING_ATLAS</IconAtlas>
+		</Row>
+		<!--MANUSCRIPT-->
+		<Row>
+			<Type>RESOURCE_MANUSCRIPT</Type>
+			<Happiness>2</Happiness>
+			<TechCityTrade>TECH_PAPER</TechCityTrade>
+			<TechReveal>TECH_PAPER</TechReveal>
+			<Description>TXT_KEY_RESOURCE_MANUSCRIPT</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_MANUSCRIPT_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_MANUSCRIPT_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_MANUSCRIPT]</IconString>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_TECH_ATLAS</IconAtlas>
+		</Row>
+		<!--CHOCOLATE-->
+		<Row>
+			<Type>RESOURCE_CHOCOLATE</Type>
+			<Happiness>2</Happiness>
+			<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+			<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_CHOCOLATE</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_CHOCOLATE_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_CHOCOLATE_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_CHOCOLATE]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CHOCOLATE_ATLAS</IconAtlas>
+		</Row>
+		<!--FURNITURE-->
+		<Row>
+			<Type>RESOURCE_FURNITURE</Type>
+			<Happiness>2</Happiness>
+			<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+			<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_FURNITURE</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_FURNITURE_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_FURNITURE_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_FURNITURE]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>FURNITURE_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--GLASS-->
+		<Row>
+			<Type>RESOURCE_GLASS</Type>
+			<Happiness>2</Happiness>
+			<TechCityTrade>TECH_GLAS</TechCityTrade>
+			<TechReveal>TECH_GLAS</TechReveal>
+			<Description>TXT_KEY_RESOURCE_GLASS</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_GLASS_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_GLASS_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<OnlyMinorCivs>true</OnlyMinorCivs>
+			<IconString>[ICON_RES_GLASS]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>GLASS_ATLAS</IconAtlas>
+		</Row>
+
+		<!--SQUID-->
+		<Row>
+			<Type>RESOURCE_SQUID</Type>
+			<TechCityTrade>TECH_SAILING</TechCityTrade>
+			<TechReveal>TECH_SAILING</TechReveal>
+			<Description>TXT_KEY_RESOURCE_SQUID</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_SQUID_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_SQUID_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_BONUS</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SQUID</ArtDefineTag>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>20</RandApp1>
+			<RandApp2>20</RandApp2>
+			<Unique>1</Unique>
+			<TilesPer>5</TilesPer>
+			<Normalize>true</Normalize>
+			<IconString>[ICON_SQUID]</IconString>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>RESOURCE_ATLAS_2</IconAtlas>
+		</Row>
+		
+		<!--RICE-->
+		<Row>
+			<Type>RESOURCE_RICE</Type>
+			<Happiness>2</Happiness>
+			<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+			<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_RICE</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_RICE_TEXT</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SUGAR</ArtDefineTag>
+			<AltArtDefineTag>ART_DEF_RESOURCE_SUGAR</AltArtDefineTag>
+			<AIObjective>3</AIObjective>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>0</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Hills>true</Hills>
+			<IconString>[ICON_RES_RICE]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>RICE_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--POKER-->
+		<Row>
+			<Type>RESOURCE_POKER</Type>
+			<Happiness>2</Happiness>
+			<TechReveal>TECH_GAMBLE</TechReveal>
+			<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_POKER</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_POKER_TEXT</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+			<AltArtDefineTag>ART_DEF_RESOURCE_SILK</AltArtDefineTag>
+			<AIObjective>3</AIObjective>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>0</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<IconString>[ICON_RES_POKER]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>POKER_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--TULIP-->
+		<Row>
+			<Type>RESOURCE_TULIP</Type>
+			<Happiness>2</Happiness>
+			<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+			<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_TULIP</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_TULIP_TEXT</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+			<AltArtDefineTag>ART_DEF_RESOURCE_SILK</AltArtDefineTag>
+			<AIObjective>3</AIObjective>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>0</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<IconString>[ICON_RES_TULIP]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TULIP_ATLAS</IconAtlas>
+		</Row>
+		<!--SQUID-->
+		<Row>
+			<Type>RESOURCE_COCA</Type>
+			<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+			<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+			<Description>TXT_KEY_COCA</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_COCA_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_COCA_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<Happiness>2</Happiness>
+			<ArtDefineTag>ART_DEF_RESOURCE_SILVER</ArtDefineTag>
+			<ArtDefineTagHeavy>ART_DEF_RESOURCE_SILVER_HEAVY</ArtDefineTagHeavy>
+			<AltArtDefineTag>ART_DEF_RESOURCE_SILVER_MARSH</AltArtDefineTag>
+			<AltArtDefineTagHeavy>ART_DEF_RESOURCE_SILVER_HEAVY_MARSH</AltArtDefineTagHeavy>
+			<AITradeModifier>10</AITradeModifier>
+			<ResourceUsage>1</ResourceUsage>
+			<PlacementOrder>1</PlacementOrder>
+			<AIObjective>1</AIObjective>
+			<ConstAppearance>100</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>10</RandApp1>
+			<RandApp2>10</RandApp2>
+			<Player>100</Player>
+			<Hills>true</Hills>
+			<Flatlands>true</Flatlands>
+			<IconString>[ICON_RESOURCE_COCA]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>COCA_ATLAS</IconAtlas>
+		</Row>
+		<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_TURKISHCARPETS</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_TURKISHCARPETS</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_TURKISHCARPETS_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SILK</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_TURKISHCARPETS]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>TURKISHCARPETS_ATLAS</IconAtlas>
+	</Row>
+		<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_TURKISHJEWELRY</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_TURKISHJEWELRY</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_TURKISHJEWELRY_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_TURKISHJEWELRY]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>TURKISHJEWELRY_ATLAS</IconAtlas>
+	</Row>
+		<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_PEACOCKFEATHER</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_PEACOCKFEATHER</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_PEACOCKFEATHER_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SILK</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_PEACOCKFEATHER]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>PEACOCKFEATHER_ATLAS</IconAtlas>
+	</Row>
+		<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_MACAW</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_MACAW</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_MACAW_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SILK</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_MACAW]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>MACAW_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_JCRANE</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_JCRANE</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_JCRANE_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_JCRANE]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>JCRANE_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_ROMANSTATUE</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_ROMANSTATUE</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_ROMANSTATUE_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SUGAR</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SUGAR</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_ROMANSTATUE]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>ROMANSTATUE_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_DCHANDELIER</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_DCHANDELIER</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_DCHANDELIER_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_DCHANDELIER]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>DCHANDELIER_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_SAFFRON</Type>
+		<Happiness>2</Happiness>
+		<OnlyMinorCivs>true</OnlyMinorCivs>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_SAFFRON</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_SAFFRON_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_SAFFRON]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>SAFFRON_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_CINNAMON</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_CINNAMON</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_CINNAMON_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SILK</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_CINNAMON]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>CINNAMON_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_BLUEPORCELAIN</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_BLUEPORCELAIN</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_BLUEPORCELAIN_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SILK</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_BLUEPORCELAIN]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>BLUEPORCELAIN_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+	<Row>
+		<Type>RESOURCE_POMERANIAN</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_LUXURY_GOODS</TechReveal>
+		<TechCityTrade>TECH_LUXURY_GOODS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_POMERANIAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_POMERANIAN_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+		<AIObjective>3</AIObjective>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>0</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_POMERANIAN]</IconString>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>POMERANIAN_ATLAS</IconAtlas>
+	</Row>
+	<!--SQUID-->
+
+
+	<!--BREAD-->
+	<Row>
+		<Type>RESOURCE_BREAD</Type>
+		<TechCityTrade>TECH_AGRICULTURE</TechCityTrade>
+		<TechReveal>TECH_AGRICULTURE</TechReveal>
+		<Description>TXT_KEY_RESOURCE_BREAD</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_BREAD_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_BREAD_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+		<PlacementOrder>3</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>1500</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<Flatlands>true</Flatlands>
+		<OnlyMinorCivs>true</OnlyMinorCivs>
+		<IconString>[ICON_RES_BREAD]</IconString>
+		<PortraitIndex>11</PortraitIndex>
+		<IconAtlas>NK_ICON_ATLAS</IconAtlas>
+	</Row>
+
+	<!--LINEN-->
+	<Row>
+		<Type>RESOURCE_LINEN</Type>
+		<Happiness>2</Happiness>
+		<TechCityTrade>TECH_WEAVER</TechCityTrade>
+		<TechReveal>TECH_WEAVER</TechReveal>
+		<Description>TXT_KEY_RESOURCE_LINEN</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_LINEN_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_LINEN_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+		<PlacementOrder>3</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>1500</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_LINEN]</IconString>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>NK_ICON_ATLAS</IconAtlas>
+	</Row>
+	
+	<!--PAPYRUS-->
+	<Row>
+		<Type>RESOURCE_PAPYRUS</Type>
+		<TechCityTrade>TECH_WEAVER</TechCityTrade>
+		<TechReveal>TECH_WEAVER</TechReveal>
+		<Description>TXT_KEY_RESOURCE_PAPYRUS</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_PAPYRUS_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_PAPYRUS_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+		<PlacementOrder>3</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>1500</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_PAPYRUS]</IconString>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>NK_ICON_ATLAS</IconAtlas>
+	</Row>
+
+	<!--PAPER-->
+	<Row>
+		<Type>RESOURCE_PAPER</Type>
+		<TechCityTrade>TECH_PAPER</TechCityTrade>
+		<TechReveal>TECH_PAPER</TechReveal>
+		<Description>TXT_KEY_RESOURCE_PAPER</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_PAPER_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_PAPER_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_MARBLE</ArtDefineTag>
+		<PlacementOrder>3</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>1500</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Player>67</Player>
+		<IconString>[ICON_RES_PAPER]</IconString>
+		<PortraitIndex>8</PortraitIndex>
+		<IconAtlas>NK_ICON_ATLAS</IconAtlas>
+	</Row>
+
+
+	<!--added 29.7.14
+
+
+	<Row>
+		<Type>RESOURCE_BISON</Type>
+		<TechCityTrade>TECH_HUNTING</TechCityTrade>
+		<TechReveal>TECH_HUNTING</TechReveal>
+		<Description>TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON</Description>
+		<Civilopedia>TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT</Civilopedia>
+		<ResourceClassType>RESOURCECLASS_BONUS</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_BISON</ArtDefineTag>
+		<PlacementOrder>4</PlacementOrder>
+		<ConstAppearance>50</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>25</RandApp1>
+		<RandApp2>25</RandApp2>
+		<Unique>1</Unique>
+		<TilesPer>5</TilesPer>
+		<Flatlands>true</Flatlands>
+		<NoRiverSide>true</NoRiverSide>
+		<Normalize>true</Normalize>
+		<IconString>[ICON_RES_BISON]</IconString>
+		<PortraitIndex>1</PortraitIndex>
+		<IconAtlas>RESOURCE_ATLAS_DLC_07</IconAtlas>
+	</Row>
+-->
+	<Row>
+		<Type>RESOURCE_SULFUR</Type>
+		<TechReveal>TECH_SULFUR</TechReveal>
+		<TechCityTrade>TECH_SULFUR</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_SULFUR</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_SULFUR_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_SULFUR_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SULFUR</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SULFUR</AltArtDefineTag>
+		<AITradeModifier>10</AITradeModifier>
+		<AIObjective>1</AIObjective>
+		<ResourceUsage>1</ResourceUsage>
+		<PlacementOrder>2</PlacementOrder>
+		<ConstAppearance>100</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>10</RandApp1>
+		<RandApp2>10</RandApp2>
+		<Player>100</Player>
+		<Flatlands>true</Flatlands>
+		<Hills>true</Hills>
+		<NoRiverSide>true</NoRiverSide>
+		<IconString>[ICON_RES_SULFUR]</IconString>
+		<PortraitIndex>22</PortraitIndex>
+		<IconAtlas>NEW_RESOURCE_ATLAS</IconAtlas>
+	</Row>
+	<Row>
+		<Type>RESOURCE_ASPIRIN</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_PROPULSION</TechReveal>
+		<TechCityTrade>TECH_PROPULSION</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_ASPIRIN</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_ASPIRIN_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_ASPIRIN_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_ASPIRIN</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_ASPIRIN</AltArtDefineTag>
+		<AITradeModifier>10</AITradeModifier>
+		<AIObjective>1</AIObjective>
+		<ResourceUsage>1</ResourceUsage>
+		<PlacementOrder>2</PlacementOrder>
+		<ConstAppearance>100</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>10</RandApp1>
+		<RandApp2>10</RandApp2>
+		<Player>100</Player>
+		<Flatlands>true</Flatlands>
+		<Hills>true</Hills>
+		<NoRiverSide>true</NoRiverSide>
+		<IconString>[ICON_ASPIRIN]</IconString>
+		<PortraitIndex>18</PortraitIndex>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+	</Row>
+	<Row>
+		<Type>RESOURCE_SOMA</Type>
+		<Happiness>2</Happiness>
+		<TechReveal>TECH_SMART_DRUGS</TechReveal>
+		<TechCityTrade>TECH_SMART_DRUGS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_SOMA</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_SOMA_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_SOMA_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_SOMA</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_SOMA</AltArtDefineTag>
+		<AITradeModifier>10</AITradeModifier>
+		<AIObjective>1</AIObjective>
+		<ResourceUsage>1</ResourceUsage>
+		<PlacementOrder>2</PlacementOrder>
+		<ConstAppearance>100</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>10</RandApp1>
+		<RandApp2>10</RandApp2>
+		<Player>100</Player>
+		<Flatlands>true</Flatlands>
+		<Hills>true</Hills>
+		<NoRiverSide>true</NoRiverSide>
+		<IconString>[ICON_SOMA]</IconString>
+		<PortraitIndex>21</PortraitIndex>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>RESOURCE_FLINT</Type>
+		<TechReveal>TECH_FLINTSTONES</TechReveal>
+		<TechCityTrade>TECH_FLINTSTONES</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_FLINT</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_FLINT_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_FLINT_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_STONE</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_STONE</AltArtDefineTag>
+		<AITradeModifier>10</AITradeModifier>
+		<AIObjective>1</AIObjective>
+		<ResourceUsage>1</ResourceUsage>
+		<PlacementOrder>2</PlacementOrder>
+		<ConstAppearance>100</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>10</RandApp1>
+		<RandApp2>10</RandApp2>
+		<Player>100</Player>
+		<Hills>true</Hills>
+		<IconString>[ICON_FLINT]</IconString>
+		<PortraitIndex>12</PortraitIndex>
+		<IconAtlas>NEO_ATLAS_10</IconAtlas>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>RESOURCE_CELLS</Type>
+		<TechReveal>TECH_FUEL_CELLS</TechReveal>
+		<TechCityTrade>TECH_FUEL_CELLS</TechCityTrade>
+		<Description>TXT_KEY_RESOURCE_CELLS</Description>
+		<Civilopedia>TXT_KEY_CIV5_RESOURCE_CELLS_TEXT</Civilopedia>
+		<Help>TXT_KEY_RESOURCE_CELLS_HELP</Help>
+		<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+		<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+		<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+		<AITradeModifier>10</AITradeModifier>
+		<AIObjective>1</AIObjective>
+		<ResourceUsage>1</ResourceUsage>
+		<PlacementOrder>2</PlacementOrder>
+		<ConstAppearance>100</ConstAppearance>
+		<MinAreaSize>3</MinAreaSize>
+		<MaxLatitude>90</MaxLatitude>
+		<RandApp1>10</RandApp1>
+		<RandApp2>10</RandApp2>
+		<Player>100</Player>
+		<Hills>true</Hills>
+		<IconString>[ICON_CELLS]</IconString>
+		<PortraitIndex>25</PortraitIndex>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+	</Row>
+</Resources>
+<!--<<<<<<<<<<[Resources]>>>>>>>>>>-->
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+<!--<<<<<<<<<<[ResourceClasses]>>>>>>>>>>-->
+<ResourceClasses>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+</ResourceClasses>
+<!--<<<<<<<<<<[ResourceClasses]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<!--<<<<<<<<<<[Resource_YieldChanges]>>>>>>>>>>-->
+		
+<!--<<<<<<<<<<[Resource_YieldChanges]>>>>>>>>>>-->
+<!--<Resource_YieldChanges>
+<Delete/>
+
+<Row>
+	<ResourceType>RESOURCE_SULFUR</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COCA</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_IRON</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>2</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_HORSE</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_HORSE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COAL</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>2</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_OIL</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_OIL</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>	
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>2</Yield>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_URANIUM</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+	<Row>
+	<ResourceType>RESOURCE_URANIUM</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_WHEAT</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COW</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_SHEEP</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_DEER</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_BANANA</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_FISH</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_WHALE</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_WHALE</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_PEARLS</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>2</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_GEMS</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_GOLD</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>2</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_SILVER</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_MARBLE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_IVORY</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_FUR</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_DYE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_SPICES</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_SILK</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_SUGAR</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COTTON</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_WINE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_INCENSE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_STONE</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_JEWELRY</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_PORCELAIN</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_CRAB</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_CRAB</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_CITRUS</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+		<Row>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TRUFFLES</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SQUID</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_RUBBER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COCONUT</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CORN</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_HONEY</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_HONEY</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CIGARS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+<Row>
+	<ResourceType>RESOURCE_CHOCOLATE</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_CHOCOLATE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_MANUSCRIPT</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_INFUSIONS</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_INFUSIONS</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_TIN</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_BERRIES</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_TOBACCO</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_TEA</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_POPPY</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_MANGO</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_MANGANESE</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_JADE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_FLAX</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_WOOD</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COFFEE</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_BARLEY</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_AMBER</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_ALOE_VERA</ResourceType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_OAK</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_TITANIUM</ResourceType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_BISON</ResourceType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Resource_YieldChanges>
+<<<<<<<<<<[Resource_YieldChanges]>>>>>>>>>>-->
+
+<Resource_Flavors>
+</Resource_Flavors>
+<!--<<<<<<<<<<Flavors]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[TerrainBooleans]>>>>>>>>>>-->	
+<Resource_TerrainBooleans>
+<Row>
+	<ResourceType>RESOURCE_BISON</ResourceType>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_BISON</ResourceType>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+</Row>
+	
+</Resource_TerrainBooleans>
+
+
+<Resource_FeatureBooleans>
+
+</Resource_FeatureBooleans>
+<!--<<<<<<<<<<[Resource_FeatureBooleans]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[Resource_QuantityTypes]>>>>>>>>>>-->
+<Resource_QuantityTypes>
+<!--<<<<<<<<<<[Resource_QuantityTypes]>>>>>>>>>>-->
+
+<Row>
+	<ResourceType>RESOURCE_IRON</ResourceType>
+	<Quantity>6</Quantity>
+</Row>
+<Row>
+    <ResourceType>RESOURCE_IRON</ResourceType>
+	<Quantity>2</Quantity>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_HORSE</ResourceType>
+	<Quantity>4</Quantity>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_HORSE</ResourceType>
+	<Quantity>2</Quantity>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COAL</ResourceType>
+	<Quantity>6</Quantity>	
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COAL</ResourceType>
+	<Quantity>2</Quantity>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_OIL</ResourceType>
+	<Quantity>6</Quantity>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_OIL</ResourceType>
+	<Quantity>2</Quantity>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+	<Quantity>6</Quantity>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+	<Quantity>2</Quantity>
+</Row>
+	
+		<Row>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_DEER</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BANANA</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BANANA</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_FISH</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_FISH</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CORN</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CORN</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BARLEY</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BARLEY</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MANGO</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MANGO</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OAK</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OAK</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_WOOD</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_WOOD</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COFFEE</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_COFFEE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TITANIUM</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TITANIUM</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ALOE_VERA</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ALOE_VERA</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MANGANESE</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_MANGANESE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_AMBER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_AMBER</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TIN</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TIN</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CACAO</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_CACAO</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	<Row>
+		<ResourceType>RESOURCE_BISON</ResourceType>
+		<Quantity>1</Quantity>
+	</Row>
+		<Row>
+			<ResourceType>RESOURCE_BERRIES</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_BERRIES</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_FLAX</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_FLAX</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TEA</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_TEA</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_RUBBER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_RUBBER</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_JADE</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_JADE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+
+</Resource_QuantityTypes>
+<!--<<<<<<<<<<[Resource_QuantityTypes]>>>>>>>>>>-->
+	
+<!--<<<<<<<<<<[Improvement_ResourceTypes]>>>>>>>>>>-->
+<Improvement_ResourceTypes>
+
+</Improvement_ResourceTypes>
+<!--<<<<<<<<<<[Improvement_ResourceTypes]>>>>>>>>>>-->
+	
+	
+<!--<<<<<<<<<<[Resource_Flavors]>>>>>>>>>>-->
+<Resource_Flavors>
+<!--<<<<<<<<<<[Resource_Flavors]>>>>>>>>>>-->
+<Row>
+	<ResourceType>RESOURCE_SULFUR</ResourceType>
+	<FlavorType>FLAVOR_OFFENSE</FlavorType>
+	<Flavor>10</Flavor>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_LINEN</ResourceType>
+	<FlavorType>FLAVOR_GOLD</FlavorType>
+	<Flavor>25</Flavor>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_LINEN</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>10</Flavor>
+</Row>
+
+	<Row>
+	<ResourceType>RESOURCE_BREAD</ResourceType>
+	<FlavorType>FLAVOR_GROWTH</FlavorType>
+	<Flavor>25</Flavor>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_BREAD</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>10</Flavor>
+</Row>
+
+	<Row>
+	<ResourceType>RESOURCE_COCA</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>25</Flavor>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_COCA</ResourceType>
+	<FlavorType>FLAVOR_GOLD</FlavorType>
+	<Flavor>10</Flavor>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_TULIP</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_POKER</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>	
+</Row>
+
+<Row>
+	<ResourceType>RESOURCE_RICE</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_STEEL</ResourceType>
+	<FlavorType>FLAVOR_OFFENSE</FlavorType>
+	<Flavor>20</Flavor>
+</Row>
+
+<Row>
+	<ResourceType>RESOURCE_STEEL</ResourceType>
+	<FlavorType>FLAVOR_DEFENSE</FlavorType>
+	<Flavor>10</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_TURKISHCARPETS</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+<Row>
+	<ResourceType>RESOURCE_TURKISHJEWELRY</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_PEACOCKFEATHER</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+
+<Row>
+	<ResourceType>RESOURCE_MACAW</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+
+<Row>
+	<ResourceType>RESOURCE_JCRANE</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+
+<Row>
+	<ResourceType>RESOURCE_ROMANSTATUE</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_DCHANDELIER</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_SAFFRON</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_CINNAMON</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_BLUEPORCELAIN</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	
+<Row>
+	<ResourceType>RESOURCE_POMERANIAN</ResourceType>
+	<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+	<Flavor>15</Flavor>
+</Row>
+	<Row>
+		<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+		<FlavorType>FLAVOR_GOLD</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+		<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+		<FlavorType>FLAVOR_GROWTH</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_DIESEL</ResourceType>
+		<FlavorType>FLAVOR_OFFENSE</FlavorType>
+		<Flavor>20</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_KEROSENE</ResourceType>
+		<FlavorType>FLAVOR_OFFENSE</FlavorType>
+		<Flavor>20</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_OLIVES</ResourceType>
+		<FlavorType>FLAVOR_GROWTH</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_OLIVES</ResourceType>
+		<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+		<Flavor>4</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_OLIVE_OIL</ResourceType>
+		<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+		<Flavor>5</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+		<Flavor>4</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		<FlavorType>FLAVOR_GOLD</FlavorType>
+		<Flavor>30</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_ASPIRIN</ResourceType>
+		<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+	<Row>
+		<ResourceType>RESOURCE_SOMA</ResourceType>
+		<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+</Resource_Flavors>
+	
+<Resource_TerrainBooleans>
+		<Row>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+	</Resource_TerrainBooleans>
+	<Resource_QuantityTypes>
+		<Row>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<Quantity>6</Quantity>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+	</Resource_QuantityTypes>
+
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_BISON</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_MUSKETMAN</UnitType>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+
+	<ArtDefine_StrategicView>
+	
+<InsertOrAbort>
+	<StrategicViewType>ART_DEF_RESOURCE_COCOA</StrategicViewType>
+	<TileType>Resource</TileType>
+	<Asset>SV_Cocoa.dds</Asset>
+</InsertOrAbort>
+
+		<!-->InsertOrAbort>
+	<StrategicViewType>ART_DEF_RESOURCE_BISON</StrategicViewType>
+	<TileType>Resource</TileType>
+	<Asset>SV_Bison.dds</Asset>
+</InsertOrAbort-->
+</ArtDefine_StrategicView>
+			
+</GameData>

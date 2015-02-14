@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/7/2014 4:39:28 PM -->
+<GameData>
+	<Language_en_US>	
+	<Row Tag="TXT_KEY_GP_ENTERTAINER_DETAILS">
+		<Text>[ICON_PLUS] Great Entertainers</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_ENTERTAINER_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Entertainss</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_ENERGY_DETAILS">
+		<Text>[ICON_PLUS] Great Electricians</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_ENERGY_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Electricians</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_PRIEST_DETAILS">
+		<Text>[ICON_PLUS] Great Prophets</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_PRIEST_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Prophets</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_INTELLECTUAL_DETAILS">
+		<Text>[ICON_PLUS] Great Intellectuals</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_SINTELLECTUAL_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Intellectuals</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_LABORER_DETAILS">
+		<Text>[ICON_PLUS] Great Laborers</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_LABORER_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Laborers</Text>
+	</Row>	
+	<Row Tag="TXT_KEY_GP_GUIDE_DETAILS">
+		<Text>[ICON_PLUS] Great Guides</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_GUIDE_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Guides</Text>
+	</Row>	
+	<Row Tag="TXT_KEY_GP_ENVIRONMENT_DETAILS">
+		<Text>[ICON_PLUS] Great Eco Managers</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_ENVIRONMENT_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Eco Managers</Text>
+	</Row>	
+	<Row Tag="TXT_KEY_GP_DOCTOR_DETAILS">
+		<Text>[ICON_PLUS] Great Doctors</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GP_DOCTOR_DETAILS_COLLAPSE">
+		<Text>[ICON_MINUS] Great Doctors</Text>
+	</Row>			
+	</Language_en_US>
+</GameData>

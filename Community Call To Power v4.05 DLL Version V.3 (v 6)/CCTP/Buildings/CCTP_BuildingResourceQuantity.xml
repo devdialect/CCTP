@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 8:58:25 PM -->
+<GameData>
+  <!--Building_ResourceQuantity-->
+
+	<Building_ResourceQuantity>
+		<!-- Buildings provide FUEl Cells-->
+		<Row>
+			<BuildingType>BUILDING_BRENNZELLE</BuildingType>
+			<ResourceType>RESOURCE_CELLS</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_QCELLS</BuildingType>
+			<ResourceType>RESOURCE_CELLS</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<!-- Buildings provide FLINT-->
+		<Row>
+			<BuildingType>BUILDING_FLINTSTONES</BuildingType>
+			<ResourceType>RESOURCE_FLINT</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide ELECTRICITY-->
+		<Row>
+			<BuildingType>BUILDING_ENERGY_BANK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!-- Buildings provide SOMA-->
+		<Row>
+			<BuildingType>BUILDING_SOMA_DISTILLERY</BuildingType>
+			<ResourceType>RESOURCE_SOMA</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide Aspirin-->
+		<Row>
+			<BuildingType>BUILDING_BAYER</BuildingType>
+			<ResourceType>RESOURCE_ASPIRIN</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide POMERANIAN-->
+		<Row>
+			<BuildingType>BUILDING_CARPENTER</BuildingType>
+			<ResourceType>RESOURCE_TURKISHCARPETS</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide POMERANIAN
+		<Row>
+			<BuildingType>BUILDING_BACKEREI</BuildingType>
+			<ResourceType>RESOURCE_BREAD</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>-->
+		<!-- Buildings provide POMERANIAN-->
+		<Row>
+			<BuildingType>BUILDING_SCHONBRUNN</BuildingType>
+			<ResourceType>RESOURCE_POMERANIAN</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide BREAD-->
+		<Row>
+			<BuildingType>BUILDING_BACKEREI</BuildingType>
+			<ResourceType>RESOURCE_BREAD</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide LINEN-->
+     <Row>
+		<BuildingType>BUILDING_WEBSTUBE</BuildingType>
+		<ResourceType>RESOURCE_LINEN</ResourceType>
+		<Quantity>1</Quantity>
+	</Row>
+	<!-- Buildings provide CINNAMON-->
+		<Row>
+			<BuildingType>BUILDING_KANDY_TEMPLE</BuildingType>
+			<ResourceType>RESOURCE_CINNAMON</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+	<!-- Buildings provide DCHANDELIER-->
+		<Row>
+			<BuildingType>BUILDING_DOLMABAHCE</BuildingType>
+			<ResourceType>RESOURCE_DCHANDELIER</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide SAFFRON-->
+		<Row>
+			<BuildingType>BUILDING_YAZD</BuildingType>
+			<ResourceType>RESOURCE_SAFFRON</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide MACAW-->
+		<Row>
+			<BuildingType>BUILDING_CARTAGENA</BuildingType>
+			<ResourceType>RESOURCE_MACAW</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide IVORY-->
+		<Row>
+			<BuildingType>BUILDING_ELFENBEINSTUBE</BuildingType>
+			<ResourceType>RESOURCE_IVORY</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide ALUMINUM-->
+		<Row>
+			<BuildingType>BUILDING_ALUMAN</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB112</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!-- Buildings provide OIL-->
+		<Row>
+			<BuildingType>BUILDING_OILMAN</BuildingType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide URANIUM-->
+		<Row>
+			<BuildingType>BUILDING_RADIOACTICMAN</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide HORSEMAN-->
+		<Row>
+			<BuildingType>BUILDING_HORSEMAN</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide TULIP-->
+		<Row>
+			<BuildingType>BUILDING_KEUKONHOF</BuildingType>
+			<ResourceType>RESOURCE_TULIP</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!-- Buildings provide POKER-->
+		<Row>
+			<BuildingType>BUILDING_BELLAGIO</BuildingType>
+			<ResourceType>RESOURCE_POKER</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!-- Buildings provide COAL-->
+		<Row>
+			<BuildingType>BUILDING_COALMAN</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB110</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!-- Buildings provide HORSE-->
+			<Row>
+				<BuildingType>BUILDING_PALACE_STABLES</BuildingType>
+				<ResourceType>RESOURCE_HORSE</ResourceType>
+				<Quantity>3</Quantity>
+			</Row>
+		<!-- Buildings provide WHALE-->
+		<Row>
+			<BuildingType>BUILDING_WALFANGERHAUS</BuildingType>
+			<ResourceType>RESOURCE_WHALE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide KRABBENFISCHER-->
+		<Row>
+			<BuildingType>BUILDING_KRABBENFISCHER</BuildingType>
+			<ResourceType>RESOURCE_CRAB</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide PEARLS-->
+		<Row>
+			<BuildingType>BUILDING_PERLENTAUCHER</BuildingType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide Iron-->
+		<Row>
+			<BuildingType>BUILDING_IRONMAN</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide MANUSCRIPT-->
+		<Row>
+			<BuildingType>BUILDING_OBSERVATORY</BuildingType>
+			<ResourceType>RESOURCE_MANUSCRIPT</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Buildings provide Beer-->
+		<Row>
+			<BuildingType>BUILDING_BREWERY</BuildingType>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide OLIVE_OIL-->
+		<Row>
+			<BuildingType>BUILDING_OLIVE_PRESS</BuildingType>
+			<ResourceType>RESOURCE_OLIVE_OIL</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide BLOCKBUSTER-->
+		<Row>
+			<BuildingType>BUILDING_HOLLYWOOD</BuildingType>
+			<ResourceType>RESOURCE_BLOCKBUSTER</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<!-- Buildings provide Electricity-->
+		<Row>
+			<BuildingType>BUILDING_MEGA_DAM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>16</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB114</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<!--1. MEGA_DAM-->
+
+		<Row>
+			<BuildingType>BUILDING_EDISON_LAB</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<!--2. EDISON_LAB-->
+
+
+		<Row>
+			<BuildingType>BUILDING_HYDRO_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+		</Row>
+
+		<!--3. HYDRO_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_GRID_ENERGY_STORAGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>10</Quantity>
+		</Row>
+
+		<!--4. GRID_ENERGY_STORAGE-->
+		<Row>
+			<BuildingType>BUILDING_NUCLEAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>14</Quantity>
+		</Row>
+		<!--5. NUCLEAR_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_FUSION_POWER_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>30</Quantity>
+		</Row>
+		<!--6. FUSION_POWER_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_M_THEORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>20</Quantity>
+		</Row>
+		<!--7. M_THEORY-->
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		
+		<!-- 8. Electricity-->
+		<Row>
+			<BuildingType>BUILDING_KOHLEKRAFTWERK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<!-- Provides Electricity-->
+		<Row>
+			<BuildingType>BUILDING_GEOTHERM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+			<!-- was 12 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOLARTOWER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>14</Quantity>
+			<!-- was 20 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WINDTURBINEN</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>6</Quantity>
+			<!-- was 8 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_YANGTZE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>10</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OSWINDPARK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>12</Quantity>
+			<!-- was 20 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WIEDERAUFBEREITUNGSANLAGE</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- -->
+		<Row>
+			<BuildingType>BUILDING_WASTE_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GB1</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>15</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LONDON_ARRAY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>18</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FUSION_POWER_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>35</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEODYNAMO</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEODYNAMO2</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB47</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB52</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB56</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB65</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>10</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ORBITAL_POWER_TRANSMITTER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>15</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TESLA</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>20</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEOPLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEOPLANT2</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PLANETARY_ENERGY_GRID</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>50</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_QPLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>40</Quantity>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+		<!-- Provides CLOVES-->
+		<Row>
+			<BuildingType>BUILDING_STONE_TOWN</BuildingType>
+			<ResourceType>RESOURCE_CLOVES</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!-- Provides CHOCOLATE-->
+		<Row>
+			<BuildingType>BUILDING_SCHOKOLADE</BuildingType>
+			<ResourceType>RESOURCE_CHOCOLATE</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Provides Furniture-->
+		<Row>
+			<BuildingType>BUILDING_SCHREINER</BuildingType>
+			<ResourceType>RESOURCE_FURNITURE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Provides Sulfur-->
+		<Row>
+			<BuildingType>BUILDING_SULFUR</BuildingType>
+			<ResourceType>RESOURCE_SULFUR</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Provides Kerosene/Diesel-->
+		<Row>
+			<BuildingType>BUILDING_CCTPPB111</BuildingType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_DIESEL</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BIOFUEL_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_DIESEL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYNTHETIC_PETROL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_DIESEL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYNTHETIC_PETROL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PETROLEUM</BuildingType>
+			<ResourceType>RESOURCE_DIESEL</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PETROLEUM</BuildingType>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!--STEEL-->
+		<Row>
+			<BuildingType>BUILDING_STEEL_FOUNDRY</BuildingType>
+			<ResourceType>RESOURCE_STEEL</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB122</BuildingType>
+			<ResourceType>RESOURCE_STEEL</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<!--STEEL-->
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_STEEL_FOUNDRY</BuildingType>
+			<ResourceType>RESOURCE_STEEL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!--RICE-->
+		<Row>
+			<BuildingType>BUILDING_BANAUE</BuildingType>
+			<ResourceType>RESOURCE_RICE</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!--Jevelery-->
+		<Row>
+			<BuildingType>BUILDING_JEWELRY_STORE</BuildingType>
+			<ResourceType>RESOURCE_JEWELRY</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!--BIO_REFINERY-->
+		<Row>
+			<BuildingType>BUILDING_BIO_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+
+		<!--Provides Papyrus, need adjusting maybe later-->
+		<Row>
+			<BuildingType>BUILDING_PFARM</BuildingType>
+			<ResourceType>RESOURCE_PAPYRUS</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+
+		<!--Provides Paper, need adjusting maybe later-->
+		<Row>
+			<BuildingType>BUILDING_PAPIER</BuildingType>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PMILL</BuildingType>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!--Provides MANUSCRIPT-->
+		<Row>
+			<BuildingType>BUILDING_SCHREIBSTUBE</BuildingType>
+			<ResourceType>RESOURCE_MANUSCRIPT</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!--Provides TITANIUM-->
+		<Row>
+			<BuildingType>BUILDING_TITANMAN</BuildingType>
+			<ResourceType>RESOURCE_TITANIUM</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPPB113</BuildingType>
+			<ResourceType>RESOURCE_TITANIUM</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+
+	</Building_ResourceQuantity>
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

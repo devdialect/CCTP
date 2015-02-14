@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 7:59:32 PM -->
+<GameData>
+	<!--/////////Dummies\\\\\\\\\-->
+	<!--CCTP Dummys-->
+	<Buildings>
+	<Row>
+		<Type>BUILDING_CCTPDUMMY1</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY1</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<BuildingProductionModifier>20</BuildingProductionModifier>
+		<GlobalDefenseMod>20</GlobalDefenseMod>
+		<FoodKept>20</FoodKept>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY2</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY2</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY3</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY3</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<UnmoddedHappiness>1</UnmoddedHappiness>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY4</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY4</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY5</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY5</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY6</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY6</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ReligiousPressureModifier>33</ReligiousPressureModifier>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY7</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY7</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY8</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY8</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPDUMMY9</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPDUMMY9</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!--Policy Buildings-->
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB1</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB1</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NumTradeRouteBonus>1</NumTradeRouteBonus>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB2</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB2</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NumTradeRouteBonus>1</NumTradeRouteBonus>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--removed neo-->
+	<Row>
+		<Type>BUILDING_CCTPPB3</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB3</BuildingClass>
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<NumTradeRouteBonus>3</NumTradeRouteBonus>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB4</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB4</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraCityHitPoints>50</ExtraCityHitPoints>
+		<Defense>50</Defense>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB5</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB5</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraLeagueVotes>1</ExtraLeagueVotes>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB6</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB6</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<GlobalPopulationChange>1</GlobalPopulationChange>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB7</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB7</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ReligiousPressureModifier>100</ReligiousPressureModifier>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB8</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB8</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraMissionarySpreads>1</ExtraMissionarySpreads>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--POLICY_ARTISTIC_GENIUS-->
+	<Row>
+		<Type>BUILDING_CCTPPB9</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB9</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<HappinessPerXPolicies>4</HappinessPerXPolicies>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Golden Realm-->
+	<Row>
+		<Type>BUILDING_CCTPPB10</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB10</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraLeagueVotes>1</ExtraLeagueVotes>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Productive Society-->
+	<Row>
+		<Type>BUILDING_CCTPPB11</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB11</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<GlobalPopulationChange>1</GlobalPopulationChange>
+		<GlobalCultureRateModifier>10</GlobalCultureRateModifier>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Old Ways-->
+	<Row>
+		<Type>BUILDING_CCTPPB12</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB12</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Religious Law-->
+	<Row>
+		<Type>BUILDING_CCTPPB13</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB13</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<GreatPeopleRateModifier>10</GreatPeopleRateModifier>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Imperial Cult-->
+	<Row>
+		<Type>BUILDING_CCTPPB14</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB14</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Religious Work-->
+	<Row>
+		<Type>BUILDING_CCTPPB15</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB15</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<ExtraLeagueVotes>1</ExtraLeagueVotes>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB16</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB16</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Religious Ideologies-->
+	<Row>
+		<Type>BUILDING_CCTPPB17</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB17</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Specialist Trader-->
+	<Row>
+		<Type>BUILDING_CCTPPB18</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB18</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Foreign Deals-->
+	<Row>
+		<Type>BUILDING_CCTPPB19</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB19</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+		<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Ecological Research-->
+	<Row>
+		<Type>BUILDING_CCTPPB20</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB20</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<InstantMilitaryIncrease>1</InstantMilitaryIncrease>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--RATIONALISM-->
+	<Row>
+		<Type>BUILDING_CCTPPB21</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB21</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<GlobalPopulationChange>2</GlobalPopulationChange>
+		<GlobalCultureRateModifier>10</GlobalCultureRateModifier>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+
+	<!--Golden Throne-->
+	<Row>
+		<Type>BUILDING_CCTPPB22</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB22</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<EspionageModifier>-10</EspionageModifier>
+		<Espionage>true</Espionage>
+		<FreePromotion>PROMOTION_GOLDEN_AGE_POINTS</FreePromotion>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Patronage Opener-->
+	<Row>
+		<Type>BUILDING_CCTPPB23</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB23</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB24</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB24</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraLeagueVotes>1</ExtraLeagueVotes>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!---->
+	<Row>
+		<Type>BUILDING_CCTPPB25</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB25</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--CCTP14-->
+	<Row>
+		<Type>BUILDING_CCTPPB26</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB26</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Military Code-->
+	<Row>
+		<Type>BUILDING_CCTPPB27</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB27</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+	<!--Military Code-->
+	<Row>
+		<Type>BUILDING_CCTPPB28</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB28</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+		
+		<!--Citizenship-->
+		<Row>
+			<Type>BUILDING_CCTPPB29</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB29</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--Maritime Infrastructure-->
+		<Row>
+			<Type>BUILDING_CCTPPB30</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB30</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--Secularism, removed 31.8.14
+		<Row>
+			<Type>BUILDING_CCTPPB31</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB31</BuildingClass>
+			
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			
+			<ExtraSpies>1</ExtraSpies>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>-->
+		
+		<!--Foreign Deals-->
+		<Row>
+			<Type>BUILDING_CCTPPB32</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB32</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--Touristic Travel-->
+		<Row>
+			<Type>BUILDING_CCTPPB33</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB33</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>2</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--Trade Union-->
+		<Row>
+			<Type>BUILDING_CCTPPB34</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB34</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>3</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--Secret Plans-->
+		<Row>
+			<Type>BUILDING_CCTPPB35</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB35</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--Imperial Cult-->
+		<Row>
+			<Type>BUILDING_CCTPPB36</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB36</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--New Colonies-->
+		<Row>
+			<Type>BUILDING_CCTPPB37</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB37</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--DISCIPLINEX-->
+		<Row>
+			<Type>BUILDING_CCTPPB38</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB38</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--DISCIPLINEX-->
+		<Row>
+			<Type>BUILDING_CCTPPB39</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB39</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--POLICY_FORCIBLE_IMPOSITION-->
+		<Row>
+			<Type>BUILDING_CCTPPB40</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB40</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB41</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB41</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		
+		<!--BOURGUS-->
+		<Row>
+			<Type>BUILDING_CCTPPB42</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB42</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--WARRIOR_NOBILITY-->
+		<Row>
+			<Type>BUILDING_CCTPPB43</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB43</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--ENVIRONMENTAL_MOVEMENT-->
+		<Row>
+			<Type>BUILDING_CCTPPB44</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB44</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--ENUMERATED_POWERS-->
+		<Row>
+			<Type>BUILDING_CCTPPB45</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB45</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--INSTANT_REFERENDUM-->	
+		<Row>
+			<Type>BUILDING_CCTPPB46</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB46</BuildingClass>
+			<PrereqTech>NULL</PrereqTech>
+			<!--hide this building-->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--INFORMATION_SOCIETY-->
+		<Row>
+			<Type>BUILDING_CCTPPB47</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB47</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--FREE_TRADE-->
+		<Row>
+			<Type>BUILDING_CCTPPB48</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB48</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+
+		<!--INSTANT_REFERENDUM-->
+		<Row>
+			<Type>BUILDING_CCTPPB49</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB49</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>3</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+
+		<!--ECONOMIC_FREEDOM-->
+		<Row>
+			<Type>BUILDING_CCTPPB50</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB50</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--CCTP51-->
+		<Row>
+			<Type>BUILDING_CCTPPB51</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB51</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+
+		<!--CCTP52-->
+		<Row>
+			<Type>BUILDING_CCTPPB52</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB52</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB53</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB53</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>2</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB54</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB54</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB55</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB55</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB56</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB56</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB57</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB57</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB58</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB58</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB59</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB59</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>2</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB60</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB60</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ReligiousPressureModifier>100</ReligiousPressureModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB61</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB61</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB62</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB62</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!--45-->
+		<Row>
+			<Type>BUILDING_CCTPPB63</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB63</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>4</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB64</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB64</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraMissionarySpreads>1</ExtraMissionarySpreads>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB65</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB65</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB66</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB66</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<GlobalPopulationChange>1</GlobalPopulationChange>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB67</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB67</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB68</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB68</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB69</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB69</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB70</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB70</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB71</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB71</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB72</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB72</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB73</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB73</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinorFriendshipChange>100</MinorFriendshipChange>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB74</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB74</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB75</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB75</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB76</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB76</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<InstantMilitaryIncrease>1</InstantMilitaryIncrease>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB77</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB77</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<TechEnhancedTourism>5</TechEnhancedTourism>
+			<EnhancedYieldTech>TECH_LANGUAGE</EnhancedYieldTech>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB78</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB78</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<HappinessPerXPolicies>5</HappinessPerXPolicies>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB79</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB79</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<ExtraLeagueVotes>4</ExtraLeagueVotes>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB80</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB80</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB80_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB80</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB80_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB80_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Espionage>true</Espionage>
+			<ExtraSpies>1</ExtraSpies>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB81</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB81</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB81_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB81</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB81_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB81_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Espionage>true</Espionage>
+			<SpyRankChange>1</SpyRankChange>
+			<InstantSpyRankChange>1</InstantSpyRankChange>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB82</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB82</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB82_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB82</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB82_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB82_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Espionage>true</Espionage>
+			<ExtraSpies>1</ExtraSpies>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB83</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB83</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB83_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB83</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB83_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB83_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Espionage>true</Espionage>
+			<EspionageModifier>15</EspionageModifier>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB84</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB84</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB84_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB84</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB84_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB84_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB85</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB85</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB85_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB85</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB85_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB85_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Espionage>true</Espionage>
+			<ExtraSpies>1</ExtraSpies>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB86</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB86</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB87</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB87</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB88</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB88</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB89</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB89</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB90</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB90</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB91</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB91</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<CulturePerGP>100</CulturePerGP>	
+			<GreatPersonExpendGold>100</GreatPersonExpendGold>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB92</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB92</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB93</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB93</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<InstantMilitaryIncrease>1</InstantMilitaryIncrease>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB94</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB94</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB95</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB95</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<AllowsProductionTradeRoutes>true</AllowsProductionTradeRoutes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB96</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB96</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB97</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB97</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB97_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB97</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB97_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB81_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Espionage>true</Espionage>
+			<SpyRankChange>1</SpyRankChange>
+			<InstantSpyRankChange>1</InstantSpyRankChange>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB98</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB98</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<FoodKept>10</FoodKept>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB99</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB99</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB100</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB100</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB101</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB101</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB102</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB102</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB103</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB103</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB104</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB104</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB105</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB105</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB106</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB106</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB107</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB107</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB108</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB108</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB109</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB109</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB110</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB110</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB111</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB111</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB112</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB112</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB113</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB113</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB114</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB114</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB115</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB115</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB116</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB116</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB117</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB117</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB118</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB118</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB119</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB119</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB120</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB120</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB121</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB121</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB122</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB122</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB123</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB123</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB124</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB124</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB125</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB125</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB126</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB126</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB127</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB127</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB128</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB128</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB129</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB129</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB130</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB130</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraLuxuries>true</ExtraLuxuries>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB131</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB131</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<UnmoddedHappiness>5</UnmoddedHappiness>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>	
+	</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB132</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB132</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB133</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB133</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB134</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB134</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<UnmoddedHappiness>2</UnmoddedHappiness>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB135</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB135</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB136</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB136</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB137</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB137</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB138</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB138</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB139</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB139</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB140</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB140</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB141</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB141</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB142</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB142</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB143</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB143</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB144</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB144</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<Happiness>-2</Happiness>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB145</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB145</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building 
+			<Happiness>-2</Happiness>-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB146</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB146</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB147</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB147</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB148</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB148</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB149</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB149</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<FoodKept>10</FoodKept>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB150</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB150</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB151</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB151</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB152</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB152</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB153</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB153</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB154</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB154</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>3</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		
+		
+		
+		
+		
+		
+		
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB155</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB155</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB156</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB156</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB157</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB157</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB158</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB158</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB159</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB159</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB160</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB160</BuildingClass>
+			<!--hide this building-->
+			<Help>TXT_KEY_BUILDING_CCTPPB160_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPPB160</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPPB160_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPPB160_STRATEGY</Strategy>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Espionage>true</Espionage>
+			<ExtraSpies>1</ExtraSpies>
+			<InstantSpyRankChange>1</InstantSpyRankChange>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB161</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB161</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB162</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB162</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB163</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB163</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB164</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB164</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB165</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB165</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+	</Buildings>
+  <!--Have a nice Day:=)-->
+	
+</GameData>

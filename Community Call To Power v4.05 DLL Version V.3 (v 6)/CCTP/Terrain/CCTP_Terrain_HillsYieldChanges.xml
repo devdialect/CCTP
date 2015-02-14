@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/18/2014 1:33:27 AM -->
+<GameData>
+ 
+ 
+  <!--*****Terrain_HillsYieldChanges*****-->
+<Terrain_HillsYieldChanges>
+	<!--*****Next****-->
+<Row>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>-2</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>-2</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>2</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>-4</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+     <Yield>0</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>-2</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>0</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>-2</Yield>
+</Row>
+</Terrain_HillsYieldChanges>
+
+	
+  
+</GameData>
+<!--Have a nice Day;=)-->

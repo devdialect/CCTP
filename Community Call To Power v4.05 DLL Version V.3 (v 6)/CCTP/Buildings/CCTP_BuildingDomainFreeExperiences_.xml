@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 9:41:14 PM -->
+<GameData>
+<!--/////////DomainFreeExperiences\\\\\\\\\-->
+<Building_DomainFreeExperiences>
+<Row>
+	<BuildingType>BUILDING_SKUNKWORKS</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<Row>
+	<BuildingType>BUILDING_SKUNKWORKS</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>15</Experience>
+</Row>
+<Row>
+	<BuildingType>BUILDING_SKUNKWORKS</BuildingType>
+	<DomainType>DOMAIN_AIR</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_GATE_PA</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_MALBORK</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>15</Experience>
+</Row>
+	<!---->
+<Row>
+	<BuildingType>BUILDING_HARBOR</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>15</Experience>
+</Row>
+<Row>
+	<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+	<DomainType>DOMAIN_AIR</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_WAR_COLLEGE</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>20</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_WAR_COLLEGE</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>20</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_WAR_COLLEGE</BuildingType>
+	<DomainType>DOMAIN_AIR</DomainType>
+    <Experience>20</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_NAVAL_BASE</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_AIRBASE</BuildingType>
+	<DomainType>DOMAIN_AIR</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_WAR_ROOM</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_WEAPONSMITH</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_LEATHERWORK</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_ARMOURER</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+	</Row>
+<!---->
+	<Row>
+	<BuildingType>BUILDING_IRONMONGER</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_SHIPYARDS</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>15</Experience>
+</Row>
+	
+<!---->
+<Row>
+	<BuildingType>BUILDING_TRIOMPHE</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>15</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_PUUKOHOLA_HEIAU</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>20</Experience>
+</Row>
+<Row>
+	<BuildingType>BUILDING_PUUKOHOLA_HEIAU</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>20</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_GLADIATOR</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>10</Experience>
+</Row>
+<!---->
+<!---->
+<Row>
+	<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Experience>10</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Experience>10</Experience>
+</Row>
+<!---->
+<Row>
+	<BuildingType>BUILDING_MILITARY_SCHOOL</BuildingType>
+	<DomainType>DOMAIN_AIR</DomainType>
+	<Experience>10</Experience>
+</Row>
+
+</Building_DomainFreeExperiences>
+  <!--Have a nice Day:=)-->
+</GameData>

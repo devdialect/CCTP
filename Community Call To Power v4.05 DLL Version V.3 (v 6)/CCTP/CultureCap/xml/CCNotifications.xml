@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<Context>
+	<!--=======================================================================================================================-->
+	<!-- Cultural Capital Notification -->
+	<!--=======================================================================================================================-->
+	<Instance Name="CCItem" >
+		<Container Anchor="R,C" Size="80,80" Offset="0,0"  Hidden="0" ID="CCContainer" ConsumeMouseButton="1" >
+			<SlideAnim Anchor="L,T" Style="NotificationSlide" ID="NotificationSlide" >
+				<AlphaAnim Style="NewFinger" />
+				<Button Anchor="R,C" Size="80,80" Offset="0,0" Texture="assets\UI\Art\Notification\NotificationFrameBase.dds" ID="CCButton"  Hidden="0" >
+
+					<ShowOnMouseOver>
+						<Image Anchor="C,C" Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationFrameBase.dds" />
+						<AlphaAnim  Anchor="C,C"  AnchorSide="O.O"  Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationFrameGlow2.dds"  Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0" Hidden="0" />
+					</ShowOnMouseOver>
+					<Image Anchor="C,C" Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationBlack.dds" />
+					<!--<AlphaAnim Anchor="C,C" Offset="0,-1" Size="80,80" Texture="assets\UI\Art\Notification\SocialPolicyActive80.dds" ID="CCImage"  Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".5" AlphaEnd="1" />-->
+					<AlphaAnim ID="CCIconBg" Anchor="C,C" Offset="0,-1" Size="80,80" Texture="assets\UI\Art\Notification\SocialPolicyActive80.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".5" AlphaEnd="1" />
+					<!--<Image ID="CCIconBg" Anchor="C,C" Offset="0,-1" Size="80,80" Texture="assets\UI\Art\Notification\CapitalAnimation.dds" />-->
+					<!--<FlipAnim Size="64,64" Offset="0,6" Anchor="C,C" Columns="8" Speed="20" Pause=".5" StepSize="64,64" FrameCount="31" Texture="assets\UI\Art\Notification\CapitalAnimation.dds" />-->
+					<!--<Image ID="CCIconBg" Anchor="C,C" Offset="0,6" Size="64,64" Texture="assets\UI\Art\Notification\CapitalAnimation.dds" /> -->
+					<AlphaAnim ID="Anim" Anchor="C,C" Offset="0,0" Size="64,64" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="0" AlphaEnd="1" Hidden="1">
+						<Image ID="LeaderPortrait" Anchor="C,C" Offset="0,0" Size="64,64" Texture="LeaderPortraits512.dds" />
+					</AlphaAnim>
+					<Label Anchor="C,C" Offset="0,0" String="" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="CCCount" />
+				</Button>
+
+			</SlideAnim>
+		</Container>
+	</Instance>
+
+	<!--=======================================================================================================================-->
+	<!-- Theme Chosen -->
+	<!--=======================================================================================================================-->
+	<Instance Name="ThemeChosenItem" >
+		<Container ID="ThemeChosenContainer" Anchor="R,C" Size="80,80" Offset="0,0"  Hidden="0" ConsumeMouseButton="1" >
+			<SlideAnim Anchor="L,T" Style="NotificationSlide" ID="NotificationSlide" >
+				<AlphaAnim Style="NewFinger" />
+				<Button ID="ThemeChosenButton" Anchor="R,C" Size="80,80" Offset="0,0" Texture="assets\UI\Art\Notification\NotificationFrameBase.dds"  Hidden="0" >
+
+					<ShowOnMouseOver>
+						<Image Anchor="C,C" Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationFrameBase.dds" />
+						<AlphaAnim  Anchor="C,C"  AnchorSide="O.O"  Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationFrameGlow2.dds"  Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0" Hidden="0" />
+					</ShowOnMouseOver>
+					<Image Anchor="C,C" Offset="0,0" Size="80,80" Texture="assets\UI\Art\Notification\NotificationBlack.dds" />
+					<!--<AlphaAnim Anchor="C,C" Offset="0,-1" Size="80,80" Texture="assets\UI\Art\Notification\SocialPolicyActive80.dds" ID="CCImage"  Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".5" AlphaEnd="1" />-->
+					<AlphaAnim ID="CCIconBg" Anchor="C,C" Offset="0,-1" Size="80,80" Texture="assets\UI\Art\Notification\SocialPolicyActive80.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".5" AlphaEnd="1" />
+					<!--<FlipAnim Size="64,64" Offset="0,6" Anchor="C,C" Columns="8" Speed="20" Pause=".5" StepSize="64,64" FrameCount="31" Texture="assets\UI\Art\Notification\CapitalAnimation.dds" />-->
+					
+					<AlphaAnim Anchor="C,C" Offset="0,0" Size="64,64" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="0" AlphaEnd="1" >
+						<Image ID="ThemePortrait" Anchor="C,C" Offset="0,0" Size="64,64" Texture="TechnologyAtlasTwo512.dds" />
+					</AlphaAnim>
+					<Label Anchor="C,C" Offset="0,0" String="" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="CCCount" />
+				</Button>
+
+			</SlideAnim>
+		</Container>
+	</Instance>
+</Context>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/2/2014 8:19:35 PM -->
+<!-- 
+	See the file: Belief_FounderFreeBuildingClassCapital for more information
+	
+	This example makes the Peace Loving belief also provide +1 missionary spread
+	for missionaries purchased in the capital.
+	
+	Step 1: Add an entry in the new table
+	Step 2: Define the building (should include Cost=-1 NeverCapture=true and NukeImmune=true)
+	Step 3: Provide +1 spread
+-->
+<GameData>
+	<!-- Step 1 -->
+	<Belief_FounderFreeBuildingClassCapital>
+		<Row>
+			<BeliefType>BELIEF_EDEN</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_EDEN</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ODIN</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ODIN</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_KALI</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_KALI</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RAGNOR</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_RAGNOR</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ICARUS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ICARUS</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MORPHEUS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MORPHEUS</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MERCURIUS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MERCURIUS</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HERMES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_HERMES</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ARCHERON</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARCHERON</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_TELLUS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TELLUS</BuildingClassType>
+		</Row>
+	</Belief_FounderFreeBuildingClassCapital>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_EDEN</Type>
+			<DefaultBuilding>BUILDING_EDEN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_EDEN</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ODIN</Type>
+			<DefaultBuilding>BUILDING_ODIN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ODIN</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KALI</Type>
+			<DefaultBuilding>BUILDING_KALI</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KALI</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_RAGNOR</Type>
+			<DefaultBuilding>BUILDING_RAGNOR</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RAGNOR</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ICARUS</Type>
+			<DefaultBuilding>BUILDING_ICARUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ICARUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MORPHEUS</Type>
+			<DefaultBuilding>BUILDING_MORPHEUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MORPHEUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MERCURIUS</Type>
+			<DefaultBuilding>BUILDING_MERCURIUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MERCURIUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_HERMES</Type>
+			<DefaultBuilding>BUILDING_HERMES</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HERMES</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ARCHERON</Type>
+			<DefaultBuilding>BUILDING_ARCHERON</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARCHERON</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TELLUS</Type>
+			<DefaultBuilding>BUILDING_TELLUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TELLUS</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_EDEN</Type>
+			<BuildingClass>BUILDINGCLASS_EDEN</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_EDEN</Description>
+			<Help>TXT_KEY_BUILDING_EDEN_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+            <UnmoddedHappiness>5</UnmoddedHappiness> 
+		</Row>
+		<Row>
+			<Type>BUILDING_ODIN</Type>
+			<BuildingClass>BUILDINGCLASS_ODIN</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_ODIN</Description>
+			<Help>TXT_KEY_BUILDING_ODIN_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<HappinessPerXPolicies>1</HappinessPerXPolicies>
+		</Row>
+		<Row>
+			<Type>BUILDING_KALI</Type>
+			<BuildingClass>BUILDINGCLASS_KALI</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_KALI</Description>
+			<Help>TXT_KEY_BUILDING_KALI_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<GlobalDefenseMod>10</GlobalDefenseMod>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<Type>BUILDING_RAGNOR</Type>
+			<BuildingClass>BUILDINGCLASS_RAGNOR</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_RAGNOR</Description>
+			<Help>TXT_KEY_BUILDING_RAGNOR_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<FreePolicies>2</FreePolicies>
+		</Row>
+		<Row>
+			<Type>BUILDING_ICARUS</Type>
+			<BuildingClass>BUILDINGCLASS_ICARUS</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_ICARUS</Description>
+			<Help>TXT_KEY_BUILDING_ICARUS_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<GoldenAge>true</GoldenAge>
+		</Row>
+		<Row>
+			<Type>BUILDING_MORPHEUS</Type>
+			<BuildingClass>BUILDINGCLASS_MORPHEUS</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_MORPHEUS</Description>
+			<Help>TXT_KEY_BUILDING_MORPHEUS_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<ExtraLuxuries>true</ExtraLuxuries>
+		</Row>
+		<Row>
+			<Type>BUILDING_MERCURIUS</Type>
+			<BuildingClass>BUILDINGCLASS_MERCURIUS</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_MERCURIUS</Description>
+			<Help>TXT_KEY_BUILDING_MERCURIUS_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<ExtraSpies>1</ExtraSpies>
+		</Row>
+		<Row>
+			<Type>BUILDING_HERMES</Type>
+			<BuildingClass>BUILDINGCLASS_HERMES</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_HERMES</Description>
+			<Help>TXT_KEY_BUILDING_HERMES_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<FreeGreatPeople>1</FreeGreatPeople>
+		</Row>
+		<Row>
+			<Type>BUILDING_ARCHERON</Type>
+			<BuildingClass>BUILDINGCLASS_ARCHERON</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_ARCHERON</Description>
+			<Help>TXT_KEY_BUILDING_ARCHERON_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<FreeTechs>1</FreeTechs>
+		</Row>
+		<Row>
+			<Type>BUILDING_TELLUS</Type>
+			<BuildingClass>BUILDINGCLASS_TELLUS</BuildingClass>
+			<Cost>-1</Cost>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<Description>TXT_KEY_BUILDING_TELLUS</Description>
+			<Help>TXT_KEY_BUILDING_TELLUS_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<GlobalPopulationChange>1</GlobalPopulationChange>
+			<FoodKept>10</FoodKept>
+		</Row>
+	</Buildings>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_EDEN">
+			<Text>Eden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EDEN_HELP">
+			<Text>Eden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ODIN">
+			<Text>Odin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ODIN_HELP">
+			<Text>Odin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KALI">
+			<Text>Kali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KALI_HELP">
+			<Text>Kali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RAGNOR">
+			<Text>Ragnor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RAGNOR_HELP">
+			<Text>Ragnor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ICARUS">
+			<Text>Icarus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ICARUS_HELP">
+			<Text>Icarus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORPHEUS">
+			<Text>Morpheus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORPHEUS_HELP">
+			<Text>Morpheus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MERCURIUS">
+			<Text>Mercurius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MERCURIUS_HELP">
+			<Text>Mercurius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HERMES">
+			<Text>Hermes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HERMES_HELP">
+			<Text>Hermes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCHERON">
+			<Text>Archeron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCHERON_HELP">
+			<Text>Archeron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TELLUS">
+			<Text>TELLUS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TELLUS_HELP">
+			<Text>TELLUS</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

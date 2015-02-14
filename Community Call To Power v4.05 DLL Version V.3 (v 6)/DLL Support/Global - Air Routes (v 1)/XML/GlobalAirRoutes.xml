@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_MILITARY_BASE_HELP"/>
+			<Set>
+				<Text>The city must possess an Arsenal before a Military Base may be constructed. [COLOR_POSITIVE_TEXT]Increases air unit capacity of the city from 6 to 10.[ENDCOLOR]</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_MILITARY_BASE_STRATEGY"/>
+			<Set>
+				<Text>The Military Base is a mid-game building which increases the city's Defensive strength.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_AIRPORT_HELP"/>
+			<Set>
+				<Text>Allows airlifts to or from this city. 50% of the [ICON_CULTURE] Culture from World Wonders, Natural Wonders, and Improvements (Landmarks, Moai, Chateau) is added to the [ICON_TOURISM] Tourism output of the city. [ICON_TOURISM] Tourism output from Great Works +50%.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_AIRPORT_STRATEGY"/>
+			<Set>
+				<Text>The versatile Airport is an excellent choice for civilizations that are trying to improve their [ICON_TOURISM] Tourism output or are land-locked and need to create city connections to remote cities.</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

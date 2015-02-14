@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 4/4/2014 4:22:49 PM -->
+<GameData>
+
+
+	<!--Next-->
+	<Policy_BuildingClassProductionModifiers>
+		<Row>
+			<PolicyType>POLICY_CCTP185</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_DRUG_STORE</BuildingClassType>
+			<ProductionModifier>100</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP185</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+			<ProductionModifier>100</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP185</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MEDICAL_LAB</BuildingClassType>
+			<ProductionModifier>100</ProductionModifier>
+		</Row>
+		<!--Next-->
+		<Row>
+			<PolicyType>POLICY_CITIZENSHIP</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_HARVEST</BuildingClassType>
+			<ProductionModifier>100</ProductionModifier>
+		</Row>
+		<!--Next-->
+		<Row>
+			<PolicyType>POLICY_CULTURAL_CENTERS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_BURIAL_MOUND</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CULTURAL_CENTERS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MOVIE_THEATRE</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<!--Next-->
+		<Row>
+			<PolicyType>POLICY_EXPLORATION</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_EXPLORATION</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_SEAPORT</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_EXPLORATION</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_EXPLORATION</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_DOCK</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<!--Next-->
+		<Row>
+			<PolicyType>POLICY_PROFESSIONAL_ARMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_AIRBASE</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_PROFESSIONAL_ARMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_NAVAL_BASE</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_PROFESSIONAL_ARMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_WACHTURM</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<!--Next-->
+		<Row>
+			<PolicyType>POLICY_CCTP178</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PALISADE</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<!--Next-->
+		<Row>
+			<PolicyType>POLICY_CCTP138</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_ROCK_PAINTINGS</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP138</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_SHAMAN_HUT</BuildingClassType>
+			<ProductionModifier>50</ProductionModifier>
+		</Row>
+	</Policy_BuildingClassProductionModifiers>
+  <!--Have a nice Day:=)-->
+  
+</GameData>

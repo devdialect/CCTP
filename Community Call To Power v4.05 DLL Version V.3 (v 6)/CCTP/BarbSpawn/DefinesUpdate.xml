@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2012-02-19 3:05:32 PM -->
+<GameData>
+	<Defines>
+		<Row Name="UNOWNED_TILES_PER_GAME_ALIEN">
+			<Value>20</Value>
+		</Row>
+	</Defines>
+	
+	
+</GameData>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<!-- None of these are strictly necessary, as the options are always on in the DLL -->
+		<Update>
+			<Where Name="GLOBAL_CITY_WORKING"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="TRAITS_CITY_WORKING"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="POLICIES_CITY_WORKING"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="BUILDINGS_CITY_WORKING"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<Defines>
+		<Update>
+			<!-- Buy/Work tile maximum distance from city centre (default is 3) -->
+			<!-- Min value is 2, max value is 5 (these are hard-coded in the DLL) -->
+			<Where Name="MAXIMUM_BUY_PLOT_DISTANCE"/>
+			<Set Value="3"/>
+		</Update>
+	</Defines>
+
+	<Traits>
+		<Update>
+			<Where Type="TRAIT_POPULATION_GROWTH"/>
+			<Set CityWorkingChange="1"/>
+		</Update>	
+                 <Update>
+			<Where Type="TRAIT_SUPER_CITY_STATE"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+	</Traits>
+
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_POPULATION_GROWTH"/>
+			<Set>
+			<Text>[ICON_HAPPINESS_4] Unhappiness from number of Cities is increased by +200%, [ICON_HAPPINESS_4] Unhappiness from number of [ICON_CITIZEN] Citizens is reduced by -25%.[NEWLINE]Cities may work one additional ring of tiles.</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_HANGING_GARDEN"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+
+		<Update>
+			<Where Type="BUILDING_MADOL"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+
+		<Update>
+			<Where Type="BUILDING_GILDE"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+
+		<Update>
+			<Where Type="BUILDING_SILO"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+
+		<Update>
+			<Where Type="BUILDING_TERRACES"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+
+		<Update>
+			<Where Type="BUILDING_DARJEELING"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+
+	</Buildings>
+
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_WONDER_HANGING_GARDEN_HELP"/>
+			<Set>
+				<Text>Provides a free Garden in the city in which it is built and the city may work one additional ring of tiles.</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+
+	<Policies>
+		<Update>
+			<Where Type="POLICY_COMMERCE_FINISHER"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+		<Update>
+			<Where Type="POLICY_CCTP182"/>
+			<Set CityWorkingChange="1"/>
+		</Update>
+	</Policies>
+	
+	
+</GameData>

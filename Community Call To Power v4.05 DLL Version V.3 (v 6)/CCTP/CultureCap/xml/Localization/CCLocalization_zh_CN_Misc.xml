@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS">
+			<Text>开启文化之都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS_HELP">
+			<Text>为游戏开启文化之都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_NAME">
+			<Text>文化之都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TITLE_PLAYER">
+			<Text>文化之都 {1_year}:[COLOR_WHITE]{2_city}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TITLE">
+			<Text>文化之都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_NO_THEME">
+			<Text>尚未选择主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_THEMES">
+			<Text>主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_CHOOSE_THEME">
+			<Text>选择主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_THEME">
+			<Text>当前有效主题: {1_theme}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_THEME_TOOLTIP">
+			<Text>点击显示当前效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_EFFECTS">
+			<Text>当前效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]你可以选择该主题！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_ALREADY_CHOSEN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]你已经选择了一个主题！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_LR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE]点击左键显示效果。[NEWLINE]点击右键显示额外信息。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_INACTIVEBUTTON_TOOLTIP">
+			<Text>[COLOR_FONT_RED]至少一项前提尚未满足。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_MUSTWIN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]你需要在文化之都竞选获胜后才能选择一个主题！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_OBSOLETEBUTTON_TOOLTIP">
+			<Text>[COLOR_FONT_RED]该主题已经过时。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_EFFECTS">
+			<Text>采用后效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_EFFECT_CIVI">
+			<Text>点击显示文明百科里的本条目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TEMPORARY_EFFECT">
+			<Text>这时一种暂时的效果。它会持续{1_turns}回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SHOW_ALL">
+			<Text>显示所有主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SHOW_ALL_TOOLTIP">
+			<Text>显示所有可选主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SHOW_OBSOLETE_TOOLTIP">
+			<Text>显示过时主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_VIEW_CC">
+			<Text>检阅文化之都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_DESCRIPTION_LABEL">
+			<Text>主题描述</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_FULLFILLED_LABEL">
+			<Text>已满足条件</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_UNMET_LABEL">
+			<Text>尚未满足条件</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_DISTANT_CIV">
+			<Text>一个遥远的文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_PLAYER_THEMECHOSEN">
+			<Text>[COLOR_FONT_RED]{1_player}[ENDCOLOR]选择了主题[COLOR_YELLOW]{2_theme}[ENDCOLOR]！</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_WORLD_LCLICK_TOOLTIP">
+			<Text>点击左键显示主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_RCLICK_TOOLTIP">
+			<Text>点击右键打开概览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MCLICK_TOOLTIP">
+			<Text>点击中键观看{1_city}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_EMPTY_TOOLTIP">
+			<Text>[COLOR_FONT_RED]尚无玩家设立文化委员会！只有先建造[ENDCOLOR][COLOR_FONT_GREEN]{1_value}[ENDCOLOR][COLOR_FONT_RED]奇观才能在你的[ICON_CAPITAL]首都率先设立！[NEWLINE]在你的国家设立委员会能让你看到所有对手以及他们的选举进展。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_COUNTDOWN_TOOLTIP">
+			<Text>到下一轮新选举还剩[COLOR_YELLOW]{1_turns}[ENDCOLOR]回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_CANCHOOSE_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]你已经在选举中获胜并能选择一个主题！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_TURNSREMAINING_TOOLTIP">
+			<Text>还剩[COLOR_YELLOW]{1_turns}[ENDCOLOR]回合能赢得选举。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_BASE_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR]点来自文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_MINOR_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR]奖励点数来自城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_WONDER_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR]奖励点数来自奇观。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MALUS_CITY_TOOLTIP">
+			<Text>[COLOR_FONT_RED]{1_value}[ENDCOLOR]惩罚点数来自城市数量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_BRIBE_TOOLTIP">
+			<Text>[COLOR_YELLOW]{1_value}[ENDCOLOR]奖励点数来自贿赂({2_cooldown})。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MALUS_LASTWIN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]{1_value}[ENDCOLOR]惩罚点数来自过去赢家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_TOTAL_TOOLTIP">
+			<Text>= 总点数[COLOR_FONT_GREEN]{1_value}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_ZERO_TOOLTIP">
+			<Text>[COLOR_FONT_RED]你至少需要在你国家建造一座奇观来获得文化之都选举的点数！[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_OVERVIEW_TITLE">
+			<Text>文化之都概览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_SHOW_ALL">
+			<Text>显示所有赢家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_SHOW_ALL_TOOLTIP">
+			<Text>显示所有过去文化之都选举的赢家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YEAR">
+			<Text>年代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YEAR_SORT">
+			<Text>用年代排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINNER">
+			<Text>赢家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINNER_SORT">
+			<Text>用赢家排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_CITY">
+			<Text>城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_CITY_SORT">
+			<Text>用城市排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_THEME">
+			<Text>主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_THEME_SORT">
+			<Text>用主题排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNKNOWN_CITY">
+			<Text>？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PLAYER">
+			<Text>玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PLAYER_SORT">
+			<Text>用玩家排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS">
+			<Text>进度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS_SORT">
+			<Text>用进度排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINS">
+			<Text>胜利数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINS_SORT">
+			<Text>用已知胜利数排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YOU">
+			<Text>你</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNMET">
+			<Text>尚未遇见的玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNKNOWN_THEME">
+			<Text>未知主题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_HISTORY_BUTTON">
+			<Text>显示历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS_BUTTON">
+			<Text>显示进度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON">
+			<Text>贿赂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_CONFIRM">
+			<Text>你确定你想要贿赂文化委员会[COLOR_YELLOW]{1_gold}[ENDCOLOR][ICON_GOLD]金钱吗？[NEWLINE][NEWLINE]该效果会持续[COLOR_FONT_GREEN]{2_duration}[ENDCOLOR]选举回合。[NEWLINE][NEWLINE]贿赂可以在这些回合中增加你[COLOR_FONT_GREEN]{3_bribemod}%[ENDCOLOR]的选举点数产出。[NEWLINE][NEWLINE][COLOR_FONT_RED]你可以在[ENDCOLOR]{4_cooldown}[COLOR_FONT_RED]选举回合后再次贿赂[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_ALLOWED_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]你可以贿赂文化委员会[ENDCOLOR][COLOR_YELLOW]{1_gold}[ENDCOLOR][COLOR_FONT_GREEN][ICON_GOLD]金钱！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_COOLDOWN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]你必须等待[ENDCOLOR]{1_turns}[COLOR_FONT_RED]选举回合！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_RACE_TOOLTIP">
+			<Text>[COLOR_FONT_RED]你只能在选举进程中贿赂！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_GOLD_TOOLTIP">
+			<Text>[COLOR_FONT_RED]你需要至少[ENDCOLOR][COLOR_YELLOW]{1_gold}[ENDCOLOR][COLOR_FONT_RED]金钱！[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_COMMITTEEFORMED_NOTIFICATION">
+			<Text>{1_location}已经设立[COLOR_CULTURE_RATE]文化委员会[ENDCOLOR]！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WINNER_NOTIFICATION">
+			<Text>[COLOR_CULTURE_RATE]文化之都[ENDCOLOR] {1_year}:[NEWLINE]{2_location}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WONDERSERECTED_NOTIFICATION">
+			<Text>[COLOR_FONT_GREEN]{1_nWonders}[ENDCOLOR]座奇观已经被建造！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ELECTIONSTARTED_NOTIFICATION_TITLE">
+			<Text>文化选举开始！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ELECTIONSTARTED_NOTIFICATION_DESC">
+			<Text>文化选举程序已经开始！获得足够的[ICON_CC]选举点数后取胜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WINNER">
+			<Text>文化之都赢家: </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_WONDERS_REQUIRED">
+			<Text>本城市至少需要有{1_count}奇观。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MINCITIES_REQUIRED">
+			<Text>玩家至少需要有{1_count}原始城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MAXCITIES_REQUIRED">
+			<Text>玩家至多有{1_count}原始城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_SPECIALISTBUILDING_REQUIRED">
+			<Text>至少一个建筑可以雇佣{1_type}专业人员。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MINSIZE_REQUIRED">
+			<Text>城市规模至少{1_size}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MAXSIZE_REQUIRED">
+			<Text>城市规模至多{1_size}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_TECH_REQUIRED">
+			<Text>必须完成研究{1_tech}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ERA_REQUIRED">
+			<Text>必须是在{1_era}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASS_REQUIRED">
+			<Text>城市需要{1_building}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASSINEMPIRE_REQUIRED">
+			<Text>你的国家至少需要一座{1_building}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASS_EXCLUDED">
+			<Text>城市不允许有{1_building}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASSINEMPIRE_EXCLUDED">
+			<Text>你的国家不允许有{1_building}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_CANHAVERESOURCE">
+			<Text>必须在能发现{1_resource}的城市附近购地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POLICY_REQUIRED">
+			<Text>必须采用{1_policy}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_GARRISON_REQUIRED">
+			<Text>城市必须有镇守部队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MUST_PRODUCE">
+			<Text>城市必须建造一座建筑或生产一个单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OBSOLETE_TECH">
+			<Text>当完成研究{1_tech}后本主题过时。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OBSOLETE_ERA">
+			<Text>当你进入{1_era}后本主题过时。</Text>
+		</Row>
+
+	</Language_zh_CN>
+</GameData>

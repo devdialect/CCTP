@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2012 1:16:13 PM -->
+<GameData>
+	<!--TEXT STRINGS-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANT_FOREST_TEXT">
+			<Text>Reforestation is the natural or intentional restocking of existing forests and woodlands that have been depleted, usually through deforestation.[1] Reforestation can be used to improve the quality of human life by soaking up pollution and dust from the air, rebuild natural habitats and ecosystems, mitigate global warming since forests facilitate biosequestration of atmospheric carbon dioxide, and harvest for resources, particularly timber.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PLANT_FOREST">
+			<Text>Plant Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST">
+			<Text>Plant a [LINK=IMPROVEMENT_PLANT_FOREST]Forest[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST_HELP">
+			<Text>Will Plant a Forest, replacing any Improvement or Feature on this tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST_REC">
+			<Text>Reforest the world!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANT_JUNGLE_TEXT">
+			<Text>Reforestation is the natural or intentional restocking of existing forests and woodlands that have been depleted, usually through deforestation.[1] Reforestation can be used to improve the quality of human life by soaking up pollution and dust from the air, rebuild natural habitats and ecosystems, mitigate global warming since forests facilitate biosequestration of atmospheric carbon dioxide, and harvest for resources, particularly timber.</Text>
+		</Row>
+		
+		<!--Neo-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_PLANT_JUNGLE">
+			<Text>Plant Jungle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JUNGLE">
+			<Text>Plant a [LINK=IMPROVEMENT_PLANT_FOREST]Jungle[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JUNGLE_HELP">
+			<Text>Will Plant a Jungle, replacing any Improvement or Feature on this tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JUNGLE_REC">
+			<Text>Rejungle the world!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

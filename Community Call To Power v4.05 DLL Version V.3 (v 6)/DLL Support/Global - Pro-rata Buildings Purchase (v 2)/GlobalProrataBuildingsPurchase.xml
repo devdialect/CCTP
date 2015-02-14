@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="BUILDINGS_PRO_RATA_PURCHASE"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="BUILDINGS_PRO_RATA_PURCHASE_DEPRECIATION"/>
+			<Set Value="80"/>
+		</Update>
+	</CustomModOptions>
+</GameData>

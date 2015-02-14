@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/17/2014 11:04:46 PM -->
+<GameData>
+	<!--<<<<<<<<<<[BuildingClassFaithPurchase]>>>>>>>>>>-->
+	<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_INQUISATION</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_INQUISATION</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATURHEILIGTUM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_NATURHEILIGTUM</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_REGSCHOOL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_RELIGIONSSCHULE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MAMMON</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MAMMON</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ISHTAR</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_LIEBE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ZIRKURAT</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ZIRKURAT</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_BESTATTUNGEN</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BESTATTUNGEN</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_JUSTICIA</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_JUSTICIA</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FANATISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FANATISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARMORY</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FANATISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MILITARY_ACADEMY</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FANATISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARSENAL</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FANATISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FANATISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FANATISM</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WACHTURM</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

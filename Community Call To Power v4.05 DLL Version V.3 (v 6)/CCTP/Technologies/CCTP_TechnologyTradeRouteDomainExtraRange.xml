@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/21/2014 9:58:02 PM -->
+<GameData>
+	
+	
+<!--*******Belief_SpecialistYieldChanges********works!!!-->
+<Technology_TradeRouteDomainExtraRange>
+<Delete/>
+	<!--*****Vanilla*****-->
+<Row>
+	<TechType>TECH_COMPASS</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Range>10</Range>
+</Row>
+<Row>
+	<TechType>TECH_REFRIGERATION</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Range>10</Range>
+</Row>
+<Row>
+	<TechType>TECH_COMBUSTION</TechType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Range>10</Range>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_VERTICAL_INTEGRATION</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Range>10</Range>
+</Row>
+<Row>
+	<TechType>TECH_VERTICAL_INTEGRATION</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Range>10</Range>
+</Row>
+<Row>
+	<TechType>TECH_VERTICAL_INTEGRATION</TechType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Range>10</Range>
+</Row>
+	<!--*****Next*****-->
+	<!--*****Next*****-->
+<Row>
+	<TechType>TECH_PLANETARY_ECONOMICS</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Range>10</Range>
+</Row>
+<Row>
+	<TechType>TECH_PLANETARY_ECONOMICS</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Range>10</Range>
+</Row>
+<Row>
+	<TechType>TECH_PLANETARY_ECONOMICS</TechType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Range>10</Range>
+</Row>
+	<!--*****Next*****-->
+	<!--*****Next*****-->
+</Technology_TradeRouteDomainExtraRange>
+ 
+  
+</GameData> 
+<!--Have a nice Day;=)-->

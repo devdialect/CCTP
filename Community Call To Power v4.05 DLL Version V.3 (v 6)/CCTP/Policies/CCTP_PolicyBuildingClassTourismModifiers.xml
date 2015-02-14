@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2014 7:49:48 PM -->
+<GameData>
+	
+<!--<<<<<<<<<<[Policy_BuildingClassTourismModifiers]>>>>>>>>>>-->
+<Policy_BuildingClassTourismModifiers>
+<!--<<<<<<<<<<[BELIEF_CONSUS]>>>>>>>>>>-->
+<Row>
+	<PolicyType>POLICY_CCTP132</PolicyType>
+	<BuildingClassType>BUILDINGCLASS_HOLOGRAM_THEATER</BuildingClassType>
+	<TourismModifier>50</TourismModifier>
+</Row>
+	
+<!--***|Next|***-->
+<Row>
+	<PolicyType>POLICY_CCTP132</PolicyType>
+	<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+	<TourismModifier>25</TourismModifier>
+</Row>
+<!--***|Next|***-->
+</Policy_BuildingClassTourismModifiers>	
+ <!--Have a nice Day;=)--> 
+</GameData>

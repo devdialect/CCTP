@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 08.02.2012 23:01:15 -->
+<GameData>
+	<!-- Wonders -->
+	<Resources>
+		<Update>
+			<Set WonderProductionMod="5"/>
+			<Where Type="RESOURCE_STONE"/>
+		</Update>
+		<!--Was 0-->
+		<Update>
+			<Set WonderProductionMod="5"/>
+			<Where Type="RESOURCE_JADE"/>
+		</Update>
+		<!--Was 0-->
+	</Resources>
+	<!-- Starting units -->
+	<Eras>
+		<Update>
+			<Where Type="ERA_PREHISTORIC"/>
+			<Set StartingExploreUnits="0"/>
+		</Update>
+		<Update>
+			<Where Type="ERA_PREHISTORIC"/>
+			<Set StartingWorkerUnits="0"/>
+		</Update>
+	</Eras>
+	<Eras>
+		<Update>
+			<Where Type="ERA_ANCIENT"/>
+			<Set StartingExploreUnits="1"/>
+		</Update>
+		<Update>
+			<Where Type="ERA_ANCIENT"/>
+			<Set StartingWorkerUnits="1"/>
+		</Update>
+	</Eras>
+	<!-- every player starts with a free technology -->
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_TREE"/>
+			<Set FreeTechs="0"/>
+		</Update>
+	</Buildings>
+	<!-- no instand heal -->
+	<UnitPromotions_UnitCombats>
+		<Delete PromotionType="PROMOTION_INSTA_HEAL"/>
+	</UnitPromotions_UnitCombats>
+
+	<Traits>
+		<Update>
+			<Where Type="TRAIT_CULTURE_FROM_KILLS" />
+			<Set PrereqTech="TECH_LEADERSHIP"/>
+		</Update>
+	</Traits>
+</GameData>

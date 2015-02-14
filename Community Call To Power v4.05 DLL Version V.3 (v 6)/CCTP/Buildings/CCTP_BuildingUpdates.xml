@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 8:31:27 PM -->
+<GameData>
+	<!--<<<<<<<<<<[Building updates]>>>>>>>>>>-->
+	<Buildings>
+		<!--<<<<<<<<<<[
+		<Update>
+			<Set  BuildingClass="BUILDINGCLASS_TREE" />
+			<Where Type="BUILDINGCLASS_PALACE" />
+		</Update>]>>>>>>>>>>-->
+		<!--<<<<<<<<<<[]>>>>>>>>>>
+		<Update>
+			<Set Flavor="250" />
+			<Where Type="BUILDINGCLASS_PALACE" FlavorType="FLAVOR_CULTURE"/>
+		</Update>
+		<Update>
+			<Set Flavor="250" />
+			<Where Type="BUILDINGCLASS_PALACE" FlavorType="FLAVOR_PRODUCTION"/>
+		</Update>
+		<Update>
+			<Set Flavor="250" />
+			<Where Type="BUILDINGCLASS_PALACE" FlavorType="FLAVOR_SCIENCE"/>
+		</Update>
+		<Update>
+			<Set Flavor="250" />
+			<Where Type="BUILDINGCLASS_PALACE" FlavorType="FLAVOR_EXPANSION"/>
+		</Update>-->
+
+
+
+
+		<Update>
+			<Where Type="BUILDING_WALLS" />
+			<Set Happiness="1" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_CASTLE" />
+			<Set Happiness="1"   />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_MUGHAL_FORT" />
+			<Set Happiness="1"  />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_MILITARY_BASE" />
+			<Set Happiness="1"   />
+		</Update>
+		<Update>
+			<Set GoldMaintenance="25" Cost="1000" PrereqTech="TECH_TELEPHONE"/>
+			<Where Type="BUILDING_INTELLIGENCE_AGENCY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="1175" PrereqTech="TECH_AUTOMATA"/>
+			<Where Type="BUILDING_MILITARY_BASE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="5" Cost="1000" GreatPeopleRateChange="0" SpecialistType="SPECIALIST_ARTIST" SpecialistCount="2"/>
+			<Where Type="BUILDING_MUSEUM"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="100" Cost="7000" GreatPeopleRateChange="3"  PrereqTech="TECH_SPACE_RESEARCH" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_HUBBLE"/>
+		</Update>
+		<!-- BNW-->
+		<Update>
+			<Set GoldMaintenance="5" Cost="850"  PrereqTech="TECH_CRIMINOLOGY"/>
+			<Where Type="BUILDING_POLICE_STATION"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="5" Cost="1150" SpecialistType="SPECIALIST_GUIDE" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_TOURIST_CENTER"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="210" />
+			<Where Type="BUILDING_IKANDA"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="250" />
+			<Where Type="BUILDING_ROYAL_LIBRARY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="1" Cost="215" />
+			<Where Type="BUILDING_DUCAL_STABLE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="400" />
+			<Where Type="BUILDING_CANDI"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="335" />
+			<Where Type="BUILDING_WRITERS_GUILD"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="720" />
+			<Where Type="BUILDING_ARTISTS_GUILD"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="4" Cost="720" />
+			<Where Type="BUILDING_MUSICIANS_GUILD"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="4" Cost="850" PrereqTech="TECH_EXPLORATIONX" SpecialistType="SPECIALIST_GUIDE" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_HOTEL"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="1" Cost="335" PrereqTech="TECH_CARAVAN_TRAIN"/>
+			<Where Type="BUILDING_CARAVANSARY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="14" Cost="1200" PrereqTech="TECH_MASS_TRANSIT"/>
+			<Where Type="BUILDING_AIRPORT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="1475" PrereqTech="TECH_AESTHETICS" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_UFFIZI"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="1500" PrereqTech="TECH_ROMANTICISM" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_GLOBE_THEATER"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="3000" PrereqTech="TECH_MOTION_PICTURES" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_BROADWAY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="1200" PrereqTech="TECH_CHROM" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_RED_FORT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="3000" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_GUIDE" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_PRORA_RESORT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="850" PrereqTech="TECH_RELIGIOUS_STUDIES" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_PRIEST" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_BOROBUDUR"/>
+		</Update>
+
+		<Update>
+			<Set  Cost="975" PrereqTech="TECH_SOCIAL_CLASSES" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_ANGKOR_WAT"/>
+		</Update>
+		<Update>
+			<Set  Cost="975" PrereqTech="TECH_NATIONALISM"/>
+			<Where Type="BUILDING_HERMITAGE"/>
+		</Update>
+
+
+		<Update>
+			<Set GoldMaintenance="0" Cost="540" PrereqTech="TECH_CALCULUS" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_PARTHENON"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="5" Cost="575" PrereqTech="TECH_AGRICULTURAL_ENGINEERING" BuildingProductionModifier="0" GreatPeopleRateChange="0" SpecialistCount="1"/>
+			<Where Type="BUILDING_WINDMILL"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="5" Cost="575" PrereqTech="TECH_AGRICULTURAL_REVOLUTION" BuildingProductionModifier="0" GreatPeopleRateChange="0" SpecialistCount="1"/>
+			<Where Type="BUILDING_COFFEE_HOUSE"/>
+		</Update>
+		<Update>
+			<Set Cost="720" GreatPeopleRateChange="0" SpecialistCount="2"/>
+			<Where Type="BUILDING_BANK"/>
+		</Update>
+		<Update>
+			<Set Cost="750" PrereqTech="TECH_SIEGE_WARFARE" />
+			<Where Type="HEROIC_EPIC"/>
+		</Update>
+		<Update>
+			<Set Cost="720" GreatPeopleRateChange="0" SpecialistCount="2"/>
+			<Where Type="BUILDING_SATRAPS_COURT"/>
+		</Update>
+		<Update>
+			<Set Cost="720" PrereqTech="TECH_CONSTITUTION" />
+			<Where Type="BUILDING_CONSTABLE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="575" SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="1" />
+			<Where Type="BUILDING_FORGE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="540" PrereqTech="TECH_LITERATURE" Happiness="1"/>
+			<Where Type="BUILDING_GARDEN"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="540" SpecialistCount ="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_HARBOR"/>
+		</Update>
+		<Update>
+			<Set Cost="970" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_PRIEST" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_MOSQUE_OF_DJENNE"/>
+		</Update>
+		<Update>
+			<Set Cost="540" />
+			<Where Type="BUILDING_MUGHAL_FORT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="540" GreatPeopleRateChange="0" SpecialistType="SPECIALIST_MUSICIAN" SpecialistCount="1"/>
+			<Where Type="BUILDING_OPERA_HOUSE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="540" GreatPeopleRateChange="0" SpecialistCount="1"/>
+			<Where Type="BUILDING_CEILIDH_HALL"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="6" Cost="610" PrereqTech="TECH_DRAMA" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0" Happiness="3"/>
+			<Where Type="BUILDING_THEATRE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="380" PrereqTech="TECH_DIVISION_OF_LABOR" GreatPeopleRateChange="0" SpecialistCount="1"/>
+			<Where Type="BUILDING_WORKSHOP"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="540" ConquestProb="50" FoodKept="10" River="True" SpecialistType="SPECIALIST_ENGINEER" GreatPeopleRateChange="0" PrereqTech="TECH_SANITARY_ENGINEERING"/>
+			<Where Type="BUILDING_AQUEDUCT" />
+		</Update>
+		<Update>
+			<Set GoldMaintenance="3" Cost="610" PrereqTech="TECH_SIEGE_ENGINES"/>
+			<Where Type="BUILDING_ARMORY"/>
+		</Update>
+		<Update>
+			<Set Cost="540" />
+			<Where Type="BUILDING_CASTLE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="300" />
+			<Where Type="BUILDING_STABLE"/>
+		</Update>
+		<Update>
+			<Set Cost="300" PrereqTech="TECH_PHILOSOPHY" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_AMPHITHEATER"/>
+		</Update>
+		<Update>
+			<Set Cost="275" Happiness="2" PrereqTech="TECH_PRIESTHOOD" />
+			<Where Type="BUILDING_BURIAL_TOMB"/>
+		</Update>
+		<Update>
+			<Set Cost="275" PrereqTech="TECH_PRIESTHOOD" Happiness="0"  />
+			<Where Type="BUILDING_MUD_PYRAMID_MOSQUE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="275" Happiness="0" PrereqTech="TECH_PRIESTHOOD" SpecialistType="SPECIALIST_PRIEST" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_TEMPLE"/>
+		</Update>
+		<Update>
+			<Set  Cost="925" PrereqTech="TECH_RELIGIOUS_STUDIES" LandmarksTourismPercent="25" GreatWorksTourismModifier="25" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"  SpecialistType="SPECIALIST_PRIEST" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_GRAND_TEMPLE"/>
+		</Update>
+		<Update>
+
+			<Set GoldMaintenance="4" Cost="380" Happiness="3" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_COLOSSEUM"/>
+		</Update>
+		<Update>
+			<Set Cost="380" PrereqTech="TECH_CODE_OF_LAWS" GoldMaintenance="6" SpecialistType="SPECIALIST_JUDGE" SpecialistCount="1" GreatPeopleRateChange="2"/>
+			<Where Type="BUILDING_COURTHOUSE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="300" GreatPeopleRateChange="0" SpecialistCount="1" SpecialistType="SPECIALIST_ENGINEER" />
+			<Where Type="BUILDING_FLOATING_GARDENS"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="300" GreatPeopleRateChange="0" SpecialistCount="1" SpecialistType="SPECIALIST_SCIENTIST"/>
+			<Where Type="BUILDING_LIBRARY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="350" SpecialistType="SPECIALIST_MERCHANT" SpecialistCount ="0" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_LIGHTHOUSE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="380" PrereqTech="TECH_DIVISION_OF_LABOR" GreatPeopleRateChange="0" SpecialistCount="1"/>
+			<Where Type="BUILDING_LONGHOUSE"/>
+		</Update>
+		<Update>
+			<Set Cost="300" SpecialistType="SPECIALIST_MERCHANT" SpecialistCount="1" GreatPeopleRateChange="0" Happiness="1"/>
+			<Where Type="BUILDING_MINT"/>
+		</Update>
+		<Update>
+			<Set Cost="300" GreatPeopleRateChange="0" SpecialistType="SPECIALIST_SCIENTIST" SpecialistCount="1"/>
+			<Where Type="BUILDING_PAPER_MAKER"/>
+		</Update>
+		<Update>
+			<Set Cost="80" PrereqTech="TECH_MYSTICISM" />
+			<Where Type="BUILDING_MAYA_PYRAMID"/>
+		</Update>
+		<Update>
+			<Set Cost="150" PrereqTech="TECH_PIETY" />
+			<Where Type="BUILDING_SHRINE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="220" SpecialistType="SPECIALIST_ENGINEER" GreatPeopleRateChange="0" SpecialistCount="0" Happiness="1" PrereqTech="TECH_MASONRY"/>
+			<Where Type="BUILDING_STONE_WORKS"/>
+		</Update>
+		<Update>
+			<Set Cost="220" />
+			<Where Type="BUILDING_WALLS"/>
+		</Update>
+		<Update>
+			<Set Cost="220" />
+			<Where Type="BUILDING_WALLS_OF_BABYLON"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="230" GreatPeopleRateChange="1" SpecialistCount="1" SpecialistType="SPECIALIST_ENGINEER"/>
+			<Where Type="BUILDING_WATERMILL"/>
+		</Update>
+		<Update>
+			<Set FoodKept="10" GoldMaintenance="2" Cost="175"/>
+			<Where Type="BUILDING_GRANARY" />
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="140" />
+			<Where Type="BUILDING_KREPOST"/>
+		</Update>
+		<Update>
+			<Set Cost="180" PrereqTech="TECH_TRADING" GreatPeopleRateChange="1" SpecialistCount="1" />
+			<Where Type="BUILDING_MARKET"/>
+		</Update>
+		<Update>
+			<Set Cost="180" GoldMaintenance="0" PrereqTech="TECH_PROMETHEUS"/>
+			<Where Type="BUILDING_MONUMENT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="160" PrereqTech="TECH_FOLKLORE" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_CIRCUS"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="2" Cost="235" PrereqTech="TECH_MILITARY_TRAINING"/>
+			<Where Type="BUILDING_BARRACKS"/>
+		</Update>
+		<Update>
+			<Set Cost="180" PrereqTech="TECH_TRADING" SpecialistCount="1" GreatPeopleRateChange="1" />
+			<Where Type="BUILDING_BAZAAR"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="15" Cost="1175" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_BROADCAST_TOWER"/>
+		</Update>
+		<Update>
+			<Set Cost="1235" GoldMaintenance="40" PrereqTech="TECH_RECYCLING"/>
+			<Where Type="BUILDING_RECYCLING_CENTER"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="15" Cost="1275" PrereqTech="TECH_BOMBARDMENT"/>
+			<Where Type="BUILDING_BOMB_SHELTER"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="20" Cost="1275" SpecialistCount="2" GreatPeopleRateChange="2" PrereqTech="TECH_EINSTEIN"/>
+			<Where Type="BUILDING_LABORATORY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="20" Cost="1175" PrereqTech="TECH_MASS_MEDIA" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0" Happiness="5"/>
+			<Where Type="BUILDING_STADIUM"/>
+		</Update>
+		<Update>
+			<Set Cost="1050" PrereqTech="TECH_CORPORATIONS" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_STOCK_EXCHANGE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="50" Cost="1925" SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="2"/>
+			<Where Type="BUILDING_NUCLEAR_PLANT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="25" Cost="1800" PrereqTech="TECH_SOLAR_POWER" SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="2"/>
+			<Where Type="BUILDING_SOLAR_PLANT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="200" Cost="3600" SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="3"/>
+			<Where Type="BUILDING_SPACESHIP_FACTORY"/>
+		</Update>
+		<Update>
+			<Set Cost="400" PrereqTech="TECH_MEDITATION" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_MAUSOLEUM_HALICARNASSUS" />
+		</Update>
+
+
+
+
+		<Update>
+			<Set Cost="4000" PrereqTech="TECH_COMPUTERS" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" />
+			<Where Type="BUILDING_GREAT_FIREWALL"/>
+		</Update>
+
+
+		<Update>
+			<Set Cost="1400"  GreatPeopleRateChange="1" SpecialistCount="1" UnmoddedHappiness="2" PrereqTech="TECH_EVANGELISM" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_MACHU_PICHU"/>
+		</Update>
+		<Update>
+			<Set Cost="1450" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_LEANING_TOWER"/>
+		</Update>
+		<Update>
+			<Set Cost="1850" PrereqTech="TECH_PHOTOGRAPHY" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" />
+			<Where Type="BUILDING_NEUSCHWANSTEIN"/>
+		</Update>
+		<Update>
+			<Set Cost="1475" UnmoddedHappiness="8" PrereqTech="TECH_REFORMATION" SpecialistType="SPECIALIST_ARTIST" GreatPeopleRateChange="3" SpecialistCount="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_NOTRE_DAME"/>
+		</Update>
+		<Update>
+			<Set Cost="1900" PrereqTech="TECH_TELEPHONE" SpecialistType="SPECIALIST_ENGINEER" GreatPeopleRateChange="3" SpecialistCount="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_PENTAGON"/>
+		</Update>
+		<Update>
+			<Set Cost="540" SpecialistType="SPECIALIST_ENGINEER" GreatPeopleRateChange="1" SpecialistCount="0" FreeBuildingThisCity="NULL" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_PETRA"/>
+		</Update>
+		<Update>
+			<Set Cost="970" GlobalCultureRateModifier="0" GreatPeopleRateChange="1" PrereqTech="TECH_SACRED_ART" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_SISTINE_CHAPEL"/>
+		</Update>
+		<Update>
+			<Set Cost="1900" SpecialistCount="2" GreatPeopleRateChange="4" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_STATUE_OF_LIBERTY"/>
+		</Update>
+		<Update>
+			<Set Cost="415" PrereqTech="TECH_MONARCHY" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_STATUE_ZEUS"/>
+		</Update>
+		<Update>
+			<Set Cost="420" EnhancedYieldTech="TECH_TOURISTIC" PrereqTech="TECH_LUNAR" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_STONEHENGE"/>
+		</Update>
+		<Update>
+			<Set Cost="3400" PrereqTech="TECH_MASS_MEDIA" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_SYDNEY_OPERA_HOUSE"/>
+		</Update>
+		<Update>
+			<Set Cost="970" PrereqTech="TECH_FUNDAMENTALISM" GreatPeopleRateChange="0" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_INTELLECTUAL" SpecialistCount="1"/>
+			<Where Type="BUILDING_TAJ_MAHAL"/>
+		</Update>
+		<Update>
+			<Set Cost="540" SpecialistCount="2" GreatPeopleRateChange="1" PrereqTech="TECH_PUBLIC_WORKS" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_TERRACOTTA_ARMY"/>
+		</Update>
+		<Update>
+			<Set Cost="540" PrereqTech="TECH_CITY_PLANNING" ObsoleteTech="NULL" SpecialistCount="0" GreatPeopleRateChange="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_COLOSSUS"/>
+		</Update>
+		<Update>
+			<Set Cost="1475" SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="0" GreatPeopleRateChange="1" UnhappinessModifier="0" CityCountUnhappinessMod="0" UnmoddedHappiness="10" PrereqTech="TECH_NATIONALISM" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_FORBIDDEN_PALACE"/>
+		</Update>
+		<Update>
+			<Set Cost="540" SpecialistCount="2" GreatPeopleRateChange="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_GREAT_LIBRARY"/>
+		</Update>
+		<Update>
+			<Set Cost="540" GreatPeopleRateChange="4" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_GREAT_LIGHTHOUSE"/>
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_MILITARY_ENGINEERING" SpecialistCount="1" GreatPeopleRateChange="3" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_GREAT_WALL"/>
+		</Update>
+		<Update>
+			<Set Cost="1200" PrereqTech="TECH_CRUSADE" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_ALHAMBRA" />
+		</Update>
+		<Update>
+			<Set Cost="970" FreeGreatPeople="0" SpecialistType="SPECIALIST_PRIEST" SpecialistCount="2"/>
+			<Where Type="BUILDING_HAGIA_SOPHIA"/>
+		</Update>
+		<Update>
+			<Set Cost="540" PrereqTech="TECH_CODE_OF_LAWS" UnmoddedHappiness="2" GreatPeopleRateChange="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_HANGING_GARDEN"/>
+		</Update>
+		<Update>
+			<Set Cost="985" PrereqTech="TECH_FEUDALISM" GreatPeopleRateChange="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_KREMLIN"/>
+		</Update>
+		<Update>
+			<Set Cost="1850" PrereqTech="TECH_NATIONAL_ARTS" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_LOUVRE"/>
+		</Update>
+		<Update>
+			<Set Cost="520" GreatPeopleRateChange="0" PrereqTech="TECH_CONSULATES" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_INTELLECTUAL" SpecialistCount="1"/>
+			<Where Type="BUILDING_ORACLE"/>
+		</Update>
+		<Update>
+			<Set Cost="1475" PrereqTech="TECH_SULFUR" GreatPeopleRateChange="2" SpecialistCount="2" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_PORCELAIN_TOWER"/>
+		</Update>
+		<Update>
+			<Set Cost="420" GreatPeopleRateChange="2" SpecialistCount="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_PYRAMID"/>
+		</Update>
+		<Update>
+			<Set Cost="-1"/>
+			<Where Type="BUILDING_UNITED_NATIONS"/>
+		</Update>
+		<Update>
+			<Set Cost="450" PrereqTech="TECH_MAXIMUS" UnmoddedHappiness="10" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_CIRCUS_MAXIMUS"/>
+		</Update>
+		<Update>
+			<Set Cost="3750" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1" SpecialistType="SPECIALIST_ENTERTAINER" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_CN_TOWER"/>
+		</Update>
+		<Update>
+			<Set Cost="550" PrereqTech="TECH_HEROISM" />
+			<Where Type="BUILDING_HEROIC_EPIC"/>
+		</Update>
+		<Update>
+			<Set Cost="900" PrereqTech="TECH_METAL_CASTING" SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="2" />
+			<Where Type="BUILDING_IRONWORKS"/>
+		</Update>
+		<Update>
+			<Set Cost="1400" SpecialistCount="2" SpecialistType="SPECIALIST_MERCHANT"/>
+			<Where Type="BUILDING_NATIONAL_TREASURY"/>
+		</Update>
+		<Update>
+			<Set Cost="1325" PrereqTech="TECH_PSYCHOLOGY" SpecialistType="SPECIALIST_SCIENTIST" SpecialistCount="2" GreatPeopleRateChange="4" />
+			<Where Type="BUILDING_OXFORD_UNIVERSITY"/>
+		</Update>
+		<Update>
+			<Set Cost="1425" PrereqTech="TECH_MACHINERY" GreatPeopleRateChange="3" SpecialistCount="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_BIG_BEN"/>
+		</Update>
+		<Update>
+			<Set Cost="1425" PrereqTech="TECH_MILITARY_TRADITION" SpecialistCount="1" GreatPeopleRateChange="3" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_BRANDENBURG_GATE"/>
+		</Update>
+		<Update>
+			<Set Cost="1200" GreatPeopleRateChange="3" SpecialistCount="1" Happiness="2" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_CHICHEN_ITZA"/>
+		</Update>
+		<Update>
+			<Set Cost="1825" SpecialistCount="1" GreatPeopleRateChange="3" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_CRISTO_REDENTOR"/>
+		</Update>
+		<Update>
+			<Set Cost="1900" PrereqTech="TECH_AUTOMATA" UnmoddedHappiness="6" GreatPeopleRateChange="1" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_EIFFEL_TOWER"/>
+		</Update>
+		<Update>
+			<Set Cost="1200" EnhancedYieldTech="TECH_TOURISTIC" TechEnhancedTourism="1"/>
+			<Where Type="BUILDING_HIMEJI_CASTLE"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="15" Cost="1100" Happiness="3" FoodKept="10" SpecialistType="SPECIALIST_DOCTOR" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_HOSPITAL"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="20" Cost="1250" SpecialistType="SPECIALIST_DOCTOR" SpecialistCount="2" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_MEDICAL_LAB"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="10" Cost="1050" PrereqTech="TECH_ENERGY_BUILDINGS" SpecialistType="SPECIALIST_ENERGY" SpecialistCount="1" GreatPeopleRateChange="1"/>
+			<Where Type="BUILDING_HYDRO_PLANT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="15" Cost="1050" GreatPeopleRateChange="1"/>
+			<Where Type="BUILDING_FACTORY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="1050" PrereqTech="TECH_REPLACEABLE_PARTS" SpecialistType="SPECIALIST_ENGINEER" SpecialistCount="1"/>
+			<Where Type="BUILDING_ARSENAL"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="0" Cost="720" SpecialistType="SPECIALIST_MERCHANT" SpecialistCount="1" PrereqTech="TECH_OCEAN_PIONEERING"/>
+			<Where Type="BUILDING_SEAPORT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="6" Cost="720" SpecialistCount="2" GreatPeopleRateChange="2" />
+			<Where Type="BUILDING_UNIVERSITY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="6" Cost="720" SpecialistCount="2" GreatPeopleRateChange="1" Help="TXT_KEY_BUILDING_WAT_HELP" Strategy="TXT_KEY_BUILDING_WAT_STRATEGY"/>
+			<Where Type="BUILDING_WAT"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="8" Cost="840" GreatPeopleRateChange="2" SpecialistCount="1"/>
+			<Where Type="BUILDING_PUBLIC_SCHOOL"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="6" Cost="720" NearbyMountainRequired="true" SpecialistType="SPECIALIST_SCIENTIST" SpecialistCount="1" />
+			<Where Type="BUILDING_OBSERVATORY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="8" Cost="800" />
+			<Where Type="BUILDING_MILITARY_ACADEMY"/>
+		</Update>
+		<Update>
+			<Set GoldMaintenance="8" Cost="430" FoodKept="15" SpecialistType="SPECIALIST_DOCTOR" SpecialistCount="1" GreatPeopleRateChange="0"/>
+			<Where Type="BUILDING_TEMPLE_ARTEMIS"/>
+		</Update>
+	</Buildings>
+	<!--Have a nice Day:=)-->
+</GameData>

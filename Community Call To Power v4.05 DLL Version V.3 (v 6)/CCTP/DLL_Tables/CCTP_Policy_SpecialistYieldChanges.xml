@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 2:47:57 PM -->
+<GameData>
+
+	
+<!--*******Policy_SpecialistYieldChanges********works!!!-->
+<Policy_SpecialistYieldChanges>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP163</PolicyType>
+	<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP165</PolicyType>
+	<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+	<!--<Row>
+	<PolicyType>POLICY_CCTP167</PolicyType>
+	<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<Row>
+	<PolicyType>POLICY_CCTP205</PolicyType>
+	<SpecialistType>SPECIALIST_ENTERTAINER</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+<Row>
+	<PolicyType>POLICY_CCTP205</PolicyType>
+	<SpecialistType>SPECIALIST_ENTERTAINER</SpecialistType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<!--***Next***-->
+</Policy_SpecialistYieldChanges>
+  
+  
+</GameData>
+<!--Have a nice Day;=)-->
+  

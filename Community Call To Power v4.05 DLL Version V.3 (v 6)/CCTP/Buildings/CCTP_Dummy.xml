@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/17/2014 8:18:39 AM -->
+<GameData><!--<<<<<<<<<<[CCTP*DUMMY]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[Building Classes]>>>>>>>>>>-->
+<BuildingClasses>
+
+	<!--<<<<<<<<<<[CCTPDUMMY1]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY1</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY1</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY1</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY2]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY2</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY2</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY2</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY3]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY3</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY3</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY3</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY4]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY4</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY4</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY4</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY5]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY5</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY5</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY5</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY6]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY6</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY6</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY6</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[_CCTPDUMMY7]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY7</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY7</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY7</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY8]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY8</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY8</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY8</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY9]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPDUMMY9</Type>
+		<DefaultBuilding>BUILDING_CCTPDUMMY9</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPDUMMYY9</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPDUMMY1]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB1</Type>
+		<DefaultBuilding>BUILDING_CCTPPB1</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB1</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB2</Type>
+		<DefaultBuilding>BUILDING_CCTPPB2</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB2</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB3</Type>
+		<DefaultBuilding>BUILDING_CCTPPB3</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB3</Description>
+	</Row>
+	
+	
+	<!--<<<<<<<<<<[CCTPPB4]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB4</Type>
+		<DefaultBuilding>BUILDING_CCTPPB4</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB4</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB5]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB5</Type>
+		<DefaultBuilding>BUILDING_CCTPPB5</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB5</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB6]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB6</Type>
+		<DefaultBuilding>BUILDING_CCTPPB6</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB6</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB7]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB7</Type>
+		<DefaultBuilding>BUILDING_CCTPPB7</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB7</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB8]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB8</Type>
+		<DefaultBuilding>BUILDING_CCTPPB8</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB8</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB9]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB9</Type>
+		<DefaultBuilding>BUILDING_CCTPPB9</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB9</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB10]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB10</Type>
+		<DefaultBuilding>BUILDING_CCTPPB10</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB10</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB11]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB11</Type>
+		<DefaultBuilding>BUILDING_CCTPPB11</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB11</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB12]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB12</Type>
+		<DefaultBuilding>BUILDING_CCTPPB12</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB12</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB13]>>>>>>>>>>-->
+	<Row>
+	     <Type>BUILDINGCLASS_CCTPPB13</Type>
+		<DefaultBuilding>BUILDING_CCTPPB13</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB13</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB13]>>>>>>>>>>-->
+	<Row>	
+	     <Type>BUILDINGCLASS_CCTPPB14</Type>
+         <DefaultBuilding>BUILDING_CCTPPB14</DefaultBuilding>
+	     <Description>TXT_KEY_BUILDING_CCTPPB14</Description>
+	</Row>
+	
+	
+	<Row>	<!--<<<<<<<<<<[CCTPPB15]>>>>>>>>>>-->
+	<Type>BUILDINGCLASS_CCTPPB15</Type>
+	<DefaultBuilding>BUILDING_CCTPPB15</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CCTPPB15</Description>
+	</Row>
+
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB16</Type>
+		<DefaultBuilding>BUILDING_CCTPPB16</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB16</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB16]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_CCTPPB17</Type>
+	<DefaultBuilding>BUILDING_CCTPPB17</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CCTPPB17</Description>
+</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB17]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB18</Type>
+		<DefaultBuilding>BUILDING_CCTPPB18</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB18</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB18]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB19</Type>
+		<DefaultBuilding>BUILDING_CCTPPB19</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB19</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[CCTPPB19]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB20</Type>
+		<DefaultBuilding>BUILDING_CCTPPB20</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB20</Description>
+	</Row>
+	
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB20]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB21</Type>
+		<DefaultBuilding>BUILDING_CCTPPB21</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB21</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB21]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB22</Type>
+		<DefaultBuilding>BUILDING_CCTPPB22</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB22</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB22]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB23</Type>
+		<DefaultBuilding>BUILDING_CCTPPB23</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB23</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB23]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB24</Type>
+		<DefaultBuilding>BUILDING_CCTPPB24</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB24</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB24]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB25</Type>
+		<DefaultBuilding>BUILDING_CCTPPB25</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB25</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB25]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB26</Type>
+		<DefaultBuilding>BUILDING_CCTPPB26</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB26</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<CCTPPB26[]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB27</Type>
+		<DefaultBuilding>BUILDING_CCTPPB27</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB27</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB27]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB28</Type>
+		<DefaultBuilding>BUILDING_CCTPPB28</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB28</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB28]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB29</Type>
+		<DefaultBuilding>BUILDING_CCTPPB29</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB29</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB29]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB30</Type>
+		<DefaultBuilding>BUILDING_CCTPPB30</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB30</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB30]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB31</Type>
+		<DefaultBuilding>BUILDING_CCTPPB31</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB31</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB31]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB32</Type>
+		<DefaultBuilding>BUILDING_CCTPPB32</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB32</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<CCTPPB32[]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB33</Type>
+		<DefaultBuilding>BUILDING_CCTPPB33</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB33</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB33]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB34</Type>
+		<DefaultBuilding>BUILDING_CCTPPB34</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB34</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB34]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB35</Type>
+		<DefaultBuilding>BUILDING_CCTPPB35</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB35</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB35]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB36</Type>
+		<DefaultBuilding>BUILDING_CCTPPB36</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB36</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB36]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB37</Type>
+		<DefaultBuilding>BUILDING_CCTPPB37</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB37</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB38]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB38</Type>
+		<DefaultBuilding>BUILDING_CCTPPB38</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB38</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB39]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB39</Type>
+		<DefaultBuilding>BUILDING_CCTPPB39</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB39</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB40]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB40</Type>
+		<DefaultBuilding>BUILDING_CCTPPB40</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB40</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB41]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB41</Type>
+		<DefaultBuilding>BUILDING_CCTPPB41</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB41</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB42]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB42</Type>
+		<DefaultBuilding>BUILDING_CCTPPB42</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB42</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB43]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB43</Type>
+		<DefaultBuilding>BUILDING_CCTPPB43</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB43</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB44]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB44</Type>
+		<DefaultBuilding>BUILDING_CCTPPB44</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB44</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB44]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB45</Type>
+		<DefaultBuilding>BUILDING_CCTPPB45</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB45</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB44]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB46</Type>
+		<DefaultBuilding>BUILDING_CCTPPB46</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB46</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB47]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB47</Type>
+		<DefaultBuilding>BUILDING_CCTPPB47</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB47</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB48]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB48</Type>
+		<DefaultBuilding>BUILDING_CCTPPB48</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB48</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB49]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB49</Type>
+		<DefaultBuilding>BUILDING_CCTPPB49</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB49</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB50]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB50</Type>
+		<DefaultBuilding>BUILDING_CCTPPB50</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB50</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB51]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB51</Type>
+		<DefaultBuilding>BUILDING_CCTPPB51</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB51</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB52]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB52</Type>
+		<DefaultBuilding>BUILDING_CCTPPB52</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB52</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB53]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB53</Type>
+		<DefaultBuilding>BUILDING_CCTPPB53</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB53</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB54]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB54</Type>
+		<DefaultBuilding>BUILDING_CCTPPB54</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB54</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB55]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB55</Type>
+		<DefaultBuilding>BUILDING_CCTPPB55</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB55</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB56]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB56</Type>
+		<DefaultBuilding>BUILDING_CCTPPB56</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB56</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB57]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB57</Type>
+		<DefaultBuilding>BUILDING_CCTPPB57</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB57</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB58]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB58</Type>
+		<DefaultBuilding>BUILDING_CCTPPB58</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB58</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB59]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB59</Type>
+		<DefaultBuilding>BUILDING_CCTPPB59</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB59</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB60]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB60</Type>
+		<DefaultBuilding>BUILDING_CCTPPB60</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB60</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB61]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB61</Type>
+		<DefaultBuilding>BUILDING_CCTPPB61</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB61</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB62]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB62</Type>
+		<DefaultBuilding>BUILDING_CCTPPB62</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB62</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB63]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB63</Type>
+		<DefaultBuilding>BUILDING_CCTPPB63</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB63</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB64]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB64</Type>
+		<DefaultBuilding>BUILDING_CCTPPB64</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB64</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB65]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB65</Type>
+		<DefaultBuilding>BUILDING_CCTPPB65</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB65</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB66]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB66</Type>
+		<DefaultBuilding>BUILDING_CCTPPB66</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB66</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB67]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB67</Type>
+		<DefaultBuilding>BUILDING_CCTPPB67</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB67</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB68]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB68</Type>
+		<DefaultBuilding>BUILDING_CCTPPB68</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB68</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB69]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB69</Type>
+		<DefaultBuilding>BUILDING_CCTPPB69</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB69</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB70]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB70</Type>
+		<DefaultBuilding>BUILDING_CCTPPB70</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB70</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB71]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB71</Type>
+		<DefaultBuilding>BUILDING_CCTPPB71</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB71</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB72]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB72</Type>
+		<DefaultBuilding>BUILDING_CCTPPB72</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB72</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB73]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB73</Type>
+		<DefaultBuilding>BUILDING_CCTPPB73</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB73</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB74]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB74</Type>
+		<DefaultBuilding>BUILDING_CCTPPB74</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB74</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB75]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB75</Type>
+		<DefaultBuilding>BUILDING_CCTPPB75</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB75</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB76]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB76</Type>
+		<DefaultBuilding>BUILDING_CCTPPB76</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB76</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB77]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB77</Type>
+		<DefaultBuilding>BUILDING_CCTPPB77</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB77</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB78]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB78</Type>
+		<DefaultBuilding>BUILDING_CCTPPB78</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB78</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB79]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB79</Type>
+		<DefaultBuilding>BUILDING_CCTPPB79</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB79</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB80]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB80</Type>
+		<DefaultBuilding>BUILDING_CCTPPB80</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB80</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB81]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB81</Type>
+		<DefaultBuilding>BUILDING_CCTPPB81</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB81</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB82]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB82</Type>
+		<DefaultBuilding>BUILDING_CCTPPB82</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB82</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB83]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB83</Type>
+		<DefaultBuilding>BUILDING_CCTPPB83</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB83</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB84]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB84</Type>
+		<DefaultBuilding>BUILDING_CCTPPB84</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB84</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB85]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB85</Type>
+		<DefaultBuilding>BUILDING_CCTPPB85</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB85</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB86]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB86</Type>
+		<DefaultBuilding>BUILDING_CCTPPB86</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB86</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB87]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB87</Type>
+		<DefaultBuilding>BUILDING_CCTPPB87</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB87</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB88]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB88</Type>
+		<DefaultBuilding>BUILDING_CCTPPB88</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB88</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB89]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB89</Type>
+		<DefaultBuilding>BUILDING_CCTPPB89</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB89</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB90]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB90</Type>
+		<DefaultBuilding>BUILDING_CCTPPB90</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB90</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB91]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB91</Type>
+		<DefaultBuilding>BUILDING_CCTPPB91</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB91</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB92]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB92</Type>
+		<DefaultBuilding>BUILDING_CCTPPB92</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB92</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB93]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB93</Type>
+		<DefaultBuilding>BUILDING_CCTPPB93</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB93</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB94]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB94</Type>
+		<DefaultBuilding>BUILDING_CCTPPB94</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB94</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB95]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB95</Type>
+		<DefaultBuilding>BUILDING_CCTPPB95</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB95</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB96]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB96</Type>
+		<DefaultBuilding>BUILDING_CCTPPB96</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB96</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB97]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB97</Type>
+		<DefaultBuilding>BUILDING_CCTPPB97</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB97</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB98]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB98</Type>
+		<DefaultBuilding>BUILDING_CCTPPB98</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB98</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB99]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB99</Type>
+		<DefaultBuilding>BUILDING_CCTPPB99</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB99</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB100]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB100</Type>
+		<DefaultBuilding>BUILDING_CCTPPB100</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB100</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB101]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB101</Type>
+		<DefaultBuilding>BUILDING_CCTPPB101</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB101</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB102]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB102</Type>
+		<DefaultBuilding>BUILDING_CCTPPB102</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB102</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB103]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB103</Type>
+		<DefaultBuilding>BUILDING_CCTPPB103</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB103</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB104]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB104</Type>
+		<DefaultBuilding>BUILDING_CCTPPB104</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB104</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB105]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB105</Type>
+		<DefaultBuilding>BUILDING_CCTPPB105</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB105</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB106]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB106</Type>
+		<DefaultBuilding>BUILDING_CCTPPB106</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB106</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB107]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB107</Type>
+		<DefaultBuilding>BUILDING_CCTPPB107</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB107</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB108]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB108</Type>
+		<DefaultBuilding>BUILDING_CCTPPB108</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB108</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB109]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB109</Type>
+		<DefaultBuilding>BUILDING_CCTPPB109</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB109</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB110]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB110</Type>
+		<DefaultBuilding>BUILDING_CCTPPB110</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB110</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB111]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB111</Type>
+		<DefaultBuilding>BUILDING_CCTPPB111</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB111</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB112]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB112</Type>
+		<DefaultBuilding>BUILDING_CCTPPB112</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB112</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB113]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB113</Type>
+		<DefaultBuilding>BUILDING_CCTPPB113</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB113</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB114]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB114</Type>
+		<DefaultBuilding>BUILDING_CCTPPB114</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB114</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB115]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB115</Type>
+		<DefaultBuilding>BUILDING_CCTPPB115</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB115</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB116]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB116</Type>
+		<DefaultBuilding>BUILDING_CCTPPB116</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB116</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB117]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB117</Type>
+		<DefaultBuilding>BUILDING_CCTPPB117</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB117</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB118]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB118</Type>
+		<DefaultBuilding>BUILDING_CCTPPB118</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB118</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB119]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB119</Type>
+		<DefaultBuilding>BUILDING_CCTPPB119</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB119</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB120]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB120</Type>
+		<DefaultBuilding>BUILDING_CCTPPB120</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB120</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB121]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB121</Type>
+		<DefaultBuilding>BUILDING_CCTPPB121</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB121</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB122]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB122</Type>
+		<DefaultBuilding>BUILDING_CCTPPB122</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB122</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB123]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB123</Type>
+		<DefaultBuilding>BUILDING_CCTPPB123</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB123</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB124]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB124</Type>
+		<DefaultBuilding>BUILDING_CCTPPB124</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB124</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB125]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB125</Type>
+		<DefaultBuilding>BUILDING_CCTPPB125</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB125</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB126]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB126</Type>
+		<DefaultBuilding>BUILDING_CCTPPB126</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB126</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB127]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB127</Type>
+		<DefaultBuilding>BUILDING_CCTPPB127</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB127</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB128]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB128</Type>
+		<DefaultBuilding>BUILDING_CCTPPB128</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB128</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB129]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB129</Type>
+		<DefaultBuilding>BUILDING_CCTPPB129</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB129</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB130]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB130</Type>
+		<DefaultBuilding>BUILDING_CCTPPB130</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB130</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB131]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB131</Type>
+		<DefaultBuilding>BUILDING_CCTPPB131</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB131</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB132]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB132</Type>
+		<DefaultBuilding>BUILDING_CCTPPB132</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB132</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB133]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB133</Type>
+		<DefaultBuilding>BUILDING_CCTPPB133</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB133</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB134]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB134</Type>
+		<DefaultBuilding>BUILDING_CCTPPB134</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB134</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB135]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB135</Type>
+		<DefaultBuilding>BUILDING_CCTPPB135</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB135</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB136]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB136</Type>
+		<DefaultBuilding>BUILDING_CCTPPB136</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB136</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB137]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB137</Type>
+		<DefaultBuilding>BUILDING_CCTPPB137</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB137</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB138]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB138</Type>
+		<DefaultBuilding>BUILDING_CCTPPB138</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB138</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB139]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB139</Type>
+		<DefaultBuilding>BUILDING_CCTPPB139</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB139</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB140]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB140</Type>
+		<DefaultBuilding>BUILDING_CCTPPB140</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB140</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB141]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB141</Type>
+		<DefaultBuilding>BUILDING_CCTPPB141</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB141</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB142]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB142</Type>
+		<DefaultBuilding>BUILDING_CCTPPB142</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB142</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB143]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB143</Type>
+		<DefaultBuilding>BUILDING_CCTPPB143</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB143</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB144]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB144</Type>
+		<DefaultBuilding>BUILDING_CCTPPB144</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB144</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB145]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB145</Type>
+		<DefaultBuilding>BUILDING_CCTPPB145</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB145</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB146]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB146</Type>
+		<DefaultBuilding>BUILDING_CCTPPB146</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB146</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB147]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB147</Type>
+		<DefaultBuilding>BUILDING_CCTPPB147</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB147</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB148]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB148</Type>
+		<DefaultBuilding>BUILDING_CCTPPB148</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB148</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB149]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB149</Type>
+		<DefaultBuilding>BUILDING_CCTPPB149</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB149</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB150]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB150</Type>
+		<DefaultBuilding>BUILDING_CCTPPB150</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB150</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB151]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB151</Type>
+		<DefaultBuilding>BUILDING_CCTPPB151</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB151</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB152]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB152</Type>
+		<DefaultBuilding>BUILDING_CCTPPB152</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB152</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB153]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB153</Type>
+		<DefaultBuilding>BUILDING_CCTPPB153</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB153</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB154]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB154</Type>
+		<DefaultBuilding>BUILDING_CCTPPB154</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB154</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB155]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB155</Type>
+		<DefaultBuilding>BUILDING_CCTPPB155</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB155</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB156]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB156</Type>
+		<DefaultBuilding>BUILDING_CCTPPB156</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB156</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB157]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB157</Type>
+		<DefaultBuilding>BUILDING_CCTPPB157</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB157</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB158]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB158</Type>
+		<DefaultBuilding>BUILDING_CCTPPB158</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB158</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB159]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB159</Type>
+		<DefaultBuilding>BUILDING_CCTPPB159</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB159</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB160]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB160</Type>
+		<DefaultBuilding>BUILDING_CCTPPB160</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB160</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB161]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB161</Type>
+		<DefaultBuilding>BUILDING_CCTPPB161</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB161</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB162]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB162</Type>
+		<DefaultBuilding>BUILDING_CCTPPB162</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB162</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB163]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB163</Type>
+		<DefaultBuilding>BUILDING_CCTPPB163</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB163</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB164]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB164</Type>
+		<DefaultBuilding>BUILDING_CCTPPB164</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB164</Description>
+	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB165]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB165</Type>
+		<DefaultBuilding>BUILDING_CCTPPB165</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB165</Description>
+	</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</BuildingClasses>	
+		 <!--Have a nice day-->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</GameData>

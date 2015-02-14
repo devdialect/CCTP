@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgameschon 9/27/2014 2:07:45 AM -->
+<GameData>
+
+	
+<!--*****Feature_CoastalLandYields*****-->
+<Feature_CoastalLandYields>  
+<!--*****Next*****-->
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_MARSH</FeatureType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_OASIS</FeatureType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Feature_CoastalLandYields>
+  
+</GameData>
+ <!--Have a nice Day;=)-->

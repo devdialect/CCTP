@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/30/2014 6:12:04 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SIEGE">
+			<Text>Missile Rover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BEMARINE">
+			<Text>Advanced Soldier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRADER">
+			<Text>Trade Convoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_TRADER">
+			<Text>Trade Vessel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BECAVALRY">
+			<Text>Advanced Calvary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RANGED_MARINE">
+			<Text>Ranger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIR_FIGHTER">
+			<Text>Tacjet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER">
+			<Text>Gunboat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_CARRIER">
+			<Text>Carrier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_WOLF_BEETLE">
+			<Text>Wolf Beetle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_MANTICORE">
+			<Text>Manticore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_FLYER">
+			<Text>Drone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_RAPTOR_BUG">
+			<Text>Raptor Bug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SIEGE_WORM">
+			<Text>Siege Worm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SEA_DRAGON">
+			<Text>Sea Dragon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_KRAKEN">
+			<Text>Kraken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BATTLESUIT">
+			<Text>Battlesuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AEGIS">
+			<Text>Aegis</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_TANK">
+			<Text>LEV Tank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_DESTROYER">
+			<Text>LEV Destroyer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_SWARM">
+			<Text>Xeno Swarm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY">
+			<Text>Xeno Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_TITAN">
+			<Text>Xeno Titan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKTOPUS">
+			<Text>Rocktopus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CNDR">
+			<Text>CNDR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARVR">
+			<Text>CARVR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABR">
+			<Text>SABR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ANGEL">
+			<Text>ANGEL</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TACNET_HUB">
+			<Text>TacNet Hub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_LASER">
+			<Text>Orbital Laser</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PHASAL_TRANSPORTER">
+			<Text>Phasal Transporter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PLANET_CARVER">
+			<Text>Planet Carver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_REPULSOR">
+			<Text>Miasmic Repulsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DEEP_SPACE_TELESCOPE">
+			<Text>Deep Space Telescope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LASERCOM_SATELLITE">
+			<Text>Lasercom Satellite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_CONDENSER">
+			<Text>Miasmic Condenser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALL_SEEING_EYE">
+			<Text>All-Seer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOLAR_COLLECTOR">
+			<Text>Solar Collector</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WEATHER_CONTROLLER">
+			<Text>Weather Controller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_FABRICATOR">
+			<Text>Orbital Fabricator</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLOMATRIX">
+			<Text>Holomatrix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EARTHLING_SETTLER">
+			<Text>Earthling Settler</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIEGE_PEDIA">
+			<Text>What we now call Missile Rovers were originally “Space Exploration Vehicles” developed by NASA. These SEVs were included in the initial payload of most colonial missions. However, upon reaching alien worlds, the colonists found they were more in need of offensive capabilities than exploratory tools.[NEWLINE][NEWLINE]Redubbing them “Missile Rover – Vehicular,” the MRVs were retrofitted to deal with indigenous wildlife. As they were designed by different colonies for various reasons, no two Missile Rovers were alike. However, they often included mounted automatic weapons for close defense and at least one ranged weapon, such as a Coilgun, for the purpose of dealing indirect damage. These original Siege Engines were very successful in suppressing alien nests, dispatching Siege Worms, and even the occasional military clash with an opposing colony.[NEWLINE][NEWLINE]As MRV use became more popular, their design became more mainstream. Soon, the colonies were producing original MRVs, often improving upon the shortcomings of their retrofitted predecessors. Even now, they are undergoing a new evolution, as many MRVs now come equipped with mounts allowing for tools such as cranes, backhoes, or dozer blades. Unsurprisingly, these modified SEVs are proving equally useful in combat as in civilian construction.</Text>
+		</Row>
+		<!-- Unit Help and Rollover Text-->
+		<Row Tag="TXT_KEY_UNIT_SIEGE_HELP">
+			<Text>Ranged Unit. Specializes in reducing defenses of Cities and Outposts from afar, but has limited mobility.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRADER_HELP">
+			<Text>Trade Unit. Used to establish Trade Routes by land between your cities and other cities, outposts, or stations. Trade Routes generate yields or increased outpost growth rate for the trading partners, but trade units are vulnerable to attack and their routes must be protected by military units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_TRADER_HELP">
+			<Text>Naval Trade Unit. Used to establish Trade Routes by sea between your cities and other Cities, Outposts, or Stations. Trade Routes generate yields or increased outpost growth rate for trading partners, but Trade Units are vulnerable to attack and their routes must be protected by Military Units.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_AIR_FIGHTER_HELP">
+			<Text>Air Unit. Attacks at range from a base, such as a City or Carrier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER_HELP">
+			<Text>Ranged Unit. Uses ranged weaponry to attack enemies at sea, or bombard enemies on nearby coasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_CARRIER_HELP">
+			<Text>Support Unit. Has no attack capability of its own, but serves as a base for air units to launch operations.</Text>
+		</Row>
+		<!-- Alien Units -->
+		<Row Tag="TXT_KEY_UNIT_ALIEN_WOLF_BEETLE_HELP">
+			<Text>The weakest alien unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_FLYER_HELP">
+			<Text>Hovering alien unit capable of passing most terrain obstructions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_MANTICORE_HELP">
+			<Text>An alien unit capable of attacking from a safe distance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_RAPTOR_BUG_HELP">
+			<Text>A fast moving alien unit, both tougher and capable of causing more damage than the Wolf Beetle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SIEGE_WORM_HELP">
+			<Text>Colossal alien unit. Siege worms can attack units and cities directly, as well as passively destroy terrain improvements as it moves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SEA_DRAGON_HELP">
+			<Text>Basic alien naval unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_KRAKEN_HELP">
+			<Text>Colossal alien naval unit. Kraken should be avoided at all costs. They are only found in deep ocean.</Text>
+		</Row>
+		<!-- Unique Units -->
+		<Row Tag="TXT_KEY_UNIT_BATTLESUIT_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity Unique unit.[ENDCOLOR] A soldier armored in augmented armor. Tough melee shock unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AEGIS_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity Unique unit.[ENDCOLOR] A light, mechanized walker with a variety of mounted weapons. Armored ranged unit with versatile fire support capabilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_TANK_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity Unique unit.[ENDCOLOR] An armored assault vehicle that hovers above the terrain, allowing it to traverse canyons and water. Powerful mobile ranged unit. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_DESTROYER_HELP">
+			<Text>[COLOR_PURITY_AFFINITY]Ultimate [ICON_PURITY] Purity Unique unit.[ENDCOLOR] A gigantic, heavily-armed assault platform that hovers above the terrain, allowing it to traverse canyons and water. Very powerful ranged and siege unit. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_SWARM_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] A mixed squad of human soldiers and adapted alien lifeforms. Simple, versatile melee assault unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] Human soldiers mounted on domesticated alien lifeforms. Agile melee fast attack unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKTOPUS_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] A bioengineered, living orbital unit that can move between orbital deployments and provide limited orbital coverage around its location.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_TITAN_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY]Ultimate [ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] A bioengineered, monstrous creature based on alien lifeforms. Enormous, very powerful melee siege unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CNDR_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A limited but reliable robotic drone soldier. Simple, hardy defensive melee unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARVR_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A sophisticated, fully autonomous robotic drone soldier. Versatile recon and melee assault unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABR_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A high-precision robotic artillery platform with exceptional range and accuracy. Slow but powerful ranged and siege unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ANGEL_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY]Ultimate [ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A highly-advanced robotic walker with heavy armaments and exceptional agility that can traverse canyons and shallow water. Extremely versatile unit suited to any battlefield role.</Text>
+		</Row>
+		<!-- Orbital Units -->
+		<Row Tag="TXT_KEY_UNIT_TACNET_HUB_HELP">
+			<Text>Orbital Unit. Provides +20% [ICON_STRENGTH], +20% [ICON_RANGE_STRENGTH], and +5 HP heal every turn to friendly Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_LASER_HELP">
+			<Text>Orbital Unit. Bombards hostile Units with moderate strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PHASAL_TRANSPORTER_HELP">
+			<Text>Orbital Unit. Enables Units to perform a one-way Phasal Teleport from any friendly City to any affected tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PLANET_CARVER_HELP">
+			<Text>Orbital Unit. Bombards hostile Units with pulverizing power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_REPULSOR_HELP">
+			<Text>Orbital Unit. Clears Miasma from affected tiles, starting from the center.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DEEP_SPACE_TELESCOPE_HELP">
+			<Text>Orbital Unit. Once in orbit, eventually leads to discovery of The Signal, which is part of Contact Victory. Any City in range also receives +25% [ICON_RESEARCH] Science overall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LASERCOM_SATELLITE_HELP">
+			<Text>Orbital Unit. Once in orbit, establishes contact with Old Earth, which is part of Emancipation Victory and Promised Land Victory. Any City in range also receives +15% [ICON_RESEARCH] Science overall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_CONDENSER_HELP">
+			<Text>Orbital Unit. Generates Miasma on affected tiles, starting from the center.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALL_SEEING_EYE_HELP">
+			<Text>Orbital Unit. Removes all Covert Agents and Intrigue from any City in range. Prevents any Covert Agent activity or Intrigue increase as long as it orbits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOLAR_COLLECTOR_HELP">
+			<Text>Orbital Unit. +1 [ICON_ENERGY] Energy on tiles you own. Any City in range also receives +20% [ICON_ENERGY] Energy overall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WEATHER_CONTROLLER_HELP">
+			<Text>Orbital Unit. +1 [ICON_FOOD] Food on tiles you own. Generates 1 to 2 new Basic Resources on unimproved tiles across its lifespan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_FABRICATOR_HELP">
+			<Text>Orbital Unit. +1 [ICON_PRODUCTION] Production on tiles you own. Generates 1 to 2 new Strategic Resources on unimproved tiles across its lifespan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLOMATRIX_HELP">
+			<Text>Orbital Unit. +2 [ICON_CULTURE] Culture on tiles you own. Any City in range receives 50% less Intrigue from enemy Covert Agent activity.</Text>
+		</Row>
+		<!-- Special Units -->
+		<Row Tag="TXT_KEY_UNIT_EARTHLING_SETTLER_HELP">
+			<Text>Special Unit. Can establish or add population to an Earthling Settlement, which is used to advance the Promised Land Victory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRADER_PEDIA">
+			<Text>Since the ancient days of camel caravans across the Qattara Depression and the Gobi Desert on Old Earth, trade vehicles have travelled in convoy. Both for security and logistic reasons, the most efficient and cost-effective means of moving goods and people across harsh lands to distant markets was for merchants to band together. Once the first colonial settlements were secure and there were Energy surpluses, ambitious individuals began opening trade routes to far cities and stations. While the form may change – with motorized transport rather than animal-drawn vehicles – the logic remains the same: to move wealth safely across a hostile environment to exchange for even greater wealth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_TRADER_PEDIA">
+			<Text>Once the settlers began to map the lakes and seas and understand the dangers of deep waters on this alien world, colonial officials and merchants began constructing trade vessels to carry trade over the waves to distant ports. In appearance, the colonial ships are not much different from the merchant ships of the past few centuries on Old Earth, being container and tanker vessels festooned with cranes, derricks and pipes. Only the cargo has changed, as energy is the currency of this new world. Thus, besides holds for physical goods, many of the colonial trade vessels carry massive storage devices for loading and offloading electrical, chemical and mechanical energy.</Text>
+		</Row>
+		<!-- Units -->
+
+		<Row Tag="TXT_KEY_UNIT_RANGED_MARINE_PEDIA">
+			<Text>The Ranger is a Soldier trained in the use of long-range, portable artillery. Unlike mortars, rocket launchers, or other “light-weight” ordnance from the 20th Century, our modern artillery cannot be used by just any soldier. Specifically designed for use in outer space and on other worlds, these ranged weapons require precise calibration. As such, Rangers must possess an expert knowledge of Physics, Geometry, and other such sciences. This, coupled with their intense physical training, has earned them the nickname, “Geek Jocks.”[NEWLINE][NEWLINE]Notable among their arsenal are directed-energy weapons (DEW), which use aimed energy to attack an enemy or fortification. The result of this attack can range from non-lethal to lethal, depending on the energy used. When first introduced, DEWs were capable of firing microwave, laser, particle-beam, and even sonic attacks.[NEWLINE][NEWLINE]Rangers are also known for their magnetic weapons. Among their numbers are counted Ion Cannons, Coilguns, and Plasma Cannons. Usually reserved for heavier targets, the magnetic weapons have earned an infamous reputation for the damage they can inflict from a great distance.[NEWLINE][NEWLINE]Since the founding of the colonies, research on both types of ordnance has continued. Not only have these weapons grown more lethal against alien species, but also more versatile in geo-engineering. Indeed, colonial mining and terraforming operations make extensive use of their capabilities, giving new meaning to the proverb “turning swords into ploughshares.”</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_AIR_FIGHTER_PEDIA">
+			<Text>Tacjets are ultra-light aircraft specifically designed for use on alien worlds. Since colonists could not guarantee the atmospheric and gravitational conditions of their planet, the Tacjets were designed to be highly-customizable in order to meet the demands of their environment. Although the flight envelope for these craft tended to be restricted, these “airplanes” were found to perform quite well under most prevailing conditions.[NEWLINE][NEWLINE]Over time, the Tacjets were redesigned in order to make use of the unique energy sources and minerals found on the colonial worlds – most notably, Floatstone. These adaptations allowed for a craft that was both nimble and highly-maneuverable. It also allowed for pilots to modify traditional Earth aerial maneuvers such as the Immelmann, Barrel Roll, and Pitchback, so that they could be used in the planet’s prevailing atmospheric conditions. The more daring pilots even developed new maneuvers, such as the Pelican and Sidereal. It was this mastery of flight that allowed for the Air Fighters to be used against alien species and the occasional colony to great effect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER_PEDIA">
+			<Text>The early Naval Boats built by colonists were based on plans which had been included in their colonial database. These plans were adapted to the planets prevailing conditions and available materials. The result of these modifications was a combat vessel, 30 meters in length, armed with directed-energy weapons and a variety of secondary armaments, such as torpedoes and surface-to-air missiles.[NEWLINE][NEWLINE]Although originally driven by CODAG engines, which made use of local petroleum, the ships were eventually augmented to support nuclear power. This development gave way to a variety of new ship classes, both large and small. Larger vessels were capable of carrying heavy Particle-Beam ordnance, which proved particularly useful against larger sea creatures. Smaller Patrol Ships were primarily used for exploration and contact with other colonies.[NEWLINE][NEWLINE]Although capable of operating independently, these Gunboats were often formed into flotillas of varying size. In times of Colonial warfare, the flotillas usually served as escorts for Carriers and Transports.[NEWLINE][NEWLINE]Interestingly, of all the colonial military branches, it is the Navy which remained the least changed. Although they now operated on an alien world, their mission and activity was nearly indistinguishable from what it had been on old Earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_CARRIER_PEDIA">
+			<Text>It took quite some time for Carriers to appear among the extraterrestrial colonies. This was due to the high construction cost, both in resources and dry-dock facilities. As such, construction of these large, multi-purpose vessels could not begin until the necessities for survival and success had been secured.[NEWLINE][NEWLINE]The initial ships were comparable to the WWII-era carriers of old Earth. They were roughly 150 to 250 meters in length with a beam of 21 to 28 meters, displacing between 9800 and 20000 tonnes. The ships included a variety of light armaments and a flight deck configured for horizontal launch of Aircraft.[NEWLINE][NEWLINE]As the colony’s Aircraft began to evolve, so did their Carriers. Experimental designs led to vessels which focused on SVTOL air operations. This shift provided a number of distinctive configurations, ranging from pontoon platforms to dual-hull ships driven by nuclear hydro-pulsejets. Whether they were defending against alien life or attacking other outposts, these various Carriers proved useful for projecting air power beyond the settled fringes of the colonies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EARTHLING_SETTLER_PEDIA">
+			<Text>When the few thousands set out during the Seeding to insure the survival of the human race, millions were left behind on Old Earth. With few resources and little hope, they struggled to exist on a plundered and crowded planet that had been our home world for untold millennia. Without hope, that is, until suddenly contact came with the opening of a “warp gate” and an invitation to instantly travel across space to join the colony in subduing and settling a new home. No skills, training or wealth were required to come … just a belief in the precepts of Purity and a willingness to work. Tens of desperate thousands accepted and came through the gate to labor on the farms and in the mines, to man the defenses, to build new outposts, to cast their lot with the original colonists in forging a bright future for humanity again on this alien world. It seemed to these masses of refugees from battered Old Earth to truly be a Promised Land.</Text>
+		</Row>
+		<!-- Unique Units -->
+		<Row Tag="TXT_KEY_UNIT_XENO_SWARM_PEDIA">
+			<Text>The early colonial experience with Wolf Beetles left a marked impression on military scientists. This was the first time humanity had experienced a hive species whose soldier caste were a match for human soldiers. Research into the hives also revealed that these soldiers were relatively inexpensive for the hive to produce (in terms of absolute resources and opportunity costs). The prospect of a military unit made up of inexpensive, human-controlled swarms of biocrafted warrior creatures was too appealing to pass up.[NEWLINE][NEWLINE]The Xeno Swarm proved its designers proud: Even without a complete understanding of xenomass and alien biochemical  morphology, it was possible to genetically manipulate existing xenospecies into weaponized versions. Designer pheromone receptors meant that a given swarm could be bound to a single human herder, who directed her swarm's attacks. The initial cadres of Xeno Swarm officers were drawn from military medical staff, who had the requisite theoretical biology background to understand their creatures and the changes that bound them to their charges. As it was unknown exactly how living with a swarm for an extended period of time would affect the herder, testing for inclusion into the Xenodriver Corps was rigorous and comprehensive. The candidates reacted with a mixture of exasperation and humor; one popular joke was that the testers were looking for a species of human-shaped xenos that had managed to infiltrate the population.[NEWLINE][NEWLINE]On the battlefield the Xeno Swarms were a powerful force multiplier. When Xenodrivers were targeted by snipers or drones, their uncontrolled swarms would frenzy, making them faster and far harder to kill than when they were under direction. Losses of individual soldier xenos were easily replaced; it took fewer than two weeks to raise one from seed matrix to fully-developed soldier. The Xenodrivers became folk heroes - lone soldiers fighting on the front lines, arriving with a skittering tide of powerful, slicing mandibles at key points to turn the tide of battle. Even the occasional whiff of ichor could be overlooked in light of the success of the Xeno Swarm and the pioneering of the Xenodrivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY_PEDIA">
+			<Text>The concept of cavalry is ancient: A soldier with higher mobility than conventional infantry. The exact source of this mobility has changed over time: First horses, then internal-combustion ground vehicles, then internal-combustion aircraft, then back to vehicles (and even horses before their extinction) during the time of the Great Mistake. Military scientists have identified the exact relationship of mount cost and mount mobility that predicts the kind of mount soldiers will use.[NEWLINE][NEWLINE]It became apparent early on to these military scientists that xenoforms would be used fairly early in colonial history. What living creatures offer is not raw speed, but an unparalleled terrain-crossing ability. Legs often go where wheels fear to tread. The Raptor Bug proved an excellent platform for breeding as a cavalry mount. Like a horse, it possesses enough cognitive capacity to follow human direction and operate semi-independently when trained well. The Raptor Bug's adrenocortical responses have a low degree of self-preservation once they have reproduced, which makes them fearless. And their load capacity is relatively high for their slender build. Research breeding and design programs quickly settled on the "Cavalgada White" strain, which is the mother-strain of all current Xeno Cavalry mounts.[NEWLINE][NEWLINE]It is curious that across ages and mounts, cavalry soldiers quickly converge on a type: Risk-seeking, speed-loving, gregarious, and flamboyant. The Xeno Cavalry was no exception. They clamored for archaic weapons such as sabers and lances as vital military hardware. Uniforms became ornate beyond the needs of field recognition. And the raid became their favorite strategic operation - quick strikes at poorly protected targets in rear areas. The Xeno Cavalry would emerge, their warcries strangely distorted and amplified by unapproved modifications to their armor and helmets, joined by the ululation of their mounts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKTOPUS_PEDIA">
+			<Text>One curious property of floatstone is its high biocompatibility with hybridized terran/planetary biochemistry. Neither planet's home biochemistry is fully compatible with it (the aeroliths of the native skywhales are ingested and stored in the float bladder but not integrated into the organism), but when the two biochemistries are combined in the Madursky process, the resulting tissue easily integrates onto floatstone. This breakthrough led directly to the creation of the Rocktopus.[NEWLINE][NEWLINE]The Rocktopus is a massive colonial organism grown around a large supply of partially refined floatstone (the inclusions provide the creature with certain necessary minerals). Although the name is a play on the terran octopus, the creature is more akin to a cnidarian (such as jellyfish) than the more complex octopus. The size of a Rocktopus is limited only by the growth vat where it is created. The most massive specimens are created in special tanks, and contain enough floatstone that they can easily traverse the atmosphere and even travel into planetary orbit. The creature is further controlled by "goads" built into its flesh, which provide directional impetus to the Rocktopus. Once airborne, the Rocktopus' flight duration is limited only by its tissue integrity (substantial work having been done to preserve and harden the individual cells of the creature) or the tendency for the floatstone to degrade under radiation. A Rocktopus may leave orbit, move through the upper atmosphere, and re-enter a new orbit at very low energy cost, making it unique among satellites. Its tentacles extract limited nutrition from the high atmosphere and work as photocollectors to provide it with energy.[NEWLINE][NEWLINE]Military theorists know the great value of having an orbital unit which can easily reposition itself. But beyond that, there is an undeniable beauty to the Rocktopus. Like its humble terran ancestor, it possesses a seemingly fragile grace as its tentacles wave in the radiation winds of space or the gales of the upper atmosphere. But unlike the jellyfish, the Rocktopus is a hardy creature, capable of surviving the vacuum and harsh radiation of space. It is in many ways harder than the rocks to which it clings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_TITAN_PEDIA">
+			<Text>Students of terran paleontology know that natural selection pushed the very limit of size for terrestrial creatures. Engineers studying the same extinct species see opportunities to go beyond those limits. And when those engineers are given access to military R&amp;D budgets, they can create animals that no world has ever seen.[NEWLINE][NEWLINE]The Xeno Titan morphology and general plan was inspired by the stomatopods of Earth, and their basal DNA is taken directly from the mantis shrimp. From a small culture of specialized cells, engineers apply selective directed hyperplasiation, integration of advanced biohardeners (crystalline titanium and carbon nanofiber), and controlled neurotopification to create the most massive life form that has ever existed.[NEWLINE][NEWLINE]The Xeno Titan is a creature of superlatives. Its massive rending claws are the hardest organic material in the universe, capable of applying enough pressure at their tips to form microdiamond when striking carbonaceous surfaces. Its rate-adjustable metabolism means it can heal a gash meters long in only seconds, giving it incredible durability; the Xeno Titan simply heals itself through most attacks dished out against it. In a single day of combat operations it consumes enough nutrients to feed thousands of conventional humans. It has neither will nor purpose nor biological imperative. It merely does what its controllers direct it to do.[NEWLINE][NEWLINE]There are those who consider the creature an abomination, something that nature would never have created. But why would nature not create this creature if it could? This massive creature is built from the same tools that nature has used for millennia on multiple worlds. It has merely taken a touch of human ingenuity to refine her plans to this point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BATTLESUIT_PEDIA">
+			<Text>Improving the quality of individual soldiers is and has always been at the heart of military sciences. The human body is an excellent combat platform: It possesses good load-bearing and cross-terrain mobility, a robust sensory package, and can be improved through training to have excellent in-situ decision-making and tactical reflexes. The Battlesuit enhances the potential of each soldier in all these categories.[NEWLINE][NEWLINE]The Battlesuit derives from earlier work in industrial exoskeletons. While those earlier models easily boosted the load the operator could carry, they were hampered by the need to carry bulky and short-lived power supplies, or they had to remain tethered to power sources. The discovery of floatstone and its idiosyncratic monopolar gravity fields meant that exoskeletons could be constructed and powered by a new generation of featherweight fusion reactors. Liberating the energy source eliminated the last long-standing obstacle to effective powered armor for the military, and the Battlesuit quickly went into mass production. A soldier now has his combat capacity measured in tons, his mobility effectively doubled, and all this at minimal additional time added to his training.[NEWLINE][NEWLINE]The Battlesuit builds on the fundamental strengths of humanity. Without its soldier, the Battlesuit is simply an idle construct. It has defined the new standard for infantry; a shift in the strategic landscape such as this has not been seen since the invention of the machine gun.[NEWLINE][NEWLINE]Battlesuit infantry regiments are traditionally given a nickname based on their regimental commander, with the most valorous and legendary commanders’ nicknames persisting after their death and retirement. The most famous regiment of all may be the highly decorated Juanito’s Jaguars of the 4eme Marine. Col. Richard Juanito may have died in battle some eighty years before, but the regiment’s daily roll call still asks his name first each morning. The Senior Sergeant speaks for the long-dead officer: “He has gone ahead of us.”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AEGIS_PEDIA">
+			<Text>Military researchers have discovered an interesting side effect of bipedalism (first noted by the Willuhn Military Institute): Soldiers fight better alongside a bipedal combat unit than a quadrupedal one. There are various explanations for the Willuhn Effect, but it is believed that the advantage provided to other human soldiers more than offsets the developmental costs of building a bipedal combat unit. Soldiers tend to think of these units as elevated proxies for humanity. A factorial analysis suggests the representation lies somewhere between “combat demigods” and “big brother with the big gun.” This has been taken further by certain military scientists and can best be seen in the Aegis.[NEWLINE][NEWLINE]Unlike many Purity combat units, the Aegis does have a combat AI, although it is entirely devoted to maintaining posture, coordinating movement, repairing damage, and reloading weaponry, leaving the human operator free to focus on fighting the enemy. By design, the AI cannot initiate any but the most basic of movement (typically just walking in and out of the repair gantry) and may not trigger weapons. The human operator, on the other hand, is more than capable of using the myriad of weapons systems to confront a variety of battlefield threats. The great tactical value of the Aegis is that one human operator can confront many adversaries at a time, or turn all of the weapons of his Aegis against a single threat.[NEWLINE][NEWLINE]The Aegis does not attempt to hide. It broadcasts its power in its posture and its weapons to friends and foes alike. Aegis pilots are highly-trained and highly-regarded by their fellow soldiers, because the Aegis is always willing to draw the enemy attention right before delivering a powerful attack to save his comrades, thus demonstrating the power of these titans who stalk the battlefields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_TANK_PEDIA">
+			<Text>Since its inception at the dawn of the 20th century, the tank has been a primary constituent of all human ground forces. Armored warfare theorists and tacticians extended the tank through various iterations, emphasizing protection, maneuverability, and firepower to different extents, and combat models continued to iterate up to the Great Mistake. Afterwards, many proclaimed the "end of armor" as each unit represented a costly investment in scarce resources. But this was not to be the end of the tank.[NEWLINE][NEWLINE]As improvements to the floatstone reactor led to the anti-gravity field generator, military theorists looked again to the idea of a tank. As suspension weight limits were no longer a factor in design, armor designers began a new era of tank design and production, superseding anything  their terran ancestors could have achieved. Not only could they put more armor on a tank, they could also mount enough weapon systems to let the tank effectively deal with any threat it might face. Main cannon armaments had progressed far beyond the simple tank guns of pre-Seeding Earth, and now could incorporate a variety of munitions fired over longer ranges. While not as fast as aircraft, the new class of LEV tanks were far harder to kill than almost any weapons that had been developed to date. Once again, the pendulum had swung in favor of hard defense.[NEWLINE][NEWLINE]The LEV tank fills a central role in combat ground forces. Its weaponry is powerful enough to crack most targets, and its armor protects its skilled, trained crew inside. Operating in squadrons and troops, the LEV tank is the vanguard of any attack. The sight of hundreds of metric tons of composite armor and guns gliding effortlessly over terrain is often enough to make skittish defenders throw down their arms and retreat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_DESTROYER_PEDIA">
+			<Text>The discovery that floatstone anti-gravity fields were potentially unbounded at higher energy levels opened up the tactical possibility of moving entire fortifications onto the battlefield. Thus, the LEV Destroyer was created: A massive, armored combat platform built around the most powerful floatstone generators ever constructed. The LEV Destroyer is not just a powerful combat unit, but the anchor point of an entire army. Within its armored flanks are munitions plants, infirmaries, and communications arrays. From within it, the army commander can direct operations over an entire continent. Its cannon batteries are capable of reducing targets to mangled remains, spread across hectares of cratered ground.[NEWLINE][NEWLINE]The LEV Destroyer is such a costly investment in warfare that it has a moral dimension as well. Political leaders and the population understand that constructing one of these titanic weapons means forgoing a great deal for the population at large. To help the soldiers understand the enormity of their burden, to inspire them to greatness, and to link them to the people at home, each LEV Destroyer has, at its heart, a relic of Old Earth. Often these are small: A scrap of paper from the cover of a manual, or gloves worn by a nameless First colonist. Sometimes they are truly integrated into the structure, such as the Initiator of St. Walter, which is the still-functioning auxiliary power generator from a planetfall lander, repurposed as the starter motor for the St. Walter's grav engines.[NEWLINE][NEWLINE]The sight of kilotons of material hovering quietly above the ground is hugely inspiring to the armies that fight alongside it. The LEV Destroyer is a living parable, that mankind, by its own efforts, is capable of rising above strife, can shrug aside any blow, and conquer any threat that faces it. Should we concern ourselves of the burgeoning religiosity of the soldiers who fight within it? Certainly not! Those paladins who fight with the best tools must understand the value of that which they guard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CNDR_PEDIA">
+			<Text>One of the axioms of military operations is that it takes a far smaller force to defend than to attack. The defender understands the position over which she is fighting and is better able to deploy her resources efficiently. Indeed, even the simplest military AI system can usually prepare an efficient defense  given only minimal time or information. But when the defensive area is well understood, and a robust military AI is given direct control of battlefield units, that defense can be very efficient indeed.[NEWLINE][NEWLINE]Thus, the Cognitive Neuroelectronic Defense Registry was created to be a system of networked combat frames and controlling AI arrays. Hugely redundant and built with a considerable degree of modularity (such as the AI nodules and the combat frame kinesthetic cortices using the same black boxes), CNDR was foremost a defensive unit that could observe, report, adapt to and counter a military threat. Since home territory could be surveyed at leisure, the AI system had ample opportunity to wargame and simulate incoming threats. Keeping CNDR as a reserve and protective force meant faster repair and turnaround on damaged combat frames. But best of all, this freed up human forces for offensive, out-of-territory operations where human ingenuity and tactical flexibility was still more effective than drone combat systems.[NEWLINE][NEWLINE]The ubiquity of CNDR hardware meant that it eventually became a de facto standard for robotic applications long after CNDR was discontinued. If you have ever wondered why Category 2 bipedal robot frames have only 34 channels for locomotor-haptic feedback, it is because that is a holdover from the old CNDR combat frame standard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARVR_PEDIA">
+			<Text>The CNDR system demonstrated the combat capability of a network of combat frames and controlling AI, but it was limited by having remote controller AI and operating only on well-understood battlespaces. Despite being ideal for defensive operations, it was politically unsatisfying in that it still exposed valuable humans to riskier offensive operations.[NEWLINE][NEWLINE]The Coordinated Assault and Reconnaissance Vanguard Robots (CARVR) were created to overcome the shortcomings of the CNDR system. CARVR's combat frames carried larger and more powerful AI control nodes, which seamlessly integrated into networks when the frames operated in proximity to each other. CARVR frames' data sharing and battlespace mapping functions meant that many of the combat routines developed for CNDR could easily be adapted for this new, offensive operational role. Furthermore, CARVR could be a resource for human commanders, with each land combat frame acting as a combination of battlefield intelligence source and directable action unit.[NEWLINE][NEWLINE]Flexible, autonomous, dangerous, and massively interlinked, CARVR represents a nodal synthesis of the core ideas of Human Supremacy applied to the most risky of human endeavors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABR_PEDIA">
+			<Text>A military unit applies force to a particular target. To optimize the military unit, the designers can either provide the unit with more force, or soften the target. The latter point seems largely hard to control, but every military target has weak points. A weapon system that always strikes weak points can be disproportionally effective beyond the force it outputs. This resonates with certain strains of the Supremacy ideology as well.[NEWLINE][NEWLINE]The Strategic Artillery Battery Robot (SABR) was created to give traditionally inefficient artillery rapier-like precision against a variety of targets. SABR is unique not because it has a particularly large gun (it does not) but because it can put the right round in the right target at just the right time to maximize damage. The drawback to SABR is that it is highly dependent on its sensor network to be online and working to be effective. This network gathers and interprets volumes of data about the targets SABR is facing. It uses meteorological sensors to correct for weather patterns and fire its rounds farther. It also uses strike damage assessment systems to  update the firing protocols for successive rounds (and feedback these systems takes some time to collect and integrate). Finally, there is a dynamic catalog of target intelligence and powerful target discrimination systems, which let SABR identify what it is facing, where the targets are hiding, and which system is best for destroying them. The end result is a weapon which fires slowly, but strikes at the very limit of physical prediction and with an efficiency that leaves even trained observers stunned.[NEWLINE][NEWLINE]The combat history of SABR is one of superlatives. With a target hit/target kill ratio approaching one, simply surviving a SABR bombardment is often attributed to divine intervention. At the Planet Academy for Integrative Warfare and Weaponry there is a mangled tungsten SABR slug fired during the Battle of Wuenschell Keg. The plaque underneath it simply says: "SABR Battalion 56 fired this round. It missed."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ANGEL_PEDIA">
+			<Text>Multipurpose combat systems were long shunned by military strategists because "a tool that does everything doesn't do anything well." But Supremacy military scientists recognized that bringing the right weapon into position was often not feasible on a rapidly-evolving battlefield, and that there was a strong need for a weapons platform which combined weapon flexibility and high maneuverability. This need was met with the ANGEL.[NEWLINE][NEWLINE]This heavy assault and battlefield support platform bristles with a variety of weapons, has the highest mobility of all known apex military units, and fulfills a huge number of tactical roles. Each of its articulating legs are controlled by an AI system devoted to moving most easily through the terrain, such that crews describe ANGEL as feeling as though it floats over the terrain. Its primary sensor nets also integrate information from related units, thus giving it over-the-horizon awareness of its tactical situation. This allows ANGEL to engage and complete tactical withdrawals before local forces can counter-engage. ANGEL brings the best weapon for the best situation, and disengages at a time of its choosing to strike again at another location. It truly best embodies the best ideas of land warfare in the Supremacy idiom.[NEWLINE][NEWLINE]On paper, the ANGEL looks to be the weakest of the major Affinity battle systems, but in application it is a far harder weapon to beat. Supremacy weapons are not simply judged on the raw stats of their guns and the thickness of their armor, but on the coordination and flexibility that defines their use. For centuries, prevailing military wisdom held that specialization was the pathway to success. The ANGEL seeks to overturn that.</Text>
+		</Row>
+		<!-- Orbital Units -->
+		<Row Tag="TXT_KEY_UNIT_TACNET_HUB_PEDIA">
+			<Text>To a colony of lesser technological achievement, the TacNet Hub would almost appear magical. Those who make use of TacNet seem blessed by the gods of war. Their soldiers are stronger. Their wounds heal more quickly. In truth, there is nothing magical at all. The only thing at work is the ability to gather and transmit intelligence and data almost instantaneously. Armies are not stronger – they simply know more about their opponent’s plan of attack. They are not in possession of magnificent healing – they simply have access to their colony’s greatest medical minds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PHASAL_TRANSPORTER_PEDIA">
+			<Text>Teleportation is a scientific impossibility – a concept made popular in 20th century science-fiction in which a target is destroyed at one location and an exact replica is created in another. Phasal Transportation, however, is a way of folding space in which two distant locations are brought together, allowing someone or something to pass immediately from one location to the other. This is accomplished through the use of a Phasal Transporter. This satellite is capable of calculating, down the smallest margin of error, the exact gravitational disruption required to momentarily bend space and unite two differing locations. It then deploys a gravitational probe to a precise location, which utilizes a molecular singularity to create the distortion without destroying the entire planet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_LASER_PEDIA">
+			<Text>The concept of Heavenly assault has long been a dream of humanity, dating back to our first recorded religions. With the invention of the Orbital Laser, this dream has finally become a reality. Orbital Lasers draw their power from the planet’s sun, both for its energy and attack capabilities. Utilizing solar panels, the Orbital Laser is able to power itself, without the need for earthly facilities. Through the careful calibration of optical lenses, it can then channel that solar energy into a destructive beam, capable of delivering a high explosive bombardment to the planet below.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PLANET_CARVER_PEDIA">
+			<Text>The Planet Carver is the next evolution of the Orbital Laser. Originally conceived as an air-to-surface mining tool, it was quickly co-opted by the military industrial complex and modified for use in orbital assault. As the Planet Carver was originally designed to bore through a planet’s crust, it is capable of delivering a much greater blast than the Orbital Laser and has only been estimated. The exact measurement of the Planet Carver’s strength is unverifiable, as all attempts at measurement have been incinerated in the blast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_REPULSOR_PEDIA">
+			<Text>Miasma is a gaseous substance native to this planet. Although it appears to seep upward from the planet itself, it is actually formed from molecules present in the planet’s lower atmosphere. When portions of the planet’s surface are heated to a particular temperature, the molecules combine, creating Miasma. Once the colonies realized this, they were able to design satellites which were capable of blocking solar energy. Dubbed “Miasmic Repulsors", these precision satellites can lower the temperature of existing Miasma, causing the molecules to separate and the gas to dissipate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_CONDENSER_PEDIA">
+			<Text>Once the colonies learned how to disperse Miasma through the use of satellites, it wasn’t long before they were able to create the strange, gaseous substance. While the Miasmic Condenser appears to be a redesigned Miasmic Repulsor, it actually has more in common with the Orbital Laser. The Condenser uses precision optics to channel solar energy onto the planet’s surface, thereby increasing the temperature to the exact degree which facilitates the creation of Miasma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DEEP_SPACE_TELESCOPE_PEDIA">
+			<Text>The Deep Space Telescope is a scientific marvel which likely would not exist, if not for humanity’s natural curiosity. It serves only one function – scientific research. It is such a highly-advanced tool, its presence increases a city’s Science. This is a wonderful tool for any technologically progressive colony, but it is not the Telescope’s true purpose. The Telescope was specifically designed to locate what has been dubbed “The Signal.” It is believed that this mysterious “Signal” was left behind by the planet’s previous inhabitants. The Signal’s purpose or message is unknown. But, through the use of the Deep Space Telescope, humanity hopes this mystery will eventually be answered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LASERCOM_SATELLITE_PEDIA">
+			<Text>The Lasercom Satellite is a highly-advanced tool, designed to facilitate near-lightspeed communication with planets in far-flung systems – in particular, with the planet Earth, humanity’s point of origin. It has the added benefit of utilizing its near-lightspeed capabilities to increase a colony's technological progress. Any city in possession of a Lasercom Satellite will find its Science increased.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOLAR_COLLECTOR_PEDIA">
+			<Text>The Solar Collector was built upon the designs of previous satellites such as the Orbital Laser and Miasmic Condenser. Essentially an orbital solar panel, the Solar Collector harnesses the solar energy, converting it into pure Energy, which it then transmits to the planet. Even though the process suffers from high energy “leakage,” it creates enough energy to make that leakage appear minimal. The Solar Collector can harness Energy for both a city and the greater colony. The city which receives the Collectors direct transference receives an Energy increase, while the colony as a whole will receive an amount of Energy for all owned tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WEATHER_CONTROLLER_PEDIA">
+			<Text>Similar to the Solar Collector, the Weather Controller allows a colony to utilize their orbital network for the purpose of enriching their planetary lives. Weather Controllers utilize precise electrical-magnetic charges to create favorable weather for all tiles within its range. This allows a colony to optimize their Food production, increasing their stores per owned tile. As an added bonus, the controlled weather has been known to change the nature of unimproved areas, allowing them to occasionally spawn Basic Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_FABRICATOR_PEDIA">
+			<Text>The Orbital Fabricator is a cross between the Solar Collector and Weather Controller. It utilizes both solar energy and electro-magnetic charges to create highly localized points of planetary pressure. This pressure increases the strength of certain resources, providing its colony with a Production to all owned tiles. Similar to the Weather Controller, this process has the added benefit of occasionally causing a permanent change to unimproved areas, allowing them to spawn Strategic Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALL_SEEING_EYE_PEDIA">
+			<Text>The “All-Seer” is a misnomer. This satellite utilizes state of the art observational protocols to monitor a city’s population through imagery, audio recording, heat signatures, digital monitoring, and other forms of highly-classified observation. In this way, “God” might be a more accurate name for this orbital device. While its use is ethically dubious at best, the All-Seer is unmatched in its covert capabilities. When focused upon a city, the All-Seer will not only reduce its intrigue to zero, but also prevent intrigue from increasing. Not only that, once activated, the All-Seer is programmed to locate, isolate, and report all enemy spies to the proper authorities. In the planet’s largest cities, this process is estimated to take no longer than 17 seconds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLOMATRIX_PEDIA">
+			<Text>The Holomatrix combines orbital and holographic technologies to create something altogether more fantastical. As the name implies, the Holomatrix is a satellite capable of creating localized, planetary holograms. These holograms can range in size from highly-precise illusions to city-wide spectacles. Many colonies make use of the smaller illusions to sow disinformation, decreasing covert intrigue within a city.  However, their most spectacular use is in cultural dominance, where the massive, city-wide holograms are known to draw visitors from all across the planet, increasing the colony’s Culture for all owned tiles.</Text>
+		</Row>
+		<!-- Alien Units -->
+		<Row Tag="TXT_KEY_UNIT_ALIEN_WOLF_BEETLE_PEDIA">
+			<Text>Lupus Bruchus[NEWLINE][NEWLINE]Although not a member of the Coleopteran family, nonetheless planetary survey crews initially identified these swarming animals as insectoid due to a superficial morphology with common Earth beetles. Given the proclivity of the species to aggressively swarm in loose packs, and its size – measuring 105-160 cm in length, 80-85 cm in height, and weighing 43 to 45 kg on average – early settlers likened them to Earth wolves. Hence the common name.[NEWLINE][NEWLINE]Lupus Bruchus is a hive xenomorph. As with a number of species on Earth, at some point in its evolution its wings hardened into elytra, providing a protective “shell” sheathing the upper body. Likewise, fossil records indicate that it once had antennae, which thickened over time into exoskeleton horns similar to those of Dynastinae. Likewise, the legs and head are armored with a chitin-like armor, composed of long-chain polymers of keratan sulfate, a derivative of glucose produced by the animal’s digestive system. The soft tissues of the underside are not, however, protected by this natural armor. Color patterns on the shells are varied, and it has been speculated may be tied to seasonal or geological influences.[NEWLINE][NEWLINE]The wolf beetle is found in almost every eco-system of the planet, from near the poles to the equator. Extremely hardy and adaptable, it has proved a successful omnivore. The bisexual species reproduces at a high rate, and periodically outstrips the size of the nest. At that point, rather than expanding its nest or creating new colonies, a portion of the hive will swarm en masse until destroyed. Stigmergy, the concept first investigated by Earth biologist Pierre Paul-Grasse in 1959 AD, makes these swarms extremely dangerous, as the indirect coordination between individuals in the swarm grows increasingly aggressive towards non-swarm individuals. Moreover, this collective behavior of the wolf beetle thus far defies the mathematical “boids” that Craig Reynolds devised to predict swarm movements, and the only known defense against a wolf beetle migration is extermination of the swarm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SIEGE_WORM_PEDIA">
+			<Text>Vermis Obsidione Collossus[NEWLINE][NEWLINE]Known colloquially as the “Siege Worm” or “drillworm”, this member of the Annelida phylum is segmented, tube-shaped and far larger than its Earth counterparts. Specimens of Vermis Obsidione have been found to average 400-600 meters in length and weigh up to 651935 metric tons. It is speculated that there are even larger and heavier Siege Worms living farther below the planetary surface. Thus far, however, all encounters with this species have been within 200 meters of the surface.[NEWLINE][NEWLINE]Like most annelids, Siege Worms have a digestive system that runs through the length of its body, a coelomic fluid system, a hydrostatic skeleton, and are able to move through even dense soil by means of the contraction of powerful circular muscles. To help in subsurface locomotion, each segment except the armored head has a ring of S-shaped setae embedded in the epidermal pit; unlike their smaller Earth cousins, these are arranged in a spiral pattern which facilitates breaking through rock and hard strata, giving the beast the nickname of “drillworm.” Passage can be surprisingly rapid, aided by the secretion of lubricating mucus.[NEWLINE][NEWLINE]The Siege Worm lives on organic matter, both living and dead, and requires at least one-third of its body weight per day to survive. The front segment, longer than the others, is able to open trilaterally with each portion having a row of chitin-like, backward-facing hooks. When moving, the worm scoops in large portions of soil, along with any organics within or upon the soil when it surfaces. After being pushed through the buccal cavity and esophagus, the material passes into a gizzard-like organ where muscular contractions grind the mass into fine particles, before passing into the intestines where pepsin, lipase and cellulose digest the proteins, fats and cellulose.[NEWLINE][NEWLINE]Having no organs of sight, Vermis Obsidionea possesses light- and touch-sensitive organs along their body which distinguish light intensity and amplify vibrations in the soil. They also have specialized chemoreceptors found in the head which react to chemical and scent stimuli. Due to these sense organs, the worms are drawn to strong vibrations and concentrations of organic matter, which has led to seeming “attacks” on colonial mining operations, farming endeavors and even settlements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SEA_DRAGON_PEDIA">
+			<Text>Serpentis Maris Ingentes[NEWLINE][NEWLINE]Legends of Old Earth populated the seas with monsters, serpents and all manner of fearsome beasts; mariners’ tales were often of creatures as yet unverified by science: sperm whales, giant squids, great white sharks, dolphins and the like. But this planet indeed has a sea monster: Serpentis Maris Ingentes, better known as the “sea dragon.” Zoologists have not yet classified this creature, for it has characteristics of both Earth Ophidia and Cephalopoda classes. Scientists have speculated that it is an oceanic evolution of the Vermis Obsidione Collossus, but that hypothesis remains a matter of intense debate.[NEWLINE][NEWLINE]A massive creature, the largest specimen found thus far measures slightly under 200 meters, yet weighed only 1275 kg, indicating that its natural habitat is in deep water – although it can survive for lengthy periods at shallower depths. Broad fins along the mantle provide locomotion, combined with an undulating contraction of symmetrical lateral muscles. Like the drillworm, it has a trifurcated mouth lined with hooks. While the primary staple of its diet is the planetary equivalent of krill, it too will eat almost any organic matter. The keenness of its sight is a matter of conjecture; it has been observed that its can focus its trinocular vision upon a single point. In addition, like some pit vipers on Earth, it has infrared-sensitive organs in the snout allowing it to track heat sources.[NEWLINE][NEWLINE]The latter means that it is drawn to ocean vessels, as it is unable to distinguish between organic and manufactured heat sources. This has led to a number of unfortunate encounters with colonial boats and ships, for Serpentis Maris has unexpectedly “attacked” such occasionally. In general, however, the species is not aggressive, and the greatest danger to shipping, swimmers and human aquaculture are inadvertent collisions. On the other hand, the flesh of the Serpentis Maris has proved to be a delicacy and hunting, similar to the outlawed whaling industry, these beasts have become a profitable pursuit in some settlements, leading to ever more violent encounters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_RAPTOR_BUG_PEDIA">
+			<Text>Magna Volucris Esurianti[NEWLINE][NEWLINE]Averaging the size of a standard terran horse (142 to 163 cm high, weighing around 400 kg), “raptor bugs” are obligate carnivores, equally deadly to indigenous and offworld animal life. With forward-facing eyes and auditory organs, chitinous mandibles for disarticulating prey, short digestive system, energy-efficient musculature and outer shell, Volucris Esurianti is the dominant carnivore in a wide range of climes and terrains. Raptor bugs tend to cluster around the hives of wolf beetles, their primary prey, but have also been observed free-ranging.[NEWLINE][NEWLINE]Primarily pack animals, until recently planetary ethologists considered raptor bugs to have only rudimentary intelligence, with no abstract thinking ability and only situational cognitive abilities. However, studies in recent years indicate that these animals have mental skills including rudimentary categorization, concept learning, habituation, knowledge retention and operant conditioning, indicating the potential for domestication by human colonists. Until more studies have been conducted on their temperament, domestication remains theoretical only.[NEWLINE][NEWLINE]In the “wild,” Volucris Esurianti hunts in family packs akin to those of Earth Canidae. Like wolves and feral dogs, raptor bugs locate and track prey, sometimes over lengthy distances, but utilizing sight and sound rather than scent. They will attempt to conceal themselves using vegetation and topology until close enough to rush the prey; this minimizes reaction time by the hunted, as well as maximizing effectiveness of Raptor Bug mandibles and claws. The primary method of killing is to tear off large chucks of the soft perineum and duodenum. If the prey flees, raptor bugs are capable of chases ranging as much as 10 km. When prey is abundant, Volucris Esurianti may engage in “surplus killing,” leaving the carcasses for scavengers.[NEWLINE][NEWLINE]A unique aspect of the raptor bug is its rest patterns. Unlike most animals, Volucris Escuranti does not “sleep” in unbroken periods of time. Rather, able to sleep both upright and reclining, it naps for short spans ranging from as little as 15 Earth minutes up to five hours in a planetary cycle. It can enter light sleep while upright using a “stay apparatus” mechanism in their legs which locks the joints; raptor bugs are thus able to react nigh instantly to any threat or opportunity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_MANTICORE_PEDIA">
+			<Text>Carabidae Peregrinus[NEWLINE][NEWLINE]A number of earth species have evolved which can launch liquid or solid projectiles, among these the Oogpister beetle, the Scytodes spider, the Archer fish and the Myrmeleontidae (antlions). However, on Earth the most common such “natural cannons” are the Brachinini and Ozaenini, better known collectively as “bombardier beetles.” While there may well be other forms of “spitting” insectoids on this planet as well, Carabidae Peregrinus is the only known example discovered thus far by colonists.[NEWLINE][NEWLINE]The most unique aspect of this xenomorph lies in its ability to hurl spheres filled with “Miasma” with unerring accuracy. The “Manticores,” as they are termed by non-scientists, are able to ingest spores from the Xenomass that grows liberally across the surface of the planet; an internal process as yet not well understood encapsulates portions of this in globes of thin membranes the creature manufactures. The globes are stored in an external pouch until launched. When required, the animal mixes internal stores of hydroquinone and peroxide – byproducts of its digestive system – which generate explosive pressure when a bio-catalyst is added. The globes are launched by the release of this pressure, and the poisonous and corrosive spores serve as a natural weapon.[NEWLINE][NEWLINE]Another unusual attribute of the Carabidae Peregrinus is that it appears to co-exist with Lupus Bruchus in the nests of the “Wolf Beetles.” The mechanics of this co-habitation – even whether mutualism or endosymbiosis – is as yet unknown due to the difficulty of observation in the field, but laboratory experiments indicate that the Manticores are protected and nurtured in separate chambers within the hive by the Wolf Beetles. Because they are larger than the hosts, the tunnels are larger than necessary for the passage of the latter. When the hive is threatened, the Manticores will muster to defend it. Although they do not swarm as Wolf Beetles do, adults will leave the nest periodically to seek food. Despite being scavengers, Manticores have been known to attack living prey upon occasion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_FLYER_PEDIA">
+			<Text>Magnum Vesparum[NEWLINE][NEWLINE]Classified as eusocial wasps, although much larger than their Terrestrial counterparts, the drones did not become problematic for colonial settlers until the latter encroached upon their habitat. Akin to hornets, Magnum Vesparum is omnivorous, feeding on plant-sugars as well as preying on other insectoid species, primarily the Wolf Beetles and lesser denizens of this planet. Also similar to hornets, drones are highly social and territorial. Should one be attacked or a nest threatened, even inadvertently, an “attack pheromone” is released and the population of the hive, save for the queens, will swarm, aggressively assaulting any other lifeforms in the area. Armed with powerful mandibles and a retractable chitinous stinger, a single drone can kill a human; a large number can give even a Siege Worm pause.[NEWLINE][NEWLINE]Magnum Vesparum lives in extensive sprawling, usually underground nests composed of linked chambers, filled with resilin-based dividers. Only recently have colonial scientists been able to explore the tunnels and chambers of a cleared nest, in the process discovering that the drones have a five-stage larval form after being hatched from eggs deposited by one of the queens. Unlike most Old Earth social insects, Magnum Vesparum colonies can have several queens, although the social hierarchy in such is as yet not fully understood. The five larval stages seem to be a contributing factor the species’ highly adaptive behavior patterns. It is a matter of intense debate among colonial scholars as to whether this is the result of merely response to changing conditions… or an indicator of a true “swarm intelligence.”[NEWLINE][NEWLINE]Some colonial scientists have argued that the existence of Magnum Vesparum is support for the theory of “parallel evolution” – that similar species will evolve, despite divergent environments, with similar characteristics to fill the same ecological niche. While social, flying insects are common on Old Earth in a wide variety of species, here it seems that the drones eliminated or out-survived their competitors in the aerial niche. Given their size and the engineering marvel of their wings located on the mesothorax, drones are capable of crossing even expanses of open ocean and thus have spread across the skies of this planet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_KRAKEN_PEDIA">
+			<Text>Vivens Bestia Insulae[NEWLINE][NEWLINE]The legendary “Kraken” of Norse mythology first appears in the saga Orvar-Oddr in which the hero encounters a fearsome beast in the Greenland Sea the size of an island, which submerged for days but would occasionally rise to the surface to devour ships, whales and other fare. Whereas the Kraken of Old Earth was legend, to the dismay of the human colonists, such actually exist on this planet. Designated a cephalopod by colonial zoologists for its bilateral symmetry, prominent head and set of tentacles, it also has a calcareous outer shell that protects the upper body, much like a crustacean. The Kraken has multiple, symmetrical rows of razor-sharp radula, capable of grinding through the toughest materials, set behind a powerful two-part chitinous beak.[NEWLINE][NEWLINE]Generally passive, Vivens Bestia Insulae can be roused to attack by perceived threats to its young or while feeding. Fortunately, at first colonial encounters with Kraken were infrequent as they rarely rose to the surface for lengthy periods; too, the indigenous Kraken are iteroparous, producing few eggs at a time with lengthy periods of infertility between. Once hatched, the length of time for the paralarvae to develop to adulthood spans decades. Finally, the sensory organs of Vivens Bestia Insulae are rudimentary and extremely inefficient when on the surface, so the beasts generally did not approach humans except by accident. These factors tended to limit the number of meetings with Kraken … at least until settlers established outposts on coastlines and began transit of the deep waters.[NEWLINE][NEWLINE]The Kraken is the largest known species native to the planet, exhibiting abyssal gigantism on a scale dwarfing anything on the home world. It has been theorized that this gigantism is the result of adaptation to scarce food sources in the deeps, coupled with cold temperatures and greater pressures than in coastal waters. From a shell dredged during a construction project, a full-grown adult can surpass 336 meters in length, being almost as broad; by contrast, this surpasses the flight-deck size of the largest aircraft carriers ever constructed by any Old Earth navy. Much is as yet unknown about the anatomy, life cycle and intelligence of Vivens Bestia Insulae, but research continues concerning this unique creature.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EARTHLING_SETTLER_STRATEGY">
+			<Text>Special Unit. Use this to found or increase the population of an Earthling Settlement. They are slow and extremely vulnerable, so protect them with combat units.[NEWLINE][NEWLINE]Earthling Settlers can only be produced from an Exodus Gate as part of the Promised Land Victory.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

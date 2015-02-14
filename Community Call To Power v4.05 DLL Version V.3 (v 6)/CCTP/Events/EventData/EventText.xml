@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FSETTLER">
+			<Text>A migrant [ICON_CITIZEN] settler has arrived at your capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FSETTLER">
+			<Text>Migrant Settler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BOOMNEVNT">
+			<Text>Has experienced an employment boom, increasing local [ICON_PRODUCTION] production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_BOOMNEVNT">
+			<Text>Increased Workforce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_LUXURYDIS">
+			<Text>A luxury resource has been discovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LUXURYDIS">
+			<Text>Luxury Discovered</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINEDMIN">
+			<Text>Over mining has resulted in the depletion of</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MINEDMIN">
+			<Text>Lost Resource</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FLOODEVNTLOSS">
+			<Text>'A flood has destroyed the resource:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FLOODEVNT">
+			<Text>There had been a flood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FLOODEVNT">
+			<Text>Local Flood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TORNADOEVNT">
+			<Text>A tornado has destroyed an improvement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TORNADOEVNT2">
+			<Text>Tornado has been sighted</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TORNADOEVNT">
+			<Text>Tornado Sighting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEVENT">
+			<Text>Your Civilization had experienced an economic boom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GOLDEVENT">
+			<Text>Economic Boom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BOMBEVNT">
+			<Text>Terrorists have bombed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BOMBEVNTEFFECT">
+			<Text>Resulting in the loss of [ICON_PRODUCTION] production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_BOMBEVNT">
+			<Text>Terrorist Bombing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MELTDOWNEVNT">
+			<Text>Has experienced a nuclear meltdown.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MELTDOWNEVNT">
+			<Text>Nuclear Meltdown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDCRASHEVENT">
+			<Text>Your civilization has experiance an financial crash.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GOLDCRASHEVENT">
+			<Text>Economic Crash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BABYBOOM">
+			<Text>Has recently had a populatoin boom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_BABYBOOM">
+			<Text>Baby Boom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_EXODUS">
+			<Text>There has been a poplulation exodus from </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EXODUS">
+			<Text>Exodus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MEDBAD">
+			<Text>Your policies on slavery have led to a [ICON_RESISTANCE]revolt in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MEDBAD">
+			<Text>Slave Revolt</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MEDGOOD">
+			<Text>A local militia has asisen to support your policy of Liberty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MEDGOOD">
+			<Text>Milita</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CLASSICALGOOD">
+			<Text>A sudden interest in [ICON_RESEARCH]science has sparked a new discovery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CLASSICALGOOD">
+			<Text>Scientific Dawn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CLASSICALBAD">
+			<Text>The death of a prominent thinker has caused a  setback in your current [ICON_RESEARCH]research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CLASSICALBAD">
+			<Text>Loss to Science</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RENGOOD">
+			<Text>Your pursuit of the policies of Aesthetics has led to a [ICON_CULTURE]cultural enlightenment in </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RENGOOD">
+			<Text>Cultural Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RENBADA">
+			<Text>Your people have tired of your religous policies[NEWLINE] and have started [ICON_RESISTANCE]rioting,[NEWLINE]causing danage to {1_targetName}</Text>
+		</Row>
+	
+		<Row Tag="TXT_KEY_NOTIFICATION_RENBADA">
+			<Text>Religous Unrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_INDGOOD">
+			<Text>An industrial revolution has sparked a construction boom in your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INDGOOD">
+			<Text>Construction Boom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_INDBAD">
+			<Text>The race to industrialize has lead to a disaster iresulting in the loss of [ICON_PRODUCTION]production in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INDBAD">
+			<Text>Industrial Disaster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MODBAD">
+			<Text>A disastrous diplomatic interaction has lead to the escalation of [ICON_WAR]war with</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MODBAD">
+			<Text>Diplomatic Disaster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MODGOOD">
+			<Text>A new era has brought wiht it the desire for social change in you people, giving you 2 free policies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MODGOOD">
+			<Text>Social Change</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PMODGOOD">
+			<Text>New mining and storage techniques have doubled your strategic resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PMODGOOD">
+			<Text>Strategic Boost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PMODBAD">
+			<Text>Sabotage at your storage facilities has lead to a loss of strategic resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PMODBAD">
+			<Text>Resource Sabotage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FUTBAD">
+			<Text>An alien vessel has attacked one of your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FUTBAD">
+			<Text>Alien Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FUTGOOD">
+			<Text>An elite team has arrived in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FUTGOODB">
+			<Text>[NEWLINE] to join your cause.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FUTGOOD">
+			<Text>Alien Specialists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT1GOOD">
+			<Text>A Militia has been raised in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PVENT1GOOD">
+			<Text>New Militia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT1BAD">
+			<Text>A rouge army is threatening</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PVENT1BAD">
+			<Text>Rouge Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT2GOOD">
+			<Text>The citizens of [ICON_CITY_STATE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT2GOODB">
+			<Text>[NEWLINE]have decided to join your civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT2BAD">
+			<Text>Dipolomatic relations with [ICON_CITY_STATE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT2BADB">
+			<Text>have soured.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PVENT2BAD">
+			<Text>Diplomatc Blunder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PVENT2GOOD">
+			<Text>CityState Absorbed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT3GOOD">
+			<Text>Your new policy has inspired your units to train harder, resulting in increased experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PVENT3GOOD">
+			<Text>Unit Training</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PVENT3BAD">
+			<Text>A unit has succumbed to the elements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PVENT3BAD">
+			<Text>Unit Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_JANGOOD">
+			<Text>Your people celebrate your greatness. Happiness and current production has increased.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_JANGOOD">
+			<Text>New Year Festivities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_JANOK">
+			<Text>Your people have enjoyed a modest festival, which will improve their happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_JANOK">
+			<Text>New Year Festivities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_JANBAD">
+			<Text>The people have shown their disapproval with your decision by going on strike, reducing production in your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_JANBAD">
+			<Text>New Year Festivities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FEBGOOD">
+			<Text>Another nations unit has defected to your side.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FEBGOOD">
+			<Text>Defection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FEBBAD">
+			<Text>A unit has defected to another nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FEBBAD">
+			<Text>Defection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MARBAD">
+			<Text>Your trade routes failed to bring in enough goods for the Spring Eqinox Festival, resulting in a loss of happiness form them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MARBAD">
+			<Text>Spring Eqinox</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GPEVENTGOOD">
+			<Text>The actions of your [ICON_GREAT_PEOPLE]Great Person has inspired another to take their place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GPEVENTGOOD">
+			<Text>Great Person</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GPEVENTBAD">
+			<Text>Assassination</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GPEVENTBAD">
+			<Text>Your [ICON_GREAT_PEOPLE]Great Person has fallen victim to an assassination.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TERRORBOMB">
+			<Text>Terrorist Bombing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TERRORBOMB">
+			<Text>Terrorists have detonated a nuclear device in[NEWLINE]one of your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITREVOLT">
+			<Text>Revolt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITREVOLT">
+			<Text>Due to your recent decision,[NEWLINE]Citizens have revolted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEASON_WINTER">
+			<Text>Winter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEASON_SPRING">
+			<Text>Spring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEASON_SUMMER">
+			<Text>Summer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEASON_FALL">
+			<Text>Fall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COVERTSUC">
+			<Text>Cover Actions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_COVERTSUC">
+			<Text>Your team has succeeded,[NEWLINE]in destryoing 3 units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOSUC">
+			<Text>Diplomatic Actions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DIPLOTSUC">
+			<Text>Your diplomats have succeeded,[NEWLINE]in their mission.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITREACT">
+			<Text>Covert Actions Failed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITREACT">
+			<Text>Your team has been discovered which has,[NEWLINE]escalated the situation to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITREACTD">
+			<Text>Diplomacy Failed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITREACTD">
+			<Text>Your diplomatic overtures were,[NEWLINE]have ended in disaster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITREACT1">
+			<Text>Covert Actions Failed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITREACT2">
+			<Text>Your team has been discovered[NEWLINE]carring out their mission.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITREACTD1">
+			<Text>Diplomacy Failed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITREACTD2">
+			<Text>Your diplomatic overtures were,[NEWLINE]not well received.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ASTGOOD">
+			<Text>SUCCESS!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ASTGOOD">
+			<Text>Your efforts to divert the impact,[NEWLINE]of the asteroid have succeeded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ASTBAD">
+			<Text>FAILURE!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ASTBAD">
+			<Text>Your efforts to divert the impact,[NEWLINE]have failed resulting in catasrophe.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ASTBAD2">
+			<Text>The missle did not destroy the asteroid,[NEWLINE]instead the fragments have caused a[NEWLINE]wider area of damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITYREVOLT">
+			<Text>REVOLT!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITYREVOLT">
+			<Text>A city has revolted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITZPRO">
+			<Text>Protest!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITZPRO">
+			<Text>Citizens are protesting.[NEWLINE][ICON_PRODUCTION]Production and Happiness reduced for 20 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITZPROEND">
+			<Text>Protest ended</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITZPROEND">
+			<Text>The citizen protest has ended.[NEWLINE][ICON_PRODUCTION]Production and Happiness restored.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DDRUG">
+			<Text>Drug Problems</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DDRUG">
+			<Text>The designer drug you left on the streets[NEWLINE]has resulted in many deaths in </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DDRUGP">
+			<Text>The designer drug you left on the streets[NEWLINE]Has resulted in deaths and users rioting and[NEWLINE}burning down the police station in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_HELP_INFO">
+			<Text>[ICON_ORDER] Order represents the general level of crime in the city.[NEWLINE]High crime can lead to the loss of Gold, Production,[NEWLINE]amd other unwanted effects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_POP">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from [ICON_CITIZEN] Population</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISORDER_FROM_POP">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from [ICON_CITIZEN] Population</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_TOURISM">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from low [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISORDER_FROM_TOURISM">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from [ICON_TOURISM] Tourism</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_BUILDINGS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from Buildings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISORDER_FROM_BUILDINGS">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from Buildings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_SPECIALISTS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from Specialists</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_IMPROVEMENTS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from Worked Improvements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISORDER_FROM_IMPOVEMENTS">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from Worked Improvements</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_PROCESSES">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from processes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISORDER_FROM_PROCESSES">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from processes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_UNHAPPY">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_ERA">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from era modification</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISORDER_FROM_UNHAPPY">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from unhappiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_GARRISON">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from garrison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_ORDER_FROM_TERRAIN">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISORDER_FROM_TERRAIN">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_ORDER] from decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_CITY_CRIME">
+			<Text>The City has [ICON_DISORDER] Crime!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_CITYVIEW_ORDER_TEXT">
+			<Text>Order</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORDER_OVERALL">
+			<Text>All Cities' [ICON_ORDER] Order:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_POLICY">
+			<Text>from [ICON_CULTURE] Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_TECH">
+			<Text>from [ICON_RESEARCH] Technologies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_GOLDENAGE">
+			<Text>from Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_UNHAPPY">
+			<Text>from [ICON_HAPPINESS_3] Unhappiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_CIV">
+			<Text>from Deciscions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_DIFFICULTY">
+			<Text>from Game Difficulty Penalty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_NEGATIVE">
+			<Text>[COLOR_WARNING_TEXT]{1_Percent}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ORDER_POSITIVE">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Percent}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ORDER_INFO">
+			<Text>Order is not enabled</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PILFER">
+			<Text>Minor Crime</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PILFER">
+			<Text>Criminals in {1_cityName}[NEWLINE] have stolen {2_iPilfer} [ICON_GOLD] from your coffers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PILFERRES">
+			<Text>Criminals in {1_cityName}[NEWLINE] have stolen {2_iPilfer} {3_resName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PILFERPROD">
+			<Text>Hooligans in {1_cityName}[NEWLINE] have caused the loss of {2_iPilfer} [ICON_PRODUCTION] pruduction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PILFERIMP">
+			<Text>A gang in {1_cityName}[NEWLINE] has pillaged an improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PILFERSCI">
+			<Text>Some scientists have left {1_cityName}[NEWLINE] due to the crime rate,[NEWLINE]lowering the cities research output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PILFERARS">
+			<Text>Arsonists in {1_cityName}[NEWLINE]have burned down your {2_buildingName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PILFERREV">
+			<Text>CITY LOST!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PILFERREV">
+			<Text>The extremely high crime in {1_cityName}[NEWLINE] has lead to the city being lost to criminal elements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PSREVOLT">
+			<Text>Revolution!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PSREVOLT">
+			<Text>Your high level of order has lead[NEWLINE]people to revolt against what they[NEWLINE]see as a Police State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CRIMEREVOLT">
+			<Text>Chaos!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CRIMEREVOLT">
+			<Text>The high crime rate of you nation[NEWLINE]has plunged you civilization into chaos,[NEWLINE]and eroded your control of some cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_ORDER">
+			<Text>Martial Law</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_ORDER_HELP">
+			<Text>Martial law is inacted to regain order over a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_ORDER_STRATEGY">
+			<Text>Use when disorder is getting too out of hand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SOLARSTRM">
+			<Text>Solar Flares!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SOLARSTRM">
+			<Text>Solar Flares have disrupted out systems[NEWLINE]causing the loss of {1_iStormEffect} electricity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QUAKEGOOD">
+			<Text>Quake Subsided</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUAKEGOOD">
+			<Text>Whether through an act of the gods, or your own will,[NEWLINE]the quaking has subsided with no damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QUAKEBAD">
+			<Text>Earth Quake!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUAKEBAD">
+			<Text>Your sacrifice must not have been enough,[NEWLINE]the gods have sent forth an earthquake[NEWLINE]causing damage, and {1_iQUakeKill} death(s).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUAKEBADB">
+			<Text>The earthquake cause some damage to the city,[NEWLINE]but thanks to your actions, no deaths.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUAKEBADC">
+			<Text>The earth did not bow,[NEWLINE]a quake has caused damage, and left {1_iQUakeKill} dead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_IRR">
+			<Text>Escaped</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_IRR">
+			<Text>The engineer managed to elude your agents[NEWLINE]and escape to another country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_KIDNAPN">
+			<Text>Noble Found</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_KIDNAPN">
+			<Text>Your soldiers have found your noble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MILCOUP">
+			<Text>Military Coup.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MILCOUP">
+			<Text>Your Great General has attempted a coup,[NEWLINE]taking {1_iNumCoup} units with him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_WARGOOD">
+			<Text>Peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WARGOOD">
+			<Text>The summit talks have resulted in the signing of peace treaties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_WARBAD">
+			<Text>World War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WARBAD">
+			<Text>The summit talks deteriorated, leading to the escalation of World War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ADDRESOURCE">
+			<Text>New Resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ADDRESOURCE">
+			<Text>A new resource source has been discovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_WCONTROLGOOD">
+			<Text>SUCCESS.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WCONTROLGOOD">
+			<Text>The Weather Control System successflly[NEWLINE]dissipated the hurricane.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_WEATHERONE">
+			<Text>Hurricane.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WEATHERONE">
+			<Text>The Weather Control System malfunctioned,[NEWLINE]causing the storm to intensify, resulting[NEWLINE]in increased damage and {1_iPopDown} deaths.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WEATHERTWO">
+			<Text>The Weather Control System malfunctioned,[NEWLINE]causing the storm to intensify, resulting[NEWLINE]in increased damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WEATHERTHREE">
+			<Text>The hurricane has struck,[NEWLINE]leaving damage in its' wake, but[NEWLINE]thankfully no deaths.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRIBEUNIT">
+			<Text>Unit Killed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRIBEUNIT">
+			<Text>A unit was lost in the razing of the village.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRIBEUNITA">
+			<Text>Communication Failed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRIBEUNITA">
+			<Text>Our hand signal for hello was aparently interpreted[NEWLINE]as a rather rude insult.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRIBEUNITB">
+			<Text>Gift Rejected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRIBEUNITB">
+			<Text>The tribe holds no value in gold[NEWLINE]and mistook your offering as an insult.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_BADWATER">
+			<Text>Success.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BADWATER">
+			<Text>It seems the gods were listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_BADWATERB">
+			<Text>Failure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BADWATERB">
+			<Text>The gods must have turned a deaf ear to your shamen[NEWLINE]resulting in the death of {1_iToDie}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FORUMB">
+			<Text>Unit Defection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FORUMB">
+			<Text>{1_iUnitsLost} unit(s) loyal to executed Senators[NEWLINE]have defected to {1_otherCivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITYRIOT">
+			<Text>Riot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITYRIOT">
+			<Text>Citizens have rioted, causing damage to the city.[NEWLINE]The local garrison was killed in the chaos.</Text>
+		</Row>
+	
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITYRIOTB">
+			<Text>Citizens have rioted, causing damage to the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_BLIZZARD">
+			<Text>Blizzard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BLIZZARDA">
+			<Text>A blizzard has hit {1_pCityName},[NEWLINE]Causing a death and loss of production.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BLIZZARDB">
+			<Text>A blizzard hit, but luckily no cities[NEWLINE]were impacted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SANDSTORM">
+			<Text>SandStorm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SANDSTORMA">
+			<Text>A sandstorm has hit,[NEWLINE]damaging {1_iUnitsHit} unit(s).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SANDSTORMB">
+			<Text>There has been a sandstorm,[NEWLINE]but no units were near.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FORESTFIRE">
+			<Text>Fire!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FORESTFIRE">
+			<Text>A fire has burned through a plot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RAIN">
+			<Text>Heavy Rain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RAIN">
+			<Text>A period of heavy rain in  {1_pCityName}[NEWLINE]has increased crop output for 3 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DROUGHT">
+			<Text>Drought.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DROUGHT">
+			<Text>{1_pCityName} is experiencing a harsh drought[NEWLINE]crop output is decreased for 3 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HURRICANE">
+			<Text>Hurricane.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_HURRICANE">
+			<Text>Hurricane.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HURRHIT">
+			<Text>Hurricane Landfall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_HURRHIT">
+			<Text>the hurricane has made landfall[NEWLINE]Damaging anything in its' path.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TAXREVOLT">
+			<Text>Tax Revolt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TAXREVOLT">
+			<Text>Citizens have revolted against what they believe to be[NEWLINE]unbearably high tax rates.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TEAPARTY">
+			<Text>Tax Protest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TEAPARTY">
+			<Text>Citizens have protested your high taxation by destroying[NEWLINE]a source of {1_luxuryName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NATSTRIKE">
+			<Text>Strike Broken.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NATSTRIKE">
+			<Text>Your soldiers have managed to break the rail strike.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_STRIKEEND">
+			<Text>Strike Ended.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_STRIKEEND">
+			<Text>The Railroad companies and workers have managed[NEWLINE]to come to an agreement and[NEWLINE]end the strike.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RAILSTRK">
+			<Text>Riots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RAILSTRK">
+			<Text>Widespread rioting has broke out[NEWLINE]in response to your dealings with[NEWLINE]then strikers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ECOCOLLAPSE">
+			<Text>Market Crash.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ECOCOLLAPSE">
+			<Text>The markets have crashed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NANOBOTS">
+			<Text>Swarms of nanomachines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NANOBOTS">
+			<Text>Swarms of nanoassemblers have gotten loose, and begun to convert any material they encounter according to their programming - including replicating more of themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NANOBOTSB">
+			<Text>In the process of testing, a swarm of nanoassemblers has gotten loose, and has begun to convert any material they encounter according to their programming - including replicating more of themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NANOBOTSC">
+			<Text>In the process of shutting down the lab, a swarm of nanoassemblers has gotten loose, and has begun to convert any material they encounter according to their programming - including replicating more of themselves.</Text>
+		</Row>
+		
+		
+		
+
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_BURN">
+			<Text>Ashes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BURN_TEXT">
+			<Text>Remnants of forest fire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HURRICANE">
+			<Text>Hurricane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HURRICANE_TEXT">
+			<Text>Hurricane.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GREY_GOO">
+			<Text>Grey Goo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GREY_GOO_TEXT">
+			<Text>Swarms of nanomachines.</Text>
+		</Row>
+		
+	</Language_en_US>
+
+</GameData>

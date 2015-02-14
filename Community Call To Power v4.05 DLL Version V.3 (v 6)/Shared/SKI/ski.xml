@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/19/2013 7:36:05 PM -->
+<GameData>
+	<Features>
+		<Row>
+			<Type>FEATURE_SKI</Type>
+			<Description>TXT_KEY_TERRAIN_MOUNTAIN</Description>
+			<Civilopedia>TXT_KEY_CIV5_SPECIALTERRAIN_MOUNTAINS_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_TERRAIN_MOUNTAIN</ArtDefineTag>
+			<EffectTypeTag>DIRT</EffectTypeTag>
+			<PortraitIndex>9</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_BERG</Type>
+			<Description>TXT_KEY_TERRAIN_HILL</Description>
+			<Civilopedia>TXT_KEY_CIV5_SPECIALTERRAIN_HILLS_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_TERRAIN_HILL</ArtDefineTag>
+			<EffectTypeTag>DIRT</EffectTypeTag>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Features>
+
+</GameData>

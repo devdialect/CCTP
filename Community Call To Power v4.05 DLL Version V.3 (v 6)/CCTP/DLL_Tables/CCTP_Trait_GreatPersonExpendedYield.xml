@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/20/2014 1:47:58 PM -->
+<GameData>
+
+<!--*****Trait_GreatPersonExpendedYield*****-->
+<Trait_GreatPersonExpendedYield>
+		<!--***Next***
+<Row>
+	<TraitType>TRAIT_KRULL</TraitType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>25</Yield>
+</Row>-->
+	
+</Trait_GreatPersonExpendedYield>
+
+</GameData>
+<!--Have a nice Day;=)-->

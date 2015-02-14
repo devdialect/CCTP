@@ -1,0 +1,2522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--CCTP by Gilgamesch-->
+<GameData>
+
+
+	<Units>
+
+		<!--Added 2.8.14-->
+
+		<!--*************-->
+		<Update>
+			<Set PrereqTech="TECH_INFERNAL_COMBUSTION"/>
+			<Where Type="UNIT_SS_ENGINE" />
+		</Update>
+		<!--*************-->
+		<!-- New-->
+		<Row>
+			<Class>UNITCLASS_BARBARIAN_AXMANX</Class>
+			<Type>UNIT_BARBARIAN_AXMANX</Type>
+			<PrereqTech>TECH_AXT</PrereqTech>
+			<Combat>9</Combat>
+			<RangedCombat>9</RangedCombat>
+			<Cost>56</Cost>
+			<FaithCost>112</FaithCost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Range>1</Range>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_AXMAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_AXMAN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_AXMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_AXMAN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_CHIVALRY</ObsoleteTech>
+			<!--<GoodyHutUpgradeUnitClass>UNITCLASS_ARCHER</GoodyHutUpgradeUnitClass>-->
+			<AdvancedStartCost>15</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_HAND_AXE_BARBARIAN</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>9</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>9</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>UNIT_LAND_IRONCLAD</Type>
+			<Class>UNITCLASS_LAND_IRONCLAD</Class>
+			<PrereqTech>TECH_LANDSHIPS</PrereqTech>
+			<Combat>60</Combat>
+			<Cost>750</Cost>
+			<FaithCost>1500</FaithCost>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LAND_IRONCLAD</Description>
+			<Civilopedia>TXT_KEY_UNIT_LAND_IRONCLAD_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_LAND_IRONCLAD_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_LAND_IRONCLAD_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>50</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_SMOKEY_LANDSHIP_LEVEL_1</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>3</UnitFlagIconOffset>
+			<UnitFlagAtlas>EXPANSION_SCEN_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_UNIT_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>UNIT_LIKTOR</Type>
+			<Description>TXT_KEY_UNIT_LIKTOR</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_LIKTOR_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_LIKTOR</Help>
+			<Strategy>TXT_KEY_UNIT_LIKTOR_X</Strategy>
+			<Combat>180</Combat>
+			<Cost>3500</Cost>
+			<Moves>7</Moves>
+			<Class>UNITCLASS_LIKTOR</Class>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<PrereqTech>TECH_HOMO_SUPERIOR</PrereqTech>
+			<AdvancedStartCost>120</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>7</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_LICTOR</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>33</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>52</PortraitIndex>
+			<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_UAV</Class>
+			<Type>UNIT_UAV</Type>
+			<PrereqTech>TECH_TELECOM</PrereqTech>
+			<Combat>14</Combat>
+			<RangedCombat>40</RangedCombat>
+			<Cost>300</Cost>
+			<FaithCost>600</FaithCost>
+			<!-- <Cost>1</Cost> -->
+			<Moves>4</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_RECON</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_UAV</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_UAV_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_UAV_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_UAV</Help>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>70</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>2</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_UAV</UnitArtInfo>
+			<UnitFlagAtlas>UNITS_UAV_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>CIV_UNIT_ATLAS_UAV</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_LABORER</Class>
+			<Type>UNIT_LABORER</Type>
+			<PrereqTech>TECH_COMPOSITE_TOOLS</PrereqTech>
+			<Cost>20</Cost>
+			<FaithCost>40</FaithCost>
+			<Moves>2</Moves>
+			<Capture>UNITCLASS_LABORER</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LABER</Description>
+			<Civilopedia>TXT_KEY_CIV5_LABER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_WORKER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_LABER_HELP</Help>
+			<AdvancedStartCost>5</AdvancedStartCost>
+			<WorkRate>50</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<ObsoleteTech>TECH_MINING</ObsoleteTech>
+			<UnitArtInfo>ART_DEF_UNIT_LABORER</UnitArtInfo>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_ZWILLE</Class>
+			<Type>UNIT_ZWILLE</Type>
+			<PrereqTech>TECH_SLINGER</PrereqTech>
+			<Combat>4</Combat>
+			<RangedCombat>6</RangedCombat>
+			<Cost>36</Cost>
+			<FaithCost>72</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ZWILLE</Description>
+			<Civilopedia>TXT_KEY_CIV5_ZWILLE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ZWILLE_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_ZWILLE</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_CONSTRUCTION</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_COMPOSITE_BOWMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>15</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_U_INCAN_SLINGER</UnitArtInfo>
+			<IconAtlas>DLC02_UNIT_ATLAS</IconAtlas>
+			<UnitFlagAtlas>DLC02_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_SIEGE_TOWER</Class>
+			<Type>UNIT_SIEGE_TOWER</Type>
+			<PrereqTech>TECH_FORTIFICATION</PrereqTech>
+			<!--assyrians have 12-->
+			<Combat>10</Combat>
+			<Cost>225</Cost>
+			<FaithCost>450</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<HurryCostModifier>20</HurryCostModifier>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SIEGE_TOWER</Description>
+			<Civilopedia>TXT_KEY_CIV5_SIEGE_TOWER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SIEGE_TOWER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_SIEGE_TOWER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<Mechanized>true</Mechanized>
+			<ObsoleteTech>TECH_PHYSICS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_TREBUCHET</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_U_ASSYRIAN_SIEGE_TOWER</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>17</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
+			<MoveRate>ARTILLERY</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_RAMMBOCK</Class>
+			<Type>UNIT_RAMMBOCK</Type>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Combat>8</Combat>
+			<!--huns have 10-->
+			<Cost>75</Cost>
+			<FaithCost>150</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_RAMMBOCK</Description>
+			<Civilopedia>TXT_KEY_CIV5_RAMMBOCK_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_RAMMBOCK_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_RAMMBOCK</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_PHYSICS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_TREBUCHET</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>15</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_U_HUNS_BATTERING_RAM</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>2</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<!--
+		<Row>
+			<Class>UNITCLASS_CARGO_AIR</Class>
+			<Type>UNIT_CARGO_AIR</Type>
+			<PrereqTech>TECH_SAILING</PrereqTech>
+			<Cost>1000</Cost>
+			<HurryCostModifier>20</HurryCostModifier>
+			<NoMaintenance>true</NoMaintenance>
+			<Moves>10</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_TRADE_UNIT</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CARGO_AIR</Description>
+			<Civilopedia>TXT_KEY_CIV5_CARGO_AIR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CARGO_AIR_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CARGO_AIR</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<XPValueDefense>3</XPValueDefense>
+			<Trade>true</Trade>
+			<Immobile>true</Immobile>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitArtInfo>ART_DEF_UNIT_CARGO_SHIP</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>4</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+-->
+		<Row>
+			<Class>UNITCLASS_EXPLORER</Class>
+			<Type>UNIT_EXPLORER</Type>
+			<Cost>-1</Cost>
+			<Moves>5</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ARTIST</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GREAT_EXPLORER</Description>
+			<Civilopedia>TXT_KEY_CIV5_GREATEXPLORERS_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_GREAT_EXPLORER_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_MERCHANT</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>4</UnitFlagIconOffset>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_EXPLORER</IconAtlas>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_GALLEYX</Class>
+			<Type>UNIT_GALLEYX</Type>
+			<PrereqTech>TECH_WAYFINDING</PrereqTech>
+			<Combat>4</Combat>
+			<RangedCombat>2</RangedCombat>
+			<Cost>80</Cost>
+			<FaithCost>160</FaithCost>
+			<Moves>1</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GALLEYX</Description>
+			<Civilopedia>TXT_KEY_UNIT_GALLEYX_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_GALLEYX_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_GALLEYX</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_SHIPBUILDING</ObsoleteTech>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_BARBARIAN_GALLEY</UnitArtInfo>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>23</PortraitIndex>
+			<MoveRate>WOODEN_BOAT</MoveRate>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!-- Allowes to capture this Great People -->
+		<Update>
+			<Set Capture ="UNITCLASS_ENGINEER"/>
+			<Where Type ="UNIT_ENGINEER"/>
+		</Update>
+		<Update>
+			<Set Capture ="UNITCLASS_MERCHANT"/>
+			<Where Type ="UNIT_MERCHANT"/>
+		</Update>
+		<Update>
+			<Set Capture ="UNITCLASS_SCIENTIST"/>
+			<Where Type ="UNIT_SCIENTIST"/>
+		</Update>
+		<Update>
+			<Set Capture ="UNITCLASS_ARCHAEOLOGIST"/>
+			<Where Type ="UNIT_ARCHAEOLOGIST"/>
+		</Update>
+		<Update>
+			<Set Capture ="UNITCLASS_WRITER"/>
+			<Where Type ="UNIT_UNITCLASS_WRITER"/>
+		</Update>
+		<Update>
+			<Set Capture ="UNITCLASS_ARTIST"/>
+			<Where Type ="UNIT_ARTIST"/>
+		</Update>
+		<Update>
+			<Set Capture ="UNITCLASS_MUSICIAN"/>
+			<Where Type ="UNIT_MUSICIAN"/>
+		</Update>
+
+		<!--Ancient Era-->
+
+		<Update>
+			<Set PrereqTech ="TECH_SOCIAL_STRUCTURE"/>
+			<Where Type ="UNIT_SETTLER"/>
+		</Update>
+
+		<Update>
+			<Set PrereqTech ="TECH_CARAVANS"/>
+			<Where Type ="UNIT_CARAVAN"/>
+		</Update>
+		<Update>
+			<Set PrereqTech ="TECH_ARGONAUTEN"/>
+			<Where Type ="UNIT_CARGO_SHIP"/>
+		</Update>
+		<Update>
+			<Set PrereqTech ="TECH_PROMETHEUS"/>
+			<Where Type ="UNIT_BARBARIAN_AXMAN"/>
+		</Update>
+
+		<!--CAVEMAN-->
+		<Row>
+			<Class>UNITCLASS_CAVEMAN</Class>
+			<Type>UNIT_CAVEMAN</Type>
+			<Combat>5</Combat>
+			<Cost>20</Cost>
+			<FaithCost>40</FaithCost>
+			<Moves>1</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CAVEMAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_CAVEMAN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CAVEMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CAVEMAN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_BRONZE_WORKING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_WARRIOR</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_BARBARIAN_EURO</UnitArtInfo>
+			<PortraitIndex>0</PortraitIndex>
+			<UnitFlagAtlas>FLAG_ATLAS_PRE</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_PRE</IconAtlas>
+		</Row>
+
+		<!--FIRE_EATER-->
+		<Row>
+			<Class>UNITCLASS_FIRE_EATER</Class>
+			<Type>UNIT_FIRE_EATER</Type>
+			<PrereqTech>TECH_CEREMONIAL_DANCE</PrereqTech>
+			<Combat>4</Combat>
+			<RangedCombat>5</RangedCombat>
+			<Cost>30</Cost>
+			<FaithCost>60</FaithCost>
+			<Moves>1</Moves>
+			<Range>1</Range>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_FIRE_EATER</Description>
+			<Civilopedia>TXT_KEY_CIV5_FIRE_EATER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_FIRE_EATER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_FIRE_EATER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_ARCHERY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ARCHER</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>15</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_FIRE_EATER</UnitArtInfo>
+			<UnitFlagAtlas>FLAG_ATLAS_PRE</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_PRE</IconAtlas>
+		</Row>
+
+		<!--SHAMAN-->
+		<Row>
+			<Class>UNITCLASS_SHAMAN</Class>
+			<Type>UNIT_SHAMAN</Type>
+			<PrereqTech>TECH_SHAMANISM</PrereqTech>
+			<Combat>4</Combat>
+			<RangedCombat>6</RangedCombat>
+			<Range>2</Range>
+			<Cost>-1</Cost>
+			<FaithCost>100</FaithCost>
+			<!--<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>-->
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SHAMAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_SHAMAN_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_SHAMAN</Help>
+			<UnitArtInfo>ART_DEF_UNIT_U_MONGOLIAN_KESHIK</UnitArtInfo>
+			<UnitFlagIconOffset>4</UnitFlagIconOffset>
+			<PortraitIndex>30</PortraitIndex>
+			<IconAtlas>ICON_GOT</IconAtlas>
+		</Row>
+
+
+		<!-- SAVAGE -->
+		<Row>
+			<Class>UNITCLASS_SAVAGE</Class>
+			<Type>UNIT_SAVAGE</Type>
+			<PrereqTech>TECH_TRIBAL_WARRIOR</PrereqTech>
+			<Combat>6</Combat>
+			<Cost>40</Cost>
+			<FaithCost>60</FaithCost>
+			<Moves>1</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SAVAGE</Description>
+			<Civilopedia>TXT_KEY_CIV5_SAVAGE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SAVAGE_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_SAVAGE</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MATHEMATICS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_WARRIOR</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_SAVAGE</UnitArtInfo>
+			<UnitFlagAtlas>FLAG_ATLAS_PRE</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_PRE</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<!-- Mounted Scout -->
+		<Row>
+			<Class>UNITCLASS_MOUNTED_SCOUT</Class>
+			<Type>UNIT_MOUNTED_SCOUT</Type>
+			<PrereqTech>TECH_CARAVANS</PrereqTech>
+			<Combat>6</Combat>
+			<Cost>85</Cost>
+			<FaithCost>170</FaithCost>
+			<Moves>3</Moves>
+			<HurryCostModifier>20</HurryCostModifier>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MOUNTED_SCOUT</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_MOUNTED_SCOUT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MOUNTED_SCOUT_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_MOUNTED_SCOUT</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_BONDS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_HORSEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_HORSEMAN</UnitArtInfo>
+			<UnitFlagIconOffset>17</UnitFlagIconOffset>
+			<IconAtlas>ICON_GOT</IconAtlas>
+			<PortraitIndex>13</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+		</Row>
+
+
+		<Update>
+			<Set Cost="110" ObsoleteTech="TECH_WOODWORKING"/>
+			<Where Type="UNIT_ARCHER" />
+		</Update>
+		<Update>
+			<Set Cost="115" ObsoleteTech="TECH_WOODWORKING"/>
+			<Where Type="UNIT_BABYLONIAN_BOWMAN" />
+		</Update>
+		<Update>
+			<Set Cost="100" PrereqTech="TECH_SLINGER" ObsoleteTech="TECH_WOODWORKING"/>
+			<Where Type="UNIT_INCAN_SLINGER" />
+		</Update>
+		<Update>
+			<Set Cost="100" PrereqTech="TECH_WARFARE" ObsoleteTech="TECH_WOODWORKING"/>
+			<Where Type="UNIT_MAYAN_ATLATLIST" />
+		</Update>
+		<Update>
+			<Set Cost="120" PrereqTech="TECH_CARRIAGES" />
+			<Where Type="UNIT_CHARIOT_ARCHER" />
+		</Update>
+		<Update>
+			<Set Cost="120" PrereqTech="TECH_CARRIAGES" />
+			<Where Type="UNIT_EGYPTIAN_WARCHARIOT" />
+		</Update>
+		<Update>
+			<Set Cost="120" PrereqTech="TECH_CARRIAGES" />
+			<Where Type="UNIT_INDIAN_WARELEPHANT" />
+		</Update>
+		<Update>
+			<Set Cost="120" PrereqTech="TECH_CARRIAGES" />
+			<Where Type="UNIT_HUN_HORSE_ARCHER" />
+		</Update>
+		<Update>
+			<Set Cost="120" PrereqTech="TECH_MILITARY_TRAINING" />
+			<Where Type="UNIT_SPEARMAN" />
+		</Update>
+		<Update>
+			<Set Cost="140" PrereqTech="TECH_MILITARY_TRAINING"/>
+			<Where Type="UNIT_GREEK_HOPLITE" />
+		</Update>
+		<Update>
+			<Set Cost="120" PrereqTech="TECH_MILITARY_TRAINING"/>
+			<Where Type="UNIT_PERSIAN_IMMORTAL" />
+		</Update>
+		<Update>
+			<Set Cost="120" />
+			<Where Type="UNIT_HUN_BATTERING_RAM" />
+		</Update>
+		<Update>
+			<Set Cost="120" PrereqTech="TECH_MILITARY_TRAINING"/>
+			<Where Type="UNIT_CELT_PICTISH_WARRIOR" />
+		</Update>
+		<Update>
+			<Set Cost="80" PrereqTech ="TECH_WARFARE"/>
+			<Where Type="UNIT_WARRIOR" />
+		</Update>
+
+		<Update>
+			<Set Cost="80" PrereqTech="TECH_WARFARE"/>
+			<Where Type="UNIT_POLYNESIAN_MAORI_WARRIOR" />
+		</Update>
+		<Update>
+			<Set Cost="80" PrereqTech="TECH_WARFARE"/>
+			<Where Type="UNIT_AZTEC_JAGUAR" />
+		</Update>
+		<Update>
+			<Set Cost="90" PrereqTech="TECH_SHIPBUILDING" ObsoleteTech="TECH_RUDDER"/>
+			<Where Type="UNIT_TRIREME" />
+		</Update>
+		<Update>
+			<Set Cost="90" PrereqTech="TECH_SHIPBUILDING" ObsoleteTech="TECH_RUDDER"/>
+			<Where Type="UNIT_BYZANTINE_DROMON" />
+		</Update>
+		<Update>
+			<Set Cost="90" PrereqTech="TECH_SHIPBUILDING" ObsoleteTech="TECH_RUDDER"/>
+			<Where Type="UNIT_CARTHAGINIAN_QUINQUEREME" />
+		</Update>
+		<Update>
+			<Set Cost="45" PrereqTech ="TECH_SCOUTING" ObsoleteTech="TECH_CARAVANS"/>
+			<Where Type="UNIT_SCOUT" />
+		</Update>
+		<!--Shoshone buff-->
+		<Update>
+			<Set Cost="50" PrereqTech ="TECH_SCOUTING" ObsoleteTech="TECH_CARAVANS"/>
+			<Where Type="UNIT_SHOSHONE_PATHFINDER" />
+		</Update>
+
+		<Update>
+			<Set Cost="80" PrereqTech ="TECH_FISHING"/>
+			<Where Type="UNIT_WORKBOAT" />
+		</Update>
+		<Update>
+			<Set Cost="70" PrereqTech ="TECH_PROMETHEUS" ObsoleteTech="TECH_DYNAMITE" />
+			<Where Type="UNIT_WORKER" />
+		</Update>
+
+		<!--CLASSICAL ERA-->
+		<Update>
+			<Set Cost="200" PrereqTech="TECH_SIEGE_WARFARE" ObsoleteTech="TECH_SIEGE_ENGINES"/>
+			<Where Type="UNIT_ROMAN_BALLISTA" />
+		</Update>
+		<Update>
+			<Set Cost="200" PrereqTech="TECH_SIEGE_WARFARE" ObsoleteTech="TECH_SIEGE_ENGINES"/>
+			<Where Type="UNIT_CATAPULT" />
+		</Update>
+		<Update>
+			<Set Cost="165" />
+			<Where Type="UNIT_GREEK_COMPANIONCAVALRY" />
+		</Update>
+		<Update>
+			<Set Cost="165" />
+			<Where Type="UNIT_HORSEMAN" />
+		</Update>
+		<Update>
+			<Set Cost="165" />
+			<Where Type="UNIT_BYZANTINE_CATAPHRACT" />
+		</Update>
+		<Update>
+			<Set Cost="220" />
+			<Where Type="UNIT_CARTHAGINIAN_FOREST_ELEPHANT" />
+		</Update>
+		<Update>
+			<Set Cost="180" ObsoleteTech="TECH_METALLURGY" />
+			<Where Type="UNIT_SWORDSMAN" />
+		</Update>
+		<Update>
+			<Set Cost="180" />
+			<Where Type="UNIT_IROQUOIAN_MOHAWKWARRIOR" />
+		</Update>
+		<Update>
+			<Set Cost="180" />
+			<Where Type="UNIT_ROMAN_LEGION" />
+		</Update>
+		<Update>
+			<Set Cost="180" PrereqTech="TECH_WOODWORKING" ObsoleteTech="TECH_METAL_CASTING"/>
+			<Where Type="UNIT_COMPOSITE_BOWMAN" />
+		</Update>
+		<!--MEDIEVAL ERA-->
+		<Row>
+			<Class>UNITCLASS_KNIGHT_TEMPLAR</Class>
+			<Type>UNIT_KNIGHT_TEMPLAR</Type>
+			<Combat>6</Combat>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<PrereqTech>TECH_CRUSADE</PrereqTech>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_KNIGHT_TEMPLAR</Description>
+			<Civilopedia>TXT_KEY_CIVIL_UNIT_KNIGHT_TEMPLAR</Civilopedia>
+			<Strategy>TXT_KEY_STRATEGY_UNIT_KNIGHT_TEMPLAR</Strategy>
+			<Help>TXT_KEY_HELP_UNIT_KNIGHT_TEMPLAR</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<Conscription>1</Conscription>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_KNIGHT_TEMPLAR</UnitArtInfo>
+			<UnitFlagIconOffset>3</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<Update>
+			<Set Cost="300" ObsoleteTech="TECH_MILITARY_TRADITION"/>
+			<Where Type="UNIT_SPANISH_CONQUISTADOR" />
+		</Update>
+		<Update>
+			<Set Cost="300" ObsoleteTech="TECH_MILITARY_TRADITION"/>
+			<Where Type="UNIT_MONGOLIAN_KESHIK" />
+		</Update>
+		<Update>
+			<Set Cost="300" ObsoleteTech="TECH_RIFLING"/>
+			<Where Type="UNIT_KNIGHT" />
+		</Update>
+		<Update>
+			<Set Cost="300" ObsoleteTech="TECH_RIFLING"/>
+			<Where Type="UNIT_ARABIAN_CAMELARCHER" />
+		</Update>
+		<Update>
+			<Set Cost="300" ObsoleteTech="TECH_RIFLING"/>
+			<Where Type="UNIT_SIAMESE_WARELEPHANT" />
+		</Update>
+		<Update>
+			<Set Cost="300" ObsoleteTech="TECH_RIFLING"/>
+			<Where Type="UNIT_SONGHAI_MUSLIMCAVALRY" />
+		</Update>
+		<Update>
+			<Set Cost="300" PrereqTech="TECH_METAL_CASTING" />
+			<Where Type="UNIT_CROSSBOWMAN" />
+		</Update>
+		<Update>
+			<Set Cost="300" PrereqTech="TECH_METAL_CASTING" />
+			<Where Type="UNIT_CHINESE_CHUKONU" />
+		</Update>
+		<Update>
+			<Set Cost="300" PrereqTech="TECH_METAL_CASTING" />
+			<Where Type="UNIT_ENGLISH_LONGBOWMAN" />
+		</Update>
+
+		<!--BNW-->
+		<Update>
+			<Set Cost="225" PrereqTech="TECH_FEUDALISM" ObsoleteTech="TECH_MILITARY_TRADITION"/>
+			<Where Type="UNIT_ZULU_IMPI" />
+		</Update>
+		<Update>
+			<Set Cost="485" PrereqTech="TECH_STEEL" ObsoleteTech="TECH_ADVANCED_FLIGHT" />
+			<Where Type="UNIT_POLISH_WINGED_HUSSAR" />
+		</Update>
+		<Update>
+			<Set Cost="210" PrereqTech="TECH_SIEGE_WARFARE" ObsoleteTech="TECH_SIEGE_ENGINES"/>
+			<Where Type="UNIT_ASSYRIAN_SIEGE_TOWER" />
+		</Update>
+		<Update>
+			<Set Cost="955" PrereqTech="TECH_BLITZKRIEG" ObsoleteTech="TECH_EXOSKELETONS" />
+			<Where Type="UNIT_BRAZILIAN_PRACINHA" />
+		</Update>
+		<Update>
+			<Set Cost="600" PrereqTech="TECH_CAVALRY_RAIDS" ObsoleteTech="TECH_TRACKED_VEHICLES" />
+			<Where Type="UNIT_BERBER_CAVALRY" />
+		</Update>
+		<Update>
+			<Set Cost="600" PrereqTech="TECH_CAVALRY_RAIDS" ObsoleteTech="TECH_TRACKED_VEHICLES" />
+			<Where Type="UNIT_SHOSHONE_COMANCHE_RIDERS" />
+		</Update>
+		<Update>
+			<Set Cost="195" PrereqTech="TECH_IRON_WORKING" ObsoleteTech="TECH_STEEL" />
+			<Where Type="UNIT_KRIS_SWORDSMAN" />
+		</Update>
+		<!--<Update>
+			<Set Cost="965" PrereqTech="TECH_BLITZKRIEG" ObsoleteTech="TECH_EXOSKELETONS" />
+			<Where Type="UNIT_PORTUGUESE_NAU" />
+		</Update>
+		<Update>
+			<Set Cost="965" PrereqTech="TECH_BLITZKRIEG" ObsoleteTech="TECH_EXOSKELETONS" />
+			<Where Type="UNIT_VENETIAN_GALLEASS" />
+		</Update>
+		BNW-->
+
+		<!--<Row>
+			<Class>UNITCLASS_COG</Class>
+			<Type>UNIT_COG</Type>
+			<PrereqTech>TECH_RUDDER</PrereqTech>
+			<Combat>10</Combat>
+			<RangedCombat>6</RangedCombat>
+			<Cost>280</Cost>
+			<Moves>5</Moves>
+			<HurryCostModifier>30</HurryCostModifier>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_NAVAL</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_EXPLORE_SEA</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_COG</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_COG_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_COG</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<Mechanized>true</Mechanized>
+			<ObsoleteTech>TECH_NAVIGATION</ObsoleteTech>
+			<AdvancedStartCost>40</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_CARAVEL</UnitArtInfo>
+			<UnitFlagIconOffset>34</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+			<PortraitIndex>35</PortraitIndex>
+			<MoveRate>BOAT</MoveRate>
+		</Row>-->
+		<Update>
+			<Set Cost="215" PrereqTech="TECH_FEUDALISM" ObsoleteTech="TECH_MILITARY_TRADITION"/>
+			<Where Type="UNIT_PIKEMAN" />
+		</Update>
+		<Update>
+			<Set Cost="110" PrereqTech="TECH_FEUDALISM" ObsoleteTech="TECH_MILITARY_TRADITION"/>
+			<Where Type="UNIT_GERMAN_LANDSKNECHT" />
+		</Update>
+		<Update>
+			<Set Cost="300" PrereqTech="TECH_METALLURGY" />
+			<Where Type="UNIT_LONGSWORDSMAN" />
+		</Update>
+		<Update>
+			<Set Cost="300" PrereqTech="TECH_METALLURGY" />
+			<Where Type="UNIT_DANISH_BERSERKER" />
+		</Update>
+		<Update>
+			<Set Cost="300" PrereqTech="TECH_METALLURGY" />
+			<Where Type="UNIT_JAPANESE_SAMURAI" />
+		</Update>
+		<Update>
+			<Set Cost="320" PrereqTech="TECH_SIEGE_ENGINES" />
+			<Where Type="UNIT_TREBUCHET" />
+		</Update>
+		<Update>
+			<Set Cost="320" PrereqTech="TECH_SIEGE_ENGINES" />
+			<Where Type="UNIT_KOREAN_HWACHA" />
+		</Update>
+		<Update>
+			<Set Cost="245" PrereqTech="TECH_RUDDER" />
+			<Where Type="UNIT_GALLEASS" />
+		</Update>
+		<!--RENAISSANCE ERA-->
+
+		<Update>
+			<Set Cost="465" Range="3" PrereqTech="TECH_CANNON" ObsoleteTech="TECH_SHELLS" />
+			<Where Type="UNIT_CANNON" />
+		</Update>
+		<Update>
+			<Set Cost="320" PrereqTech="TECH_NAVIGATION" ObsoleteTech="TECH_TORPEDOES"/>
+			<Where Type="UNIT_CARAVEL" />
+		</Update>
+		<Update>
+			<Set Cost="320" PrereqTech="TECH_NAVIGATION" ObsoleteTech="TECH_TORPEDOES"/>
+			<Where Type="UNIT_KOREAN_TURTLE_SHIP" />
+		</Update>
+		<Update>
+			<Set Cost="465" Moves="5" RangedCombat="35" ObsoleteTech="TECH_TORPEDOES"/>
+			<Where Type="UNIT_FRIGATE" />
+		</Update>
+		<Update>
+			<Set Cost="430" Combat="30" RangedCombat="35" ObsoleteTech="TECH_TORPEDOES"/>
+			<Where Type="UNIT_ENGLISH_SHIPOFTHELINE" />
+		</Update>
+		<Update>
+			<Set Cost="465" PrereqTech="TECH_STEEL" ObsoleteTech="TECH_ADVANCED_FLIGHT" />
+			<Where Type="UNIT_LANCER" />
+		</Update>
+		<Update>
+			<Set Cost="465" PrereqTech="TECH_STEEL" ObsoleteTech="TECH_ADVANCED_FLIGHT" />
+			<Where Type="UNIT_OTTOMAN_SIPAHI" />
+		</Update>
+		<Update>
+			<Set Cost="465" PrereqTech="TECH_STEEL" ObsoleteTech="TECH_ADVANCED_FLIGHT" />
+			<Where Type="UNIT_SWEDISH_HAKKAPELIITTA" />
+		</Update>
+		<!--<Row>
+			<Class>UNITCLASS_GALLEON</Class>
+			<Type>UNIT_GALLEON</Type>
+			<PrereqTech>TECH_NAVIGATION</PrereqTech>
+			<Combat>30</Combat>
+			<RangedCombat>23</RangedCombat>
+			<Cost>660</Cost>
+			<Moves>4</Moves>
+			<HurryCostModifier>30</HurryCostModifier>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_EXPLORE_SEA</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GALLEON</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_GALLEON_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_GALLEON</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<Mechanized>true</Mechanized>
+			<ObsoleteTech>TECH_BIG_GUNS_DOCTRINE</ObsoleteTech>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_FRIGATE</UnitArtInfo>
+			<UnitFlagIconOffset>35</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+			<PortraitIndex>36</PortraitIndex>
+			<MoveRate>BOAT</MoveRate>
+		</Row>-->
+		<!--<Row>
+			<Type>UNIT_MACHINE_GUNNER</Type>
+			<Description>TXT_KEY_UNIT_MACHINE_GUNNER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MACHINE_GUNNER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_MACHINE_GUNNER</Help>
+			<Combat>12</Combat>
+			<RangedCombat>25</RangedCombat>
+			<Cost>600</Cost>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<Class>UNITCLASS_MACHINE_GUNNER</Class>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<ObsoleteTech>TECH_SHOULDER_LAUNCHED_WEAPONS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_MISSILE_SQUAD</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_INFANTRY</UnitArtInfo>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>-->
+		<Update>
+			<Set Cost="375" />
+			<Where Type="UNIT_MUSKETMAN" />
+		</Update>
+		<Update>
+			<Set Cost="400" />
+			<Where Type="UNIT_SPANISH_TERCIO" />
+		</Update>
+		<Update>
+			<Set Cost="375" />
+			<Where Type="UNIT_AMERICAN_MINUTEMAN" />
+		</Update>
+		<Update>
+			<Set Cost="375" />
+			<Where Type="UNIT_FRENCH_MUSKETEER" />
+		</Update>
+		<Update>
+			<Set Cost="375" />
+			<Where Type="UNIT_OTTOMAN_JANISSARY" />
+		</Update>
+		<Update>
+			<Set Cost="375" PrereqTech="TECH_WARSHIPS"/>
+			<Where Type="UNIT_PRIVATEER" />
+		</Update>
+		<Update>
+			<Set Cost="375" />
+			<Where Type="UNIT_DUTCH_SEA_BEGGAR" PrereqTech="TECH_NAVAL_TACTICS"/>
+		</Update>
+		<!--RENAISSANCE (2)-->
+		<Update>
+			<Set Cost="565" ObsoleteTech="TECH_MILITARY_SCIENCE"/>
+			<Where Type="UNIT_DANISH_SKI_INFANTRY" />
+		</Update>
+		<Update>
+			<Set Cost="565" ObsoleteTech="TECH_MILITARY_SCIENCE"/>
+			<Where Type="UNIT_RIFLEMAN" />
+		</Update>
+		<Update>
+			<Set Cost="505" ObsoleteTech="TECH_MILITARY_SCIENCE"/>
+			<Where Type="UNIT_ETHIOPIAN_MEHAL_SEFARI" />
+		</Update>
+		<Update>
+			<Set Cost="565" ObsoleteTech="TECH_MILITARY_SCIENCE"/>
+			<Where Type="UNIT_SWEDISH_CAROLEAN" />
+		</Update>
+		<Update>
+			<Set Cost="650" PrereqTech="TECH_CAVALRY_RAIDS" ObsoleteTech="TECH_TRACKED_VEHICLES" />
+			<Where Type="UNIT_CAVALRY" />
+		</Update>
+		<Update>
+			<Set Cost="650" PrereqTech="TECH_CAVALRY_RAIDS" ObsoleteTech="TECH_TRACKED_VEHICLES"/>
+			<Where Type="UNIT_RUSSIAN_COSSACK" />
+		</Update>
+		<Update>
+			<Set Cost="650" PrereqTech="TECH_CAVALRY_RAIDS" ObsoleteTech="TECH_TRACKED_VEHICLES"/>
+			<Where Type="UNIT_AUSTRIAN_HUSSAR" />
+		</Update>
+		<!--INDUSTRIAL ERA (1)-->
+
+		<Row>
+			<Class>UNITCLASS_SPION</Class>
+			<Type>UNIT_SPION</Type>
+			<PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
+			<Combat>10</Combat>
+			<Cost>175</Cost>
+			<FaithCost>250</FaithCost>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_RECON</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SPION</Description>
+			<Civilopedia>TXT_KEY_CIV5_SPION_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_SPION_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>2</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_SCOUT</UnitArtInfo>
+			<UnitFlagIconOffset>5</UnitFlagIconOffset>
+			<IconAtlas>ICON_GOT</IconAtlas>
+			<PortraitIndex>27</PortraitIndex>
+		</Row>
+
+
+
+		<Row>
+			<Class>UNITCLASS_RAILROAD_GUN</Class>
+			<Type>UNIT_RAILROAD_GUN</Type>
+			<PrereqTech>TECH_RAILROAD</PrereqTech>
+			<Combat>20</Combat>
+			<RangedCombat>50</RangedCombat>
+			<Cost>725</Cost>
+			<FaithCost>1450</FaithCost>
+			<Moves>1</Moves>
+			<Range>4</Range>
+			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_RAILROAD_GUN</Description>
+			<Civilopedia>TXT_KEY_CIV5_INDUSTRIAL_ARTILLERY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ARTILLERY_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_RAILROAD_GUN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ROCKET_ARTILLERY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>40</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_RAILROAD_GUN</UnitArtInfo>
+			<UnitFlagIconOffset>56</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+			<PortraitIndex>12</PortraitIndex>
+			<MoveRate>ARTILLERY</MoveRate>
+		</Row>
+
+		<Update>
+			<Set Cost="630" PrereqTech="TECH_BOMBARDMENT" ObsoleteTech="TECH_MAGNETICS_MINIATURIZATION" />
+			<Where Type="UNIT_ARTILLERY" />
+		</Update>
+		<Row>
+			<Class>UNITCLASS_CIVIL_ENGINEER</Class>
+			<Type>UNIT_CIVIL_ENGINEER</Type>
+			<PrereqTech>TECH_DYNAMITE</PrereqTech>
+			<Cost>550</Cost>
+			<FaithCost>1100</FaithCost>
+			<Moves>3</Moves>
+			<Capture>UNITCLASS_CIVIL_ENGINEER</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CIVIL_ENGINEER</Description>
+			<Civilopedia>TXT_KEY_UNIT_CIVIL_ENGINEER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_CIVIL_ENGINEER_HELP</Help>
+			<AdvancedStartCost>100</AdvancedStartCost>
+			<WorkRate>400</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ENGINEER</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+
+
+		<Update>
+			<Set Cost="565" PrereqTech="TECH_SHELLS" ObsoleteTech="TECH_MAGNETICS_MINIATURIZATION" />
+			<Where Type="UNIT_GATLINGGUN" />
+		</Update>
+		<Update>
+			<Set Cost="630" PrereqTech="TECH_NAVAL_ARMOR" ObsoleteTech="TECH_TORPEDOES" />
+			<Where Type="UNIT_IRONCLAD" />
+		</Update>
+
+		<!--INDUSTRIAL ERA (2)-->
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_TRACKED_VEHICLES" ObsoleteTech="TECH_ADVANCED_FLIGHT" />
+			<Where Type="UNIT_ANTI_TANK_GUN" />
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_BALLISTICS" ObsoleteTech="TECH_ROCKETRY" />
+			<Where Type="UNIT_ANTI_AIRCRAFT_GUN" />
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_BIG_GUNS_DOCTRINE" />
+			<Where Type="UNIT_BATTLESHIP" />
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_COMBINED_ARMS" ObsoleteTech="TECH_REACTOR_MINIATURIZATION" />
+			<Where Type="UNIT_CARRIER" />
+		</Update>
+		<Update>
+			<Set Cost="900" ObsoleteTech="TECH_ADVANCED_MAGNETICS" PrereqTech="TECH_TORPEDOES" />
+			<Where Type="UNIT_DESTROYER" />
+		</Update>
+		<Row>
+			<Class>UNITCLASS_PROTECTED_CRUISER</Class>
+			<Type>UNIT_PROTECTED_CRUISER</Type>
+			<PrereqTech>TECH_NAVAL_WARFARE</PrereqTech>
+			<Combat>40</Combat>
+			<RangedCombat>46</RangedCombat>
+			<Cost>945</Cost>
+			<FaithCost>1250</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>5</Moves>
+			<Range>3</Range>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_PROTECTED_CRUISER</Description>
+			<Civilopedia>TXT_KEY_UNIT_PROTECTED_CRUISER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_BATTLESHIP_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_BATTLESHIP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_ELECTRONICS</ObsoleteTech>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_PROTECTED_CRUISER</UnitArtInfo>
+			<UnitArtInfoCulturalVariation>true</UnitArtInfoCulturalVariation>
+			<UnitFlagAtlas>UNITS_PALLADA_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROTECTED_CRUISER_ATLAS</IconAtlas>
+			<MoveRate>BOAT</MoveRate>
+		</Row>
+
+
+		<Row>
+			<Type>UNIT_MISSILE_SQUAD</Type>
+			<Description>TXT_KEY_UNIT_MISSILE_SQUAD</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MISSILE_SQUAD_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_MISSILE_SQUAD</Help>
+			<Combat>20</Combat>
+			<RangedCombat>40</RangedCombat>
+			<Cost>885</Cost>
+			<FaithCost>1760</FaithCost>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<Class>UNITCLASS_MISSILE_SQUAD</Class>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<PrereqTech>TECH_BALLISTICS</PrereqTech>
+			<ObsoleteTech>TECH_COMBINED_ARMS_DOCTRINE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_COMBAT_CONTROLLER</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>40</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_INFANTRY</UnitArtInfo>
+			<UnitFlagIconOffset>2</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Update>
+			<Set Cost="885" PrereqTech="TECH_WAR_GAMES" />
+			<Where Type="UNIT_MACHINE_GUN" />
+		</Update>
+		<Update>
+			<Set Cost="885" PrereqTech="TECH_WAR_GAMES"/>
+			<Where Type="UNIT_GREAT_WAR_INFANTRY" />
+		</Update>
+		<Update>
+			<Set Cost="805" PrereqTech="TECH_MILITARY_SCIENCE"/>
+			<Where Type="UNIT_FRENCH_FOREIGNLEGION" />
+		</Update>
+		<Update>
+			<Set Cost="885" ObsoleteTech="TECH_RADAR" />
+			<Where Type="WWI_BOMBER" />
+		</Update>
+		<Update>
+			<Set Cost="885" ObsoleteTech="TECH_RADAR" />
+			<Where Type="TRIPLANE" />
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_BLITZKRIEG" ObsoleteTech="TECH_EXOSKELETONS" />
+			<Where Type="UNIT_INFANTRY" />
+		</Update>
+		<Update>
+			<Set Cost="885" PrereqTech="TECH_TRACKED_VEHICLES" ObsoleteTech="TECH_BLITZKRIEG"/>
+			<Where Type="UNIT_WWI_TANK" />
+		</Update>
+		<Update>
+			<Set Cost="915" PrereqTech="TECH_SUBMERSIBLES" ObsoleteTech="TECH_METAMATERIALS"/>
+			<Where Type="UNIT_SUBMARINE" />
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_RADAR" ObsoleteTech="TECH_HYBRID_SCRAMJETS" />
+			<Where Type="UNIT_BOMBER" />
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_FLIGHT" ObsoleteTech="TECH_HYBRID_SCRAMJETS" />
+			<Where Type="UNIT_AMERICAN_B17" />
+		</Update>
+		<Update>
+			<Set Cost="945" ObsoleteTech="TECH_ADVANCED_FLIGHT" PrereqTech="TECH_RADAR" />
+			<Where Type="UNIT_FIGHTER" />
+		</Update>
+		<Update>
+			<Set Cost="945" ObsoleteTech="TECH_ADVANCED_FLIGHT" PrereqTech="TECH_RADAR" />
+			<Where Type="UNIT_JAPANESE_ZERO" />
+		</Update>
+		<Update>
+			<Set Cost ="945" PrereqTech="TECH_BLITZKRIEG" />
+			<Where Type="UNIT_MARINE" />
+		</Update>
+		<Update>
+			<Set Cost="1050" PrereqTech="TECH_BLITZKRIEG" ObsoleteTech="TECH_COMPOSITE_ARMOR" />
+			<Where Type="UNIT_TANK" />
+		</Update>
+		<Update>
+			<Set Cost="1050" PrereqTech="TECH_BLITZKRIEG" ObsoleteTech="TECH_COMPOSITE_ARMOR" />
+			<Where Type="UNIT_GERMAN_PANZER" />
+		</Update>
+		<Update>
+			<Set Cost="945" PrereqTech="TECH_RADAR" ObsoleteTech="TECH_EXOSKELETONS" />
+			<Where Type="UNIT_PARATROOPER" />
+		</Update>
+		<!--MODERN ERA-->
+		<Update>
+			<Set Cost="2150" ObsoleteTech="TECH_MOBILE_TACTICS" />
+			<Where Type="UNIT_ATOMIC_BOMB" />
+		</Update>
+		<Update>
+			<Set Cost="1075" PrereqTech="TECH_MOBILE_TACTICS" ObsoleteTech="TECH_SMART_MATERIALS" />
+			<Where Type="UNIT_BAZOOKA" />
+		</Update>
+		<Update>
+			<Set Cost="1075" PrereqTech="TECH_MANNED_SPACEFLIGHT" />
+			<Where Type="UNIT_XCOM_SQUAD" />
+		</Update>
+		<Update>
+			<Set Cost="1075" PrereqTech="TECH_ADVANCED_FLIGHT" ObsoleteTech="TECH_SMART_MATERIALS" />
+			<Where Type="UNIT_HELICOPTER_GUNSHIP" />
+		</Update>
+		<Update>
+			<Set Cost="1075" PrereqTech="TECH_AVIATION" ObsoleteTech="TECH_DIGITAL_DEFENSE_DOCTRINE" />
+			<Where Type="UNIT_MOBILE_SAM" />
+		</Update>
+		<Update>
+			<Set Cost="1075" Range="4" ObsoleteTech="TECH_PARTICLE_BEAMS"/>
+			<Where Type="UNIT_ROCKET_ARTILLERY" />
+		</Update>
+		<Update>
+			<Set Cost="575" PrereqTech="TECH_CRUISE_MISSILES" ObsoleteTech="TECH_SCRAMJET_ENGINES" HurryCostModifier="50" />
+			<Where Type="UNIT_GUIDED_MISSILE" />
+		</Update>
+		<Update>
+			<Set Cost="1375" PrereqTech="TECH_ADVANCED_FLIGHT" ObsoleteTech="TECH_HYBRID_SCRAMJETS"/>
+			<Where Type="UNIT_JET_FIGHTER" />
+		</Update>
+		<Update>
+			<Set Cost="1200" ObsoleteTech="TECH_EXOSKELETONS" />
+			<Where Type="UNIT_MECHANIZED_INFANTRY" />
+		</Update>
+		<Row>
+			<Type>UNIT_COMBAT_CONTROLLER</Type>
+			<Description>TXT_KEY_UNIT_COMBAT_CONTROLLER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_COMBAT_CONTROLLER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_COMBAT_CONTROLLER</Help>
+			<Combat>60</Combat>
+			<RangedCombat>80</RangedCombat>
+			<Cost>1150</Cost>
+			<FaithCost>2300</FaithCost>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<Class>UNITCLASS_COMBAT_CONTROLLER</Class>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<PrereqTech>TECH_COMBINED_ARMS_DOCTRINE</PrereqTech>
+			<ObsoleteTech>TECH_DIGITAL_DEFENSE_DOCTRINE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_MICRO_UAV_TEAM</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_IG_SOLDIER</UnitArtInfo>
+			<UnitFlagIconOffset>4</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Update>
+			<Set Cost="1375" PrereqTech="TECH_CRUISE_MISSILES" ObsoleteTech="TECH_ULTRA_PRESSURE_MACHINERY" />
+			<Where Type="UNIT_MISSILE_CRUISER" />
+		</Update>
+		<Update>
+			<Set Cost="1375" PrereqTech="TECH_COMPOSITE_ARMOR" ObsoleteTech="TECH_PARTICLE_BEAMS"/>
+			<Where Type="UNIT_MODERN_ARMOR" />
+		</Update>
+		<Update>
+			<Set Cost="3350" />
+			<Where Type="UNIT_NUCLEAR_MISSILE" />
+		</Update>
+		<Update>
+			<Set Cost="1325" PrereqTech="TECH_SUBMARINE_WARFARE" ObsoleteTech="TECH_ULTRA_PRESSURE_MACHINERY" />
+			<Where Type="UNIT_NUCLEAR_SUBMARINE" />
+		</Update>
+		<Update>
+			<Set Cost="1325" ObsoleteTech="TECH_HYBRID_SCRAMJETS" />
+			<Where Type="UNIT_STEALTH_BOMBER" />
+		</Update>
+		<Row>
+			<Type>UNIT_STEALTH_FIGHTER</Type>
+			<Description>TXT_KEY_UNIT_STEALTH_FIGHTER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MODERN_STEALTHFIGHTER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_STEALTH_FIGHTER</Help>
+			<RangedCombat>80</RangedCombat>
+			<Cost>1450</Cost>
+			<FaithCost>1900</FaithCost>
+			<Moves>2</Moves>
+			<Immobile>true</Immobile>
+			<Range>12</Range>
+			<Class>UNITCLASS_STEALTH_FIGHTER</Class>
+			<Special>SPECIALUNIT_FIGHTER</Special>
+			<CombatClass>UNITCOMBAT_FIGHTER</CombatClass>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_STEALTH</PrereqTech>
+			<ObsoleteTech>TECH_SMART_MATERIALS</ObsoleteTech>
+			<AdvancedStartCost>70</AdvancedStartCost>
+			<AirUnitCap>1</AirUnitCap>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>100</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_JET_FIGHTER</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>5</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_SUPERCARRIER</Type>
+			<Description>TXT_KEY_UNIT_SUPERCARRIER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_SUPERCARRIER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_SUPERCARRIER</Help>
+			<Combat>70</Combat>
+			<Cost>1800</Cost>
+			<FaithCost>3600</FaithCost>
+			<Moves>8</Moves>
+			<Class>UNITCLASS_SUPERCARRIER</Class>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_CARRIER_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_MOBILE_TACTICS</PrereqTech>
+			<ObsoleteTech>TECH_ULTRA_PRESSURE_MACHINERY</ObsoleteTech>
+			<AdvancedStartCost>80</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_FIGHTER</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_NAVAL_CARRIER</UnitArtInfo>
+			<MoveRate>BOAT</MoveRate>
+			<UnitFlagIconOffset>3</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+	
+		<Row>
+			<Type>UNIT_UNMANNED_AIRCRAFT</Type>
+			<Description>TXT_KEY_UNIT_UNMANNED_AIRCRAFT</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_UNMANNED_AIRCRAFT_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_UNMANNED_AIRCRAFT</Help>
+			<RangedCombat>50</RangedCombat>
+			<Cost>1300</Cost>
+			<FaithCost>2600</FaithCost>
+			<Moves>2</Moves>
+			<Immobile>true</Immobile>
+			<Range>16</Range>
+			<Class>UNITCLASS_UNMANNED_AIRCRAFT</Class>
+			<Special>SPECIALUNIT_FIGHTER</Special>
+			<CombatClass>UNITCOMBAT_BOMBER</CombatClass>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_DRONES</PrereqTech>
+			<ObsoleteTech>TECH_SMART_MATERIALS</ObsoleteTech>
+			<AdvancedStartCost>70</AdvancedStartCost>
+			<AirUnitCap>1</AirUnitCap>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>100</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>2</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_JET_FIGHTER</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>6</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+
+		<!--DIGITAL ERA , reduced all cost (0)-->
+
+
+
+		<Row>
+			<Type>UNIT_DDX_DESTROYER</Type>
+			<Description>TXT_KEY_UNIT_DDX_DESTROYER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_DDX_DESTROYER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_DDX_DESTROYER</Help>
+			<Combat>65</Combat>
+			<RangedCombat>45</RangedCombat>
+			<Cost>2500</Cost>
+			<FaithCost>5000</FaithCost>
+			<Moves>10</Moves>
+			<Range>3</Range>
+			<Class>UNITCLASS_DDX_DESTROYER</Class>
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_RESERVE_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_ADVANCED_MAGNETICS</PrereqTech>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_DESTROYER</UnitArtInfo>
+			<MoveRate>BOAT</MoveRate>
+			<UnitFlagIconOffset>7</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_CGX_CRUISER</Type>
+			<Description>TXT_KEY_UNIT_CGX_CRUISER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_CGX_CRUISER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_CGX_CRUISER</Help>
+			<Combat>90</Combat>
+			<RangedCombat>70</RangedCombat>
+			<Cost>3250</Cost>
+			<FaithCost>6500</FaithCost>
+			<Moves>8</Moves>
+			<Range>4</Range>
+			<Class>UNITCLASS_CGX_CRUISER</Class>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_ADVANCED_MAGNETICS</PrereqTech>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<MinAreaSize>30</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_MISSILE</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_MISSILE_CRUISER</UnitArtInfo>
+			<MoveRate>BOAT</MoveRate>
+			<UnitFlagIconOffset>8</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>9</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_STEALTH_GUNSHIP</Type>
+			<Description>TXT_KEY_UNIT_STEALTH_GUNSHIP</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_STEALTH_GUNSHIP_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_STEALTH_GUNSHIP</Help>
+			<Combat>90</Combat>
+			<Cost>2100</Cost>
+			<FaithCost>4200</FaithCost>
+			<Moves>8</Moves>
+			<Class>UNITCLASS_STEALTH_GUNSHIP</Class>
+			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<PrereqTech>TECH_METAMATERIALS</PrereqTech>
+			<AdvancedStartCost>90</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_HELICOPTER_GUNSHIP</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>9</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>10</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_STEALTH_SUBMARINE</Type>
+			<Description>TXT_KEY_UNIT_STEALTH_SUBMARINE</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_STEALTH_SUBMARINE_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_STEALTH_SUBMARINE</Help>
+			<Combat>50</Combat>
+			<RangedCombat>120</RangedCombat>
+			<Cost>2900</Cost>
+			<FaithCost>5800</FaithCost>
+			<Moves>8</Moves>
+			<Range>4</Range>
+			<Class>UNITCLASS_STEALTH_SUBMARINE</Class>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_RESERVE_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_METAMATERIALS</PrereqTech>
+			<AdvancedStartCost>90</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<RangeAttackOnlyInDomain>true</RangeAttackOnlyInDomain>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_MISSILE</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_NUCLEAR_SUBMARINE</UnitArtInfo>
+			<MoveRate>SUB</MoveRate>
+			<UnitFlagIconOffset>10</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_HYPERSONIC_CRUISE_MISSILE</Type>
+			<Description>TXT_KEY_UNIT_HYPERSONIC_CRUISE_MISSILE</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_HYPERSONIC_CRUISE_MISSILE_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_HYPERSONIC_CRUISE_MISSILE</Help>
+			<RangedCombat>150</RangedCombat>
+			<Cost>1800</Cost>
+			<FaithCost>3600</FaithCost>
+			<Moves>2</Moves>
+			<HurryCostModifier>50</HurryCostModifier>
+			<Immobile>true</Immobile>
+			<Range>16</Range>
+			<Class>UNITCLASS_HYPERSONIC_CRUISE_MISSILE</Class>
+			<Special>SPECIALUNIT_MISSILE</Special>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_MISSILE_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<Suicide>true</Suicide>
+			<PrereqTech>TECH_SCRAMJET_ENGINES</PrereqTech>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>200</RangedCombatLimit>
+			<XPValueDefense>2</XPValueDefense>
+			<NoMaintenance>true</NoMaintenance>
+			<UnitArtInfo>ART_DEF_UNIT_GUIDED_MISSILE</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>11</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>12</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_GAUSS_TANK</Type>
+			<Description>TXT_KEY_UNIT_GAUSS_TANK</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_GAUSS_TANK_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_GAUSS_TANK</Help>
+			<Combat>140</Combat>
+			<Cost>2700</Cost>
+			<FaithCost>5400</FaithCost>
+			<Moves>4</Moves>
+			<Class>UNITCLASS_GAUSS_TANK</Class>
+			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_MAGNETICS_MINIATURIZATION</PrereqTech>
+			<AdvancedStartCost>100</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_BANEWOLF_SGT</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>12</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>12</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_MASS_DRIVER_ARTILLERY</Type>
+			<Description>TXT_KEY_UNIT_MASS_DRIVER_ARTILLERY</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MASS_DRIVER_ARTILLERY_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_MASS_DRIVER_ARTILLERY</Help>
+			<Combat>40</Combat>
+			<RangedCombat>90</RangedCombat>
+			<Cost>3100</Cost>
+			<FaithCost>6200</FaithCost>
+			<Moves>4</Moves>
+			<Range>4</Range>
+			<Class>UNITCLASS_MASS_DRIVER_ARTILLERY</Class>
+			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_MAGNETICS_MINIATURIZATION</PrereqTech>
+			<AdvancedStartCost>90</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_CHIMERA</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>13</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>14</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_POWERED_INFANTRY</Type>
+			<Description>TXT_KEY_UNIT_POWERED_INFANTRY</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_POWERED_INFANTRY_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_POWERED_INFANTRY</Help>
+			<Combat>80</Combat>
+			<Cost>1500</Cost>
+			<FaithCost>3000</FaithCost>
+			<Moves>5</Moves>
+			<Class>UNITCLASS_POWERED_INFANTRY</Class>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<PrereqTech>TECH_EXOSKELETONS</PrereqTech>
+			<AdvancedStartCost>50</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>7</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_IG_SGT</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>14</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>15</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_FUSION_SUPERCARRIER</Type>
+			<Description>TXT_KEY_UNIT_FUSION_SUPERCARRIER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_FUSION_SUPERCARRIER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_FUSION_SUPERCARRIER</Help>
+			<Combat>100</Combat>
+			<Cost>3750</Cost>
+			<FaithCost>7500</FaithCost>
+			<Moves>12</Moves>
+			<Class>UNITCLASS_FUSION_SUPERCARRIER</Class>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_CARRIER_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_REACTOR_MINIATURIZATION</PrereqTech>
+			<AdvancedStartCost>120</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_FIGHTER</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_CARRIER</UnitArtInfo>
+			<MoveRate>BOAT</MoveRate>
+			<UnitFlagIconOffset>15</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_HYPERSONIC_BOMBER</Type>
+			<Description>TXT_KEY_UNIT_HYPERSONIC_BOMBER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_HYPERSONIC_BOMBER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_HYPERSONIC_BOMBER</Help>
+			<RangedCombat>150</RangedCombat>
+			<Cost>5000</Cost>
+			<FaithCost>10000</FaithCost>
+			<Moves>2</Moves>
+			<Immobile>true</Immobile>
+			<Range>26</Range>
+			<Class>UNITCLASS_HYPERSONIC_BOMBER</Class>
+			<Special>SPECIALUNIT_FIGHTER</Special>
+			<CombatClass>UNITCOMBAT_BOMBER</CombatClass>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_HYBRID_SCRAMJETS</PrereqTech>
+			<AdvancedStartCost>150</AdvancedStartCost>
+			<AirUnitCap>1</AirUnitCap>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>250</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>2</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_STEALTH_BOMBER</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>16</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>17</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_HYPERSONIC_INTERCEPTOR</Type>
+			<Description>TXT_KEY_UNIT_HYPERSONIC_INTERCEPTOR</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_HYPERSONIC_INTERCEPTOR_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_HYPERSONIC_INTERCEPTOR</Help>
+			<RangedCombat>130</RangedCombat>
+			<Cost>3750</Cost>
+			<FaithCost>6500</FaithCost>
+			<Moves>2</Moves>
+			<Immobile>true</Immobile>
+			<Range>18</Range>
+			<Class>UNITCLASS_HYPERSONIC_INTERCEPTOR</Class>
+			<Special>SPECIALUNIT_FIGHTER</Special>
+			<CombatClass>UNITCOMBAT_FIGHTER</CombatClass>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_HYBRID_SCRAMJETS</PrereqTech>
+			<AdvancedStartCost>130</AdvancedStartCost>
+			<AirUnitCap>1</AirUnitCap>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>250</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_JET_FIGHTER</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>17</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>18</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_MICRO_UAV_TEAM</Type>
+			<Description>TXT_KEY_UNIT_MICRO_UAV_TEAM</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MICRO_UAV_TEAM_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_MICRO_UAV_TEAM</Help>
+			<Combat>50</Combat>
+			<RangedCombat>75</RangedCombat>
+			<Cost>1600</Cost>
+			<FaithCost>3200</FaithCost>
+			<Moves>3</Moves>
+			<Range>2</Range>
+			<Class>UNITCLASS_MICRO_UAV_TEAM</Class>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<PrereqTech>TECH_DIGITAL_DEFENSE_DOCTRINE</PrereqTech>
+			<ObsoleteTech>TECH_CYBERNETIC_ORGANISMS</ObsoleteTech>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_IG_TROOPER</UnitArtInfo>
+			<UnitFlagIconOffset>18</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_TACTICAL_LASER_AIR_DEFENSE</Type>
+			<Description>TXT_KEY_UNIT_TACTICAL_LASER_AIR_DEFENSE</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_TACTICAL_LASER_AIR_DEFENSE_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_TACTICAL_LASER_AIR_DEFENSE</Help>
+			<Combat>80</Combat>
+			<Cost>1300</Cost>
+			<FaithCost>2600</FaithCost>
+			<Moves>5</Moves>
+			<Range>3</Range>
+			<Class>UNITCLASS_TACTICAL_LASER_AIR_DEFENSE</Class>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<PrereqTech>TECH_DIGITAL_DEFENSE_DOCTRINE</PrereqTech>
+			<ObsoleteTech>TECH_FREE_SPACE_SATURATION</ObsoleteTech>
+			<AdvancedStartCost>70</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_CARVR</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+		    <UnitFlagIconOffset>33</UnitFlagIconOffset>
+		    <UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+		    <PortraitIndex>34</PortraitIndex>
+		    <IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>UNIT_ORBITAL_STRIKE_MISSILE</Type>
+			<Description>TXT_KEY_UNIT_ORBITAL_STRIKE_MISSILE</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_ORBITAL_STRIKE_MISSILE_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_ORBITAL_STRIKE_MISSILE</Help>
+			<RangedCombat>220</RangedCombat>
+			<Cost>3500</Cost>
+			<FaithCost>7000</FaithCost>
+			<Moves>2</Moves>
+			<HurryCostModifier>50</HurryCostModifier>
+			<Immobile>true</Immobile>
+			<Range>30</Range>
+			<Class>UNITCLASS_ORBITAL_STRIKE_MISSILE</Class>
+			<Special>SPECIALUNIT_MISSILE</Special>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_MISSILE_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<Suicide>true</Suicide>
+			<PrereqTech>TECH_SPACE_WEAPONIZATION</PrereqTech>
+			<AdvancedStartCost>100</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>300</RangedCombatLimit>
+			<XPValueDefense>2</XPValueDefense>
+			<NoMaintenance>true</NoMaintenance>
+			<UnitArtInfo>ART_DEF_UNIT_GUIDED_MISSILE</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>20</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>21</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_SPACE_BOMBER</Type>
+			<Description>TXT_KEY_UNIT_SPACE_BOMBER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_SPACE_BOMBER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_SPACE_BOMBER</Help>
+			<RangedCombat>200</RangedCombat>
+			<Cost>9000</Cost>
+			<FaithCost>18000</FaithCost>
+			<Moves>2</Moves>
+			<Immobile>true</Immobile>
+			<Range>100</Range>
+			<Class>UNITCLASS_SPACE_BOMBER</Class>
+			<Special>SPECIALUNIT_FIGHTER</Special>
+			<CombatClass>UNITCOMBAT_BOMBER</CombatClass>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_SMART_MATERIALS</PrereqTech>
+			<AdvancedStartCost>200</AdvancedStartCost>
+			<AirUnitCap>1</AirUnitCap>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>300</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>2</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_STEALTH_BOMBER</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>21</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>22</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_SPACE_FIGHTER</Type>
+			<Description>TXT_KEY_UNIT_SPACE_FIGHTER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_SPACE_FIGHTER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_SPACE_FIGHTER</Help>
+			<RangedCombat>160</RangedCombat>
+			<Cost>6500</Cost>
+			<FaithCost>13000</FaithCost>
+			<Moves>3</Moves>
+			<Immobile>true</Immobile>
+			<Range>80</Range>
+			<Class>UNITCLASS_SPACE_FIGHTER</Class>
+			<Special>SPECIALUNIT_FIGHTER</Special>
+			<CombatClass>UNITCOMBAT_FIGHTER</CombatClass>
+			<Domain>DOMAIN_AIR</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE_AIR</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_SMART_MATERIALS</PrereqTech>
+			<AdvancedStartCost>180</AdvancedStartCost>
+			<AirUnitCap>1</AirUnitCap>
+			<CombatLimit>0</CombatLimit>
+			<RangedCombatLimit>250</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_JET_FIGHTER</UnitArtInfo>
+			<MoveRate>AIR_REBASE</MoveRate>
+			<UnitFlagIconOffset>22</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>23</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_HUNTER_KILLER</Type>
+			<Description>TXT_KEY_UNIT_HUNTER_KILLER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_HUNTER_KILLER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_HUNTER_KILLER</Help>
+			<Combat>150</Combat>
+			<Cost>4000</Cost>
+			<FaithCost>8000</FaithCost>
+			<Moves>9</Moves>
+			<Class>UNITCLASS_HUNTER_KILLER</Class>
+			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<PrereqTech>TECH_SMART_MATERIALS</PrereqTech>
+			<AdvancedStartCost>150</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_HELICOPTER_GUNSHIP</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>23</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>24</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_FUSION_TANK</Type>
+			<Description>TXT_KEY_UNIT_FUSION_TANK</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_FUSION_TANK_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_FUSION_TANK</Help>
+			<Combat>200</Combat>
+			<Cost>5000</Cost>
+			<FaithCost>10000</FaithCost>
+			<Moves>5</Moves>
+			<Class>UNITCLASS_FUSION_TANK</Class>
+			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_PARTICLE_BEAMS</PrereqTech>
+			<AdvancedStartCost>150</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_BANEBLADE</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>24</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>25</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_HEAVY_ISOTOPE_PROJECTOR</Type>
+			<Description>TXT_KEY_UNIT_HEAVY_ISOTOPE_PROJECTOR</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_HEAVY_ISOTOPE_PROJECTOR_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_HEAVY_ISOTOPE_PROJECTOR</Help>
+			<Combat>70</Combat>
+			<RangedCombat>140</RangedCombat>
+			<Cost>5750</Cost>
+			<FaithCost>11500</FaithCost>
+			<Moves>5</Moves>
+			<Range>5</Range>
+			<Class>UNITCLASS_HEAVY_ISOTOPE_PROJECTOR</Class>
+			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_PARTICLE_BEAMS</PrereqTech>
+			<AdvancedStartCost>150</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_MANTICORE_VET</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>25</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>26</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_BEAM_JUMPER</Class>
+			<Type>UNIT_BEAM_JUMPER</Type>
+			<PrereqTech>TECH_PARTICLE_BEAMS</PrereqTech>
+			<Combat>220</Combat>
+			<Cost>6000</Cost>
+			<FaithCost>12000</FaithCost>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_BEAM_JUMPER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_BEAM_JUMPER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_BEAM_JUMPER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>160</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_VEN_DREAD</UnitArtInfo>
+			<UnitFlagIconOffset>26</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+			<PortraitIndex>27</PortraitIndex>
+			<MoveRate>ROBOT</MoveRate>
+		</Row>
+		<Row>
+			<Type>UNIT_PLASMA_DESTROYER</Type>
+			<Description>TXT_KEY_UNIT_PLASMA_DESTROYER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_PLASMA_DESTROYER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_PLASMA_DESTROYER</Help>
+			<Combat>100</Combat>
+			<Cost>5500</Cost>
+			<FaithCost>11000</FaithCost>
+			<Moves>12</Moves>
+			<Range>4</Range>
+			<Class>UNITCLASS_PLASMA_DESTROYER</Class>
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_RESERVE_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_ULTRA_PRESSURE_MACHINERY</PrereqTech>
+			<AdvancedStartCost>120</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_DESTROYER</UnitArtInfo>
+			<MoveRate>BOAT</MoveRate>
+			<UnitFlagIconOffset>27</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>28</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_FUSION_DREADNOUGHT</Type>
+			<Description>TXT_KEY_UNIT_FUSION_DREADNOUGHT</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_FUSION_DREADNOUGHT_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_FUSION_DREADNOUGHT</Help>
+			<Combat>180</Combat>
+			<RangedCombat>200</RangedCombat>
+			<Cost>9000</Cost>
+			<FaithCost>18000</FaithCost>
+			<Moves>8</Moves>
+			<Range>5</Range>
+			<Class>UNITCLASS_FUSION_DREADNOUGHT</Class>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_ULTRA_PRESSURE_MACHINERY</PrereqTech>
+			<AdvancedStartCost>200</AdvancedStartCost>
+			<MinAreaSize>30</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_MISSILE</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_BATTLESHIP</UnitArtInfo>
+			<MoveRate>BOAT</MoveRate>
+			<UnitFlagIconOffset>28</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>29</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_SUPERCAVITATING_SUBMARINE</Type>
+			<Description>TXT_KEY_UNIT_SUPERCAVITATING_SUBMARINE</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_SUPERCAVITATING_SUBMARINE_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_SUPERCAVITATING_SUBMARINE</Help>
+			<Combat>70</Combat>
+			<RangedCombat>220</RangedCombat>
+			<Cost>5000</Cost>
+			<FaithCost>10000</FaithCost>
+			<Moves>12</Moves>
+			<Range>4</Range>
+			<Class>UNITCLASS_SUPERCAVITATING_SUBMARINE</Class>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_RESERVE_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_ULTRA_PRESSURE_MACHINERY</PrereqTech>
+			<AdvancedStartCost>160</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<RangeAttackOnlyInDomain>true</RangeAttackOnlyInDomain>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_MISSILE</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_SUBMARINE</UnitArtInfo>
+			<MoveRate>SUB</MoveRate>
+			<UnitFlagIconOffset>29</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>30</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_SUBMERSIBLE_CARRIER</Type>
+			<Description>TXT_KEY_UNIT_SUBMERSIBLE_CARRIER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_SUBMERSIBLE_CARRIER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_SUBMERSIBLE_CARRIER</Help>
+			<Combat>160</Combat>
+			<RangedCombat>120</RangedCombat>
+			<Cost>11000</Cost>
+			<FaithCost>22000</FaithCost>
+			<Moves>12</Moves>
+			<Range>4</Range>
+			<Class>UNITCLASS_SUBMERSIBLE_CARRIER</Class>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_CARRIER_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_ULTRA_PRESSURE_MACHINERY</PrereqTech>
+			<AdvancedStartCost>200</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_FIGHTER</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_NUCLEAR_SUBMARINE</UnitArtInfo>
+			<MoveRate>SUB</MoveRate>
+			<UnitFlagIconOffset>30</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>31</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_PARTICLE_GRID_AIR_DEFENSE</Type>
+			<Description>TXT_KEY_UNIT_PARTICLE_GRID_AIR_DEFENSE</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_PARTICLE_GRID_AIR_DEFENSE_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_PARTICLE_GRID_AIR_DEFENSE</Help>
+			<Combat>140</Combat>
+			<Cost>2750</Cost>
+			<FaithCost>5500</FaithCost>
+			<Moves>5</Moves>
+			<Range>3</Range>
+			<Class>UNITCLASS_PARTICLE_GRID_AIR_DEFENSE</Class>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<PrereqTech>TECH_FREE_SPACE_SATURATION</PrereqTech>
+			<AdvancedStartCost>140</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_MANTICORE_VET</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>31</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>32</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_CYBERNETIC_MARAUDER</Type>
+			<Description>TXT_KEY_UNIT_CYBERNETIC_MARAUDER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_CYBERNETIC_MARAUDER_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_CYBERNETIC_MARAUDER</Help>
+			<Combat>90</Combat>
+			<RangedCombat>120</RangedCombat>
+			<Cost>3300</Cost>
+			<FaithCost>6600</FaithCost>
+			<Moves>5</Moves>
+			<Range>3</Range>
+			<Class>UNITCLASS_CYBERNETIC_MARAUDER</Class>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<PrereqTech>TECH_CYBERNETIC_ORGANISMS</PrereqTech>
+			<AdvancedStartCost>110</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitFlagIconOffset>32</UnitFlagIconOffset>
+			<UnitArtInfo>ART_DEF_UNIT_IG_VET</UnitArtInfo>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_LEAP_INFANTRY</Type>
+			<Description>TXT_KEY_UNIT_LEAP_INFANTRY</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_LEAP_INFANTRY_TEXT</Civilopedia>
+			<Help>TXT_KEY_UNIT_HELP_LEAP_INFANTRY</Help>
+			<Combat>160</Combat>
+			<Cost>3000</Cost>
+			<FaithCost>6000</FaithCost>
+			<Moves>6</Moves>
+			<Class>UNITCLASS_LEAP_INFANTRY</Class>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<PrereqTech>TECH_CYBERNETIC_ORGANISMS</PrereqTech>
+			<AdvancedStartCost>120</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>7</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_IG_SOLDIER</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>33</UnitFlagIconOffset>
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS_2</UnitFlagAtlas>
+			<PortraitIndex>34</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_3</IconAtlas>
+		</Row>
+		<!--<<<<<<<<<<[Added 30.7.14]>>>>>>>>>>-->
+
+
+		<Row>
+			<Type>UNIT_AIRSHIP</Type>
+			<Class>UNITCLASS_AIRSHIP</Class>
+			<PrereqTech>TECH_ZEPPELIN</PrereqTech>
+			<ObsoleteTech>TECH_SKY_FORTRESS</ObsoleteTech>
+			<Combat>65</Combat>
+			<Cost>500</Cost>
+			<FaithCost>1000</FaithCost>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
+			<Domain>DOMAIN_HOVER</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_AIRSHIP</Description>
+			<Civilopedia>TXT_KEY_UNIT_AIRSHIP_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_AIRSHIP_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_AIRSHIP_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP_LEVEL_1</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>7</UnitFlagIconOffset>
+			<UnitFlagAtlas>EXPANSION_SCEN_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_UNIT_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>UNIT_SKY_FORTRESS</Type>
+			<Class>UNITCLASS_SKY_FORTRESS</Class>
+			<PrereqTech>TECH_SKY_FORTRESS</PrereqTech>
+			<Combat>80</Combat>
+			<Cost>600</Cost>
+			<FaithCost>1200</FaithCost>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
+			<Domain>DOMAIN_HOVER</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SKY_FORTRESS</Description>
+			<Civilopedia>TXT_KEY_UNIT_SKY_FORTRESS_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SKY_FORTRESS_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_SKY_FORTRESS_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<AdvancedStartCost>60</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo>SPECIALUNIT_FIGHTER</SpecialCargo>
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			<UnitArtInfo>ART_DEF_UNIT_SMOKEY_STEAM_AIRSHIP</UnitArtInfo>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>8</UnitFlagIconOffset>
+			<UnitFlagAtlas>EXPANSION_SCEN_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>EXPANSION_SCEN_UNIT_ATLAS</IconAtlas>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+		<Update>
+			<Set CultureBombRadius="2" />
+			<Where Type="UNIT_ARTIST" />
+		</Update>
+		<Update>
+			<Set BaseGold="3000" NumGoldPerEra="3000" />
+			<Where Type="UNIT_MERCHANT" />
+		</Update>
+		<Update>
+			<Set BaseHurry="4000" HurryMultiplier="400" />
+			<Where Type="UNIT_ENGINEER" />
+		</Update>
+
+		<Update>
+			<Set Combat="180" Cost="55000" PrereqTech="TECH_EXTREME_MECHANIZATION" />
+			<Where Type="UNIT_MECH" />
+		</Update>
+
+
+
+
+
+
+
+
+
+
+
+
+	</Units>
+
+
+
+
+
+
+
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_AIRSHIP</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_SKY_FORTRESS</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+	<UnitGameplay2DScripts>
+		<Row UnitType="UNIT_AIRSHIP">
+			<SelectionSound>AS2D_SELECT_BOMBER</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_BOMBER</FirstSelectionSound>
+		</Row>
+		<Row UnitType="UNIT_SKY_FORTRESS">
+			<SelectionSound>AS2D_SELECT_BOMBER</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_BOMBER</FirstSelectionSound>
+		</Row>
+		<Row UnitType="UNIT_LAND_IRONCLAD">
+			<SelectionSound>AS2D_SELECT_TANK</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_TANK</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_PROTECTED_CRUISER</Type>
+			<DamageStates>1</DamageStates>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_PROTECTED_CRUISER</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_PROTECTED_CRUISER</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_PROTECTED_CRUISER</Type>
+			<Scale>0.086</Scale>
+			<Domain>Sea</Domain>
+			<Model>cruiser.fxsxml</Model>
+			<MaterialTypeTag>METAL</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>METALLRG</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_PROTECTED_CRUISER</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady AttackSurfaceToAir</EnableActions>
+			<HasShortRangedAttack>1</HasShortRangedAttack>
+			<HasLeftRightAttack>1</HasLeftRightAttack>
+			<HasRefaceAfterCombat>0</HasRefaceAfterCombat>
+			<HasIndependentWeaponFacing>1</HasIndependentWeaponFacing>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_PROTECTED_CRUISER</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>25.0</VisKillStrengthMin>
+			<VisKillStrengthMax>50.0</VisKillStrengthMax>
+			<HitEffect>ART_DEF_VEFFECT_CANNON_IMPACT_$(TERRAIN)</HitEffect>
+			<WeaponTypeTag>EXPLOSIVE</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>EXPLOSION20POUND</WeaponTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+
+
+
+
+
+
+</GameData>
+
+<!-- Have a nice day:=) -->

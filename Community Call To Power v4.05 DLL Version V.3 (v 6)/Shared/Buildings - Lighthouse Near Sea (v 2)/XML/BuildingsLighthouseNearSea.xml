@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Update>
+      <Where Type="BUILDING_LIGHTHOUSE"/>
+      <Set Water="0"/>
+    </Update>
+  </Buildings>
+</GameData>

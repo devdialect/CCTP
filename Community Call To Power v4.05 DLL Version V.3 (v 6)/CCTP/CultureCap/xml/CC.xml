@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<Context>
+	<LuaContext FileName="lua/CCWorldViewUI" ID="CCWorldViewUI" Hidden="1" />
+	<LuaContext FileName="lua/CCPopup" ID="CCPopup" Hidden="1" />
+	<LuaContext FileName="lua/CCNotifications" ID="CCNotifications" Hidden="1" />
+	<LuaContext FileName="lua/CCOverview" ID="CCOverview" Hidden="1" />
+</Context>

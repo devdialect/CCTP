@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <IconTextureAtlases>
+    <Row>
+      <Atlas>UNITS_MECHINF_ICON_ATLAS</Atlas>
+      <IconSize>256</IconSize>
+      <Filename>ART/MechInf256.dds</Filename>
+      <IconsPerRow>8</IconsPerRow>
+      <IconsPerColumn>6</IconsPerColumn>
+    </Row>
+    <Row>
+      <Atlas>UNITS_MECHINF_ICON_ATLAS</Atlas>
+      <IconSize>128</IconSize>
+      <Filename>ART/MechInf128.dds</Filename>
+      <IconsPerRow>8</IconsPerRow>
+      <IconsPerColumn>6</IconsPerColumn>
+    </Row>
+    <Row>
+      <Atlas>UNITS_MECHINF_ICON_ATLAS</Atlas>
+      <IconSize>80</IconSize>
+      <Filename>ART/MechInf80.dds</Filename>
+      <IconsPerRow>8</IconsPerRow>
+      <IconsPerColumn>6</IconsPerColumn>
+    </Row>
+    <Row>
+      <Atlas>UNITS_MECHINF_ICON_ATLAS</Atlas>
+      <IconSize>64</IconSize>
+      <Filename>ART/MechInf64.dds</Filename>
+      <IconsPerRow>8</IconsPerRow>
+      <IconsPerColumn>6</IconsPerColumn>
+    </Row>
+    <Row>
+      <Atlas>UNITS_MECHINF_ICON_ATLAS</Atlas>
+      <IconSize>45</IconSize>
+      <Filename>ART/MechInf45.dds</Filename>
+      <IconsPerRow>8</IconsPerRow>
+      <IconsPerColumn>6</IconsPerColumn>
+    </Row>
+
+    <Row>
+      <Atlas>UNITS_MECHINF_FLAG_ATLAS</Atlas>
+      <IconSize>32</IconSize>
+      <Filename>ART/MechInfFlag.dds</Filename>
+      <IconsPerRow>1</IconsPerRow>
+      <IconsPerColumn>1</IconsPerColumn>
+    </Row>
+  </IconTextureAtlases>
+</GameData>

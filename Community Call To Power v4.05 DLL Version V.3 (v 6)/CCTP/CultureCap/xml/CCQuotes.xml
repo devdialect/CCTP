@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<GameData>
+  <Table name="CCQuotes"> <!-- ! At least 2 entries needed; localization so far not implemented for quotes -->
+    <Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+    <Column name="Quote" type="text" default="NULL"/>
+    <Column name="Source" type="text" default="NULL" />
+  </Table>
+  <CCQuotes>
+    <Row>
+      <ID>0</ID>
+      <Quote>"In the game of chess never let your opponent see your pieces."</Quote>
+      <Source>Z. Brannigan</Source>
+    </Row>
+    <Row>
+      <Quote>"Like all my plans, it's so simple an idiot could have devised it."</Quote>
+      <Source>Z. Brannigan</Source>
+    </Row>
+    <Row>
+      <Quote>"If we can hit that bull's-eye, the rest of the dominoes will fall like a house of cards... Checkmate."</Quote>
+      <Source>Z. Brannigan</Source>
+    </Row>
+
+    <Row>
+      <Quote>"I don't see why not; I also don't see why!"</Quote>
+      <Source>Dr. Zoidberg</Source>
+    </Row>
+    <Row>
+      <Quote>"I help those who help themselves!"</Quote>
+      <Source>Dr. Zoidberg (as Jesus)</Source>
+    </Row>
+
+    <Row>
+      <Quote>"I'm sure I don't need to explain that all dark matter in the universe is linked in the form of a single non-local metaparticle."</Quote>
+      <Source>Prof. Hubert J. Farnsworth</Source>
+    </Row>
+    <Row>
+      <Quote>"I don't know how to teach - I'm a professor!"</Quote>
+      <Source>Prof. Hubert J. Farnsworth</Source>
+    </Row>
+
+		<Row>
+			<Quote>"Here's to alcohol: the cause of, and solution to, all of life's problems."</Quote>
+			<Source>Homer J. Simpson</Source>
+		</Row>
+		<Row>
+			<Quote>"You tried your best and failed miserably. The lesson is: never try."</Quote>
+			<Source>Homer J. Simpson</Source>
+		</Row>
+
+    <Row>
+      <Quote>"In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move."</Quote>
+      <Source>Douglas Adams</Source>
+    </Row>
+    <Row>
+      <Quote>"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools."</Quote>
+      <Source>Douglas Adams</Source>
+    </Row>
+		<Row>
+			<Quote>"I may not have gone where I intended to go, but I think I have ended up where I intended to be."</Quote>
+			<Source>Douglas Adams</Source>
+		</Row>
+		<Row>
+			<Quote>"For a moment, nothing happened. Then, after a second or so, nothing continued to happen."</Quote>
+			<Source>Douglas Adams</Source>
+		</Row>
+		
+
+		<Row>
+      <Quote>"If you are going to go through hell, keep going."</Quote>
+      <Source>Winston Churchill</Source>
+    </Row>
+		<Row>
+			<Quote>"I am ready to meet my Maker. Whether my Maker is prepared for the ordeal of meeting me is another matter."</Quote>
+			<Source>Winston Churchill</Source>
+		</Row>
+
+		<Row>
+			<Quote>"The critic has to educate the public; the artist has to educate the critic."</Quote>
+			<Source>Oscar Wilde</Source>
+		</Row>
+		<Row>
+			<Quote>"Procrastination is the art of keeping up with yesterday."</Quote>
+			<Source>Oscar Wilde</Source>
+		</Row>
+		<Row>
+			<Quote>"America is the only country that went from barbarism to decadence without civilization in between."</Quote>
+			<Source>Oscar Wilde</Source>
+		</Row>
+
+		<Row>
+			<Quote>"All generalizations are false, including this one."</Quote>
+			<Source>Mark Twain</Source>
+		</Row>
+		<Row>
+			<Quote>"The trouble ain't that there is too many fools, but that the lightning ain't distributed right."</Quote>
+			<Source>Mark Twain</Source>
+		</Row>
+		<Row>
+			<Quote>"When angry, count to four. When very angry, swear."</Quote>
+			<Source>Mark Twain</Source>
+		</Row>
+		
+
+	</CCQuotes>
+  
+</GameData>

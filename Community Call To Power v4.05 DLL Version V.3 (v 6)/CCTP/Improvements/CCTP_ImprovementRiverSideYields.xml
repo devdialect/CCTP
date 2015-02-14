@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/21/2014 10:43:12 PM -->
+<GameData>
+	
+<!--*****Improvement_RiverSideYields*****-->
+<Improvement_RiverSideYields>
+<Row>
+	<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TERRACE_FARM</ImprovementType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_POLDER</ImprovementType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TIPI</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_WELL</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<Row>
+	<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>	
+<Row>
+	<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_BRAZILWOOD_CAMP</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_CHATEAU</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_KASBAH</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_MOTTE_BAILEY</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_WAJO</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_NODE</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_INDUSTRIAL</ImprovementType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_SAT</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_HIGH_ENERGY</ImprovementType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_BEACON</ImprovementType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PSI</ImprovementType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_ARCOLOGY</ImprovementType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_SOLAR</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_WIND</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TEMPEL</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_ALCHEMIST</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_PAPER</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Improvement_RiverSideYields>
+  
+</GameData> 
+<!--Have a nice Day;=)-->

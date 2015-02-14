@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/10/2012 4:08:28 PM -->
+<GameData>
+	<!-- French (by Balthichou)-->
+	<Language_fr_FR>
+		<Row Tag="TXT_KEY_GW_ERANOTIFY">
+			<Text>La découverte de {1_EraName} a rendu le réchauffement climatique possible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_ERANOTIFY_SHORT">
+			<Text>Réchauffement climatique ?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_MELT">
+			<Text>La glace et la neige ont fondu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_MELT_SHORT">
+			<Text>Le réchauffement climatique a frappé !</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_FLOOD">
+			<Text>La hausse du niveau des mers a inondé les terres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_FLOOD_SHORT">
+			<Text>Le réchauffement climatique a frappé !</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LOST_RESOURCE">
+			<Text>Le réchauffement climatique a détruit une unité de {1_ResourceName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LOST_RESOURCE_SHORT">
+			<Text>Ressource perdue !</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LAND">
+			<Text>Une vague de chaleur a modifié le terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LAND_SHORT">
+			<Text>Le réchauffement climatique a frappé !</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_HURRICANE">
+			<Text>Un ouragan a dévasté {@1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_HURRICANE_SHORT">
+			<Text>Le réchauffement climatique a frappé !</Text>
+		</Row>
+	</Language_fr_FR>
+</GameData>

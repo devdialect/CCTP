@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 3:07:08 PM -->
+<GameData>
+	
+<!--*******Belief_SpecialistYieldChanges********works!!!-->
+<Belief_SpecialistYieldChanges>
+<Row>
+	<BeliefType>BELIEF_NANNA</BeliefType>
+	<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>3</Yield>
+</Row>
+
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_ENVIRONMENT</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_JUDGE</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_LABORER</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_ENERGY</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_ENTERTAINER</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_GUIDE</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_UTU</BeliefType>
+	<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_DOKTOR</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_MAAT</BeliefType>
+	<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>-->	
+</Belief_SpecialistYieldChanges>
+
+
+
+
+	
+  
+</GameData>
+<!--Have a nice Day;=)-->

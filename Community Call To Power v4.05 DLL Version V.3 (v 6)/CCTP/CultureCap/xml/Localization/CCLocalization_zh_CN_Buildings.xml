@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 10:56:23 AM -->
+<GameData>
+
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE_HELP">
+			<Text>文化委员会席位。提供+1[ICON_CULTURE]文化并允许你看到文化之都选举的胜者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE">
+			<Text>[ICON_CC]文化委员会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE_STRATEGY">
+			<Text>城市在设立[COLOR_YELLOW]文化委员会[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_HELP">
+			<Text>你获得一项免费政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT">
+			<Text>[ICON_CC]激励塑像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]赋权[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_HELP">
+			<Text>所有邻近地块提供+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS">
+			<Text>[ICON_CC]天堂灯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]权势[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE_HELP">
+			<Text>提供+2[ICON_HAPPINESS_1]快乐和+2[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE">
+			<Text>[ICON_CC]朝拜圣殿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]信念[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL_HELP">
+			<Text>提供+3[ICON_CULTURE]文化和+3[ICON_PEACE]信仰。[NEWLINE][NEWLINE]能够雇佣[ICON_GREAT_PEOPLE]1艺术家(专业人员)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL">
+			<Text>[ICON_CC]帝国教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]信仰[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION_HELP">
+			<Text>暂时增加100%[ICON_HAPPINESS_4]不满(来自城市数量)。[NEWLINE][NEWLINE]增加150%[ICON_GREAT_PEOPLE]伟人出生率和本国所有城市[ICON_CULTURE]文化产出。[NEWLINE][NEWLINE]在持续回合内+3[ICON_GREAT_PEOPLE]大艺术家出生率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION">
+			<Text>[ICON_CC]争议展出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]争议[ENDCOLOR]后开始这次展出。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_HELP">
+			<Text>森林和丛林地块产出+1[ICON_FOOD]食物和绿洲地块产出+2[ICON_FOOD]食物。[NEWLINE][NEWLINE]水域地块产出+2[ICON_RESEARCH]科研。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER">
+			<Text>[ICON_CC]生态中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]生态[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_HELP">
+			<Text>提供+1[ICON_PRODUCTION]产能, 增加15%[ICON_PRODUCTION]建筑产能和[ICON_WAR]压制武器生产速率。[NEWLINE][NEWLINE]研究蒸汽机完毕后+2[ICON_PRODUCTION]产能。[NEWLINE][NEWLINE]能够雇佣[ICON_GREAT_PEOPLE]2工程师(专业人员)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL">
+			<Text>[ICON_CC]建筑展馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]结构[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK_HELP">
+			<Text>增加25%[ICON_GREAT_PEOPLE]伟人出生率和15%[ICON_RESEARCH]科研产出。[NEWLINE][NEWLINE]研究科学理论完毕后提供+3[ICON_RESEARCH]科研。[NEWLINE][NEWLINE]能够雇佣[ICON_GREAT_PEOPLE]2科学家(专业人员)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK">
+			<Text>[ICON_CC]智囊团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]哲学[ENDCOLOR]后获得这支团队。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE_HELP">
+			<Text>所有城市可工作的[ICON_RES_WHEAT][ICON_RES_SHEEP][ICON_RES_DEER][ICON_RES_COW][ICON_RES_BANANA][ICON_RES_FISH]资源产出+1[ICON_GOLD]金钱。[NEWLINE][NEWLINE]本城市+2[ICON_FOOD]食物产出。[NEWLINE][NEWLINE]研究经济学完毕后提供+2[ICON_GOLD]金钱。[NEWLINE][NEWLINE]能够雇佣[ICON_GREAT_PEOPLE]2商业家(专业人员)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE">
+			<Text>[ICON_CC]贸易商行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]贸易[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA_HELP">
+			<Text>本国所有[ICON_GREAT_PEOPLE]艺术家(专业人员)提供+1[ICON_RESEARCH]科研和所在城市+2[ICON_CULTURE]文化。[NEWLINE][NEWLINE]能够雇佣[ICON_GREAT_PEOPLE]3艺术家(专业人员)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA">
+			<Text>[ICON_CC]科技博览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]科技[ENDCOLOR]后开始这场展览。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE_HELP">
+			<Text>为本城市提供+7.5[ICON_STRENGTH]防御，+1[ICON_HAPPINESS_1]快乐和+1[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE">
+			<Text>[ICON_CC]栅栏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]防御[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER_HELP">
+			<Text>为本城市提供+13.5[ICON_STRENGTH]防御和增加城市50%[ICON_RESEARCH]科研产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER">
+			<Text>[ICON_CC]碉堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]守护[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL_HELP">
+			<Text>所有新建[ICON_WAR]单位获得+15经验值，增加25%[ICON_WAR]单位[ICON_PRODUCTION]生产速率。[NEWLINE][NEWLINE]+1[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL">
+			<Text>[ICON_CC]战争纪念馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]偶像[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_HELP">
+			<Text>暂时增加100%来自[ICON_TRADE]商路的[ICON_GOLD]金钱收入。[NEWLINE][NEWLINE]+3[ICON_GREAT_PEOPLE]大商业家出生率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET">
+			<Text>[ICON_CC]交易市场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]交换[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_HELP">
+			<Text>[ICON_RES_STONE][ICON_RES_GEMS][ICON_RES_GOLD][ICON_RES_SILVER][ICON_RES_MARBLE][ICON_RES_PEARLS][ICON_SALT][ICON_RES_IRON][ICON_COPPER][ICON_RES_COAL][ICON_RES_ALUMINUM][ICON_RES_URANIUM]资源产出+2[ICON_SCIENCE]科研。[NEWLINE][NEWLINE]提供+1[ICON_CULTURE]文化，每种邻近城市的这些资源+1[ICON_CULTURE]文化。[NEWLINE][NEWLINE]能够雇佣[ICON_GREAT_PEOPLE]1艺术家(专业人员)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM">
+			<Text>[ICON_CC]地质博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]地质[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO_HELP">
+			<Text>提供+6[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]增加25%的城市[ICON_GOLD]金钱产出。[NEWLINE][NEWLINE]能够雇佣[ICON_GREAT_PEOPLE]2艺术家(专业人员)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO">
+			<Text>[ICON_CC]电台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]娱乐[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP_HELP">
+			<Text>国家所有工人的工作速度暂时提高200%。[NEWLINE][NEWLINE]+2[ICON_GREAT_PEOPLE]大工程师出生率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP">
+			<Text>[ICON_CC]劳动营</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]劳动[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_HELP">
+			<Text>你获得一个免费[ICON_SPY]间谍。[NEWLINE][NEWLINE]提供+1[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU">
+			<Text>[ICON_CC]侦探局</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_STRATEGY">
+			<Text>城市在采用主题[COLOR_YELLOW]调查[ENDCOLOR]后获得这座建筑。</Text>
+		</Row>
+
+	</Language_zh_CN>
+
+</GameData>

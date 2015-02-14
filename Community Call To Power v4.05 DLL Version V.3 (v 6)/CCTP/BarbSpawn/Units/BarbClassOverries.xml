@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/23/2014 10:56:44 AM -->
+<GameData>
+	<Civilization_UnitClassOverrides>
+		
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+			<UnitType>UNIT_BARBARIAN_MUSKETMAN</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+			<UnitType>UNIT_BARBARIAN_RIFLEMAN</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
+			<UnitType>UNIT_BARBARIAN_INFANTRY</UnitType>
+		</Row>		
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_CARNIFEX</UnitClassType>
+			<UnitType>UNIT_BARBARIAN_CARNIFEX</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_LIKTOR</UnitClassType>
+			<UnitType>UNIT_BARBARIAN_LIKTOR</UnitType>
+		</Row>
+
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_SIEGE</UnitClassType>
+			<UnitType>UNIT_ALIEN_SIEGE_WORM</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_RANGED_MARINE</UnitClassType>
+			<UnitType>UNIT_ALIEN_MANTICORE</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+			<UnitType>UNIT_ALIEN_RAPTOR_BUG</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_XENO_TITAN</UnitClassType>
+			<UnitType>UNIT_XENO_TITAN</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_MARINE</UnitClassType>
+			<UnitType>UNIT_ALIEN_WOLF_BEETLE</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_ALIEN_FLYER</UnitClassType>
+			<UnitType>UNIT_ALIEN_FLYER</UnitType>
+		</Row>
+	
+
+	</Civilization_UnitClassOverrides>
+  
+</GameData>

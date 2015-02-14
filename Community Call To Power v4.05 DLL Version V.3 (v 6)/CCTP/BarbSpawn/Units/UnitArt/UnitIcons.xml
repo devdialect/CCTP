@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2012-02-12 2:29:20 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>AGE_OF_EVOLUTION_UNIT_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>AgeOfEvolutionUnitAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>AGE_OF_EVOLUTION_UNIT_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>AgeOfEvolutionUnitAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>AGE_OF_EVOLUTION_UNIT_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>AgeOfEvolutionUnitAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>AGE_OF_EVOLUTION_UNIT_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>AgeOfEvolutionUnitAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>AGE_OF_EVOLUTION_UNIT_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>AgeOfEvolutionUnitAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>AGE_OF_EVOLUTION_UNIT_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>AgeOfEvolutionUnitAtlas32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>AGE_OF_EVOLUTION_UNIT_FLAG_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>AgeOfEvolutionUnitFlagAtlas32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

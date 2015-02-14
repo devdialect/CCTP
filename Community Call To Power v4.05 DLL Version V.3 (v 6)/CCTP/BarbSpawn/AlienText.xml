@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/12/2014 10:28:38 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_NOTIFICATION_ALIEN">
+			<Text>Aliens Sighting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ALIEN">
+			<Text>There are reports aliens have been sighted in the area.</Text>
+		</Row>
+		
+		
+	</Language_en_US>
+	
+  
+</GameData>

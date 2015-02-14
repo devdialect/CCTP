@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 7/31/2014 7:43:23 PM -->
+<GameData>
+ 
+
+	<Policy_FreePromotions>
+		  <!--<Delete/>-->
+		<Row>
+			<PolicyType>POLICY_CROWN_LOYALTYX</PolicyType>
+			<PromotionType>PROMOTION_FOR_THE_KING</PromotionType>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_SPIRIT</PolicyType>
+			<PromotionType>PROMOTION_FEROCITY</PromotionType>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_WILL</PolicyType>
+			<PromotionType>PROMOTION_FATHERLAND</PromotionType>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_ECO_FANATACISM</PolicyType>
+			<PromotionType>PROMOTION_ECO_FANATIC</PromotionType>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP179</PolicyType>
+			<PromotionType>PROMOTION_MEDIC</PromotionType>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP182</PolicyType>
+			<PromotionType>PROMOTION_CCTP1</PromotionType>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP214</PolicyType>
+			<PromotionType>PROMOTION_HEALTH</PromotionType>
+		</Row>
+
+	</Policy_FreePromotions>
+  <!-- TODO: Insert table data example here.-->
+  
+ 
+  
+</GameData> 
+<!--Have a nice day:=)-->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/17/2014 1:48:27 PM -->
+<GameData>
+	
+ <!--*****Unit_YieldFromBarbarianKills*****-->
+<Unit_YieldFromBarbarianKills>
+<!--***Next***	
+<Row>
+	<UnitType>UNIT_CCTP249</UnitType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>100</Yield>
+</Row>-->
+	<!--***Next***-->
+</Unit_YieldFromBarbarianKills>
+  
+</GameData>
+<!--Have a nice Day ;=)-->

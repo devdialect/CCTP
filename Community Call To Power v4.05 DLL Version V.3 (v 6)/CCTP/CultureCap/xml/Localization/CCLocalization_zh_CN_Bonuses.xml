@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 10:56:46 AM -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_CULTURE">
+			<Text>城市[ICON_CULTURE]文化+{1_value}。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CULTURE_MODIFIER">
+			<Text>城市[ICON_CULTURE]文化+{1_value}%。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_FOOD">
+			<Text>城市[ICON_FOOD]食物+{1_value}。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_SCIENCE">
+			<Text>城市[ICON_RESEARCH]科研+{1_value}。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_PRODUCTION">
+			<Text>城市[ICON_PRODUCTION]产能+{1_value}。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_GOLD">
+			<Text>城市[ICON_GOLD]金钱+{1_value}。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_YIELD_WONDERPRODUCTIONMODIFIER">
+			<Text>城市建造奇观的[ICON_PRODUCTION]产能+{1_value}%。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_TEMPLE">
+			<Text>城市获得一座[ICON_PEACE]朝拜圣殿。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CATHEDRAL">
+			<Text>城市获得一座[ICON_PEACE]帝国教堂。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EMPOWERMENT">
+			<Text>城市获得一座[ICON_CULTURE]激励塑像。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_POPULATION">
+			<Text>城市立刻获得{1_value}[ICON_CITIZEN]市民。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_HEALCITY">
+			<Text>城市立刻获得完全修复。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXHIBITION">
+			<Text>城市开始一场[ICON_HAPPINESS_4]争议展出。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_PHILOSOPHY">
+			<Text>城市获得一支[ICON_GREAT_PEOPLE]智囊团。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CONSTRUCTION">
+			<Text>城市获得一座[ICON_PRODUCTION]建筑展馆。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_TRADE">
+			<Text>城市获得一座[ICON_GOLD]贸易商行。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_TECHNOLOGY">
+			<Text>城市开始一场[ICON_CULTURE]科技博览。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_DEFENSE">
+			<Text>城市获得一座[ICON_STRENGTH]栅栏。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_ADV_DEFENSE">
+			<Text>城市获得一座[ICON_STRENGTH]碉堡。</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_CULTUREONKILL">
+			<Text>在境内消灭敌方单位后城市获得[ICON_CULTURE]文化({1_value}x[ICON_STRENGTH])。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_FOODONKILL">
+			<Text>在境内消灭敌方单位后城市获得[ICON_FOOD]食物({1_value}x[ICON_STRENGTH])。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CITY_PRODUCTIONONKILL">
+			<Text>在境内消灭敌方单位后城市获得[ICON_PRODUCTION]产能({1_value}x[ICON_STRENGTH])。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_PLAYER_FREEPOLICIES">
+			<Text>你获得{1_value}免费[ICON_CULTURE]社会政策。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_UNIT_EXP">
+			<Text>镇守城市单位立刻获得{1_value}经验值。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ECOLOGY">
+			<Text>城市获得一座[ICON_FOOD][ICON_RESEARCH]生态中心。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_BENEVOLENCE">
+			<Text>你获得一位[ICON_GREAT_PEOPLE]大艺术家。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_HORIZON_UNITS">
+			<Text>你获得{1_value}移民。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_IDOLS">
+			<Text>城市获得一座[ICON_WAR]战争纪念馆。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_FOOD">
+			<Text>城市立刻获得{1_value}[ICON_FOOD]食物。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_PRODUCTION">
+			<Text>城市立刻获得{1_value}[ICON_PRODUCTION]产能。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_CULTURE">
+			<Text>城市立刻获得{1_value}[ICON_CULTURE]文化。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXCHANGE">
+			<Text>城市获得一座[ICON_TRADE]交易市场。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_LOYALTY">
+			<Text>你获得一位[ICON_GREAT_PEOPLE]陆军统帅。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_INFORMATION">
+			<Text>你获得一位[ICON_GREAT_PEOPLE]大科学家。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_GEOLOGY">
+			<Text>城市获得一座[ICON_CULTURE][ICON_RESEARCH]地质博物馆。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ENTERTAINMENT">
+			<Text>城市获得一座[ICON_HAPPINESS_1][ICON_GOLD]电台。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_EXTRACTION">
+			<Text>显示邻近城市{1_value}[ICON_RES_IRON]战略资源。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_DEEP_EXTRACTION">
+			<Text>显示邻近城市{1_value}[ICON_RES_URANIUM]战略资源。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_LABOR">
+			<Text>城市暂时获得一座劳动营。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_INVESTIGATION">
+			<Text>城市获得一座[ICON_SPY]侦探局。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_BONUS_ASCENDANCY">
+			<Text>城市暂时获得一座[ICON_PEACE]天堂灯塔。</Text>
+		</Row>
+
+		<!-- ### Malus Texts ### -->
+		<Row Tag="TXT_KEY_CC_MALUS_POPULATION">
+			<Text>城市损失{1_value}[ICON_CITIZEN]市民。</Text>
+		</Row>
+
+	</Language_zh_CN>
+
+</GameData>

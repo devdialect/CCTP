@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:33:54 PM -->
+<GameData>
+	<!--/////////Policies***Gametext\\\\\\\\\-->
+	<Language_en_US>
+
+		<!--*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!-->
+		<!--<<<<<<<<<<[Policies]>>>>>>>>>>-->
+
+
+
+
+
+
+
+
+		<!--		
+		<Row Tag="TXT_KEY_BUILDING_CCTPPB22">
+			<Text>Golden Thron</Text>
+		</Row>
+
+<Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
+<Text>[COLOR_POSITIVE_TEXT]Honor Code[ENDCOLOR].[NEWLINE][NEWLINE].</Text>
+</Row>
+<Row Tag="TXT_KEY_POLICY_MILITARY_TRADITION_HELP">
+<Text>[COLOR_POSITIVE_TEXT]Military Tradition[ENDCOLOR].[NEWLINE].</Text>
+</Row>
+<Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
+<Text>[COLOR_POSITIVE_TEXT]Recruiters[ENDCOLOR].[NEWLINE] A free Warrior appears near the [ICON_CAPITAL] Capital.</Text>
+</Row>
+<Row Tag="TXT_KEY_POLICY_DISCIPLINE">
+<Text>[COLOR_POSITIVE_TEXT]Recruiters[ENDCOLOR].</Text>
+</Row>-->
+		<Row Tag="TXT_KEY_POLICY_CCTP1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Hero's Path[ENDCOLOR].[NEWLINE][NEWLINE]+25% [ICON_STRENGTH] Combat Strength when attacking wounded enemy [ICON_SILVER_FIST] units.[NEWLINE]Allows your [ICON_WORKER] Worker to build the [COLOR_YELLOW]Wajo[ENDCOLOR] improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP1">
+			<Text>[COLOR_POSITIVE_TEXT]Hero's Path[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP1_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Hero's Path[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_POLICY_CCTP2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Military Gods[ENDCOLOR][NEWLINE][NEWLINE]The [ICON_GOLD] Gold cost of buying [ICON_SILVER_FIST] military Units is reduced by 15%.[NEWLINE][NEWLINE]Allowes the construction of the [COLOR_YELLOW]Totem Wonder[ENDCOLOR] .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP2_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Military Gods[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP2">
+			<Text>[COLOR_POSITIVE_TEXT]Military Gods[ENDCOLOR]</Text>
+		</Row>
+		
+	
+	
+		<Row Tag="TXT_KEY_POLICY_CCTP4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Throne[ENDCOLOR][NEWLINE]All new build [ICON_SILVER_FIST] military units get the promotion [ICON_GOLDEN_AGE] Golden Age Point.[NEWLINE]Its grands [ICON_GOLDEN_AGE] Golden Age Points for killing enemy units.[NEWLINE]-10% enemy Spy chance of stealing technologies in all of your Cities.[NEWLINE]Allowes the construction of the [COLOR_YELLOW]Sun Tzu Art of War[ENDCOLOR] Wonder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP4">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Throne[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP4_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Throne[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Leader's Oath[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_HAPPINESS_1] Global Happiness for every World Wonder you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP5">
+			<Text>[COLOR_POSITIVE_TEXT]Leader's Oath[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP5_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Leader's Oath[ENDCOLOR].</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_POLICY_CCTP9">
+			<Text>[COLOR_POSITIVE_TEXT]Working Class[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP9_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Working Class[ENDCOLOR][NEWLINE][NEWLINE]Add yields +1 [ICON_FOOD] Food to each of your cities.[NEWLINE][NEWLINE]Grands +1 [ICON_RES_MANPOWER] Manpower for every city you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP9_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Working Class[ENDCOLOR]</Text>
+		</Row>
+		
+	
+	
+		<Row Tag="TXT_KEY_POLICY_CCTP13_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Law[ENDCOLOR][NEWLINE][NEWLINE]+2 [ICON_PEACE] Faith for each [ICON_GREAT_PEOPLE] Great Person improvement and +1 [ICON_HAPPINESS_1] Happiness for every garrisoned [ICON_SILVER_FIST] Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP13">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Law[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP13_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Law[ENDCOLOR]</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_POLICY_CCTP14_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Imperial Cult[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_PEACE] Faith for each city you own and two [ICON_INQUISITOR] Inquisitors appaire near your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP14">
+			<Text>[COLOR_POSITIVE_TEXT]Imperial Cult[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP14_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Imperial Cult[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_POLICY_CCTP15_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Work[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith for each [ICON_GREAT_PERSON] Specialist and +2 [ICON_PEACE] Faith for each [ICON_GREAT_WORK] Great Work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP15">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Work[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP15_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Work[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_POLICY_CCTP17_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Ideologies[ENDCOLOR][NEWLINE][NEWLINE]Religious pressure in your [ICON_CAPITAL] Holy City is doubled and -25% [ICON_HAPPINESS_4] Unhappiness in your [ICON_CAPITAL] Capital  [NEWLINE][NEWLINE]+ 1 [ICON_PEACE] Faith for each [COLOR_YELLOW]Burial Mound[ENDCOLOR] .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP17">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Ideologies[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP17_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Religious Ideologies[ENDCOLOR]</Text>
+		</Row>
+
+
+		<!-- 
+		<Row Tag="TXT_KEY_POLICY_CCTP16_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Local Trader[ENDCOLOR][NEWLINE][NEWLINE]+2 [ICON_GOLD] for each city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP16">
+			<Text>[COLOR_POSITIVE_TEXT]Local Trader[ENDCOLOR]</Text>
+		</Row>-->
+
+		<!---->
+		<Row Tag="TXT_KEY_POLICY_CCTP18_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Specialist Trader[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold for each [COLOR_YELLOW]Trading Post[ENDCOLOR] and +1 [ICON_GOLD] Gold for every [ICON_GREAT_PEOPLE] Specialist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP18">
+			<Text>[COLOR_POSITIVE_TEXT]Specialist Trader[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP18_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Specialist Trader[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP19_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Foreign Deals[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_TRADE] Trade Route for every city you own and all [ICON_CAPITAL] Capitals on the map are revealed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP19">
+			<Text>[COLOR_POSITIVE_TEXT]Foreign Deals[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP19_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Foreign Deals[ENDCOLOR]</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_POLICY_CCTP20_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Ecological Research[ENDCOLOR][NEWLINE][NEWLINE][ICON_CITIZEN] Specialists consume 50% less [ICON_FOOD] Food and gain +1 [ICON_HAPPINESS_1] Happiness for every 10 [ICON_CITIZEN] Citizens in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP20">
+			<Text>[COLOR_POSITIVE_TEXT]Ecological Research[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP20_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Ecological Research[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP21_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Public Research[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_RESEARCH] Science for each city and +3 [ICON_RESEARCH] Science for the [ICON_CAPITAL] Capital .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP21">
+			<Text>[COLOR_POSITIVE_TEXT]Public Research[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP21_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Public Research[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP22_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Cultural Research[ENDCOLOR][NEWLINE][NEWLINE]Academies yield +2 [ICON_CULTURE] Culture and yields +1 [ICON_RESEARCH] Science to every World Wonder you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP22">
+			<Text>[COLOR_POSITIVE_TEXT]Cultural Research[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP22_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Cultural Research[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP23_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Dream[ENDCOLOR][NEWLINE][NEWLINE]50% of [ICON_HAPPINESS_1] Happiness is added to your [ICON_RESEARCH] Science each turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP23">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Dream[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP23_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Dream[ENDCOLOR]</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_POLICY_CCTP24_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Art Community[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness and +1 [ICON_CULTURE] Culture for each city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP24">
+			<Text>[COLOR_POSITIVE_TEXT]Art Community[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP24_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Art Community[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP25_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Art Monument[ENDCOLOR][NEWLINE][NEWLINE]Provides a free [ICON_CULTURE] Cultural building in each of your own cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP25">
+			<Text>[COLOR_POSITIVE_TEXT]Art Monument[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP25_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Art Monument[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP26_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Art Tourism[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture for every World Wonder and +1 [ICON_CULTURE] Culture for each Trading Post.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP26">
+			<Text>[COLOR_POSITIVE_TEXT]Art Tourism[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP26_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Art Tourism[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP27_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Modern Art[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture for every [ICON_GREAT_PEOPLE] Specialist and immediately begins a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP27">
+			<Text>[COLOR_POSITIVE_TEXT]Modern Art[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP27_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Modern Art[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP28_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Hansa[ENDCOLOR][NEWLINE][NEWLINE]Provides a free [ICON_GREAT_MERCHANT] Great Merchant and allows [ICON_GREAT_MERCHANT] Great Merchants to annex City-States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP28">
+			<Text>[COLOR_POSITIVE_TEXT]Hansa[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP28_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Hansa[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP29_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]New Hope[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness for each [ICON_TRADE]Trade Route.[NEWLINE][NEWLINE]Grands a We Love the King Day to all of your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP29">
+			<Text>[COLOR_POSITIVE_TEXT]New Hope[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP29_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]New Hope[ENDCOLOR]</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_POLICY_CCTP30_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]New Colonies[ENDCOLOR][NEWLINE][NEWLINE][ICON_WORKER]Worker speed increased by +25% and you get +1 [ICON_RES_MANPOWER] Manpower for city you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP30">
+			<Text>[COLOR_POSITIVE_TEXT]New Colonies[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP30_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]New Colonies[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP31_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]New Era[ENDCOLOR][NEWLINE][NEWLINE]+5 [ICON_HAPPINESS_1] Happiness and provides +2 [ICON_TRADE] Trade Routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP31">
+			<Text>[COLOR_POSITIVE_TEXT]New Era[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP31_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]New Era[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP32_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]New Live[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production, +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold for each [COLOR_YELLOW]Fishing Boat[ENDCOLOR] and [ICON_INTERNATIONAL_TRADE] Trade Missions earn +25% more [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP32">
+			<Text>[COLOR_POSITIVE_TEXT]New Live[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP32_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]New Live[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP33_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Touristic Travel[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness for each [COLOR_YELLOW]Tavern[ENDCOLOR] and [COLOR_YELLOW]Hotel[ENDCOLOR] . Provides yields +1 [ICON_CULTURE] Culture to each [COLOR_YELLOW]Moai[ENDCOLOR] improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP33">
+			<Text>[COLOR_POSITIVE_TEXT]Touristic Travel[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP33_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Touristic Travel[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP34_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Trade Union[ENDCOLOR][NEWLINE][NEWLINE]+3 [ICON_GOLD] Gold and +3 [ICON_PRODUCTION] Production in the [ICON_CAPITAL] Capital and +10% [ICON_GOLD] Gold for [ICON_CONNECTED] City Connections.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP34">
+			<Text>[COLOR_POSITIVE_TEXT]Trade Union[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP34_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Trade Union[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP35_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Secret Plans[ENDCOLOR][NEWLINE][NEWLINE]Provides [ICON_TOURISM] Tourism each time a [ICON_GREAT_MERCHANT] Great Merchant is born.[NEWLINE]Your [ICON_WORKER] Worker can now build the [COLOR_YELLOW]Feitoria[ENDCOLOR] improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP35">
+			<Text>[COLOR_POSITIVE_TEXT]Secret Plans[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP35_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Secret Plans[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP36_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Charismatic Patron[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness for each City and +1 [ICON_CULTURE] Culture for every [ICON_SILVER_FIST] Unit garrisoned in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP36">
+			<Text>[COLOR_POSITIVE_TEXT]Charismatic Patron[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP36_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Charismatic Patron[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTP37_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Patron[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold for each [COLOR_YELLOW]Trading Post[ENDCOLOR] and begins a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP37">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Patron[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP37_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Golden Patron[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_POLICY_CCTP38_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]New Deals[ENDCOLOR][NEWLINE][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness for each [ICON_TRADE] Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP38">
+			<Text>[COLOR_POSITIVE_TEXT]New Deals[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTP38_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]New Deals[ENDCOLOR]</Text>
+		</Row>
+
+
+
+		<!--ORDER-->
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER1">
+			<Text>[COLOR_POSITIVE_TEXT]Order Trade[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Order Trade[ENDCOLOR][NEWLINE][NEWLINE]+15% [ICON_GOLD] Gold for each City [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER1_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Order Trade[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER2">
+			<Text>[COLOR_POSITIVE_TEXT]Order Militia[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Order Militia[ENDCOLOR][NEWLINE][NEWLINE]+5 [ICON_HAPPINESS_1] Happiness for each [ICON_SILVER_FIST] Unit garrisoned in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER2_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Order Militia[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER3">
+			<Text>[COLOR_POSITIVE_TEXT]Order Annexation[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER3_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Order Annexation[ENDCOLOR][NEWLINE][NEWLINE] Allows you to annex [ICON_CITY_STATE] City-States and [COLOR_YELLOW]Trading Posts[ENDCOLOR] yield +2 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER3_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Order Annexation[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER4">
+			<Text>[COLOR_POSITIVE_TEXT]New Order[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]New Order[ENDCOLOR][NEWLINE][NEWLINE] +1% [ICON_PRODUCTION] Production for each [ICON_CITIZEN] Specialist, +5 [ICON_PRODUCTION] Production in the [ICON_CAPITAL] Capital and +5 [ICON_HAPPINESS_1] Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER4_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]New Order[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER5">
+			<Text>[COLOR_POSITIVE_TEXT]General Order[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]General Order[ENDCOLOR][NEWLINE][NEWLINE] two [ICON_GREAT_GENERAL] Great Generals appairs near your [ICON_CAPITAL] Capital and [ICON_GREAT_GENERAL] Great Generals generation is doubled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER5_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]General Order[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER6">
+			<Text>[COLOR_POSITIVE_TEXT]National Wonders[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]National Wonders[ENDCOLOR][NEWLINE][NEWLINE] Adds +5 yields [ICON_GOLD] Gold and + 2 [ICON_CULTURE] Culture to each World Wonder you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPORDER6_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]National Wonders[ENDCOLOR]</Text>
+		</Row>
+		
+		
+		<!--FREEDOM-->
+
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM1">
+			<Text>[COLOR_POSITIVE_TEXT]Free Trade[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Free Trade[ENDCOLOR][NEWLINE][NEWLINE] +1 [ICON_HAPPINESS_1] Happiness for every 5 [ICON_CITIZEN] Citizens in a city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM1_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Free Trade[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM2">
+			<Text>[COLOR_POSITIVE_TEXT]Free Society[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Free Society[ENDCOLOR][NEWLINE][NEWLINE] +10% [ICON_GREAT_PEOPLE] Great People generation in all cities and +1 [ICON_HAPPINESS_1] Happiness for every surplus Luxury Resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM2_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Free Society[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM3">
+			<Text>[COLOR_POSITIVE_TEXT]Human Society[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM3_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Human Society[ENDCOLOR][NEWLINE][NEWLINE] +25% [ICON_FOOD] Food in all cities and [ICON_GOLDEN_AGE] Golden Ages are +50% longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM3_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Human Society[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM4">
+			<Text>[COLOR_POSITIVE_TEXT]Trading Corporations[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Trading Corporations[ENDCOLOR][NEWLINE][NEWLINE] +25% [ICON_GOLD] Gold from [ICON_INTERNATIONAL_TRADE] Trade Missions and [COLOR_YELLOW]Trading Posts[ENDCOLOR] yield +1 [ICON_FOOD] Food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM4_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Trading Corporations[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM5">
+			<Text>[COLOR_POSITIVE_TEXT]Side Seeings[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Side Seeings[ENDCOLOR][NEWLINE][NEWLINE] Adds +1 yield [ICON_HAPPINESS] Happiness to each of World Wonders you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM5_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Side Seeings[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM6">
+			<Text>[COLOR_POSITIVE_TEXT]Global Great Works[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Global Great Works[ENDCOLOR][NEWLINE][NEWLINE] Adds +5 yield [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture to every Great Work you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPFREEDOM6_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Global Great Works[ENDCOLOR]</Text>
+		</Row>
+
+		<!--AUTOCRACY-->
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY1">
+			<Text>[COLOR_POSITIVE_TEXT]Agricultural Plan[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Agricultural Plan[ENDCOLOR][NEWLINE][NEWLINE] +10% [ICON_FOOD] Food in all cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY1_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Agricultural Plan[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY2">
+			<Text>[COLOR_POSITIVE_TEXT]Workers Plan[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Workers Plan[ENDCOLOR][NEWLINE][NEWLINE] +15% [ICON_PRODUCTION] Production in all cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY2_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Workers Plan[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY3">
+			<Text>[COLOR_POSITIVE_TEXT]Collective Constructer[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY3_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Collective Constructer[ENDCOLOR][NEWLINE][NEWLINE] Cost of purchasing items in cities require 50% less [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY3_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Collective Constructer[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY4">
+			<Text>[COLOR_POSITIVE_TEXT]Collective Constructer[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Collective Constructer[ENDCOLOR][NEWLINE][NEWLINE] +1 [ICON_HAPPINESS_1] Happiness for each [ICON_TRADE] Trade Route and +5 [ICON_CULTURE] Culture in the [ICON_CAPITAL] Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY4_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Collective Constructer[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY5">
+			<Text>[COLOR_POSITIVE_TEXT]Organized Structure[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Organized Structure[ENDCOLOR][NEWLINE][NEWLINE] +3 [ICON_GOLD] Gold from each [COLOR_YELLOW]Trading Post[ENDCOLOR] ,+3 [ICON_FOOD] Food from each [COLOR_YELLOW]Farm [ENDCOLOR] and +3 [ICON_PRODUCTION] Production from each [COLOR_YELLOW]Mine[ENDCOLOR] .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY5_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Organized Structure[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY6">
+			<Text>[COLOR_POSITIVE_TEXT]Social Pacts[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Social Pact[ENDCOLOR][NEWLINE][NEWLINE] -15% [ICON_HAPPINESS_4] Unhappines for the number of Cities you control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CCTPAUTOCRACY6_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]Social Pacts[ENDCOLOR]</Text>
+		</Row>
+
+		<!--Vanilla update-->
+		<!--Ideology-->
+		<!--Freedom-->
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Party Leadership[ENDCOLOR][NEWLINE]+3 [ICON_FOOD] Food, [ICON_PRODUCTION] Production, [ICON_RESEARCH] Science, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture per city." />
+			<Where Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Academy of Sciences[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Local Happiness from every [COLOR_YELLOW]Observatory[ENDCOLOR] , [COLOR_YELLOW]Public School[ENDCOLOR] , and [COLOR_YELLOW]Research Lab[ENDCOLOR] and adds yields +3 [ICON_RESEARCH] Science to each [COLOR_YELLOW]Academy[ENDCOLOR] improvement" />
+			<Where Tag="TXT_KEY_POLICY_ACADEMY_SCIENCES_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Young Pioneers[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Local Happiness and +2 [ICON_PRODUCTION] Production from every[COLOR_YELLOW]Workshop[ENDCOLOR] , [COLOR_YELLOW]Factory[ENDCOLOR] , and [COLOR_YELLOW]Solar/Nuclear/Hydro Plant[ENDCOLOR] ." />
+			<Where Tag="TXT_KEY_POLICY_YOUNG_PIONEERS_HELP"/>
+		</Update>
+
+		<!--ORDER-->
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Nationalism[ENDCOLOR][NEWLINE]Reduces Unit [ICON_GOLD] Gold Maintenance costs by 33%[NEWLINE] Provides one extra typ of each military land [ICON_SILVER_FIST] Unit you own." />
+			<Where Tag="TXT_KEY_POLICY_NATIONALISM_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Police State[ENDCOLOR][NEWLINE]+3 [ICON_HAPPINESS_1] Local Happiness from every [COLOR_YELLOW]Courthouse[ENDCOLOR] . Build [COLOR_YELLOW]Courthouses[ENDCOLOR] in half the usual time.[NEWLINE] Provides a free [COLOR_YELLOW]Police Station[ENDCOLOR] in each of your Cities." />
+			<Where Tag="TXT_KEY_POLICY_POLICE_STATE_HELP"/>
+		</Update>
+		<!--
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Fascism[ENDCOLOR][NEWLINE]Quantity of Strategic Resources produced by the empire increased by 100%.[NEWLINE] Provides a free Working Camp in each of your Cities." />
+			<Where Tag="TXT_KEY_POLICY_FASCISM_HELP"/>
+		</Update>
+
+	Policies-->
+
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Treasure Fleets[ENDCOLOR][NEWLINE]+4 [ICON_GOLD] Gold from all your sea [ICON_INTERNATIONAL_TRADE] Trade Routes.[NEWLINE][NEWLINE]+3 [ICON_TRADE] Trade Routes." />
+			<Where Tag="TXT_KEY_POLICY_TREASURE_FLEETS_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Professional Army[ENDCOLOR][NEWLINE][ICON_GOLD] Gold cost of upgrading [ICON_SILVER_FIST]Military Units reduced by 33% and construct [COLOR_YELLOW]Barracks[ENDCOLOR] , [COLOR_YELLOW]Armories[ENDCOLOR] , [COLOR_YELLOW]Watchtower[ENDCOLOR] , [COLOR_YELLOW]Military Academies[ENDCOLOR] , [COLOR_YELLOW]Naval Base[ENDCOLOR] and [COLOR_YELLOW]Airbase[ENDCOLOR] 50% faster." />
+			<Where Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Protectionism[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness from each Luxury resource and starts a [ICON_GOLDEN_AGE] Golden Age.[NEWLINE][NEWLINE] Provides yields + 1 [ICON_GOLD] Gold to each [COLOR_YELLOW]Chateau[ENDCOLOR] , [COLOR_YELLOW]Feitoria[ENDCOLOR] and [COLOR_YELLOW]Kasbah[ENDCOLOR] ." />
+			<Where Tag="TXT_KEY_POLICY_PROTECTIONISM_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Oligarchy[ENDCOLOR][COLOR_POSITIVE_TEXT]Oligarchy[ENDCOLOR][NEWLINE]Garrisoned [ICON_SILVERFIST] Units cost no maintenance and cities with a garrison gain +50% [ICON_RANGE_STRENGTH] Ranged Combat Strength.[NEWLINE]+1 [ICON_GOLD] Gold for [ICON_TRADE] Trading Routes from and to your Cities.[NEWLINE] Allowes the construction of the [COLOR_YELLOW]Todaiji Wonder[ENDCOLOR] ." />
+			<Where Tag="TXT_KEY_POLICY_OLIGARCHY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Fine Arts[ENDCOLOR][NEWLINE]50% of excess [ICON_HAPPINESS_1] Happiness added each turn to the amount of [ICON_CULTURE] Culture that may be spent on [ICON_CULTURE] Social Policies.[NEWLINE] Allowes the construction of the [COLOR_YELLOW]Theotihuacan[ENDCOLOR] Wonder." />
+			<Where Tag="TXT_KEY_POLICY_FINE_ARTS_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Ethics[ENDCOLOR][NEWLINE]Reduces the [ICON_CULTURE] Culture cost of future [ICON_CULTURE] Social Policies by 10% and provides one extra [ICON_DIPLOMAT] Vote in the World Congress.[NEWLINE][NEWLINE]Allowes the construction of the [COLOR_YELLOW]Declararion of Independece[ENDCOLOR] Wonder." />
+			<Where Tag="TXT_KEY_POLICY_ETHICS_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Cultural Centers[ENDCOLOR][NEWLINE]Construct [COLOR_YELLOW]Monuments[ENDCOLOR] , [COLOR_YELLOW]Burial Mounds[ENDCOLOR] , [COLOR_YELLOW]Amphitheaters[ENDCOLOR] , [COLOR_YELLOW]Opera Houses[ENDCOLOR] , [COLOR_YELLOW]Museums[ENDCOLOR] , [COLOR_YELLOW]Broadcast Towers[ENDCOLOR] and [COLOR_YELLOW]Movie Theatres[ENDCOLOR] 50% faster and +10% [ICON_GREAT_PEOPLE] Great Person gereration in all of your Cities.[NEWLINE][NEWLINE]Allowes the construction of the [COLOR_YELLOW]Shakespeare Theater[ENDCOLOR] Wonder." />
+			<Where Tag="TXT_KEY_CULTURAL_CENTERS_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Landed Elite[ENDCOLOR][NEWLINE]Gain one extra [ICON_CITIZEN] Citizen in every City you onw, +10% [ICON_CULTURE] Culture in all Cities.[NEWLINE][NEWLINE]Allowes the construction of the [COLOR_YELLOW]Mesa Verda[ENDCOLOR] Wonder." />
+			<Where Tag="TXT_KEY_POLICY_LANDED_ELITE_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Reformation[ENDCOLOR][NEWLINE]If you founded a [ICON_RELIGION] Religion, gain a bonus Reformation belief.[NEWLINE]Provides one extra [ICON_DIPLOMAT] Vote in the World Congress.[NEWLINE]Allowes the construction of the [COLOR_YELLOW]Vatican[ENDCOLOR] Wonder." />
+			<Where Tag="TXT_KEY_POLICY_REFORMATION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Citizenship[ENDCOLOR][NEWLINE]Provides one free [ICON_RES_MANPOWER] Manpower for each City you own.[NEWLINE]Construct the [COLOR_YELLOW]Harvest[ENDCOLOR] building 100% faster.[NEWLINE]Allowes the construction of the [COLOR_YELLOW]Golou[ENDCOLOR] Wonder." />
+			<Where Tag="TXT_KEY_POLICY_CITIZENSHIP_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Navigation School[ENDCOLOR][NEWLINE]Provides one [ICON_GREAT_ADMIRAL] Great Admiral [NEWLINE][NEWLINE]+2 [ICON_MOVES] Movement for all [ICON_GREAT_ADMIRAL] Great Admirals and [ICON_GREAT_ADMIRAL] Great Admirals are earned 25% faster.[NEWLINE]Allowes the construction of the [COLOR_YELLOW]Magellan Voyage[ENDCOLOR] Wonder" />
+			<Where Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Mandate of Heaven[ENDCOLOR][NEWLINE]20% discount on all purchases of [ICON_RELIGION] religious units and buildings with [ICON_PEACE] Faith.[NEWLINE]Provides yields +1 [ICON_PEACE] Faith for each World Wonder.[NEWLINE] Allowes the construction of the [COLOR_YELLOW]Kashi[ENDCOLOR] Wonder." />
+			<Where Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Religious Tolerance[ENDCOLOR][NEWLINE]Cities with a majority [ICON_RELIGION] Religion also get the Pantheon belief bonus of the second most popular [ICON_RELIGION] Religion.[NEWLINE]+1 [ICON_PEACE] Faith and +1 [ICON_GOLD] Gold for each [ICON_RELIGION] Faith Building" />
+			<Where Tag="TXT_KEY_FREE_RELIGION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Merchant Confederacy[ENDCOLOR][NEWLINE]Provides +3 [ICON_GOLD] Gold from [ICON_TRADE] Trade Routes with [ICON_CITY_STATE] City States." />
+			<Where Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Entrepreneurship[ENDCOLOR][NEWLINE][ICON_GREAT_MERCHANT] Great Merchant are +25% appairing rate and +1 [ICON_GOLD] Gold in every City you own." />
+			<Where Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Naval Tradition[ENDCOLOR][NEWLINE]Provides +1 [ICON_HAPPINESS_1] Happiness from each [COLOR_YELLOW]Harbor[ENDCOLOR] , [COLOR_YELLOW]Seaport[ENDCOLOR] , [COLOR_YELLOW]Lighthouse[ENDCOLOR] and [COLOR_YELLOW]Dock[ENDCOLOR] .[NEWLINE]Allowes the construction of the [COLOR_YELLOW]Torre Del Oro[ENDCOLOR] Wonder" />
+			<Where Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Merchant Navy[ENDCOLOR][NEWLINE]Provides +1 [ICON_PRODUCTION] Production and +2 [ICON_GOLD] Gold from each [COLOR_YELLOW]Harbor[ENDCOLOR] , [COLOR_YELLOW]Seaport[ENDCOLOR] , [COLOR_YELLOW]Lighthouse[ENDCOLOR] and [COLOR_YELLOW]Dock[ENDCOLOR]." />
+			<Where Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Artistic Genuis[ENDCOLOR][NEWLINE]Provides one free [ICON_GREAT_ARTIST] Artist and +1 [ICON_HAPPINESS_1] Happiness for each four [ICON_CULTURE] Social Policies you have adopted." />
+			<Where Tag="TXT_KEY_POLICY_ARTISTIC_GENIUS_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Scientific Revolution[ENDCOLOR][NEWLINE]Provides two free [ICON_RESEARCH] Technologies." />
+			<Where Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Secularism[ENDCOLOR][NEWLINE]Provides +2 [ICON_RESEARCH] Science for each [ICON_CITIZEN] Spezialist and you get one extra [ICON_DIPLOMAT] Vote in the World Congress." />
+			<Where Tag="TXT_KEY_POLICY_SECULARISM_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Sovereignty[ENDCOLOR][NEWLINE]Provides +1 [ICON_GOLD] Gold for each research Buildings and grands one extra sight radius for every unit you own." />
+			<Where Tag="TXT_KEY_POLICY_SOVEREIGNTY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Military Tradition[ENDCOLOR][NEWLINE]Military [ICON_SILVER_FIST] Units get +50% faster [COLOR_WAR] experience and each of your Cities get a [ICON_STRENGTH] defense bonus." />
+			<Where Tag="TXT_KEY_POLICY_MILITARY_TRADITION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Maritime Infrastructure[ENDCOLOR][NEWLINE]Provides two extra [ICON_TRADE] Trade Routes and +3 [ICON_PRODUCTION] Production in each City onm a coast." />
+			<Where Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Legalism[ENDCOLOR][NEWLINE]15% [ICON_FOOD] Food is saved in the [ICON_CAPITAL] Capital when a new [ICON_CITIZEN] Citizen is born." />
+			<Where Tag="TXT_KEY_POLICY_LEGALISM_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Consulates[ENDCOLOR][NEWLINE]Provides one extra [ICON_TRADE] Trade Route and resting point for [ICON_INFLUENCE] Influence with all [ICON_CITY_STATE] City-States is increased by 20." />
+			<Where Tag="TXT_KEY_POLICY_CONSULATES_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Collective Rule[ENDCOLOR][NEWLINE]+100% [ICON_PRODUCTION] Production when building [ICON_FLOWER] Settlers in the [ICON_CAPITAL] Capital." />
+			<Where Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Caravans[ENDCOLOR][NEWLINE]+2[ICON_GOLD] Gold for every land [ICON_TRADE] Trade Route and [COLOR_YELLOW]Pastures[ENDCOLOR] yield +1 [ICON_GOLD] Gold." />
+			<Where Tag="TXT_KEY_POLICY_CARAVANS_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Trade Unions[ENDCOLOR][NEWLINE]-50% [ICON_GOLD] Gold maintenance costs for [COLOR_YELLOW]Roads[ENDCOLOR] and [COLOR_YELLOW]Railroads[ENDCOLOR] and [COLOR_YELLOW]Pastures[ENDCOLOR] yield +1 [ICON_GOLD] Gold."/>
+			<Where Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Humanism[ENDCOLOR][NEWLINE]+25% generation of [ICON_GREAT_SCIENTIST] Great Scientists and +1 [ICON_RESEARCH] Science for each [COLOR_YELLOW]Lumbermill[ENDCOLOR] ."/>
+			<Where Tag="TXT_KEY_POLICY_HUMANISM_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Organized Religion[ENDCOLOR][NEWLINE]+2[ICON_PEACE] Faith for each [COLOR_YELLOW]Temple[ENDCOLOR] , [COLOR_YELLOW]Shrine[ENDCOLOR] and every Building you purchased with [COLOR_YPEACE] Faith.[NEWLINE]New [ICON_MISSIONARY] Missionaries build in your [ICON_CAPITAL] Capital get one extra [ICON_RELIGION] religion spread."/>
+			<Where Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Piety[ENDCOLOR][NEWLINE][NEWLINE]Adopting Piety allows you to build [COLOR_YELLOW]Shrines[ENDCOLOR]  and [COLOR_YELLOW]Temples[ENDCOLOR] in half the usual time.[NEWLINE]Provides +3 [ICON_PEACE] Faith in the [ICON_CAPITAL] Capital.[NEWLINE]Piety is best to get an early [ICON_RELIGION] Religion.[NEWLINE]Unlocks building the[COLOR_YELLOW]Great Mosque of Djenne[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all [ICON_CULTURE] Policies in the Piety tree causes a [ICON_PROPHET] Great Prophet to appear and [COLOR_YELLOW]Holy Sites [ENDCOLOR]provides +3 [ICON_CULTURE] Culture and +3 [ICON_PEACE] Faith.[NEWLINE][NEWLINE]The [ICON_RESEARCH] Technology [COLOR_RED]Piety[ENDCOLOR] must be discovered."/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Liberty[ENDCOLOR][NEWLINE]A free [ICON_FLOWER] Settler appears near the [ICON_CAPITAL] Capital and +1 [ICON_CULTURE] Culture for each city.[NEWLINE]Liberty is best for quick expansion.[NEWLINE][NEWLINE]Unlocks building the [COLOR_YELLOW]Pyramids[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all [ICON_CULTURE] policies in the Liberty tree will grant a free [ICON_GREAT_PEOPLE] Great Person of your choice near the [ICON_CAPITAL] Capital.[NEWLINE]Also provides yields +1 [ICON_PRODUCTION] Production to every [ICON_GREAT_PEOPLE] Great Person improvement.[NEWLINE][NEWLINE]"/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Honor[ENDCOLOR][NEWLINE]improves the effectiveness of one's army in a variety of ways.[NEWLINE] Requires the [ICON_RESEARCH] Technology Leadership.[NEWLINE][NEWLINE]Adopting Honor grands a free [ICON_SILVER_FIST] Warrior near the [ICON_CAPITAL] Capital.[NEWLINE]Also gives a +33% [ICON_STRENGTH] combat bonus VS Barbarians, and notifications will be provided when new Barbarian Encampments spawn in revealed territory.[NEWLINE]Gain [ICON_CULTURE] Culture for the empire from each barbarian killed.[NEWLINE]Unlocks building the [COLOR_YELLOW]Statue of Zeus[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all policies in the Honor tree will grant [ICON_GOLD] Gold for each enemy [ICON_SILVER_FIST] Unit killed.[NEWLINE]Provides yields +3 [ICON_GOLD] Gold and [ICON_PRODUCTION] Production from every [COLOR_YELLOW]Citadel[ENDCOLOR] ."/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_HONOR_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Tradition[ENDCOLOR][NEWLINE]+1 [ICON_CULTURE] Culture, +1 [ICON_FOOD] Food, +1 [ICON_RESEARCH] Science, +1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production in the [ICON_CAPITAL] Capital.[NEWLINE]Tradition is the best for a small Civilisation.[NEWLINE]Adopting Tradition greatly increases the rate of border expansion in cities.[NEWLINE]Unlocks building the Hanging Gardens.[NEWLINE][NEWLINE]Adopting all [ICON_CULTURE] policies will reduce the cost of all national Wonder by -50%.[NEWLINE]It also allows the purchase of [ICON_GREAT_ENGINEER] Great Engineers with [ICON_PEACE] Faith starting in the Industrial Era.[NEWLINE][NEWLINE]"/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Rationalism[ENDCOLOR] improves the ability to use and generate [ICON_RESEARCH] Science.[NEWLINE][NEWLINE]Adopting Rationalism will grant +10% [ICON_RESEARCH] Science while the empire is [ICON_HAPPINESS_1] Happy.[NEWLINE]Unlocks building the [COLOR_YELLOW]Porcelain Tower[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all [ICON_CULTURE] Social Policies in the Rationalism tree will grand one extra [ICON_CITIZEN] Citizen in every of your Cities.[NEWLINE]It also allows the purchase of [ICON_GREAT_SCIENTIST] Great Scientists with [ICON_PEACE] Faith starting in the Industrial Era.[NEWLINE][NEWLINE]The [ICON_RESEARCH] Technology [COLOR_RED]Rationalism[ENDCOLOR] must be discovered."/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP"/>
+		</Update>
+
+
+
+
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Aesthetics[ENDCOLOR] improves the civilization's ability to generate [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]Adopting Aesthetics allows you to earn [ICON_GREAT_WRITER] Great Writers, [ICON_GREAT_ARTIST] Artists, and [ICON_GREAT_MUSICIAN] Musicians 25% faster.[NEWLINE]Provides +1 [ICON_CULTURE] Culture for each [COLOR_YELLOW]Terrace Farm[ENDCOLOR] , [COLOR_YELLOW]Polder[ENDCOLOR] , [COLOR_YELLOW]Moai[ENDCOLOR] , [COLOR_YELLOW]Chateau[ENDCOLOR] , [COLOR_YELLOW]Woodcamp[ENDCOLOR] , [COLOR_YELLOW]Kasbah[ENDCOLOR] and [COLOR_YELLOW]Feutoria[ENDCOLOR] .[NEWLINE]Unlocks building the [COLOR_YELLOW]Uffizi[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all policies doubles the theming bonus you receive from [COLOR_YELLOW]Museums[ENDCOLOR] and Wonders.[NEWLINE]It also allows the purchase of [ICON_GREAT_WRITER] Great Writers, [ICON_GREAT_ARTIST]Artists, or [ICON_GREAT_MUSICIAN] Musicians with [ICON_PEACE] Faith starting in the Industrial Era."/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Patronage[ENDCOLOR] enhances the benefits of [ICON_CITY_STATE] City-State friendship.[NEWLINE][NEWLINE]Adopting Patronage will cause [ICON_INFLUENCE] Influence with [ICON_CITY_STATE] City-States to degrade 25% slower than normal and you get one extra [ICON_DIPLOMAT] Vote in the World Congress.[NEWLINE]Unlocks building the [COLOR_YELLOW]Forbidden Palace[ENDCOLOR] and [COLOR_YELLOW]Pergamon Altar[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all policies in the Patronage tree will cause allied [ICON_CITY_STATE] City-States to occasionally gift you [ICON_GREAT_PEOPLE] Great People.[NEWLINE]Provides yields +3 [ICON_CULTURE] Culture, +1 [ICON_PRODUCTION] Production and [ICON_GOLD] Gold to every [COLOR_YELLOW]Feitoria[ENDCOLOR] .[NEWLINE][NEWLINE]The [ICON_RESEARCH] Technology [COLOR_POSITIVE_TEXT]Patronage[ENDCOLOR] must be discovered."/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Commerce[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Commerce will boost [ICON_GOLD] Gold output in [ICON_CAPITAL] Capital City by 25% and all [ICON_CITIZEN] Spezialist provides +2 [ICON_GOLD] Gold.[ICON_NEWLINE]Unlocks building [COLOR_YELLOW]Big Ben[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all Policies in the Commerce tree will grant +1 [ICON_GOLD] Gold from every [COLOR_YELLOW]Trading Post[ENDCOLOR] and double [ICON_GOLD] Gold from [ICON_GREAT_MERCHANT] Great Merchant [ICON_INTERNATIONAL_TRADE] Trade missions.[NEWLINE]It also allows the purchase of [ICON_GREAT_MERCHANT] Great Merchants with [ICON_PEACE] Faith starting in the Industrial Era.[NEWLINE][NEWLINE]The [ICON_RESEARCH] Technology [COLOR_RED]Merchants[ENDCOLOR] must be discovered."/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT]Exploration[ENDCOLOR] enhances your abilties to spread your empire over the seas.[NEWLINE][NEWLINE]Adopting Exploration gives +1 [ICON_MOVES] Movement for Naval [ICON_SILVER_FIST] units and +1 Sight for Naval combat [ICON_SILVER_FIST] units and build [COLOR_YELLOW]Harbors[ENDCOLOR] , [COLOR_YELLOW]Seaports[ENDCOLOR] , [COLOR_YELLOW]Lighthouses[ENDCOLOR] and [COLOR_YELLOW]Docks[ENDCOLOR] +50% faster.[NEWLINE]Unlocks building the [COLOR_YELLOW]Louvre[ENDCOLOR] .[NEWLINE][NEWLINE]Adopting all policies allows you to see Hidden Antiquity Sites.[NEWLINE]It also allows the purchase of [ICON_GREAT_ADMIRAL] Great Admirals with [ICON_PEACE] Faith starting in the Industrial Era.[NEWLINE][NEWLINE]The [ICON_RESEARCH] Technology [COLOR_RED]Compass[ENDCOLOR] must be discovered."/>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP"/>
+		</Update>
+
+		<!-- TODO: Insert table data example here.-->
+	</Language_en_US>
+	<!--Have a nice Day:=)-->
+
+</GameData>

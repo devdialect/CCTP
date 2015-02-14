@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- ************************** -->
+	<!-- * TERRAIN DAMAGE CHANGES * -->
+	<!-- ************************** -->
+
+	<CustomModOptions>
+		<Update>
+			<Where Name="API_PLOT_BASED_DAMAGE"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<Terrains>
+		<!-- Five turns on a mountain will kill them, if you change this value you also need to change the values for certain natural wonders below -->
+		<Update>
+			<Where Type="TERRAIN_MOUNTAIN"/>
+			<Set TurnDamage="20"/>
+		</Update>
+		<!-- Three turns in deep water will kill them -->
+		<Update>
+			<Where Type="TERRAIN_OCEAN"/>
+			<Set ExtraTurnDamage="35"/>
+		</Update>
+	</Terrains>
+
+	<Features>
+		<!-- Slow attrition rate from frost-bite -->
+		<Update>
+			<Where Type="FEATURE_ICE"/>
+			<Set TurnDamage="10"/>
+		</Update>
+
+		<!-- Negative mountain damage to cancel it out for certain natural wonders -->
+		<Update>
+			<Where Type="FEATURE_CRATER"/>
+			<Set TurnDamage="-20"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_MESA"/>
+			<Set TurnDamage="-20"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_POTOSI"/>
+			<Set TurnDamage="-20"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_SRI_PADA"/>
+			<Set TurnDamage="-20"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_ULURU"/>
+			<Set TurnDamage="-20"/>
+		</Update>
+		<!-- The rock is actually plains with a mountain next door! -->
+		<!-- Update><Where Type="FEATURE_GIBRALTAR"/><Set TurnDamage="-20"/></Update-->
+
+		<!-- The reef will always be on water -->
+		<!-- Update><Where Type="FEATURE_REEF"/><Set TurnDamage="-20"/></Update-->
+
+		<!-- The fountain is forced onto plains -->
+		<!-- Update><Where Type="FEATURE_FOUNTAIN_YOUTH"/><Set TurnDamage="-20"/></Update-->
+
+		<!-- El Dorado is forced onto plains -->
+		<!-- Update><Where Type="FEATURE_EL_DORADO"/><Set TurnDamage="-20"/></Update-->
+
+		<!-- Additional damage for some extreame natural wonders, with the mountain damage above should sum to 50 -->
+		<Update>
+			<Where Type="FEATURE_GEYSER"/>
+			<Set TurnDamage="30"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_FUJI"/>
+			<Set TurnDamage="30"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_MT_SINAI"/>
+			<Set TurnDamage="30"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_MT_KAILASH"/>
+			<Set TurnDamage="30"/>
+		</Update>
+
+		<!-- Terminal damage if you really want to stop atop the volcano! -->
+		<!-- ALL units take this damage, even if they have the IgnoreFeatureDamage promotion feature -->
+		<Update>
+			<Where Type="FEATURE_VOLCANO"/>
+			<Set TurnDamage="100"/>
+		</Update>
+	</Features>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_IGNORE_PLOT_DAMAGE</Type>
+			<Description>TXT_KEY_PROMOTION_IGNORE_PLOT_DAMAGE</Description>
+			<Help>TXT_KEY_PROMOTION_IGNORE_PLOT_DAMAGE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_IGNORE_PLOT_DAMAGE</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IgnoreTerrainDamage>true</IgnoreTerrainDamage>
+			<IgnoreFeatureDamage>true</IgnoreFeatureDamage>
+		</Row>
+
+		<!-- Having enabled damage from ice, we need to stop subs from receiving it! -->
+		<Update>
+			<Where Type="PROMOTION_INVISIBLE_SUBMARINE"/>
+			<Set IgnoreTerrainDamage="1" IgnoreFeatureDamage="1"/>
+		</Update>
+	</UnitPromotions>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_IGNORE_PLOT_DAMAGE">
+			<Text>Ignores Plot Damage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IGNORE_PLOT_DAMAGE_HELP">
+			<Text>Takes no damage from terrain/features on tiles, eg Mountains and Ice</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<!-- ******************************* -->
+	<!-- * CAN CROSS MOUNTAINS CHANGES * -->
+	<!-- ******************************* -->
+
+	<CustomModOptions>
+		<Update>
+			<Where Name="PROMOTIONS_CROSS_MOUNTAINS"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CAN_CROSS_MOUNTAINS</Type>
+			<Description>TXT_KEY_PROMOTION_CAN_CROSS_MOUNTAINS</Description>
+			<Help>TXT_KEY_PROMOTION_CAN_CROSS_MOUNTAINS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CAN_CROSS_MOUNTAINS</PediaEntry>
+			<CanCrossMountains>true</CanCrossMountains>
+			<IgnoreTerrainDamage>true</IgnoreTerrainDamage>
+			<IgnoreFeatureDamage>true</IgnoreFeatureDamage>
+			<PromotionPrereqOr1>PROMOTION_SCOUTING_2</PromotionPrereqOr1>
+			<PromotionPrereqOr2>PROMOTION_SURVIVALISM_2</PromotionPrereqOr2>
+			<PromotionPrereqOr3>PROMOTION_SHOCK_3</PromotionPrereqOr3>
+			<PromotionPrereqOr4>PROMOTION_DRILL_3</PromotionPrereqOr4>
+			<PromotionPrereqOr5>PROMOTION_ACCURACY_3</PromotionPrereqOr5>
+			<PromotionPrereqOr6>PROMOTION_BARRAGE_3</PromotionPrereqOr6>
+			<OrderPriority>7</OrderPriority>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_MOUNTAINS</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_MOUNTAINS</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_MOUNTAINS</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_MOUNTAINS</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_CROSS_MOUNTAINS">
+			<Text>Alpine Corp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_CROSS_MOUNTAINS_HELP">
+			<Text>Units can cross mountains, taking no damage if they end their turn there</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<!-- ******************************************* -->
+	<!-- * HALF MOVES and CAN CROSS OCEANS CHANGES * -->
+	<!-- ******************************************* -->
+
+	<CustomModOptions>
+		<Update>
+			<Where Name="PROMOTIONS_HALF_MOVE"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="PROMOTIONS_CROSS_OCEANS"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CAN_CROSS_OCEANS</Type>
+			<Description>TXT_KEY_PROMOTION_CAN_CROSS_OCEANS</Description>
+			<Help>TXT_KEY_PROMOTION_CAN_CROSS_OCEANS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CAN_CROSS_OCEANS</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CanCrossOceans>true</CanCrossOceans>
+			<ExtraTerrainDamage>true</ExtraTerrainDamage>
+			<LostWithUpgrade>true</LostWithUpgrade>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_Terrains>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_OCEANS</PromotionType>
+			<TerrainType>TERRAIN_OCEAN</TerrainType>
+			<HalfMove>true</HalfMove>
+		</Row>
+	</UnitPromotions_Terrains>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_CROSS_OCEANS">
+			<Text>Ocean Explorer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_CROSS_OCEANS_HELP">
+			<Text>Units can enter ocean at half-speed, but will take damage if they end their turn there</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<!-- ************************* -->
+	<!-- * CAN CROSS ICE CHANGES * -->
+	<!-- ************************* -->
+
+	<CustomModOptions>
+		<Update>
+			<Where Name="PROMOTIONS_CROSS_ICE"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CAN_CROSS_ICE</Type>
+			<Description>TXT_KEY_PROMOTION_CAN_CROSS_ICE</Description>
+			<Help>TXT_KEY_PROMOTION_CAN_CROSS_ICE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CAN_CROSS_ICE</PediaEntry>
+			<CanCrossIce>true</CanCrossIce>
+			<IgnoreFeatureDamage>true</IgnoreFeatureDamage>
+			<PromotionPrereqOr1>PROMOTION_SCOUTING_2</PromotionPrereqOr1>
+			<PromotionPrereqOr2>PROMOTION_SURVIVALISM_2</PromotionPrereqOr2>
+			<PromotionPrereqOr3>PROMOTION_SHOCK_3</PromotionPrereqOr3>
+			<PromotionPrereqOr4>PROMOTION_DRILL_3</PromotionPrereqOr4>
+			<PromotionPrereqOr5>PROMOTION_ACCURACY_3</PromotionPrereqOr5>
+			<PromotionPrereqOr6>PROMOTION_BARRAGE_3</PromotionPrereqOr6>
+			<OrderPriority>7</OrderPriority>
+		</Row>
+
+		<Row>
+			<Type>PROMOTION_ICEBREAKER</Type>
+			<Description>TXT_KEY_PROMOTION_ICEBREAKER</Description>
+			<Help>TXT_KEY_PROMOTION_ICEBREAKER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_ICEBREAKER</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CanCrossIce>true</CanCrossIce>
+			<!-- Uncomment the next line to have ships ignore damage from ice,
+			     or perhaps create two ice-breaker promotions, one for wooden (early era) and one of iron/steel (late era) hulled ships -->
+			<!--IgnoreFeatureDamage>true</IgnoreFeatureDamage-->
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_ICE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_ICE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_ICE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CAN_CROSS_ICE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_CROSS_ICE">
+			<Text>Arctic Corp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_CROSS_ICE_HELP">
+			<Text>Units can cross ice, taking no damage if they end their turn there</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_ICEBREAKER">
+			<Text>Ice-Breaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ICEBREAKER_HELP">
+			<Text>Units can enter ice bound tiles, taking damage if they end their turn there.</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<!-- ********************************* -->
+	<!-- * DEEPWATER EMBARKATION CHANGES * -->
+	<!-- ********************************* -->
+
+	<CustomModOptions>
+		<Update>
+			<Where Name="PROMOTIONS_DEEP_WATER_EMBARKATION"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_DEEPWATER_EMBARKATION</Type>
+			<Description>TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION</Description>
+			<Help>TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>22</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<EmbarkedDeepWater>true</EmbarkedDeepWater>
+		</Row>
+		<Row>
+			<Type>PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION</Type>
+			<Description>TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION</Description>
+			<Help>TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>22</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<EmbarkedDeepWater>true</EmbarkedDeepWater>
+			<EmbarkDefenseModifier>100</EmbarkDefenseModifier>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+			<PromotionType>PROMOTION_DEEPWATER_EMBARKATION</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+			<PromotionType>PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION</PromotionType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+
+	<PostDefines>
+		<Row Name="PROMOTION_DEEPWATER_EMBARKATION">
+			<Key>PROMOTION_DEEPWATER_EMBARKATION</Key>
+			<Table>UnitPromotions</Table>
+		</Row>
+		<Row Name="PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION">
+			<Key>PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION</Key>
+			<Table>UnitPromotions</Table>
+		</Row>
+	</PostDefines>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION">
+			<Text>Ocean Embarkation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION_HELP">
+			<Text>Permits hovering units to embark at the coastal/ocean boundary.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION">
+			<Text>Ocean Embarkation with Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION_HELP">
+			<Text>Permits hovering units to embark at the coastal/ocean boundary. Embarked units receive a defensive bonus.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,36 @@
+<Asset>
+  <Mesh file="FXM_Rocktopus_Floatstone_Glow04.gr2" source="Max" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_IdleA.gr2" name="IdleA" ec="1000" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_FidgetA.gr2" name="FidgetA" ec="1040" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_IdleA_Trans_IdleB.gr2" name="IdleA_Trans_IdleB" ec="1020" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_IdleB.gr2" name="IdleB" ec="2000" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_FidgetB.gr2" name="FidgetB" ec="2040" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_IdleB_Trans_IdleA.gr2" name="IdleB_Trans_IdleA" ec="2020" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Fortify.gr2" name="Fortify" ec="1500" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Fortify_Idle.gr2" name="Fortify_Idle" ec="1520" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Fortify_Idle_Fidget.gr2" name="Fortify_Idle_Fidget" ec="1540" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Fortify_Idle_Trans_Combat_Ready_Idle.gr2" name="Fortify_Idle_Trans_Combat_Ready_Idle" ec="1560" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Fortify_Idle_Trans_IdleA.gr2" name="Fortify_Idle_Trans_IdleA" ec="1580" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Combat_Ready.gr2" name="Combat_Ready" ec="1600" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Combat_Ready_Idle.gr2" name="Combat_Ready_Idle" ec="1620" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Combat_Ready_Idle_Trans_IdleA.gr2" name="Combat_Ready_Idle_Trans_IdleA" ec="1640, 1800" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Start_Run.gr2" name="Start_Run" ec="1420, 1110" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Run.gr2" name="Run" ec="1400, 1450, 1120" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Stop_Run.gr2" name="Stop_Run" ec="1440, 2440, 1140" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_AttackA.gr2" name="AttackA" ec="1100, 1180, 1160" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_AttackB.gr2" name="AttackB" ec="2100" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Attack_Air.gr2" name="Attack_Air" ec="1130" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Leave_Ground.gr2" name="Leave_Ground" ec="1151" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Enter_Ground.gr2" name="Enter_Ground" ec="1150" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Bombard_Defense.gr2" name="Bombard_Defense" ec="1280" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Bombard_Defense_Idle.gr2" name="Bombard_Defense_Idle" ec="1285" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_Bombard_Defense_Idle_Trans_IdleA.gr2" name="Bombard_Defense_Idle_Trans_IdleA" ec="1290" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_DeathA.gr2" name="DeathA" ec="1200" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_DeathA_Idle.gr2" name="DeathA_Idle" ec="1220" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_DeathB.gr2" name="DeathB" ec="2200" source="Max" layer="None" />
+  <Animation file="FXM_Rocktopus_Floatstone_Glow04_DeathB_Idle.gr2" name="DeathB_Idle" ec="2220" source="Max" layer="None" />
+  <Texture file="FX_Uranium_Glow_UV_01.dds" source="Max" />
+  <Texture file="FX_Uranium_Glow_UV_02.dds" source="Max" />
+  <Texture file="FXt_FloatStone_Glow_alpha_01.dds" source="Max" />
+  <Texture file="FXt_FloatStone_Glow_base_01.dds" source="Max" />
+</Asset>

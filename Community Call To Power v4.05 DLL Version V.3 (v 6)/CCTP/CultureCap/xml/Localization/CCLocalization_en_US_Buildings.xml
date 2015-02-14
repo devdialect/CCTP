@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 10:56:23 AM -->
+<GameData>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE_HELP">
+			<Text>The seat of the Cultural Committee. Gives one Delegate and allows you to see the winners of the cultural capital election.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE">
+			<Text>[ICON_CC]Culture Committee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE_STRATEGY">
+			<Text>A City receives this building upon forming the [COLOR_YELLOW]Cultural Committee[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_HELP">
+			<Text>You receive a free policy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT">
+			<Text>[ICON_CC]Statue of Empowerment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Empowerment[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_HELP">
+			<Text>All nearby tiles provide +1[ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS">
+			<Text>[ICON_CC]Beacon of Heavens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Ascendancy[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE_HELP">
+			<Text>Grants +2[ICON_HAPPINESS_1] Happiness and +2[ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE">
+			<Text>[ICON_CC]Temple of Worship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Belief[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL_HELP">
+			<Text>Grants +3[ICON_CULTURE] Culture and +3[ICON_PEACE] Faith. [NEWLINE][NEWLINE]Can employ [ICON_GREAT_ARTIST]1 Artist Specialist and contains 1[ICON_GREAT_WORK] slot for a Great Work of Art.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL">
+			<Text>[ICON_CC]Imperial Cathedral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Faith[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION_HELP">
+			<Text>Temporarily raises [ICON_HAPPINESS_4]Unhappiness from Number of Cities by 100%.[NEWLINE][NEWLINE]Increases Birth Rate of [ICON_GREAT_PEOPLE]Great People and [ICON_CULTURE]Culture Output of all Cities in the Empire by 150%.[NEWLINE][NEWLINE]Increases for its duration the Birth Rate of [ICON_GREAT_ARTIST]Great Artists by 3.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION">
+			<Text>[ICON_CC]Exhibition of Controversy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Controversy[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_HELP">
+			<Text>Increases Output of Forest and Jungle Features by +1[ICON_FOOD] Food and Oasis Features by +2[ICON_FOOD] Food.[NEWLINE][NEWLINE]Water Tiles yield +2[ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER">
+			<Text>[ICON_CC]Ecological Center</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Ecology[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_HELP">
+			<Text>Boosts base Production by +1[ICON_PRODUCTION], [ICON_PRODUCTION]Building Production and [ICON_WAR]Siege Unit Production by +15%.[NEWLINE][NEWLINE]Provides +2[ICON_PRODUCTION] Production after Steam Power researched.[NEWLINE][NEWLINE]Can employ [ICON_GREAT_ENGINEER]2 Engineer Specialists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL">
+			<Text>[ICON_CC]Construction Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Construction[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK_HELP">
+			<Text>Increases the Birth Rate of [ICON_GREAT_PEOPLE]Great People by 15% and the Research Output by +15 %[ICON_RESEARCH].[NEWLINE][NEWLINE]Provides +3[ICON_RESEARCH] Science after Scientific Theory researched.[NEWLINE][NEWLINE]Can employ [ICON_GREAT_WRITER]1 Great Writer and contains a slot for 1[ICON_GREAT_WORK] Great Work of Literature.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK">
+			<Text>[ICON_CC]Think Tank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Philosophy[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE_HELP">
+			<Text>Land- and Sea Trade-routes[ICON_INTERNATIONAL_TRADE] reach 25% farther and give +2[ICON_GOLD] Gold.[NEWLINE][NEWLINE]+2[ICON_FOOD] Food production in the City.[NEWLINE][NEWLINE]Provides +2[ICON_GOLD] Gold after Economics researched.[NEWLINE][NEWLINE]Can employ [ICON_GREAT_MERCHANT]2 Merchant Specialists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE">
+			<Text>[ICON_CC]Trading House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Trade[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA_HELP">
+			<Text>All [ICON_GREAT_ARTIST]Artist, [ICON_GREAT_WRITER]Writers and [ICON_GREAT_MUSICIAN]Musicians Specialists in the Empire yield +1[ICON_RESEARCH] Science.[NEWLINE][NEWLINE]Can employ [ICON_GREAT_ARTIST]3 Artist Specialists and gives 2[ICON_GREAT_WORK] slots for Great Works of Art.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA">
+			<Text>[ICON_CC]Ars Technica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Technology[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE_HELP">
+			<Text>Adds +7.5[ICON_STRENGTH] Defense, +1[ICON_HAPPINESS_1] Happiness and +1[ICON_CULTURE] Culture to the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE">
+			<Text>[ICON_CC]Palisade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Defense[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER_HELP">
+			<Text>Adds +13.5[ICON_STRENGTH] Defense to the City and increases the Research Output of the City by +50%[ICON_RESEARCH].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER">
+			<Text>[ICON_CC]Bunker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Adv. Defense[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL_HELP">
+			<Text>All newly built [ICON_WAR]Units receive +15 Experience and boosts [ICON_WAR]Unit Production by 25%[ICON_PRODUCTION].[NEWLINE][NEWLINE]Increases Culture Output by +1[ICON_CULTURE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL">
+			<Text>[ICON_CC]Memorial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Idols[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_HELP">
+			<Text>Boosts the Income from [ICON_TRADE]City Connections by 10%[ICON_GOLD].[NEWLINE][NEWLINE]Provides 1[ICON_INTERNATIONAL_TRADE] Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET">
+			<Text>[ICON_CC]Exchange Market</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Exchange[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_HELP">
+			<Text>[ICON_RES_STONE][ICON_RES_GEMS][ICON_RES_GOLD][ICON_RES_SILVER][ICON_RES_MARBLE][ICON_RES_PEARLS][ICON_RES_SALT][ICON_RES_IRON][ICON_RES_COPPER][ICON_RES_COAL][ICON_RES_ALUMINUM][ICON_RES_URANIUM] Resources yield +2[ICON_SCIENCE] Science.[NEWLINE][NEWLINE]Provides +1[ICON_CULTURE] Culture and +1[ICON_CULTURE] Culture from every Type of these Resources near the City. [NEWLINE][NEWLINE]Can employ [ICON_GREAT_ARTIST]1 Artist Specialists and gives 2[ICON_GREAT_WORK] slots for Great Works of Art.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM">
+			<Text>[ICON_CC]Geology Museum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Geology[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO_HELP">
+			<Text>Grants +4[ICON_HAPPINESS_1] Happiness.[NEWLINE][NEWLINE]Increases Gold Output of the City by [ICON_GOLD]+25%.[NEWLINE][NEWLINE]Can employ [ICON_GREAT_MUSICIAN]3 Musicians and provides 3[ICON_GREAT_WORK] Great Works of Music slots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO">
+			<Text>[ICON_CC]Radio Studio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Entertainment[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP_HELP">
+			<Text>Temporarily increases the Work Speed of all Workers by 200% in the Empire.[NEWLINE][NEWLINE]Increases the Birth Rate of [ICON_GREAT_ENGINEER]Great Engineers by 2.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP">
+			<Text>[ICON_CC]Labor Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Labor[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_HELP">
+			<Text>You receive a free [ICON_SPY]Spy. Provides +1[ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU">
+			<Text>[ICON_CC]Labor Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_STRATEGY">
+			<Text>A City receives this building upon adoption of the Theme [COLOR_YELLOW]Cultural Capital of Investigation[ENDCOLOR].</Text>
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

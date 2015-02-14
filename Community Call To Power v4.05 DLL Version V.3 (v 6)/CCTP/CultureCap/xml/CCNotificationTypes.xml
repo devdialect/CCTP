@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<GameData>
+  <Table name="CCNotifications">
+    <Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+    <Column name="Type" type="text" unique="true"/>
+    <Column name="Welcomeness" type="integer" default="0"/>
+    <Column name="Urgent" type="bool" default="false"/>
+  </Table>
+  <CCNotifications>
+    <Row>
+      <ID>2753</ID>
+      <Type>NOTIFICATION_CULTURALCAPITAL</Type>
+    </Row>
+		<Row>
+			<Type>NOTIFICATION_ELECTIONSTARTED</Type>
+		</Row>
+		<Row>
+			<Type>NOTIFICATION_THEMECHOSEN</Type>
+		</Row>
+  </CCNotifications>
+
+  <Table name="CCPopupTypes">
+    <Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+    <Column name="Type" type="text" unique="true"/>
+  </Table>
+  <CCPopupTypes>
+    <Row>
+      <ID>2753</ID>
+      <Type>MAIN</Type>
+    </Row>
+		<Row>
+			<Type>OVERVIEW</Type>
+		</Row>
+		<Row>
+			<Type>CONFIRM_BRIBE</Type>
+		</Row>
+  </CCPopupTypes>
+</GameData>

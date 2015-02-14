@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 9:37:50 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Building_DomainProductionModifiers>
+		<Delete BuildingType="BUILDING_FORGE" DomainType="DOMAIN_LAND"/>
+		<Delete BuildingType="BUILDING_ARSENAL" DomainType="DOMAIN_LAND"/>
+		<Delete BuildingType="BUILDING_SEAPORT" DomainType="DOMAIN_SEA"/>
+		<Row>
+			<BuildingType>BUILDING_HUETTE</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DMONUMENT</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DMONUMENT</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DMONUMENT</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ICOURT</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PROTEST</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>-15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PROTEST</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>-15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PROTEST</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Modifier>-15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PGROUP</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PGROUP</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PGROUP</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NGUARD</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NGUARD</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NGUARD</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+	</Building_DomainProductionModifiers>
+	<!--Have a nice Day:=)-->
+</GameData>

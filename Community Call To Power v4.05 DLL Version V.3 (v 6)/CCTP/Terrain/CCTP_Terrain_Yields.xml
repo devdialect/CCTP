@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/18/2014 1:26:43 AM -->
+<!--*****Terrain_Yields*****-->
+<GameData>
+	<Terrain_Yields>
+
+		<!--*****NEXT*****-->
+		<Row>
+			<TerrainType>TERRAIN_COAST</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_COAST</TerrainType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>0</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_OCEAN</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>0</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_OCEAN</TerrainType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>0</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>0</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>0</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>0</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>0</Yield>
+		</Row>
+		<Row>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>0</Yield>
+		</Row>
+	</Terrain_Yields>
+</GameData>
+<!--Have a nice Day:=)-->

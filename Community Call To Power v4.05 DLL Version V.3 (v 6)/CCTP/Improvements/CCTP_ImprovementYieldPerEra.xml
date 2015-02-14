@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 12/20/2014 1:52:50 AM -->
+<GameData>
+	<!--Improvement_YieldPerEra-->
+	<Improvement_YieldPerEra>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MOAI</ImprovementType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MOAI</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_YieldPerEra>
+
+
+
+	<!--Have a nice Day;=)-->
+  
+</GameData>

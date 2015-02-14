@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/3/2011 4:31:41 PM -->
+<GameData>
+
+	<Table name="Building_FreeCulture">
+		<Column name="BuildingType" type="text" reference="Buildings(Type)"/>
+		<Column name="Culture" type="integer" default="0"/>
+		<Column name="PerMilUnit" type="boolean" default="false"/>
+		<Column name="PerPop" type="boolean" default="false"/>
+		<Column name="PopThreshold" type="integer" default="0"/>
+	</Table>
+
+	<Building_FreeCulture>
+		<Row>
+			<BuildingType>BUILDING_NEWGRANGE</BuildingType>
+			<Culture>10</Culture>
+			<PerPop>true</PerPop>
+			<PopThreshold>1</PopThreshold>
+		</Row>
+	</Building_FreeCulture>
+
+</GameData>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 3/5/2014 9:10:06 AM -->
+<GameData>
+<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+<!--*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!-->
+<!--//Under work\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+<!--*****BUILDINGS*****-->
+<Buildings>
+<!--*****BUILDINGS*****-->
+	
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	
+	
+<!--/////////1*National*Wonder*Buildings\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_SCHATZHAUS</Type>
+		<BuildingClass>BUILDINGCLASS_SCHATZHAUS</BuildingClass>
+		<Cost>725</Cost>
+		<NumCityCostMod>40</NumCityCostMod>
+		<PrereqTech>TECH_GOVERNMENT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SCHATZHAUS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SCHATZHAUS</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SCHATZHAUS_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SCHATZTHAUS_STRATEGY</Strategy>
+		<NumTradeRouteBonus>2</NumTradeRouteBonus>
+		<TradeRouteLandGoldBonus>2</TradeRouteLandGoldBonus>
+		<TradeRouteSeaGoldBonus>2</TradeRouteSeaGoldBonus>
+		<TradeRouteLandDistanceModifier>2</TradeRouteLandDistanceModifier>
+		<TradeRouteSeaDistanceModifier>2</TradeRouteSeaDistanceModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<CapturePlunderModifier>100</CapturePlunderModifier>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>ICON_GOT_2</IconAtlas>
+		<PortraitIndex>47</PortraitIndex>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+</Row>
+	
+<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_SENAT</Type>
+		<BuildingClass>BUILDINGCLASS_SENAT</BuildingClass>
+		<FreeStartEra>ERA_FUTURE</FreeStartEra>
+		<Cost>565</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_DEMOCRACY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SENAT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SENAT</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SENAT_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SENAT_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>50</ConquestProb>
+		<CitiesPrereq>5</CitiesPrereq>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<HappinessPerXPolicies>5</HappinessPerXPolicies>
+		<GoldenAgeModifier>10</GoldenAgeModifier>
+		<!--<MutuallyExclusiveGroup>103</MutuallyExclusiveGroup>-->
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>8</PortraitIndex>
+	</Row>
+
+
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_NATIONAL_PRISON</Type>
+		<BuildingClass>BUILDINGCLASS_NATIONAL_PRISON</BuildingClass>
+		<Cost>565</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_SPECIALIZED_TRAINING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NATIONAL_PRISON_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NATIONAL_PRISON</Description>
+		<Civilopedia>TXT_KEY_BUILDING_NATIONAL_PRISON_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NATIONAL_PRISON_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_LABORER</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<CitiesPrereq>8</CitiesPrereq>
+		<UnhappinessModifier>-10</UnhappinessModifier>
+		<!--<MutuallyExclusiveGroup>103</MutuallyExclusiveGroup>-->
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+		<PortraitIndex>7</PortraitIndex>
+</Row>
+
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_KRIEGSMINISTERIUM</Type>
+		<BuildingClass>BUILDINGCLASS_KRIEGSMINISTERIUM</BuildingClass>
+		<Cost>1450</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_MILITARY_TRADITION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_KRIEGSMINISTERIUM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_KRIEGSMINISTERIUM</Description>
+		<Civilopedia>TXT_KEY_BUILDING_KRIEGSMINISTERIUM_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_KRIEGSMINISTERIUM_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>28</PortraitIndex>
+	</Row>
+
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_APOLLO</Type>
+		<BuildingClass>BUILDINGCLASS_APOLLO</BuildingClass>
+		<Cost>160</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_APOLLO</PrereqTech>
+		<Help>TXT_KEY_BUILDING_APOLLO_HELP</Help>
+		<Description>TXT_KEY_BUILDING_APOLLO</Description>
+		<Civilopedia>TXT_KEY_BUILDING_APOLLO_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_APOLLO_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<PortraitIndex>13</PortraitIndex>
+	</Row>
+	
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_SPRACHE</Type>
+		<BuildingClass>BUILDINGCLASS_SPRACHE</BuildingClass>
+		<Cost>1450</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_ORTHOGRAPHY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SPRACHE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SPRACHE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SPRACHE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SPRACHE_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>37</PortraitIndex>
+	</Row>
+	
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_BIG_BROTHER</Type>
+		<BuildingClass>BUILDINGCLASS_BIG_BROTHER</BuildingClass>
+		<Cost>1450</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_BIG_BROTHER</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BIG_BROTHER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BIG_BROTHER</Description>
+		<Civilopedia>TXT_KEY_BUILDING_BIG_BROTHER_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_BIG_BROTHER_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>41</PortraitIndex>
+	</Row>
+	
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_NEBANK</Type>
+		<BuildingClass>BUILDINGCLASS_NEBANK</BuildingClass>
+		<Cost>12000</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_NOBLESSE_OBLIGE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NEBANK_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NEBANK</Description>
+		<Civilopedia>TXT_KEY_BUILDING_NEBANK_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NEBANK_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>5</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+		<PortraitIndex>50</PortraitIndex>
+	</Row>
+	
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_NATIONAL_BOTANY</Type>
+		<BuildingClass>BUILDINGCLASS_NATIONAL_BOTANY</BuildingClass>
+		<Cost>1450</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_PESTICIDE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NATIONAL_BOTANY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NATIONAL_BOTANY</Description>
+		<Civilopedia>TXT_KEY_BUILDING_NATIONAL_BOTANY_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NATIONAL_BOTANY_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_ENVIRONMENT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>42</PortraitIndex>
+	</Row>
+	
+	<!--/////////Need Flavors, Yields and Text, Manpower , and prereq building\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_NPRESS</Type>
+		<BuildingClass>BUILDINGCLASS_NPRESS</BuildingClass>
+		<Cost>1450</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<PrereqTech>TECH_MASS_MEDIA</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NPRESS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NPRESS</Description>
+		<Civilopedia>TXT_KEY_BUILDING_NPRESS_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NPRESS_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_ENTERTAINER</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>10</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>4</PortraitIndex>
+	</Row>
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+
+
+
+
+
+
+
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+	<!--/////////National*Wonder*Buildings\\\\\\\\\-->
+<!--*****BUILDINGS*****-->
+</Buildings>
+<!--*****BUILDINGS*****-->
+ <!--Have a nice Day:=)-->
+</GameData>

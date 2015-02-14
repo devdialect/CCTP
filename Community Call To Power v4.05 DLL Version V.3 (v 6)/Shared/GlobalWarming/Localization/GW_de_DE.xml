@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/10/2012 4:08:28 PM -->
+<GameData>
+	<!-- Deutsch (by Apocaliptica)-->
+	<Language_de_DE>
+		<Row Tag="TXT_KEY_GW_ERANOTIFY">
+			<Text>Die Eingabe des {1_EraName} aktiviert die globale Erwärmung.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_ERANOTIFY_SHORT">
+			<Text>Globale Erwärmung?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_MELT">
+			<Text>Eis und Schnee sind geschmolzen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_MELT_SHORT">
+			<Text>Globale Erwärmung!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_FLOOD">
+			<Text>Anstieg des Meeresspiegels hat das Land überschwemmt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_FLOOD_SHORT">
+			<Text>Globale Erwärmung löst Überschwemmung aus!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LOST_RESOURCE">
+			<Text>Die globale Erwärmung hat die Ressource {1_ResourceName} zerstört.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LOST_RESOURCE_SHORT">
+			<Text>Ressource wurde zerstört!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LAND">
+			<Text>Eine Hitzewelle hat das Land verändert.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LAND_SHORT">
+			<Text>Globale Erwärmung löst Hitzewelle aus!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_HURRICANE">
+			<Text>Ein Hurrikan hat {@1_CityName} verwüstet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_HURRICANE_SHORT">
+			<Text>Globale Erwärmung löst Wirbelsturm aus!</Text>
+		</Row>
+	</Language_de_DE>
+</GameData>

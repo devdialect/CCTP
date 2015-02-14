@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:44:19 PM -->
+<GameData>
+	<!--/////////Improvements***Gametext\\\\\\\\\\\\-->
+	<Language_en_US>
+		<!--Have a nice Day:=)-->
+	
+	<!-- Update Vanilla Text -->
+		<!--***** Improvement updates*****-->
+		<!--***|Next|***-->
+		<Update>
+			<Set Text="Slave Market" />
+			<Where Tag="TXT_KEY_IMPROVEMENT_MOTTE_BAILEY" />
+		</Update>
+		<Update>
+			<Set Text="Can only build on Rivers.[NEWLINE] Need the Policy 242.[NEWLINE]Provides +2 [ICON_RES_MANPOWER] Manpower." />
+			<Where Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_TEXT" />
+		</Update>
+		<Update>
+			<Set Text="Construct a Slave Market" />
+			<Where Tag="TXT_KEY_BUILD_MOTTE_BAILEY" />
+		</Update>
+		<Update>
+			<Set Text="Provides +2 [ICON_RES_MANPOWER] Manpower.[NEWLINE]Can only build on a River." />
+			<Where Tag="TXT_KEY_BUILD_MOTTE_BAILEY_HELP" />
+		</Update>
+		<Update>
+			<Set Text="It will increase the amount of [ICON_RES_MANPOWER] Manpower in your empire by +2." />
+			<Where Tag="TXT_KEY_BUILD_MOTTE_BAILEY_REC" />
+		</Update>
+
+		<Update>
+		<Set Text="Constructs a Kasbah, provides +1 [ICON_RES_MANPOWER] Manpower,also increases the amount of [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold provided by this tile.[NEWLINE]Also provides a [ICON_STRENGTH] defensive bonus."/>
+		<Where Tag="TXT_KEY_BUILD_KASBAH_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="Constructs a Chateau which increases the [ICON_CULTURE] Culture and [ICON_GOLD] Gold yield of the tile.[NEWLINE]Also provides a [ICON_STRENGTH] defensive bonus and provides +1 [ICON_RES_MANPOWER] Manpower."/>
+		<Where Tag="TXT_KEY_BUILD_CHATEAU_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="Constructs a Woodcamp."/>
+		<Where Tag="TXT_KEY_BUILD_BRAZILWOOD"/>
+	</Update>
+	<Update>
+		<Set Text="Moai can only be built on the coast.[NEWLINE]If built next to another Moai, it provides additional [ICON_CULTURE] Culture. After the Flight technology is researched it also provides extra [ICON_GOLD] Gold.[NEWLINE]Provides additional +1 [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism for each Era."/>
+		<Where Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_HELP"/>
+</Update>
+		
+		
+  <!--New Improvements-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_PRESERVE">
+			<Text>Forest and Jungle Preserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE">
+			<Text>Forest and Jungle Preserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TEXT">
+			<Text>Adds 1 additional [ICON_RESEARCH] Science for each Era.[NEWLINE][NEWLINE]A Forest or Jungle Preserve is a protected area of importance for wildlife, flora and fauna, which is reserved and managed for conservation and to provide special opportunities for study.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TITLE1">
+			<Text>Technology Required</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TITLE2">
+			<Text>Where It Can Be Constructed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TITLE3">
+			<Text>Yield Effect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TITLE4">
+			<Text>Resource Accessed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORKERS_PRESERVE_HEADING3_BODY">
+			<Text>A Forest Preserve adds 2 [ICON_CULTURE] Culture to a tile and +1 [ICON_RESEARCH] Science.[NEWLINE]Technology Required: [COLOR_POSITIVE_TEXT]Ecology[ENDCOLOR]  Construction Time: 12 Turns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORKERS_PRESERVE_HEADING3_TITLE">
+			<Text>Forest Preserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PRESERVE">
+			<Text>Construct a [LINK=IMPROVEMENT_PRESERVE]Forest Preserve[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PRESERVE_HELP">
+			<Text>Adds 2 [ICON_CULTURE] Culture to a tile and +1 [ICON_RESEARCH] Science for each Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PRESERVE_REC">
+			<Text>Will increase the amount of [ICON_RESEARCH] Science and [ICON_CULTURE] Culture provided by this tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SMARKET">
+			<Text>Construct a Slave Market[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SMARKET_HELP">
+			<Text>Adds 6 [ICON_FOOD].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SMARKET_TEXT">
+			<Text>Slave Market</Text>
+		</Row>
+
+		<!--21.11.14-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_WIND">
+			<Text>Wind Traps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_WIND_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_WIND_HELP">
+			<Text>Provides +4 [ICON_POWER3] Electricity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_WIND">
+			<Text>Build Wind Traps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_WIND_HELP">
+			<Text>Build Wind Traps</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_SOLAR">
+			<Text>Solar Farm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SOLAR_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SOLAR_HELP">
+			<Text>Provides +4 [ICON_POWER3] Electricity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SOLAR">
+			<Text>Build Solar Farm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SOLAR_HELP">
+			<Text>Build Solar Farm</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_PSI">
+			<Text>PSI Gate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PSI_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PSI_HELP">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PSI">
+			<Text>Build PSI Gate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PSI_HELP">
+			<Text>Build PSI Gate</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_ARCOLOGY">
+			<Text>Arcology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ARCOLOGY_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ARCOLOGY_HELP">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCOLOGY">
+			<Text>Build Arcology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCOLOGY_HELP">
+			<Text>Build Arcology</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_HIGH_ENERGY">
+			<Text>High-Energy Research Centre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HIGH_ENERGY_TEXT">
+			<Text>A custom improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HIGH_ENERGY_HELP">
+			<Text>This custom improvement provides 4 [ICON_RESEARCH] Science to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HIGH_ENERGY">
+			<Text>Build a High-Energy Research Centre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HIGH_ENERGY_HELP">
+			<Text>Build a High-Energy Research Centre which increases the Science yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HIGH_ENERGY_REC">
+			<Text>It will increase the Science yield of the tile.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAT">
+			<Text>Communications Array</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAT_TEXT">
+			<Text>A custom improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAT_HELP">
+			<Text>This custom improvement provides 2 [ICON_CULTURE] Culture and 2 [ICON_GOLD] Gold to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAT">
+			<Text>Build a Communications Array</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAT_HELP">
+			<Text>Build a Communications Array which increases the Culture and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAT_REC">
+			<Text>It will increase the Culture and Gold yield of the tile.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_INDUSTRIAL">
+			<Text>Industrial Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_INDUSTRIAL_TEXT">
+			<Text>A custom improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_INDUSTRIAL_HELP">
+			<Text>This custom improvement provides 4 [ICON_PRODUCTION] Production to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_INDUSTRIAL">
+			<Text>Build an Industrial Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_INDUSTRIAL_HELP">
+			<Text>Build an Industrial Site which increases the Production yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_INDUSTRIAL_REC">
+			<Text>It will increase the Production yield of the tile.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_NODE">
+			<Text>Network Node</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_NODE_TEXT">
+			<Text>A custom improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_NODE_HELP">
+			<Text>This custom improvement provides 1 [ICON_CULTURE] Culture and 1 [ICON_GOLD] Gold to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NODE">
+			<Text>Build a Network Node</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NODE_HELP">
+			<Text>Build a Network Node which increases the Culture and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NODE_REC">
+			<Text>It will increase the Culture and Gold yield of the tile.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_TEMPEL">
+			<Text>Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TEMPEL_TEXT">
+			<Text>Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TEMPEL_HELP">
+			<Text>This improvement provides +2 [ICON_FAITH] Faith to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TEMPEL">
+			<Text>Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TEMPEL_HELP">
+			<Text>Build a Temple which increases the Faith yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TEMPEL_REC">
+			<Text>It will increase the Faith yield of the tile.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_ALCHEMIST">
+			<Text>Alchemist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ALCHEMIST_TEXT">
+			<Text>Alchemist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ALCHEMIST_HELP">
+			<Text>Alchemist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ALCHEMIST">
+			<Text>Alchemist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ALCHEMIST_HELP">
+			<Text>Alchemist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ALCHEMIST_REC">
+			<Text>Alchemist</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_PAPER">
+			<Text>Paper Maker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PAPER_TEXT">
+			<Text>Paper Maker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PAPER_HELP">
+			<Text>Provides one [ICON_PAPER] Paper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PAPER">
+			<Text>Paper Maker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PAPER_HELP">
+			<Text>Provides one [ICON_PAPER] Paper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PAPER_REC">
+			<Text>Paper Maker.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_TOWER">
+			<Text>Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TOWER_TEXT">
+			<Text>Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TOWER_HELP">
+			<Text>Tower.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TOWER">
+			<Text>Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TOWER_HELP">
+			<Text>Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TOWER_REC">
+			<Text>It will increase [ICON_ORDER] Order.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_NANO">
+			<Text>Nano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_NANO_TEXT">
+			<Text>Nano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_NANO_HELP">
+			<Text>Nano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NANO">
+			<Text>Nano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NANO_HELP">
+			<Text>Build a Nano improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_NANO_REC">
+			<Text>need text.</Text>
+		</Row>
+		
+		<!--next-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_BEACON">
+			<Text>Beacon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BEACON_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BEACON_HELP">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BEACON">
+			<Text>Build Beacon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BEACON_HELP">
+			<Text>Build Beacon</Text>
+		</Row>
+</Language_en_US>
+<!--Have a nice Day:=)-->
+
+<!-- Enter your Game Data here. -->
+  
+</GameData>

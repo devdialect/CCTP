@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/4/2014 1:26:56 PM -->
+<GameData>
+  
+
+<!--***Building_AreaYieldModifiers***-->
+<Building_AreaYieldModifiers>
+<!--***Next***-->
+<!--<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>-25</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>-25</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>-25</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>-25</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>-25</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>-25</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>-25</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_MCONTROL</BuildingType>
+	<YieldType>YIELD_CULTURE</YieldType>
+	<Yield>-25</Yield>
+</Row>
+***Next***-->
+<Row>
+	<BuildingType>BUILDING_CCTPPB164</BuildingType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>50</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<BuildingType>BUILDING_CCTPPB132</BuildingType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>15</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<BuildingType>BUILDING_CCTPPB135</BuildingType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>10</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<BuildingType>BUILDING_CCTPPB138</BuildingType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>10</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<BuildingType>BUILDING_CCTPPB158</BuildingType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>15</Yield>
+</Row>
+<!--***Next***-->
+</Building_AreaYieldModifiers>
+
+	
+  
+</GameData>
+<!--Have a nice Day;=)-->

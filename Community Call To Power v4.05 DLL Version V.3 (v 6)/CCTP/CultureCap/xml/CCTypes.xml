@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<!-- Created by ModBuddy on 2/3/2011 3:24:06 PM -->
+<GameData>
+
+	<!-- CCTypes (aka Themes) of different Cultural Capitals-->
+	<Table name="CCTypes">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" unique="true"/>
+		<Column name="Title" type="text" default="NULL" />
+		<Column name="Description" type="text" reference="Language_en_US(Tag)" default="NULL"/>
+		<Column name="IconAtlas" type="text" default="NULL" reference="IconTextureAtlases(Atlas)"/>
+		<Column name="PortraitIndex" type="integer" default="-1"/>
+		<Column name="SpecialistBuildingRequired" type="text" reference="Specialists(Type)" default="NULL"/>
+		<Column name="BuildingClassRequired" type="text" reference="BuildingClasses(Type)" default="NULL" />
+		<Column name="NoOfWondersRequired" type="integer" default="0"/>
+		<Column name="NoOfCitiesRequired" type="integer" default="0" /> <!-- negative values mean that the player is only allowed to have at most the number of cities; also scales with mapsize-->
+		<Column name="CitySizeRequired" type="integer" default="0"/> <!-- negative values mean that the citysize must at most the number -->
+		<Column name="TechRequired" type="text" reference="Technologies(Type)" default="NULL" />
+		<Column name="EraRequired" type="text" reference="Eras(Type)" default="NULL" />
+		<Column name="PolicyRequired" type="text" reference="Policies(Type)" default="NULL" />
+		<Column name="GarrisonRequired" type="boolean" default="false"/>
+		<Column name="BuildingClassInEmpireRequired" type="text" reference="BuildingClasses(Type)" default="NULL" />
+		<Column name="BuildingClassExcluded" type="text" reference="BuildingClasses(Type)" default="NULL" />
+		<Column name="BuildingClassInEmpireExcluded" type="text" reference="BuildingClasses(Type)" default="NULL" />
+		<Column name="MustProduce" type="boolean" default="false" /> <!-- defines if the city needs to produce something (units or buildings) -->
+		<Column name="CanHaveResource" type="text" reference="Resources(Type)" default="NULL" />
+		<Column name="ObsoleteTech" type="text" reference="Technologies(Type)" default="NULL" />
+		<Column name="ObsoleteEra" type="text" reference="Eras(Type)" default="NULL" />
+		<Column name="AIViabilityContext" type="text" reference="CCAIViabilityContexts(Type)" default="NULL" /> <!-- Defines a context that checks the viability of the theme for the AI -->
+		<Column name="DisplayListing" type="float" default="0.0" /> <!-- Used for the sorting function in the popup - is a quasi reference to eras -->
+		<Column name="IsEnabled" type="boolean" default="true" />
+		<Column name="IsDebug" type="boolean" default="false" /> <!-- (for Debugging purposes) Deactivates Requirements so it will be always available if set to true-->
+	</Table>
+	<Table name="CCType_Flavors">
+		<Column name="CCType" type="text" reference="CCTypes(Type)"/>
+		<Column name="FlavorType" type="text" reference="Flavors(Type)"/>
+		<Column name="Flavor" type="integer"/>
+	</Table>
+	
+	<CCTypes>
+		<Row>
+			<ID>0</ID>
+			<Type>TYPE_KINGS</Type>
+			<Title>TXT_KEY_CC_THEME_KINGS</Title>
+			<Description>TXT_KEY_CC_THEME_KINGS_DESC</Description>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<!-- Palace -->
+			<PortraitIndex>19</PortraitIndex>
+			<DisplayListing>0.1</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_IDOLS</Type>
+			<Title>TXT_KEY_CC_THEME_IDOLS</Title>
+			<Description>TXT_KEY_CC_THEME_IDOLS_DESC</Description>
+			<!-- Horseback Riding -->
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>11</PortraitIndex>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_MEMORIAL</BuildingClassExcluded>
+			<DisplayListing>0.1</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_LABOR</Type>
+			<Title>TXT_KEY_CC_THEME_LABOR</Title>
+			<Description>TXT_KEY_CC_THEME_LABOR_DESC</Description>
+			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
+			<!-- Mining-->
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<DisplayListing>0.1</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_ASCENDANCY</Type>
+			<Title>TXT_KEY_CC_THEME_ASCENDANCY</Title>
+			<Description>TXT_KEY_CC_THEME_ASCENDANCY_DESC</Description>
+			<IconAtlas>NW_ATLAS</IconAtlas>
+			<!-- Grand Mesa -->
+			<PortraitIndex>7</PortraitIndex>
+			<ObsoleteEra>ERA_RENAISSANCE</ObsoleteEra>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_BEACON_OF_HEAVENS</BuildingClassExcluded>
+			<DisplayListing>0.1</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_SACRIFICE</Type>
+			<Title>TXT_KEY_CC_THEME_SACRIFICE</Title>
+			<Description>TXT_KEY_CC_THEME_SACRIFICE_DESC</Description>
+			<MustProduce>True</MustProduce>
+			<!-- Calendar -->
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>9</PortraitIndex>
+			<CitySizeRequired>6</CitySizeRequired>
+			<ObsoleteEra>ERA_RENAISSANCE</ObsoleteEra>
+			<DisplayListing>0.2</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_HORIZON</Type>
+			<Title>TXT_KEY_CC_THEME_HORIZON</Title>
+			<Description>TXT_KEY_CC_THEME_HORIZON_DESC</Description>
+			<!-- Settler -->
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<PolicyRequired>POLICY_COLLECTIVE_RULE</PolicyRequired>
+			<ObsoleteEra>ERA_INDUSTRIAL</ObsoleteEra>
+			<DisplayListing>0.3</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_TROPHIES</Type>
+			<Title>TXT_KEY_CC_THEME_TROPHIES</Title>
+			<Description>TXT_KEY_CC_THEME_TROPHIES_DESC</Description>
+			<!-- Spearman -->
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PolicyRequired>POLICY_DISCIPLINE</PolicyRequired>
+			<PortraitIndex>9</PortraitIndex>
+			<AIViabilityContext>NOT_VIABLE</AIViabilityContext>
+			<!-- Not viable for the AI since its hard to check -->
+			<DisplayListing>0.3</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_BELIEF</Type>
+			<Title>TXT_KEY_CC_THEME_BELIEF</Title>
+			<Description>TXT_KEY_CC_THEME_BELIEF_DESC</Description>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<!-- Missionary -->
+			<PortraitIndex>20</PortraitIndex>
+			<ObsoleteTech>TECH_EDUCATION</ObsoleteTech>
+			<PolicyRequired>POLICY_PIETY</PolicyRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_TEMPLE</BuildingClassExcluded>
+			<DisplayListing>0.4</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_DEFENSE</Type>
+			<Title>TXT_KEY_CC_THEME_DEFENSE</Title>
+			<Description>TXT_KEY_CC_THEME_DEFENSE_DESC</Description>
+			<!-- Walls -->
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>32</PortraitIndex>
+			<ObsoleteTech>TECH_ELECTRICITY</ObsoleteTech>
+			<TechRequired>TECH_CONSTRUCTION</TechRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_PALISADE</BuildingClassExcluded>
+			<DisplayListing>1</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_EXTRACTION</Type>
+			<Title>TXT_KEY_CC_THEME_EXTRACTION</Title>
+			<Description>TXT_KEY_CC_THEME_EXTRACTION_DESC</Description>
+			<!-- Iron -->
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<ObsoleteEra>ERA_INDUSTRIAL</ObsoleteEra>
+			<TechRequired>TECH_METAL_CASTING</TechRequired>
+			<CanHaveResource>RESOURCE_IRON</CanHaveResource>
+			<DisplayListing>1.2</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_LOYALTY</Type>
+			<Title>TXT_KEY_CC_THEME_LOYALTY</Title>
+			<Description>TXT_KEY_CC_THEME_LOYALTY_DESC</Description>
+			<!-- GG -->
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+			<PortraitIndex>48</PortraitIndex>
+			<BuildingClassInEmpireRequired>BUILDINGCLASS_HEROIC_EPIC</BuildingClassInEmpireRequired>
+			<ObsoleteEra>ERA_INDUSTRIAL</ObsoleteEra>
+			<DisplayListing>1.5</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_FAITH</Type>
+			<Title>TXT_KEY_CC_THEME_FAITH</Title>
+			<Description>TXT_KEY_CC_THEME_FAITH_DESC</Description>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<!-- Chivalry -->
+			<PortraitIndex>27</PortraitIndex>
+			<BuildingClassRequired>BUILDINGCLASS_TEMPLE</BuildingClassRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_CATHEDRAL</BuildingClassExcluded>
+			<ObsoleteTech>TECH_SCIENTIFIC_THEORY</ObsoleteTech>
+			<DisplayListing>1.8</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_CONSTRUCTION</Type>
+			<Title>TXT_KEY_CC_THEME_CONSTRUCTION</Title>
+			<Description>TXT_KEY_CC_THEME_CONSTRUCTION_DESC</Description>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>10</PortraitIndex>
+			<SpecialistBuildingRequired>SPECIALIST_ENGINEER</SpecialistBuildingRequired>
+			<TechRequired>TECH_METAL_CASTING</TechRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_CONSTRUCTION_HALL</BuildingClassExcluded>
+			<DisplayListing>2.0</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_TRADE</Type>
+			<Title>TXT_KEY_CC_THEME_TRADE</Title>
+			<Description>TXT_KEY_CC_THEME_TRADE_DESC</Description>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
+			<SpecialistBuildingRequired>SPECIALIST_MERCHANT</SpecialistBuildingRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_TRADING_HOUSE</BuildingClassExcluded>
+			<TechRequired>TECH_CURRENCY</TechRequired>
+			<DisplayListing>2.0</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_ARCHITECTURE</Type>
+			<Title>TXT_KEY_CC_THEME_ARCHITECTURE</Title>
+			<Description>TXT_KEY_CC_THEME_ARCHITECTURE_DESC</Description>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<!-- Notre Dame -->
+			<PortraitIndex>10</PortraitIndex>
+			<PolicyRequired>POLICY_ARISTOCRACY</PolicyRequired>
+			<TechRequired>TECH_ENGINEERING</TechRequired>
+			<AIViabilityContext>ARCHITECTURE_CHECK</AIViabilityContext>
+			<ObsoleteEra>ERA_INDUSTRIAL</ObsoleteEra>
+			<DisplayListing>2.1</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_CONTROVERSY</Type>
+			<Title>TXT_KEY_CC_THEME_CONTROVERSY</Title>
+			<Description>TXT_KEY_CC_THEME_CONTROVERSY_DESC</Description>
+			<!-- Citizen Specialist -->
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+			<EraRequired>ERA_RENAISSANCE</EraRequired>
+			<NoOfCitiesRequired>5</NoOfCitiesRequired>
+			<ObsoleteTech>TECH_ELECTRICITY</ObsoleteTech>
+			<AIViabilityContext>CONTROVERSY_CHECK</AIViabilityContext>
+			<DisplayListing>3.0</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_PHILOSOPHY</Type>
+			<Title>TXT_KEY_CC_THEME_PHILOSOPHY</Title>
+			<Description>TXT_KEY_CC_THEME_PHILOSOPHY_DESC</Description>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+			<TechRequired>TECH_EDUCATION</TechRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_THINK_TANK</BuildingClassExcluded>
+			<DisplayListing>2.9</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_EXCHANGE</Type>
+			<Title>TXT_KEY_CC_THEME_EXCHANGE</Title>
+			<Description>TXT_KEY_CC_THEME_EXCHANGE_DESC</Description>
+			<!-- Economics -->
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>35</PortraitIndex>
+			<TechRequired>TECH_ECONOMICS</TechRequired>
+			<ObsoleteTech>TECH_COMPUTERS</ObsoleteTech>
+			<BuildingClassInEmpireRequired>BUILDINGCLASS_NATIONAL_TREASURY</BuildingClassInEmpireRequired>
+			<AIViabilityContext>EXCHANGE_CHECK</AIViabilityContext>
+			<DisplayListing>3.5</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_TECHNOLOGY</Type>
+			<Title>TXT_KEY_CC_THEME_TECHNOLOGY</Title>
+			<Description>TXT_KEY_CC_THEME_TECHNOLOGY_DESC</Description>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>51</PortraitIndex>
+			<TechRequired>TECH_SCIENTIFIC_THEORY</TechRequired>
+			<BuildingClassInEmpireRequired>BUILDINGCLASS_OXFORD_UNIVERSITY</BuildingClassInEmpireRequired>
+			<BuildingClassInEmpireExcluded>BUILDINGCLASS_CC_ARS_TECHNICA</BuildingClassInEmpireExcluded>
+			<DisplayListing>3.9</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_SERVITUDE</Type>
+			<Title>TXT_KEY_CC_THEME_SERVITUDE</Title>
+			<Description>TXT_KEY_CC_THEME_SERVITUDE_DESC</Description>
+			<!-- Military Academy -->
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>8</PortraitIndex>
+			<BuildingClassRequired>BUILDINGCLASS_MILITARY_ACADEMY</BuildingClassRequired>
+			<GarrisonRequired>true</GarrisonRequired>
+			<DisplayListing>3.8</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_GEOLOGY</Type>
+			<Title>TXT_KEY_CC_THEME_GEOLOGY</Title>
+			<Description>TXT_KEY_CC_THEME_GEOLOGY_DESC</Description>
+			<!-- Refrigeration-->
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+			<PortraitIndex>13</PortraitIndex>
+			<BuildingClassRequired>BUILDINGCLASS_MUSEUM</BuildingClassRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_GEOLOGY_MUSEUM</BuildingClassExcluded>
+			<AIViabilityContext>GEOLOGY_CHECK</AIViabilityContext>
+			<DisplayListing>3.9</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_EMPOWERMENT</Type>
+			<Title>TXT_KEY_CC_THEME_EMPOWERMENT</Title>
+			<Description>TXT_KEY_CC_THEME_EMPOWERMENT_DESC</Description>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>25</PortraitIndex>
+			<!-- Stadium -->
+			<BuildingClassExcluded>BUILDINGCLASS_CC_STATUE_OF_EMPOWERMENT</BuildingClassExcluded>
+			<PolicyRequired>POLICY_POPULISM</PolicyRequired>
+			<DisplayListing>4</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_BENEVOLENCE</Type>
+			<Title>TXT_KEY_CC_THEME_BENEVOLENCE</Title>
+			<Description>TXT_KEY_CC_THEME_BENEVOLENCE_DESC</Description>
+			<!-- Silver -->
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+			<PortraitIndex>24</PortraitIndex>
+			<PolicyRequired>POLICY_PROTECTIONISM</PolicyRequired>
+			<EraRequired>ERA_INDUSTRIAL</EraRequired>
+			<DisplayListing>4</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_ADV_DEFENSE</Type>
+			<Title>TXT_KEY_CC_THEME_ADV_DEFENSE</Title>
+			<Description>TXT_KEY_CC_THEME_ADV_DEFENSE_DESC</Description>
+			<!-- Refrigeration-->
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>50</PortraitIndex>
+			<TechRequired>TECH_ELECTRICITY</TechRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_BUNKER</BuildingClassExcluded>
+			<DisplayListing>4.5</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_ENTERTAINMENT</Type>
+			<Title>TXT_KEY_CC_THEME_ENTERTAINMENT</Title>
+			<Description>TXT_KEY_CC_THEME_ENTERTAINMENT_DESC</Description>
+			<!-- Radio -->
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>55</PortraitIndex>
+			<TechRequired>TECH_RADIO</TechRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_RADIO_STUDIO</BuildingClassExcluded>
+			<DisplayListing>4.9</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_INVESTIGATION</Type>
+			<Title>TXT_KEY_CC_THEME_INVESTIGATION</Title>
+			<Description>TXT_KEY_CC_THEME_INVESTIGATION_DESC</Description>
+			<IconAtlas>EXPANSION_TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<EraRequired>ERA_MODERN</EraRequired>
+			<BuildingClassRequired>BUILDINGCLASS_CONSTABLE</BuildingClassRequired>
+			<BuildingClassInEmpireExcluded>BUILDINGCLASS_CC_DETECTIVE_BUREAU</BuildingClassInEmpireExcluded>
+			<DisplayListing>5.0</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_ECOLOGY</Type>
+			<Title>TXT_KEY_CC_THEME_ECOLOGY</Title>
+			<Description>TXT_KEY_CC_THEME_ECOLOGY_DESC</Description>
+			<!-- Ecology -->
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<TechRequired>TECH_ECOLOGY</TechRequired>
+			<BuildingClassExcluded>BUILDINGCLASS_CC_ECOLOGICAL_CENTER</BuildingClassExcluded>
+			<AIViabilityContext>ECOLOGY_CHECK</AIViabilityContext>
+			<DisplayListing>5.5</DisplayListing>
+		</Row>
+		<Row>
+			<Type>TYPE_DEEP_EXTRACTION</Type>
+			<Title>TXT_KEY_CC_THEME_DEEP_EXTRACTION</Title>
+			<Description>TXT_KEY_CC_THEME_DEEP_EXTRACTION_DESC</Description>
+			<!-- Uranium -->
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<TechRequired>TECH_NUCLEAR_FISSION</TechRequired>
+			<CanHaveResource>RESOURCE_URANIUM</CanHaveResource>
+			<DisplayListing>5.5</DisplayListing>
+		</Row>
+
+		<Row>
+			<Type>TYPE_INFORMATION</Type>
+			<Title>TXT_KEY_CC_THEME_INFORMATION</Title>
+			<Description>TXT_KEY_CC_THEME_INFORMATION_DESC</Description>
+			<!-- Computers -->
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<TechRequired>TECH_INTERNET</TechRequired>
+			<BuildingClassRequired>BUILDINGCLASS_BROADCAST_TOWER</BuildingClassRequired>
+			<DisplayListing>5.5</DisplayListing>
+		</Row>
+	</CCTypes>
+
+	<!-- Flavors -->
+	<CCType_Flavors>
+		<Row>
+			<CCType>TYPE_KINGS</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_KINGS</CCType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_IDOLS</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_IDOLS</CCType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_SACRIFICE</CCType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_SACRIFICE</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_BELIEF</CCType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_BELIEF</CCType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_FAITH</CCType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_FAITH</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_DEFENSE</CCType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_DEFENSE</CCType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_ADV_DEFENSE</CCType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_ADV_DEFENSE</CCType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_TROPHIES</CCType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_TROPHIES</CCType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_TROPHIES</CCType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_TROPHIES</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_SERVITUDE</CCType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_SERVITUDE</CCType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_HORIZON</CCType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_HORIZON</CCType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_ARCHITECTURE</CCType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_ARCHITECTURE</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_CONTROVERSY</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_CONTROVERSY</CCType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_PHILOSOPHY</CCType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_PHILOSOPHY</CCType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_CONSTRUCTION</CCType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_CONSTRUCTION</CCType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_CONSTRUCTION</CCType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_TRADE</CCType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_TRADE</CCType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_TECHNOLOGY</CCType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_TECHNOLOGY</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_TECHNOLOGY</CCType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_ECOLOGY</CCType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_ECOLOGY</CCType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>35</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_BENEVOLENCE</CCType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_BENEVOLENCE</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_EXCHANGE</CCType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>35</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_EXCHANGE</CCType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_LOYALTY</CCType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_LOYALTY</CCType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_EMPOWERMENT</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>75</Flavor>
+		</Row>
+		
+		<Row>
+			<CCType>TYPE_INFORMATION</CCType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_INFORMATION</CCType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>35</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_GEOLOGY</CCType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_GEOLOGY</CCType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_ENTERTAINMENT</CCType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_ENTERTAINMENT</CCType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_EXTRACTION</CCType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_EXTRACTION</CCType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_DEEP_EXTRACTION</CCType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_DEEP_EXTRACTION</CCType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_DEEP_EXTRACTION</CCType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_LABOR</CCType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<CCType>TYPE_LABOR</CCType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_ASCENDANCY</CCType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+
+		<Row>
+			<CCType>TYPE_INVESTIGATION</CCType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>45</Flavor>
+		</Row>
+		
+	</CCType_Flavors>
+
+</GameData>

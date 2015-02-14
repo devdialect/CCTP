@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:44:37 PM -->
+<GameData>
+<!--/////////Promotion***Gametext\\\\\\\\\-->
+	<Language_en_US>
+<!--Have a nice Day:=)-->
+
+
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_MAGELLAN_VOYAGE_DESC</Tag>
+		<Text>Magellan's Voyage</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_MAGELLAN_VOYAGE</Tag>
+		<Text>Ferdinand Magellan was a Portuguese explorer. He was born in Sabrosa, in northern Portugal, but later obtained Spanish nationality in order to serve King Charles I of Spain in search of a westward route to the "Spice Islands".  Magellan's expedition of 1519–1522 became the first expedition to sail from the Atlantic Ocean into the Pacific Ocean (then named "peaceful sea" by Magellan; the passage being made via the Strait of Magellan), and the first to cross the Pacific. It also completed the first circumnavigation of the Earth, although Magellan himself did not complete the entire voyage, being killed during the Battle of Mactan in the Philippines.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_MAGELLAN_VOYAGE_HELP</Tag>
+		<Text>This unit receives +1 [ICON_MOVES] movement.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FOR_THE_KING_DESC</Tag>
+		<Text>For the King</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FOR_THE_KING</Tag>
+		<Text>The Crown Royalty policy found under the Monarchy government, provides this to all units in the empire.  Due to heightened love for and loyalty to the Monarch, units will fight harder in battle.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FOR_THE_KING_HELP</Tag>
+		<Text>This unit receives +20% strength.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_OATH_DESC</Tag>
+		<Text>Oath</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_OATH</Tag>
+		<Text>Units in a Feudal system are experienced in assaulting fortified positions.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_OATH_HELP</Tag>
+		<Text>This unit recieves a +33% bonus when attacking fortified units.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FEROCITY_DESC</Tag>
+		<Text>Ferocity</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FEROCITY</Tag>
+		<Text>Units ruled by a Fascist government go on the attack with unmatched feroCity.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FEROCITY_HELP</Tag>
+		<Text>This unit recieves a +30% bonus on attack.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FATHERLAND_DESC</Tag>
+		<Text>Fatherland</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FATHERLAND</Tag>
+		<Text>Driven by national pride, units fight to the bitter end.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_FATHERLAND_HELP</Tag>
+		<Text>This unit heals every turn, even if it [ICON_MOVES] moves.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_JINGOIST_DESC</Tag>
+		<Text>Jingoist</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_JINGOIST</Tag>
+		<Text>Because your culture deserves to be spread.  By force if necessary.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_JINGOIST_HELP</Tag>
+		<Text>This unit receives +20% strength.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_ECO_FANATIC_DESC</Tag>
+		<Text>Eco Fanatic</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_ECO_FANATIC</Tag>
+		<Text>Driven by national pride, units fight to the bitter end.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_PROMOTION_ECO_FANATIC_HELP</Tag>
+		<Text>This unit ignores terrain cost, and pillaging does not consume movement points.</Text>
+	</Row>
+
+	
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+
+<!--<<<<<<<<<<[Promotions]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_PROMOTION_INTRUDER">
+		<Text>Intruder</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_SLAVERY">
+		<Text>Slavery</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_FIELD_MEDIC">
+		<Text>Field Medic</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_PROMOTION_SPION">
+		<Text>Spy</Text>
+</Row>
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_PROMOTION_INF_ARMOUR">
+		<Text>Infantry Armour</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_INF_ARMOUR_HELP">
+		<Text>+25% [ICON_STRENGTH] Combat Strength when defending</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_PROMOTION_SHOES">
+		<Text>Horse Shoes</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_SHOES_HELP">
+		<Text>+1 Movement</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_PROMOTION_CHAINMAIL">
+		<Text>Fine Armour</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_CHAINMAIL_HELP">
+		<Text>+20% [ICON_STRENGTH] Combat Strength when defending</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_PROMOTION_PLATE">
+		<Text>Reinforced Armour</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_PLATE_HELP">
+		<Text>+20% [ICON_STRENGTH] Combat Strength when defending</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_PROMOTION_LEATHARM">
+		<Text>Hardened Leather</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_LEATHARM_HELP">
+		<Text>+10% [ICON_STRENGTH] Combat Strength when defending</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+<Row Tag="TXT_KEY_PROMOTION_BWEAPON">
+		<Text>Bronze Weapons</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_BWEAPON_HELP">
+		<Text>+20% [ICON_STRENGTH] Combat Strength.</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row Tag="TXT_KEY_PROMOTION_IWEAPON">
+		<Text>Fine Weapons</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_IWEAPON_HELP">
+		<Text>+20% [ICON_STRENGTH] Combat Strength.</Text>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->	
+</Language_en_US>
+<!--Have a nice Day:=)--> 
+</GameData>

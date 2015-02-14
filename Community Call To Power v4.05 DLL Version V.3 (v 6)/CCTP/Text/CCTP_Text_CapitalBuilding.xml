@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 3/5/2014 1:07:39 AM -->
+<!--/////////Capital*Building*Gametext\\\\\\\\\\\\-->
+<GameData>
+<!--/////////Capital*Building*Gametext\\\\\\\\\\\\-->
+	<Language_en_US>
+	<!--/////////Capital*Building*Gametext\\\\\\\\\\\\-->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+  <!-- TODO: Insert table creation example here. -->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+	<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+	
+		
+	
+	<!--THRONE_ROOM-->
+	<Row Tag="TXT_KEY_BUILDING_THRONE_ROOM">
+		<Text>Palace Throne Room [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_THRONE_ROOM_STRATEGY">
+		<Text>Grands one free [ICON_GREATE_PEOPLE] Great Person of your choice and you get global +3 [ICON_HAPPINES_1] Happiness.[NEWLINE][NEWLINE]Increases the generation of [ICON_GREAT_PEOPLE] Great People by 10% in the [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]Adds yields +10 [ICON_TOURISM] Tourism when Natinalism is discovered.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 5 [ICON_RES_MANPOWER] Manpower.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_THRONE_ROOM_HELP">
+		<Text>A free [ICON_GREATE_PEOPLE] Great Person of your choice appairs near your [ICON_CAPITAL] Capital.[NEWLINE]Add yields +2 [ICON_GOLDEN_AGE ]Golden Age Points.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_THRONE_ROOM_PEDIA">
+		<Text>upps</Text>
+	</Row>
+
+	<!--TREASURE_ROOM-->
+	<Row Tag="TXT_KEY_BUILDING_TREASURE_ROOM">
+		<Text>Treasure Room [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_TREASURE_ROOM_STRATEGY">
+		<Text>The Treasure Room increases the [ICON_GOLD] Gold income in your [ICON_CAPITAL] Capital by +10%.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_TREASURE_ROOM_HELP">
+		<Text>Provides +10% more [ICON_GOLD] Gold in the [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]Grands one [ICON_GREAT_MERCHANT] Great Merchant slot, and enemies get a [ICON_GOLD] Gold bonus, anytime they plunder your [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 3 [ICON_RES_MANPOWER] Manpower.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_TREASURE_ROOM_TEXT">
+		<Text>.</Text>
+	</Row>
+
+	<!--PALACE_GALLERY-->
+	<Row Tag="TXT_KEY_BUILDING_PALACE_GALLERY">
+		<Text>Palace Gallery [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_GALLERY_STRATEGY">
+		<Text>The Palace Gallery increases the [ICON_CULTURE] Culture in your [ICON_CAPITAL] Capital excellent.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_GALLERY_HELP">
+		<Text>The Palace Gallery provides 1 free [ICON_GREAT_WORK] Greatwork slot for Artifacts and adds +3 [ICON_CULTURE] Culture.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 3 [ICON_RES_MANPOWER] Manpower.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_PALACE_GALLERY_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--PALACE_GARDEN-->
+	<Row Tag="TXT_KEY_BUILDING_PALACE_GARDEN">
+		<Text>Palace Garden [ICON_RES_MANPOWER][ICON_HEALTH]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_GARDEN_STRATEGY">
+		<Text>Increases the global [ICON_HAPPINESS_1] Happiness by 2 and boost the [ICON_FOOD] Food income in the [ICON_CAPITAL] Capital.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_GARDEN_HELP">
+		<Text>Provides +2 global [ICON_HAPPINESS_1] Happiness, and also adds +1 [ICON_FOOD] Food to each [ICON_RES_APPLE] Apple, [ICON_RES_MANGO] Mango, [ICON_RES_BANANA] Bananas and [ICON_RES_BERRIES] Berries resources worked by the city.[NEWLINE]Increase [ICON_HEALTH] Health by +1.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 2 [ICON_RES_MANPOWER] Manpower.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_PALACE_GARDEN_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--GUARD_ROOM-->
+	<Row Tag="TXT_KEY_BUILDING_GUARD_ROOM">
+		<Text>Palace Guard Room [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_GUARD_ROOM_STRATEGY">
+		<Text>Increases the [ICON_STRENGHT] Strentgh of our [ICON_CAPITAL] Capital, boost new trained [ICON_SILVER_FIST] Units with +15 [ICON_WAR] XP, and you get two free [ICON_WAR] Warrior.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 2 [ICON_RES_MANPOWER] Manpower and [COLOR_WARNING_TEXT]Sacrifice Cult[ENDCOLOR] must be discovered.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_GUARD_ROOM_HELP">
+		<Text>Adds +7.5 [ICON_STRENGHT] Strenght to the [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]Grands +15 [ICON_WAR] XP to all new land units, and two free [ICON_WAR] Warriors appaire.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_GUARD_ROOM_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--PALACE_OBSERVATORY-->
+	<Row Tag="TXT_KEY_BUILDING_PALACE_OBSERVATORY">
+		<Text>Palace Observatory [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_OBSERVATORY_STRATEGY">
+		<Text>Provides one free [ICON_RES_MANUSCRIPT] Manuscript and increases the [ICON_RESEARCH] Science output in the [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement:[ENDCOLOR]One [ICON_RES_MANPOWER] Manpower resources.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_OBSERVATORY_HELP">
+		<Text>Grands one free [ICON_RES_MANUSCRIPT] Manuscript, a very rar luxury resource.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_PALACE_OBSERVATORY_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--DINING_ROOM-->
+	<Row Tag="TXT_KEY_BUILDING_DINING_ROOM">
+		<Text>Hunting Grounds [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_DINING_ROOM_STRATEGY">
+		<Text>Provides yields +1 [ICON_FOOD] Food for every animal resource that can be eat.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_DINING_ROOM_HELP">
+		<Text>Provides yields +1 [ICON_FOOD] Food, for each source of [ICON_RES_SQUID] Squid, [ICON_RES_FISH] Fish, [ICON_RES_WHALE] Whale, [ICON_RES_DEER] Deer, [ICON_RES_COW] Cow and [ICON_RES_SHEEP] Sheep.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement:[ENDCOLOR]One [ICON_RES_MANPOWER] Manpower resources.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_DINING_ROOM_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+
+	<!--CONSERVATORY-->
+	<Row Tag="TXT_KEY_BUILDING_CONSERVATORY">
+		<Text>Palace Conservatory</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_CONSERVATORY_STRATEGY">
+		<Text>Increase the [ICON_RESEARCH] Science output of the [ICON_CAPITAL] Capital.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_CONSERVATORY_HELP">
+		<Text>Provides one [ICON_GREAT_SCIENTIST] Scientist slot and add yields +2 [ICON_RESEARCH] to the Capital.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_CONSERVATORY_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+
+	<!--STAFF_HOUSING-->
+	<Row Tag="TXT_KEY_BUILDING_STAFF_HOUSING">
+		<Text>Palace Staff Housing [ICON_SILVER_FIST]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_STAFF_HOUSING_STRATEGY">
+		<Text>Increases the [ICON_PRODUCTION] Production in the [ICON_CAPITAL] Capital and provides +3 [ICON_RES_MANPOWER] Manpower four your Empire.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_STAFF_HOUSING_HELP">
+		<Text>Grands 3 additionel [ICON_RES_MANPOWER] Manpower resources and gives a little boost [ICON_PRODUCTION] Production in the  [ICON_CAPITAL] Capital.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAFF_HOUSING_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+
+	<!--ACREAGE-->
+	<Row Tag="TXT_KEY_BUILDING_ACREAGE">
+		<Text>Palace Acreage [ICON_SILVER_FIST]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_ACREAGE_STRATEGY">
+		<Text>The Palace Acreage provides a boost to your Palace [ICON_FOOD] Food.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_ACREAGE_HELP">
+		<Text>The Palace Acreage adds +2 [ICON_FOOD] Food.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_ACREAGE_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--GREAT_HALL-->
+	<Row Tag="TXT_KEY_BUILDING_GREAT_HALL">
+		<Text>Great Hall [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_GREAT_HALL_STRATEGY">
+		<Text>Provides a little boost in [ICON_CULTURE] Culture and you get a extra [ICON_TRADE] trade route.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement:[ENDCOLOR]One [ICON_RES_MANPOWER] Manpower resources and [COLOR_WARNING_TEXT]Masonry[ENDCOLOR] must be reasearched.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_GREAT_HALL_HELP">
+		<Text>Provides 1 additional [ICON_TRADE] Trade Route.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_GREAT_HALL_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--GRAND_ENTRANCE-->
+	<Row Tag="TXT_KEY_BUILDING_GRAND_ENTRANCE">
+		<Text>Palace Grand Entrance [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_GRAND_ENTRANCE_STRATEGY">
+		<Text>The Palace Grand Entrance provides a boost to your Palace [ICON_GOLD] Gold income you get one extra [ICON_TRADE] trade route.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement:[ENDCOLOR]One [ICON_RES_MANPOWER] Manpower resources.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_GRAND_ENTRANCE_HELP">
+		<Text>The radius of caravans is increased by +15% [ICON_FLOWER] , and palso increases the [ICON_GOLD] Gold income frome [ICON_TRADE] trade routes with this city.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRAND_ENTRANCE_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--WAR_ROOM-->
+	<Row Tag="TXT_KEY_BUILDING_WAR_ROOM">
+		<Text>Warroom [ICON_RES_MANPOWER] </Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_WAR_ROOM_STRATEGY">
+		<Text>Provides a +10% higher appairing for your [ICON_GREAT_GENERAL] Great Generals, boost the city [ICON_STRENGHT] Strength, and one free [ICON_GREAT_GENERAL] Great general appairs near the [ICON_CAPITAL] city.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 1 [ICON_RES_MANPOWER] Manpower.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_WAR_ROOM_HELP">
+		<Text>Provides a +10% higher appairing for your [ICON_GREAT_GENERAL] Great Generals, boost the city [ICON_STRENGHT] Strength, and one free  [ICON_GREAT_GENERAL]  Great general appairs near the [ICON_CAPITAL] city.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement:[ENDCOLOR]Three [ICON_RES_MANPOWER] Manpower.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_WAR_ROOM_TEXT">
+		<Text></Text>
+	</Row>
+
+	<!--ALTAR-->
+	<Row Tag="TXT_KEY_BUILDING_ALTAR">
+		<Text>Altar of the Prophet [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_ALTAR_STRATEGY">
+		<Text>Provides a little boost in [ICON_CULTURE] Culture and you get +2 global [ICON_HAPPINESS_1] Happiness.[NEWLINE][NEWLINE]Increase the religious pressure in the [ICON_CAPITAL] Capital by 15%.[NEWLINE][NEWLINE]Add yields +3 [ICON_TOURISM] Tourism when Papacy is discovered.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 3 [ICON_RES_MANPOWER] Manpower resources are needed.[NEWLINE][NEWLINE]Can only build in your [ICON_CAPITAL] Holycity, if you founded a [ICON_RELIGION] Religion.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Sculpture[ENDCOLOR] must be discovered.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_ALTAR_HELP">
+		<Text>Provides one additional [ICON_MISSIONARY] Missionary spread, for each new trained [ICON_MISSIONARY] Missionary in the [ICON_CAPITAL] Capital.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_ALTAR_TEXT">
+		<Text>upps.</Text>
+	</Row>
+
+
+	<!--PALACE_THERME-->
+	<Row Tag="TXT_KEY_BUILDING_PALACE_WALL">
+		<Text>Palace Wall [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_WALL_STRATEGY">
+		<Text>Increase the the heal rate of [ICON_SILVER_FIST] units in this city by +10%.[NEWLINE][NEWLINE]Gives a boost for city [ICON_STRENGTH]defence.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 3[ICON_RES_MANPOWER] Manpower resources are needed.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_WALL_HELP">
+		<Text>Units heal now +15% faster in this city.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_PALACE_WALL_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--PALACE_THERME-->
+	<Row Tag="TXT_KEY_BUILDING_PALACE_THERME">
+		<Text>Therme [ICON_RES_MANPOWER][ICON_HEALTH]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_THERME_STRATEGY">
+		<Text>Provides a good boost in [ICON_FOOD] Food for the city.[NEWLINE][NEWLINE]Global +2 [ICON_HAPPINESS_1]Happines.[NEWLINE]Increase [ICON_HEALTH] Health by +1.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement:[ENDCOLOR]Five [ICON_RES_MANPOWER] Manpower resources are needed.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Clergy[ENDCOLOR] must be discovered.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_THERME_HELP">
+		<Text>+10% of[ICON_FOOD] Food are saved when a new [ICON_CITIZEN] Citizen[NEWLINE][NEWLINE]Global +2 [ICON_HAPPINESS_1] Happiness.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_THERME_TEXT">
+		<Text>upps</Text>
+	</Row>
+	<!-- TODO: Insert table data example here.-->
+
+	<!--SCHREIBSTUBE-->
+	<Row Tag="TXT_KEY_BUILDING_SCHREIBSTUBE">
+		<Text>Writers Room [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_SCHREIBSTUBE_STRATEGY">
+		<Text>Grand a little boost in [ICON_RESEARCH] Science.[NEWLINE][NEWLINE]Provides one [ICON_GREAT_WRITER] Great Writer slot.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 3 [ICON_RES_MANPOWER] Manpower and 1 [ICON_RES_PAPER] Paper to be build.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Mathematic[ENDCOLOR] must be discovered.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_SCHREIBSTUBE_HELP">
+		<Text>Grants 1 [ICON_RES_MANUSCRIPT] Manuscript.[NEWLINE][NEWLINE]Provides one [ICON_GREAT_WRITER] Great Writer slot.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_SCHREIBSTUBE_TEXT">
+		<Text>upps</Text>
+	</Row>
+	
+	<!--PALAST_VERLIESS-->
+	<Row Tag="TXT_KEY_BUILDING_PALAST_VERLIESS">
+		<Text>Palace Dungeons [ICON_RES_MANPOWER][ICON_PLAGUE]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALAST_VERLIESS_STRATEGY">
+		<Text>Provides +10% [ICON_WORKER] Worker speed.[NEWLINE][NEWLINE]Enenemy [ICON_CULTURE] Culture and [ICON_RELIGION] Religion get a -10% malus.[NEWLINE]Increase [ICON_PLAGUE] Plague by +1[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 4 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Hierachy[ENDCOLOR] must be discovered.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALAST_VERLIESS_HELP">
+		<Text>Foreign [ICON_RELIGION] Religions pressure increased be 10%, enemy spies get a -10% malus, and your [ICON_WORKER] Worker speed is increased by +10%.[NEWLINE][NEWLINE]Global [ICON_HAPPINESS_4] Unhappiness will be a little bit increased.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALAST_VERLIESS_TEXT">
+		<Text>upps</Text>
+	</Row>
+	
+	<!--CODEX-->
+	<Row Tag="TXT_KEY_BUILDING_CODEX">
+		<Text>Codex [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_CODEX_HELP">
+		<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement:[ENDCOLOR]Three [ICON_RES_MANPOWER] Manpower resources are needed.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Monarchy[ENDCOLOR] must be discovered.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_CODEX_STRATEGY">
+		<Text>Increases the appairins of [ICON_GREAT_PEOPLE] Great People in this city by 10%.[NEWLINE][NEWLINE]Global +2 [ICON_HAPPINESS_1] Happiness.[NEWLINE][NEWLINE]+100 [ICON_GOLD] Gold every time a [ICON_GREAT_PEOPLE] Great People was expended</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_CODEX_PEDIA">
+		<Text>upps</Text>
+	</Row>
+
+	<!--FOUNDER_TEMPLE-->
+	<Row Tag="TXT_KEY_BUILDING_FOUNDER_TEMPLE">
+		<Text>Temple of the Prophet [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_FOUNDER_TEMPLE_HELP">
+		<Text>Add yields +5 [ICON_PEACE] Faith, Global +2 [ICON_HAPPINESS_1] Happiness.[NEWLINE][NEWLINE]New trained [ICON_MISSIONARY] Missionaries in this city, get one extra religious spread.[NEWLINE][NEWLINE]Requries four [ICON_RES_MANPOWER] Manpower[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note:[ENDCOLOR][NEWLINE]Can only be build on a Holy City.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_FOUNDER_TEMPLE_STRATEGY">
+		<Text>Gives a massiv boost forward your [ICON_RELIGION] Religion.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_FOUNDER_TEMPLE_PEDIA">
+		<Text>upps</Text>
+	</Row>
+	
+	<!--PALACE_STABLES-->
+	<Row Tag="TXT_KEY_BUILDING_PALACE_STABLES">
+		<Text>Palace Stables [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_STABLES_HELP">
+		<Text>Grants three additional [ICON_RES_HORSE] Horses.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR][NEWLINE]Two [ICON_RES_MANPOWER] Manpower to be build.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_STABLES_STRATEGY">
+		<Text>[NEWLINE][NEWLINE]City must contain a Stuffing House</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDING_PALACE_STABLES_TEXT">
+		<Text></Text>
+	</Row>
+	
+	<!--HAREM-->
+	<Row Tag="TXT_KEY_BUILDING_HAREM">
+		<Text>Palace Harem [ICON_RES_MANPOWER]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_HAREM_HELP">
+		<Text>Add yields +3 [ICON_GOLD] and +1 [ICON_CULTURE] Culture  to each of your Brothel.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note:[ENDCOLOR][NEWLINE]City must contain a Throne room and a Mosque.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR][NEWLINE]5 [ICON_RES_MANPOWER] Manpower to be build.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_HAREM_STRATEGY">
+		<Text>Provides boost forward to [ICON_CULTURE] Culture.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_HAREM_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+	<!--RITUELLE_ZEREMONIE-->
+	<Row Tag="TXT_KEY_BUILDING_RITUELLE_ZEREMONIE">
+		<Text>Palace Ado</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_RITUELLE_ZEREMONIE_HELP">
+		<Text>Add yields +1 [ICON_PEACE] Faith and +1 [ICON_HAPPINESS_1] Happiness to each of your tempels.[NEWLINE][NEWLINE][IOCN_RELIGION]Religious pressure in this [IOCN_CAPITAL] city is increased by 15%.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requirement[ENDCOLOR][NEWLINE]The Holy Temple must be build in this city.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_RITUELLE_ZEREMONIE_STRATEGY">
+		<Text>Provides a boost forward to [ICON_PEACE] Faith and [ICON_HAPPINESS_1] Happiness.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_RITUELLE_ZEREMONIE_TEXT">
+		<Text>upps</Text>
+	</Row>
+
+
+	<!--DIENER-->
+	<Row Tag="TXT_KEY_BUILDING_DIENER">
+		<Text>Valet [ICON_SILVER_FIST]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_DIENER_HELP">
+		<Text>Grants +3 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note:[ENDCOLOR][NEWLINE]City must contain a stuff house.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_DIENER_STRATEGY">
+		<Text>Provides extra [ICON_RES_MANPOWER] Manpower and gives a little [ICON_PRODUCTION] Production bonus.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDINGS_DIENER_TEXT">
+		<Text>upps</Text>
+	</Row>
+	
+	<!--DIENER-->
+	<Row Tag="TXT_KEY_BUILDING_PALACE_ALCHEMY_HALL">
+		<Text>Palace Alchemy Hall [ICON_SILVER_FIST]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_ALCHEMY_HALL_HELP">
+		<Text>Provides three free [ICON_RES_MANPOWER] Manpower .</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_PALACE_ALCHEMY_HALL_STRATEGY">
+		<Text>The Alchemy Hall increases your production.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_BUILDING_PALACE_ALCHEMY_HALL_TEXT">
+		<Text>Alchemy is an influential philosophical tradition whose early practitioners' claims to profound powers were known from antiquity. The defining objectives of alchemy are varied; these include the creation of the fabled philosopher's stone possessing powers including the capability of turning base metals into the noble metals gold or silver, as well as an elixir of life conferring youth and immortality.</Text>
+	</Row>
+	</Language_en_US>
+  <!-- have a nice Day:=)-->
+  
+
+</GameData>

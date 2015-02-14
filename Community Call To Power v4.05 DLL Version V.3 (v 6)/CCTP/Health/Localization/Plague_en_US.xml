@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2013 -->
+<GameData>
+	<!--Tooltip Updates-->
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP" />
+			<Set Text="[COLOR_POSITIVE_TEXT]Exploration[ENDCOLOR] enhances your abilties to spread your empire over the seas.
+				 [NEWLINE][NEWLINE]Adopting Exploration gives +1 [ICON_MOVES] Movement for Naval units and +1 Sight for Naval combat units. Unlocks building the Louvre.
+				 [NEWLINE][NEWLINE]Adopting all policies allows you to see Hidden Antiquity Sites. It also allows the purchase of Great Admirals with [ICON_PEACE] Faith starting in the Industrial Era.
+				 [NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]-1% [ICON_HEALTH] Empire Health for each policy adopted in this branch.[ENDCOLOR]" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP" />
+			<Set Text="[COLOR_POSITIVE_TEXT]Rationalism[ENDCOLOR] improves the ability to use and generate [ICON_RESEARCH] Science.
+				 [NEWLINE][NEWLINE]Adopting Rationalism will grant +10% [ICON_RESEARCH] Science while the empire is [ICON_HAPPINESS_1] Happy. Unlocks building the Porcelain Tower.
+				 [NEWLINE][NEWLINE]Adopting all Policies in the Rationalism tree will grant a free Technology. It also allows the purchase of Great Scientists with [ICON_PEACE] Faith starting in the Industrial Era.
+				 [NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]+1% [ICON_HEALTH] Empire Health for each policy adopted in this branch.[ENDCOLOR]" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_AQUEDUCT_HELP" />
+			<Set Text="40% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born. Provides fresh water for this city, increasing its [ICON_HEALTH] Health." />
+		</Update>
+	</Language_en_US>
+	<!--New Tooltips-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HEALTH">
+			<Text>[ICON_HEALTH] Health: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HEALTH_NEGATIVE">
+			<Text>[ICON_HEALTH] Health: {1_Num}</Text>
+		</Row>
+	</Language_en_US>
+	<!--Yields-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_YIELD_HEALTH">
+			<Text>Health</Text>
+		</Row>
+	</Language_en_US>
+	<!--Specialists-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SPECIALIST_DOCTOR">
+			<Text>Doctor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_DOCTOR_STRATEGY">
+			<Text>A Doctor Specialist produces [ICON_HEALTH] Health.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_DOCTOR_SLOTS">
+			<Text>Doctor Slots:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_DOCTOR_TITLE">
+			<Text>Health Points:</Text>
+		</Row>
+	</Language_en_US>
+	<!--Diplo Corner Screen-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CH_OVERVIEW">
+			<Text>Health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_CITIES">
+			<Text>Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_CITY">
+			<Text>City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_RISK">
+			<Text>Plague Risk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_STATUS_PLAGUED_TT">
+			<Text>City is Plagued</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_CITY_TT">
+			<Text>Click to enter City View screen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_SORT_STATUS_TT">
+			<Text>Click to sort by plague status</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_SORT_NAME_TT">
+			<Text>Click to sort by city name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_SORT_HEALTH_TT">
+			<Text>Click to sort by city health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_RISK_TT">
+			<Text>Click to sort by plague risk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_RISK_NONE">
+			<Text>[COLOR_POSITIVE_TEXT]None[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_RISK_LOW">
+			<Text>[COLOR_POSITIVE_TEXT]Low[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_RISK_AVERAGE">
+			<Text>Average</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_RISK_HIGH">
+			<Text>[COLOR_WARNING_TEXT]High[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_RISK_EXTREME">
+			<Text>[COLOR_WARNING_TEXT]Extreme[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_DIPLO_CORNER_HOOK">
+			<Text>City Health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CH_DIPLO_CORNER_HOOK_TT">
+			<Text>Summary and Details on all cities' [ICON_HEALTH] Health.</Text>
+		</Row>
+	</Language_en_US>
+	<!--Event Notifications-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PLAGUE_BEGIN_SHORT">
+			<Text>Plague!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_BEGIN">
+			<Text>A [ICON_PLAGUE] Plague has broken out in {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_BEGIN_UNSEEN">
+			<Text>We've heard rumors of a [ICON_PLAGUE] Plague in distant lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_SPREAD_SHORT">
+			<Text>Plague Spreads!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_SPREAD">
+			<Text>The [ICON_PLAGUE] Plague has spread to {1_CityName} ({2_NumTurns} Turns).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_DEATH_SHORT">
+			<Text>Plague!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_DEATH">
+			<Text>The [ICON_PLAGUE] Plague killed a citizen of {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_DEATH_ABANDON">
+			<Text>{1_CityName} has been wiped out by the [ICON_PLAGUE] Plague.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_ENDED_SHORT">
+			<Text>Plague Ends!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_ENDED">
+			<Text>The recent [ICON_PLAGUE] Plague has ended.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_BUILD_ACADEMY"/>
+			<Set Text="Construct an Academy (Cures [ICON_PLAGUE] Cities)"/>
+		</Update>
+		<Row Tag="TXT_KEY_PLAGUE_CURED_SHORT">
+			<Text>Plague Cured!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_CURED">
+			<Text>
+				A scientific break-through at our new Academy has led to new medical treatments!
+				[NEWLINE]{1_Number} of our Cities have been cured of the [ICON_PLAGUE] Plague.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_SPY_SABOTAGE_SHORT">
+			<Text>City Sabotaged!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_SPY_SABOTAGE_US">
+			<Text>A foreign spy has unleashed a [ICON_PLAGUE] Plague in our lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAGUE_SPY_SABOTAGE_THEM">
+			<Text>Our spy has unleashed a [ICON_PLAGUE] Plague in {1_CityName}.</Text>
+		</Row>
+	</Language_en_US>
+	<!--Top Panel-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TP_HEALTH_EXPLANATION">
+			<Text>[ICON_HEALTH] Empire Health (based on acquired Technologies and Policies, current Happiness, and game Handicap) modifies every city's health by the current percent. Cities with low health are much more likely to initiate, propagate and suffer from [ICON_PLAGUE] Plagues.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_NEGATIVE">
+			<Text>[COLOR_WARNING_TEXT]{1_Percent}% [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_POSITIVE">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Percent}% [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_OVERALL">
+			<Text>All Cities' [ICON_HEALTH] Health:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_TRAIT">
+			<Text>from Leader Trait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_POLICY">
+			<Text>from [ICON_CULTURE] Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_TECH">
+			<Text>from [ICON_RESEARCH] Technologies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_TRADE">
+			<Text>from [ICON_TURNS_REMAINING] International Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_GOLDENAGE">
+			<Text>from [ICON_GOLDEN_AGE] Golden Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_UNHAPPY">
+			<Text>from [ICON_HAPPINESS_3] Unhappiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_HEALTH_DIFFICULTY">
+			<Text>from Game Difficulty Penalty</Text>
+		</Row>
+	</Language_en_US>
+	<!--City Banner-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PM_CITY_PLAGUED">
+			<Text>City is [ICON_PLAGUE] Plagued! [ICON_CITIZEN] Citizens may die, and nearby units will take damage.</Text>
+		</Row>
+	</Language_en_US>
+	<!--City View Screen-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PM_CITYVIEW_HEALTH_TEXT">
+			<Text>Health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_HELP_INFO">
+			<Text>[ICON_HEALTH] Health determines the likelihood that a city will suffer [ICON_PLAGUE] Plagues. Positive Health is converted into [ICON_FOOD] Food each turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_POP">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from [ICON_CITIZEN] Population</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_POP">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from [ICON_CITIZEN] Population</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_TOURISM">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from low [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_TOURISM">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_WATER">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from access to Freshwater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_NO_WATER">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from lack of Freshwater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_BUILDINGS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Buildings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_BUILDINGS">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Buildings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_SPECIALISTS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Specialists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_RESOURCES">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Worked Resources</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_RESOURCES">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Worked Resources</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_IMPROVEMENTS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Worked Improvements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_IMPOVEMENTS">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Worked Improvements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_LOST_CIVMOD">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Empire Health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_GAIN_CIVMOD">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from Empire Health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_FEATURES">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from nearby Features</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_FEATURES">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from nearby Features</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_UNITS">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from nearby diseased Units</Text>
+		</Row>		
+			<Row Tag="TXT_KEY_PM_HEALTH_FROM_PROCESSES">
+				<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from processes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_PROCESSES">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from processes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_HEALTH_FROM_BELIEF">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from beliefs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PM_DISEASE_FROM_BELIEF">
+			<Text>[COLOR_WARNING_TEXT]{1_Total}[ENDCOLOR] [ICON_HEALTH] from beliefs</Text>
+		</Row>
+	</Language_en_US>
+	<!--Pedia Concepts-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITIES_HEALTH_HEADING3_TITLE">
+			<Text>[COLOR_POSITIVE_TEXT]City Health[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_HEALTH_HEADING3_BODY">
+			<Text>
+				A City's [ICON_HEALTH] Health is based on access to fresh water (Aqueducts can provide fresh water), local resources, population, and completed buildings. City health is magnified by the Empire's Health Multiplier (see [COLOR_POSITIVE_TEXT]Empire Health[ENDCOLOR]).
+				[NEWLINE]
+				[NEWLINE]Healthy, non-stagnant cities convert surplus Health ([ICON_PLUS][ICON_HEALTH]) into [ICON_FOOD] Food each turn. Unhealthy cities are much more likely to spawn, propagate and suffer from [ICON_PLAGUE] Plagues.
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from Tourism (Only after any Civ enters the Renaissance Era)
+				[NEWLINE][COLOR_POSITIVE_TEXT][ICON_PLUS][ICON_HEALTH][ENDCOLOR]: City [ICON_TOURISM] Tourism is very low.
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH][ENDCOLOR]: Increases with City [ICON_TOURISM] Tourism.
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from Freshwater
+				[NEWLINE][COLOR_POSITIVE_TEXT][ICON_PLUS][ICON_HEALTH][ENDCOLOR]: City is adjacent to River, Oasis, Lake or has an Aqueduct (decreases with difficulty)
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH][ENDCOLOR]: City not adjacent to to River, Oasis, Lake or has no Aqueduct (increases with population)
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from Resources
+				[NEWLINE][COLOR_POSITIVE_TEXT][ICON_PLUS][ICON_HEALTH][ENDCOLOR]: [ICON_RES_WHEAT], [ICON_RES_SHEEP], [ICON_RES_COW], [ICON_RES_BANANA], [ICON_RES_FISH], [ICON_RES_WHALE], [ICON_RES_SPICES], [ICON_RES_WINE], [ICON_RES_SALT], [ICON_RES_CITRUS], [ICON_RES_CRAB], [ICON_RES_CLOVES](+2), [ICON_RES_PEPPER](+2), [ICON_RES_NUTMEG](+2)
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH][ENDCOLOR]: [ICON_RES_IRON], [ICON_RES_COAL], [ICON_RES_OIL], [ICON_RES_URANIUM]
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from Buildings
+				[NEWLINE][COLOR_POSITIVE_TEXT][ICON_PLUS][ICON_HEALTH][ENDCOLOR]: Granary, Garden, Windmill, University, Recycling Center, Hospital, Medical Lab(+3), Laboratory(+2)
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH][ENDCOLOR]: Stable, Circus, Forge, Stone Works, Workshop, Ironworks, Colosseum, Zoo, Harbor, Factory(-3), Hotel, Airport(-2), National Visitor Center
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from Features
+				[NEWLINE][COLOR_POSITIVE_TEXT][ICON_PLUS][ICON_HEALTH][ENDCOLOR]: Forests adjacent to City Plot
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH][ENDCOLOR]: Flood Plains, Marshes and Fallout(-3) adjacent to City Plot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EMPIRE_HEALTH_HEADING3_TITLE">
+			<Text>[COLOR_POSITIVE_TEXT]Empire Health[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EMPIRE_HEALTH_HEADING3_BODY">
+			<Text>
+				The Empire's [ICON_HEALTH] Health is based on acquired Technologies and Policies, current [ICON_HAPPINESS_1] Happiness, and game Handicap.
+				[NEWLINE]Empire Health modifies every City's health by the current percent each turn (see [COLOR_POSITIVE_TEXT]City Health[ENDCOLOR]).
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from [ICON_CULTURE] Trade Routes
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH]%[ENDCOLOR]: Each [ICON_TURNS_REMAINING] International Trade Route
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from [ICON_CULTURE] Policies
+				[NEWLINE][COLOR_POSITIVE_TEXT][ICON_PLUS][ICON_HEALTH]%[ENDCOLOR]: Each Policy adopted Rationalism Branche
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH]%[ENDCOLOR]: Each Policy adopted Exploration Branche
+				[NEWLINE]
+				[NEWLINE][ICON_BULLET]Health from [ICON_RESEARCH] Technologies
+				[NEWLINE][COLOR_POSITIVE_TEXT][ICON_PLUS][ICON_HEALTH]%[ENDCOLOR]: Pottery, Engineering, Chemistry, Scientific Theory, Biology(+2), Electricy, Refrigeration(+2), Penicillin(+3), Ecology, Satellites, Robotics, Nanotechnology
+				[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_MINUS][ICON_HEALTH]%[ENDCOLOR]: Animal Husbandry, The Wheel, Sailing, Optics, Compass, Astronomy, Navigation, Flight, Globalization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_PLAGUE_HEADING3_TITLE">
+			<Text>[COLOR_NEGATIVE_TEXT]Plague[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_PLAGUE_HEADING3_BODY">
+			<Text>
+				[ICON_PLAGUE] Plagues always begin in cities with the lowest global [ICON_HEALTH] Health. Plagues may spread to nearby cities, cross international borders, and propagate to distant cities over land and sea routes. Plagued cities and diseased units will recover after several turns or when the outbreak has ended.
+				[NEWLINE]
+				[NEWLINE][COLOR_POSITIVE_TEXT]Plague Effects[ENDCOLOR]
+				[NEWLINE][ICON_BULLET]Cities may lose 1[ICON_CITIZEN] Citizen per turn while plagued; Cities cannot die of plague.
+				[NEWLINE][ICON_BULLET][ICON_CAPITAL] Capitals will never decrease below 3[ICON_CITIZEN] Citizens.
+				[NEWLINE][ICON_BULLET]Building an Academy with a Great Scientist instantly cures that player's plagued cities.
+				[NEWLINE][ICON_BULLET]Cities regain fewer hitpoints each turn if attacked while plagued.
+				[NEWLINE][ICON_BULLET]Cities have a chance to spread the plague to other cities each turn (based on Difficulty, Era, Map Size).
+				[NEWLINE][ICON_BULLET]Units in and near plagued cities will take damage each turn; they cannot die of disease.
+				[NEWLINE][ICON_BULLET]Units in and near plagued cities can get the [COLOR_NEGATIVE_TEXT]Disease Promotion[ENDCOLOR], which greatly reduces their defensive abilities.
+				[NEWLINE]
+				[NEWLINE][COLOR_POSITIVE_TEXT]Plague Spread[ENDCOLOR]
+				[NEWLINE][ICON_BULLET]World size, game speed, difficulty, and current era all effect how fast and how far plagues will spread.
+				[NEWLINE][ICON_BULLET]In general, plagues spread fastest in the Medieval Era and slower in later eras.
+				[NEWLINE][ICON_BULLET]In general, plagues spread further in later eras, but are mostly local in the Ancient and Classical Eras.
+				[NEWLINE][ICON_BULLET]Open Borders and International Trade Routes will speed the spread of plagues into foreign lands.
+				[NEWLINE][ICON_BULLET]Civs that are Influential or Dominant on another civ will speed the spread of plagues into their lands.
+				[NEWLINE][ICON_BULLET]Cities connected to the local trade network are more likely to spread plagues in friendly lands.
+				[NEWLINE][ICON_BULLET]Healthy cities are less likely to contract or spread plagues.
+				[NEWLINE][ICON_BULLET]Diseased units near a city will increase the chance that plague will spread to that city.
+				[NEWLINE][ICON_BULLET]If your civilization has ever been plagued, your spies (not Diplomats) have a small chance to unleash a plague when placed in foreign cities.
+			</Text>
+		</Row>
+	</Language_en_US>
+	<!--Promotions-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_PLAGUED">
+			<Text>Diseased</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PLAGUED_HELP">
+			<Text>50% Penalty on Defense</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

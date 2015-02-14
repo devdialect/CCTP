@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="GLOBAL_CITY_FOREST_BONUS"/>
+			<Set Value="1"/>
+		</Update>
+
+		<!-- Percentage of "ring-1 chop" - for a standard speed game this produces 25 hammers for the city (20 * 125 / 100) -->
+		<Update>
+			<Where Name="GLOBAL_CITY_FOREST_BONUS_PERCENT"/>
+			<Set Value="125"/>
+		</Update>
+	</CustomModOptions>
+
+	<CustomModPostDefines>
+		<!-- Set the prereq tech (if any) before a city will receive the bonus for being founded on a forest -->
+		<!-- Row Name="GLOBAL_CITY_FOREST_BONUS_TECH" Table="Technologies" Type="TECH_MINING"/ -->
+	</CustomModPostDefines>
+</GameData>

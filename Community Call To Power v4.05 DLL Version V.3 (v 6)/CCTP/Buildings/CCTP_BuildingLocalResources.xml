@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 8:59:45 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_HOLLYWOOD</BuildingType>
+			<ResourceType>RESOURCE_BLOCKBUSTER</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

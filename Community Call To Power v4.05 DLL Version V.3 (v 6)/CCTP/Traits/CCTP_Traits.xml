@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 12/7/2013 13:29:26 PM -->
+<GameData>
+<Traits>
+	<Update>
+		<Where Type="TRAIT_FAITH_FROM_NATURE" />
+		<Set PrereqTech="TECH_IDOLS"/>
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" ExtraFoundedCityTerritoryClaimRange="5" TechFromCityConquer="true" TechBoostFromCapitalScienceBuildings="true"/>
+		<Where Type="TRAIT_SUPER_CITY_STATE" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_BUFFALO_HORNS" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_SLAYER_OF_TIAMAT" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_SOLIDARITY" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_CARNIVAL" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_SPICE" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_EXTRA_TRADE" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_GREAT_EXPANSE" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_GATEWAY_AFRICA" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_ART_OF_WAR" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_PHILOSOPHICAL" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_INDUSTRIOUS" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_CREATIVE" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_FINANCIAL" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_CHARISMATIC" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_ART_OF_WAR" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" PopulationUnhappinessModifier="-25" CityUnhappinessModifier="200"/>
+	<Where Type="TRAIT_POPULATION_GROWTH" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_STRATEGIC_RICHES" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_OCEAN_MOVEMENT" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_CITY_STATE_BONUSES" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_CITY_STATE_FRIENDSHIP" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_FIGHT_WELL_DAMAGED" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_CONVERTS_LAND_BARBARIANS" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_CONVERTS_SEA_BARBARIANS" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_IGNORE_TERRAIN_IN_FOREST" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_CAPITAL_BUILDINGS_CHEAPER" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_RIVER_EXPANSION" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" PrereqTech="TECH_LEADERSHIP"/>
+	<Where Type="TRAIT_CULTURE_FROM_KILLS" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_ENHANCED_CULTURE" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_LAND_TRADE_GOLD" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_WONDER_BUILDER" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_AMPHIB_WARLORD" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_ENHANCED_GOLDEN_AGES" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" PrereqTech="TECH_IDOLS"/>
+	<Where Type="TRAIT_FAITH_FROM_NATURE" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_EXTRA_BELIEF" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_DIPLOMACY_GREAT_PEOPLE" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" FreeUnit="UNITCLASS_GREAT_GENERAL" FreeUnitPrereqTech="TECH_LEADERSHIP"/>
+	<Where Type="TRAIT_RAZE_AND_HORSES" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_ANNEX_CITY_STATE" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_PHOENICIAN_HERITAGE" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_LUXURY_RETENTION" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" PrereqTech="TECH_CALENDAR"/>
+	<Where Type="TRAIT_LONG_COUNT" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_BONUS_AGAINST_TECH" />
+	</Update>
+	<Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_SEVEN_CITIES" />
+	</Update>
+    <Update>
+	<Set BonusReligiousBelief="true" />
+	<Where Type="TRAIT_SCHOLARS_JADE_HALL" />
+	</Update>
+	<Update>
+		<Set BonusReligiousBelief="true" />
+		<Where Type="TRAIT_EXTRA_BELIEF" />
+	</Update>
+</Traits>
+
+	
+	<!-- <Trait_ImprovementYieldChanges>
+		<Delete/>
+	</Trait_ImprovementYieldChanges>-->
+
+
+
+
+</GameData>
+<!-- Have a nice Day;=)-->
+
+
+
+
+
+
+
+
+
+
+
+
+

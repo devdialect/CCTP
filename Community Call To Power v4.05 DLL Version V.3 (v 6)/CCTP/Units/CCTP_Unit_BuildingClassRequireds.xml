@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 8/4/2014 6:05:15 AM -->
+<GameData>
+  <!--Unit_BuildingClassRequireds-->
+	
+	
+	
+	
+	<Unit_BuildingClassRequireds>
+
+		<!--/////////added 2.8.14, need text relation to note the requirement\\\\\\\\\\\\-->
+		<Row>
+			<UnitType>UNIT_CANNON</UnitType>
+			<BuildingClassType>BUILDINGCLASS_WEAPONSMITH</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSKETMAN</UnitType>
+			<BuildingClassType>BUILDINGCLASS_WEAPONSMITH</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BARBARIAN_AXMANX</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AXEMAKER</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAVAGE</UnitType>
+			<BuildingClassType>BUILDINGCLASS_SAVAGE</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LEV_TANK</UnitType>
+			<BuildingClassType>BUILDINGCLASS_LEV_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LEV_DESTROYER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_LEV_PLANT</BuildingClassType>
+		</Row>
+
+
+
+
+
+
+
+
+
+		<Row>
+			<UnitType>UNIT_FIRE_EATER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_BONFIRE</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPION</UnitType>
+			<BuildingClassType>BUILDINGCLASS_GEHEIMDIENST</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BATTLESHIP</UnitType>
+			<BuildingClassType>BUILDINGCLASS_INDUSTRIAL_SHIPYARD</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SUBMARINE</UnitType>
+			<BuildingClassType>BUILDINGCLASS_INDUSTRIAL_SHIPYARD</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CARRIER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_INDUSTRIAL_SHIPYARD</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MISSILE_CRUISER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_INDUSTRIAL_SHIPYARD</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WWI_TANK</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AUTO_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TANK</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AUTO_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GERMAN_PANZER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AUTO_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MODERN_ARMOR</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AUTO_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ROCKET_ARTILLERY</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AUTO_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WWI_BOMBER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TRIPLANE</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FIGHTER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_JAPANESE_ZERO</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOMBER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AMERICAN_B17</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HELICOPTER_GUNSHIP</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_JET_FIGHTER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ATOMIC_BOMB</UnitType>
+			<BuildingClassType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NUCLEAR_MISSILE</UnitType>
+			<BuildingClassType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SUPERCARRIER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NUCLEAR_SUBMARINE</UnitType>
+			<BuildingClassType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STEALTH_BOMBER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STEALTH_FIGHTER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_UNMANNED_AIRCRAFT</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HYPERSONIC_BOMBER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HYPERSONIC_INTERCEPTOR</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STEALTH_GUNSHIP</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AIRCRAFT_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STEALTH_SUBMARINE</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_SHIPYARD</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CGX_CRUISER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_SHIPYARD</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FUSION_SUPERCARRIER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_SHIPYARD</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GAUSS_TANK</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AUTO_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MASS_DRIVER_ARTILLERY</UnitType>
+			<BuildingClassType>BUILDINGCLASS_ADVANCED_AUTO_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MECH</UnitType>
+			<BuildingClassType>BUILDINGCLASS_MECHA_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPACE_BOMBER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_MOLECULAR_FABRICATION_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SPACE_FIGHTER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_MOLECULAR_FABRICATION_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HUNTER_KILLER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_MOLECULAR_FABRICATION_PLANT</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FUSION_TANK</UnitType>
+			<BuildingClassType>BUILDINGCLASS_BEAM_FOUNDRY</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HEAVY_ISOTOPE_PROJECTOR</UnitType>
+			<BuildingClassType>BUILDINGCLASS_BEAM_FOUNDRY</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BEAM_JUMPER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_BEAM_FOUNDRY</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_PLASMA_DESTROYER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_VACUUM_DRYDOCK</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FUSION_DREADNOUGHT</UnitType>
+			<BuildingClassType>BUILDINGCLASS_VACUUM_DRYDOCK</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SUPERCAVITATING_SUBMARINE</UnitType>
+			<BuildingClassType>BUILDINGCLASS_VACUUM_DRYDOCK</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SUBMERSIBLE_CARRIER</UnitType>
+			<BuildingClassType>BUILDINGCLASS_VACUUM_DRYDOCK</BuildingClassType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_SKY_FORTRESS</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRSHIP_HANGAR</BuildingClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_AIRSHIP</UnitType>
+			<BuildingClassType>BUILDINGCLASS_AIRSHIP_HANGAR</BuildingClassType>
+		</Row>
+
+	</Unit_BuildingClassRequireds>
+
+	<!-- TODO: Insert table data example here.-->
+  
+  <!--Have a nice day:=)-->
+  
+</GameData>

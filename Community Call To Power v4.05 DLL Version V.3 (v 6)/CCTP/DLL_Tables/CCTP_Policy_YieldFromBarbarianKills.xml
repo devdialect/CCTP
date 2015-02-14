@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/27/2014 3:36:53 PM -->
+<GameData>
+
+<!--*******Policy_YieldFromBarbarianKills***-->
+<Policy_YieldFromBarbarianKills>
+<!--***Next***-->
+<!--<Row>
+	<PolicyType>POLICY_ISTARI</PolicyType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>10</Yield>
+</Row>-->
+</Policy_YieldFromBarbarianKills>
+
+
+
+</GameData>
+<!--Have a nice Day;=)-->

@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:34:41 PM -->
+<GameData>
+  <!--/////////Units***Gametext\\\\\\\\\-->
+
+	<Language_en_US>
+		<!--Added 2.8.14-->
+		
+		<Row Tag="TXT_KEY_UNIT_GREAT_EXPLORER">
+			<Text>Great Explorer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GREATEXPLORERS_HEADING">
+			<Text>Great Explorers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GREATEXPLORERS_TEXT">
+			<Text>"Great Explorers" are those who help discovering new lands, resources and civilizations. The bravest of the brave are the men who sailed the uncharted waters of the open seas in the hopes of furthering the interests of Kings and countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_EXPLORER_STRATEGY">
+			<Text>Great Explorers can travel along the world faster than almost any unit, making them great for discovering new lands, they can also cross oceans without the required technology. They can also discover an Ancient Ruin which will grant random bonuses to the civilization. Great Explorers are expended when used that way.</Text>
+		</Row>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<!--Units-->
+		<Update>
+			<Set Text="Digital Era" />
+			<Where Tag="TXT_KEY_ERA_6" />
+		</Update>
+		<Update>
+			<Set Text="War Walker" />
+			<Where Tag="TXT_KEY_UNIT_MECH" />
+		</Update>
+		<Update>
+			<Set Text="Naval Unit specialized in warding off enemy aircraft. Can also hold 3 Missiles.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER" />
+		</Update>
+		<Update>
+			<Set Text="Invisible to all Units except Destroyers and other Submarines. Can carry 2 Missiles, and is specialized in hunting other Submarines.[NEWLINE][NEWLINE]Nuclear Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE" />
+		</Update>
+		<Update>
+			<Set Text="Carries up to 2 Aircraft.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_CARRIER" />
+		</Update>
+		<Update>
+			<Set Text="Highly Powerful industrial era naval unit.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_BATTLESHIP" />
+		</Update>
+		<Update>
+			<Set Text="Invisible to all Units except Destroyers and other Submarines. Can cause major damage to other ships if they get into range without being seen.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_SUBMARINE" />
+		</Update>
+		<Update>
+			<Set Text="Receives penalties when attacking Cities and on defense, but is otherwise one of the strongest military units in the game..[NEWLINE][NEWLINE]Mecha Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_MECH" />
+		</Update>
+		<Update>
+			<Set Text="Unleash nuclear destruction upon your foes. Does immense damage to Cities and destroys any Unit caught in the blast radius. May be stationed on Missile Cruisers and Nuclear Submarines.[NEWLINE][NEWLINE]Nuclear Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_NUCLEAR_MISSILE" />
+		</Update>
+		<Update>
+			<Set Text="A long-range Air Unit that rains death from above onto enemy Units and Cities.[NEWLINE][NEWLINE]Advanced Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_STEALTH_BOMBER" />
+		</Update>
+		<Update>
+			<Set Text="Air Unit designed to wrest control of the skies and intercept incoming enemy aircraft.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_JET_FIGHTER" />
+		</Update>
+		<Update>
+			<Set Text="Fast and powerful Modern Era Unit. Receives a penalty when attacking Cities and on defense, but is incredibly effective in open ground.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_MODERN_ARMOR" />
+		</Update>
+		<Update>
+			<Set Text="Unit specialized in fighting Modern Armor and Tanks. It is capable of hovering over mountains.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP" />
+		</Update>
+		<Update>
+			<Set Text="Fast Siege Unit of the Modern Era. Unlike other Siege Units, it does not need to set up prior to firing.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_ROCKET_ARTILLERY" />
+		</Update>
+		<Update>
+			<Set Text="Unleash nuclear destruction upon your foes. Does great damage to Cities and damages any Unit caught in the blast radius. May be stationed on Aircraft Carriers.[NEWLINE][NEWLINE]Nuclear Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_ATOMIC_BOMB" />
+		</Update>
+		<Update>
+			<Set Text="Early Air Unit that can bombard enemy Units and Cities from the skies.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_WWI_BOMBER" />
+		</Update>
+		<Update>
+			<Set Text="Air Unit that rains death from above onto enemy Units and Cities.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_BOMBER" />
+		</Update>
+		<Update>
+			<Set Text="Early Air Unit designed to intercept incoming enemy aircraft.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_TRIPLANE" />
+		</Update>
+		<Update>
+			<Set Text="Air Unit designed to wrest control of the skies and intercept incoming enemy aircraft.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_FIGHTER" />
+		</Update>
+		<Update>
+			<Set Text="The first of its kind, this powerful late game unit can move after attacking.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_WWI_TANK" />
+		</Update>
+		<Update>
+			<Set Text="Fast and powerful Industrial Era Unit.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_TANK" />
+		</Update>
+		<!--<Row>
+			<Tag>TXT_KEY_UNIT_COG</Tag>
+			<Text>Cog</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_COG_TEXT</Tag>
+			<Text>A cog (or cog-built vessels) is a type of ship that first appeared in the 10th century, and was widely used from around the 12th century on. Cogs were generally built of oak, which was an abundant timber in the Baltic region of Prussia. This vessel was fitted with a single mast and a square-rigged single sail. Even though this type of rigging prohibited sailing into the wind, it could be handled by a smaller crew, which reduced operational costs. These vessels were mostly associated with seagoing trade in medieval Europe, especially the Hanseatic League, particularly in the Baltic Sea region.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_COG</Tag>
+			<Text>A Medieval naval upgrade to the Trireme.</Text>
+		</Row>-->
+		<!--<Row>
+			<Tag>TXT_KEY_UNIT_GALLEON</Tag>
+			<Text>Galleon</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_GALLEON_TEXT</Tag>
+			<Text>The galleon was an ocean going ship type which evolved from the carrack in the second half of the sixteenth century. A lowering of the forecastle and elongation of the hull gave galleons an unprecedented level of stability in the water, and reduced wind resistance at the front, leading to a faster, more maneuverable vessel. The galleon differed from the older types primarily by being longer, lower and narrower, with a square tuck stern instead of a round tuck, and by having a snout or head projecting forward from the bows below the level of the forecastle. In Portugal at least, carracks were usually very large ships for their time (often over 1000 tons), while galleons were mostly under 500 tons, although the Manila galleons were to reach up to 2000 tons. Carracks tended to be lightly armed and used for transporting cargo, while galleons were purpose-built warships, and were stronger, more heavily armed, and also cheaper to build (5 galleons could cost around the same as 3 carracks) and were therefore a much better investment for use as warships or transports. There are nationalist disputes about its origins and development, but each Atlantic sea power built types suited to their needs, while constantly learning from their rivals.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_GALLEON</Tag>
+			<Text>A heavy Renaissance warship.</Text>
+		</Row>-->
+		<Row>
+			<Tag>TXT_KEY_UNIT_CIVIL_ENGINEER</Tag>
+			<Text>Civil Engineer</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_CIVIL_ENGINEER_TEXT</Tag>
+			<Text>A civil engineer is a person who practices civil engineering; the application of planning, designing, constructing, maintaining, and operating infrastructures while protecting the public and environmental health. As well as improving existing infrastructures that have been neglected.  Originally, a civil engineer worked on public works projects and was contrasted with the military engineer, who worked on armaments and defenses. Over time, various branches of engineering have become recognized as distinct from civil engineering, including chemical engineering, mechanical engineering, and electrical engineering, while much of military engineering has been absorbed by civil engineering.  In some places, a civil engineer may perform land surveying; in others, surveying is limited to construction surveying, unless an additional qualification is obtained. On some U.S. military bases, the personnel responsible for building and grounds maintenance, such as grass mowing, are called civil engineers and are not required to meet any minimum educational requirements.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_CIVIL_ENGINEER_HELP</Tag>
+			<Text>Industrial upgrade to the ancient worker unit.[NEWLINE]The Civil Engineer recieves none of the standard bonuses of the worker but is 150% more efficient.</Text>
+		</Row>
+		<!--<Row>
+			<Tag>TXT_KEY_UNIT_MACHINE_GUNNER</Tag>
+			<Text>Machine Gunner</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_MACHINE_GUNNER_TEXT</Tag>
+			<Text>A machine gun is a fully automatic mounted or portable firearm, usually designed to fire rounds in quick succession from an ammunition belt or large-capaCity magazine, typically at a rate of several hundred rounds per minute. The first design/invention of the machine gun was by Leonardo Da Vinci who produced a diagram of an eight barreled, hand cranked machine gun.  Machine guns are generally categorized as sub-machine guns, machine guns, or autocannons. Sub-machine guns are designed to be portable automatic weapons for personal defense or short range combat, and are intended to be fired while being hand held. Submachine guns use small pistol caliber rounds. A proper machine gun is often portable to a certain degree, but is generally used when mounted on a stand or fired from the ground on a bipod. Light machine guns can be fired hand held like a rifle, but the gun is more effective when fired from a prone position. Proper machine guns use larger caliber rifle rounds. The difference between machine guns and autocannons is based on caliber, with autocannons using calibers larger than 16 mm.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_MACHINE_GUNNER</Tag>
+			<Text>A late Renaissance upgrade to the Crossbowman, fulfilling the role of light man-portable ranged firepower.</Text>
+		</Row>-->
+		<Row>
+			<Tag>TXT_KEY_UNIT_MISSILE_SQUAD</Tag>
+			<Text>Missile Squad</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_MISSILE_SQUAD_TEXT</Tag>
+			<Text>The missile squad is a unit that wields a variety of shoulder launched missile weapons.  A shoulder-launched missile weapon is a weapon that fires a projectile at a target, yet is small enough to be carried by a single person, and fired while held on one's shoulder. "Missile" is used here in the original broad sense: today the word has a strong connotation with the concept of a guided rocket.  There are two kinds of shoulder launched weapons. The first is the recoilless gun, which is essentially an open tube. When fired the reaction gases (with a momentum equal to the projectile) expelled out of the back of the weapon compensate the force exerted on the projectile. The other type uses rocket propelled projectiles; these typically also use a small recoilless charge to get the projectile out of the barrel and to a distance where the operator will not be hurt by the rocket's backblast; when the rocket ignites at a safe distance, it further accelerates the projectile or at least keeps it from decelerating in its trajectory. The smallest shoulder-launched rocket weapons are rocket-propelled grenades (RPG). There are also larger "dumb" shoulder-launched missiles, used in a similar way to an RPG, but with far greater destructive power. A number of specialised "smart" missiles are available in shoulder-launched forms, including anti-tank guided missiles and man-portable air-defense systems (MANPADs), surface-to-air missiles used as anti-aircraft, typically using infrared homing and used to target helicopters and other low-flying aircraft.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_MISSILE_SQUAD</Tag>
+			<Text>Starts with the Range promotion allowing this unit to attack form further away.[NEWLINE][NEWLINE]A late Industrial upgrade to the Machine Gunner, this unit is able to hit targets from further away thereby increasing survivability and ultimiately lethality.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_SUPERCARRIER</Tag>
+			<Text>Supercarrier</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_SUPERCARRIER_TEXT</Tag>
+			<Text>Supercarrier is an unofficial descriptive term for the largest type of aircraft carrier, usually displacing over 70,000 long tons.  The U.S. Navy currently has 11 such ships.[2] In comparison, a few countries operate medium carriers of around 40,000 tons (such as Charles de Gaulle), whereas light carriers closer to 20,000 tons (such as HMS Illustrious) are more typical. Supercarriers are the largest warships ever built.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_SUPERCARRIER</Tag>
+			<Text>More powerful version of the normal carrier.[NEWLINE][NEWLINE]Nuclear Plant required.[NEWLINE][NEWLINE]Carries up to 4 Aircraft.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_COMBAT_CONTROLLER</Tag>
+			<Text>Combat Controller</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_COMBAT_CONTROLLER_TEXT</Tag>
+			<Text>Combat Controllers (CCT) are ground combat forces specialized in a traditional pathfinder role while having a heavy emphasis on simultaneous air traffic control, fire support and command, control, and communications in covert or austere environments. Assigned to Special Tactics Squadrons, Combat Controllers are an integral part of Air Force Special Operations Command (AFSOC), the Air Force component of United States Special Operations Command (USSOCOM). Combat Controllers are often assigned individually or as a team to Army Special Forces, Army Ranger, and Navy SEAL teams to provide expert air support coordination and communications capabilities.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_COMBAT_CONTROLLER</Tag>
+			<Text>Starts with the Range promotion allowing this unit to attack form further away.[NEWLINE][NEWLINE]A late Modern upgrade to the Missile Squad, this unit is uses modern fire support abilities to accurately bring firepower down upon enemy units at range.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_STEALTH_FIGHTER</Tag>
+			<Text>Stealth Fighter</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_MODERN_STEALTHFIGHTER_TEXT</Tag>
+			<Text>Stealth aircraft are aircraft that use stealth technology to interfere with radar detection as well as means other than conventional aircraft by employing a combination of features to reduce visibility in the infrared, visual, audio, and radio frequency (RF) spectrum. Development of stealth technology likely began in Germany during WWII.  Well-known modern examples of stealth aircraft include the United States' F-117 Nighthawk, the B-2 Spirit "Stealth Bomber", the F-22 Raptor, and the F-35 Lightning II.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_STEALTH_FIGHTER</Tag>
+			<Text>Stealth Air Unit designed to wrest control of the skies and intercept incoming enemy aircraft.[NEWLINE][NEWLINE]Advanced Aircraft Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_UNMANNED_AIRCRAFT</Tag>
+			<Text>Unmanned Aircraft</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_UNMANNED_AIRCRAFT_TEXT</Tag>
+			<Text>An unmanned aerial vehicle is an aircraft that is flown by a pilot; however, without a human crew on board the aircraft. Their largest uses are in military applications. To distinguish UAVs from missiles, a UAV is defined as a reusable, remotely crewed aircraft capable of controlled, sustained, level flight.  Therefore, cruise missiles are not considered UAVs, because, like many other guided missiles, the vehicle itself is a weapon that is not reused, even though it is also unmanned and in some cases remotely guided.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_UNMANNED_AIRCRAFT</Tag>
+			<Text>A long-range Air Unit that rains death from above onto enemy Units and Cities.[NEWLINE][NEWLINE]Advanced Aircraft Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_TACTICAL_LASER_AIR_DEFENSE</Tag>
+			<Text>Tactical Laser Air Defense</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_TACTICAL_LASER_AIR_DEFENSE_TEXT</Tag>
+			<Text>The Tactical Laser Air Defense unit takes advances in laser technology from fusion research, and applies it to shooting enemy aircraft out of the skies.  Short ranged, but deadly efficient.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_TACTICAL_LASER_AIR_DEFENSE</Tag>
+			<Text>An advanced upgrade for the Mobile SAM air defense unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_DDX_DESTROYER</Tag>
+			<Text>DDX Destroyer</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_DDX_DESTROYER_TEXT</Tag>
+			<Text>Next generation destroyer equipped with electromagnetic rail guns and a powerful sonar suite for searching out enemy submarines.  After initally being cancelled due to a lack of need for a new generation of surface warships, it was put back on the table after rail gun technology finally became feasible.  There is not other ship on the seas that is as capable at long range destruction.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_DDX_DESTROYER</Tag>
+			<Text>Tough Naval Unit specialized in long range bombardment and subhunting.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_CGX_CRUISER</Tag>
+			<Text>CGX Cruiser</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_CGX_CRUISER_TEXT</Tag>
+			<Text>Next generation cruiser equipped with electromagnetic rail guns and a 100MW nuclear power plant to supply energy for both the railguns and propulsion.  After initally being cancelled due to a lack of need for a new generation of surface warships, it was put back on the table after rail gun technology finally became feasible.  There is not other ship on the seas that is as capable at long range destruction.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_CGX_CRUISER</Tag>
+			<Text>Tough Naval Unit specialized in long range bombardment and warding off enemy aircraft.[NEWLINE][NEWLINE]Advanced Shipyard required.[NEWLINE][NEWLINE]Can also hold 3 Missiles</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_STEALTH_GUNSHIP</Tag>
+			<Text>Stealth Gunship</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_STEALTH_GUNSHIP_TEXT</Tag>
+			<Text>Advances in Metamaterials and rotor design have culminated in this super stealthy attack helicopter.  It's radar cross section is minimal, and it's rotor noise is orders of magnitude less than traditional helicopters, thus allowing it to sneak up on enemy forces and deliver devastating firepower.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_STEALTH_GUNSHIP</Tag>
+			<Text>Powerful upgrade from the Helicopter Gunship.[NEWLINE][NEWLINE]Advanced Aircraft Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_STEALTH_SUBMARINE</Tag>
+			<Text>Stealth Submarine</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_STEALTH_SUBMARINE_TEXT</Tag>
+			<Text>Advances in acoustic Metamaterials have allowed for the creation of the Stealth Submarine which has unprecedented noise reduction compared to other submarines, allowing the unit even greater ability to sneak up on enemy ships.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_STEALTH_SUBMARINE</Tag>
+			<Text>Powerful upgrade from the Submarine and Nuclear Submarine.[NEWLINE][NEWLINE]Advanced Shipyard required.[NEWLINE][NEWLINE]Carries up to 2 Missiles.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HYPERSONIC_CRUISE_MISSILE</Tag>
+			<Text>Hypersonic Cruise Missile</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_HYPERSONIC_CRUISE_MISSILE_TEXT</Tag>
+			<Text>Hypersonic Cruise Missiles travel faster than Mach 5 and are designed to breach enemy defenses and arrive on target with short notice using extreme speed.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_HYPERSONIC_CRUISE_MISSILE</Tag>
+			<Text>Powerful upgrade from the guided missile.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_GAUSS_TANK</Tag>
+			<Text>Gauss Tank</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_GAUSS_TANK_TEXT</Tag>
+			<Text>Using a variation of railgun technology commonly called the Gauss Rifle, main battle tanks can now propel deadly projectiles further, faster, and harder than ever before.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_GAUSS_TANK</Tag>
+			<Text>Powerful upgrade from the Modern Armor.[NEWLINE][NEWLINE]Advanced Auto Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_MASS_DRIVER_ARTILLERY</Tag>
+			<Text>Mass Driver Artillery</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_MASS_DRIVER_ARTILLERY_TEXT</Tag>
+			<Text>Using rail gun technology it is now possible to create mobile artillery pieces with much greater range.  The ability to hit your opponents from such great distances can be a great advantage to most any armed forces.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_MASS_DRIVER_ARTILLERY</Tag>
+			<Text>Powerful upgrade from the Rocket Artillery.[NEWLINE][NEWLINE]Advanced Auto Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_POWERED_INFANTRY</Tag>
+			<Text>Powered Infantry</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_POWERED_INFANTRY_TEXT</Tag>
+			<Text>The Future Force Warrior concept envisions the radical use of technologies such as nanotechnology, powered exoskeletons, and magnetorheological fluid-based body armor to provide the infantry with significantly higher force multiplier than the opposing force. However, the stated concept is not U.S. Army doctrine, and is not intended to answer every situation that Army After Next (the Army's buzzword for future fighting forces) would face; rather, the concept is meant to serve as an end goal to strive to reach or to compromise with current technologies and to stir imagination and dialogue on how these technologies and concepts can help soldiers in the near future.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_POWERED_INFANTRY</Tag>
+			<Text>Fast, basic Unit of the Digital Era that can Paradrop.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_FUSION_SUPERCARRIER</Tag>
+			<Text>Fusion Supercarrier</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_FUSION_SUPERCARRIER_TEXT</Tag>
+			<Text>The Fusion Supercarrier comes from the evolution of carrier design, coupled with the advances in reactor miniaturization.  The Fusion Supercarrier can travel faster, launch more sorties, and generally survive far greater attacks against it.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_FUSION_SUPERCARRIER</Tag>
+			<Text>Upgraded version of the Supercarrier.[NEWLINE][NEWLINE]Advanced Shipyard required.[NEWLINE][NEWLINE]Carries up to 4 Aircraft.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HYPERSONIC_BOMBER</Tag>
+			<Text>Hypersonic Bomber</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_HYPERSONIC_BOMBER_TEXT</Tag>
+			<Text>The Hypersonic Bomber is a hybrid, manned or unmanned(depending on the mission), bomber that is the fastest heavy lift aircraft yet produced.  Original research and production had a single idea in mind: Unprecedented speed.  The Hypersonic Bomber delivers that and more using 2 extremely high thrust scramjets and 2 high endurance, high range electric turbine engines.  The result is a plane that has phenomenal range, minimum time to target, and devastating high veloCity warheads.  Also, utilizing the latest in metamaterial technology, this bomber is able to evade enemy detection techniques allowing the bomber critical seconds needed to reach it's target and escape intact.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_HYPERSONIC_BOMBER</Tag>
+			<Text>A long-range heavy Air Unit that obliterates enemy forces.[NEWLINE][NEWLINE]Advanced Aircraft Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HYPERSONIC_INTERCEPTOR</Tag>
+			<Text>Hypersonic Interceptor</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_HYPERSONIC_INTERCEPTOR_TEXT</Tag>
+			<Text>The Hypersonic Interceptor is an unmanned fighter that uses scramjets to it's utmost advantage allowing it to engage enemy aircraft in shorter time, and at longer ranges than any fighter aircraft before it.  The severe G-Forces exibited by the dual scramjet thrust vectoring engines is so severe that no human could possibly pilot the Interceptor in combat and survive.  The addition of the latest metamaterials allows the Interceptor to get the drop on enemy aircraft sooner, often proving critical to mission success.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_HYPERSONIC_INTERCEPTOR</Tag>
+			<Text>A long-range air superiority fighter designed with the sole purpose of taking down enemy Hypersonic Bombers.[NEWLINE][NEWLINE]Advanced Aircraft Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_MICRO_UAV_TEAM</Tag>
+			<Text>Micro UAV Team</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_MICRO_UAV_TEAM_TEXT</Tag>
+			<Text>The Micro UAV Team came about with the cheap mass production of small Unmanned Aerial Vehicles.  Usings micro UAV's this unit can hit enemies at range with large numbers of guided rockets and small caliber munitions.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_MICRO_UAV_TEAM</Tag>
+			<Text>An upgrade of the Combat Controller that uses swarms of micro UAV's to barrage enemy units with ordinance.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_ORBITAL_STRIKE_MISSILE</Tag>
+			<Text>Orbital Strike Missile</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_ORBITAL_STRIKE_MISSILE_TEXT</Tag>
+			<Text>Equipped with the latest nanomaterials, Orbital Strike Missiles are able to reach orbital veloCity and then slam down on their targets at speeds exceeding Mach 15.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_ORBITAL_STRIKE_MISSILE</Tag>
+			<Text>Powerful upgrade from the Hypersonic Cruise Missile.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_SPACE_BOMBER</Tag>
+			<Text>Space Bomber</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_SPACE_BOMBER_TEXT</Tag>
+			<Text>The Space Bomber uses past bomber technology, combined with Smart Materials and lightweight nanomaterials to enable it to reach orbital veloCity, vastly increasing it's strike power and allowing it to bomb almost anywhere on the planet.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_SPACE_BOMBER</Tag>
+			<Text>A long-range heavy Air Unit that obliterates enemy forces.[NEWLINE][NEWLINE]Molecular Fabrication Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_SPACE_FIGHTER</Tag>
+			<Text>Space Fighter</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_SPACE_FIGHTER_TEXT</Tag>
+			<Text>The Space Fighter, like the Space Bomber, uses the latest in materials science to allow it to take the fight to space, and practically anywhere on the planet.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_SPACE_FIGHTER</Tag>
+			<Text>A long-range air superiority fighter designed with the sole purpose of taking down enemy Space Bombers.[NEWLINE][NEWLINE]Molecular Fabrication Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HUNTER_KILLER</Tag>
+			<Text>Hunter Killer</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_HUNTER_KILLER_TEXT</Tag>
+			<Text>The Gunship has gone unmanned, tilt rotored, and electrojet powered.  This results in an aircraft that has more range, speed, and lethality.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_HUNTER_KILLER</Tag>
+			<Text>Powerful upgrade from the Stealth Gunship.[NEWLINE][NEWLINE]Molecular Fabrication Plant required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_FUSION_TANK</Tag>
+			<Text>Fusion Tank</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_FUSION_TANK_TEXT</Tag>
+			<Text>Fusion Tanks combine several powerful new technologies to create the ultimate frontline armor unit.  The Fusion Tank comes equipped with a particle beam cannon, heavy composite carbon graphene armor, a miniature force field generator, and 4 heavy levitation motors.  Very expensive, and very deadly.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_FUSION_TANK</Tag>
+			<Text>Powerful upgrade from the Gauss Tank.[NEWLINE][NEWLINE]Beam Foundry required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HEAVY_ISOTOPE_PROJECTOR</Tag>
+			<Text>Heavy Isotope Projector</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_HEAVY_ISOTOPE_PROJECTOR_TEXT</Tag>
+			<Text>Using a form of particle beam technology, the Heavy Isotope Projector accelerates small slugs of extremely dense isotopes to very high speeds reaching record distances.  When the slugs fall back to earth, they strike with such veloCity that they detonate on impact, shredding armor and anything beneath it.  The addition of 4 heavy levitation motors allows these behemoths to stay close on the tails of the front line units.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_HEAVY_ISOTOPE_PROJECTOR</Tag>
+			<Text>Powerful upgrade from the Mass Driver Artillery.[NEWLINE][NEWLINE]Beam Foundry required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_BEAM_JUMPER</Tag>
+			<Text>Beam Jumper</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_BEAM_JUMPER_TEXT</Tag>
+			<Text>The Beam Jumper is a an upgrade of the War Walker that comes equipped with rapid fire particle beam cannons, miniature shield generator, and thick composite carbon graphene armor.  The Beam Jumper also has powerful motors and electrojet boosters that allow it short but powerful leaps across territory, which is where it derives it's name.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_BEAM_JUMPER</Tag>
+			<Text>Powerful upgrade from the War Walker.[NEWLINE][NEWLINE]Beam Foundry required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_PLASMA_DESTROYER</Tag>
+			<Text>Plasma Destroyer</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_PLASMA_DESTROYER_TEXT</Tag>
+			<Text>The latest Nanotech solution to your subhunting needs.  This destroyer is named for it's powerful plasma toroid launchers that wreak havoc on unarmored ground units.  It has powerful sonar sensors and special torpedoes designed to go deep and crack even the toughest graphene hulls.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_PLASMA_DESTROYER</Tag>
+			<Text>Tough Naval Unit specialized subhunting.[NEWLINE][NEWLINE]Vacuum Drydock required.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_FUSION_DREADNOUGHT</Tag>
+			<Text>Fusion Dreadnought</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_FUSION_DREADNOUGHT_TEXT</Tag>
+			<Text>The ultimate in surface warships, this 70,000 ton ship will obliterate anything within a 5 hex radius and will be hell to bring down.  Eight heavy isotope projectors, close in anti-air particle beams, 2 fusion reactors, and 6 heavy forcefield generators; This behemoth of the seas will strike fear into the hearts of your enemies.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_FUSION_DREADNOUGHT</Tag>
+			<Text>Tough Naval Unit specialized in long range bombardment and warding off enemy aircraft.[NEWLINE][NEWLINE]Vacuum Drydock required.[NEWLINE][NEWLINE]Can hold 4 Missiles</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_SUPERCAVITATING_SUBMARINE</Tag>
+			<Text>Supercavitating Submarine</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_SUPERCAVITATING_SUBMARINE_TEXT</Tag>
+			<Text>The latest arms race involving Submarines has evolved from total silence to supersonic speeds.  Supercavitation is the art of accelerating underwater objects, such as Torpedoes, to supersonic speeds by ejecting a gas bubble ahead of the submersible greatly reducing drag.  The Supercavitation technology has been found in torpedoes for decades, allowing them to reach speeds that once only aircraft could attain.  These subs will speed into range of enemy ships, release salvoes of supersonic torpedoes, and then speed out again, often before enemy sonar even hears it coming.  Needless to say, this advance in submersible warfare has captains all over the oceans terrified.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_SUPERCAVITATING_SUBMARINE</Tag>
+			<Text>Powerful upgrade from the Stealth Submarine.[NEWLINE][NEWLINE]Vacuum Drydock required.[NEWLINE][NEWLINE]Carries up to 2 Missiles.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_SUBMERSIBLE_CARRIER</Tag>
+			<Text>Submersible Carrier</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_SUBMERSIBLE_CARRIER_TEXT</Tag>
+			<Text>The trend towards missiles, aircraft, and other long range projectiles has led to the creation of giant aircraft carriers that can hide under the waves.  While their extreme size prohibits them from diving as deep as other submarines, they can generally attain depths that prohibits detection.  Advanced Automation allows these carriers to launch and capture their entire compliment of aircraft in a very short amount of time, reducing their time spent on the surface, and as a result, vulnerability to enemy attack.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_SUBMERSIBLE_CARRIER</Tag>
+			<Text>Upgraded underwater version of the Fusion Supercarrier.[NEWLINE][NEWLINE]Vacuum Drydock required.[NEWLINE][NEWLINE]Carries up to 4 Aircraft.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_PARTICLE_GRID_AIR_DEFENSE</Tag>
+			<Text>Particle Grid Air Defense</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_PARTICLE_GRID_AIR_DEFENSE_TEXT</Tag>
+			<Text>The Particle Grid Air Defense unit takes advances in particle beam technology to the next level using certain concepts from Warp Theory.  While space is not actually warped in the application of this weapon, it uses certain advanced particle wave concepts to scatter the beam like a shotgun until the aircraft trajectory is precisely pinpointed, and then focuses the beam for the kill.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_PARTICLE_GRID_AIR_DEFENSE</Tag>
+			<Text>An advanced upgrade for the Tactical Laser Air Defense unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_CYBERNETIC_MARAUDER</Tag>
+			<Text>Cybernetic Marauder</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_CYBERNETIC_MARAUDER_TEXT</Tag>
+			<Text>The Cybernetic Marauder uses the great strength and durability provided by cybernetics to carry and use large amounts of Micro UAV's, shoulder mounted missile launchers, laser designators, and numerous other weapons while maintaining high mobility..</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_CYBERNETIC_MARAUDER</Tag>
+			<Text>A faster, more powerful upgrade of the Micro UAV Team with the capability to paradrop and ignores terrain cost.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_LEAP_INFANTRY</Tag>
+			<Text>Leap Infantry</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_LEAP_INFANTRY_TEXT</Tag>
+			<Text>Leap Infantry utilize advanced cybernetics and powerful exoskeletons to provide a powerful frontline intantry unit.  Similar to the Beam Jumpers these infantry can leap long distances, which is where their name originates.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_LEAP_INFANTRY</Tag>
+			<Text>Fast, expendable unit of the NanoTech Era that can leap long distances and ignores terrain cost.</Text>
+		</Row>
+
+
+
+		<!--RAILROAD_GUN-->
+	     <Row Tag="TXT_KEY_UNIT_RAILROAD_GUN">
+		    <Text>Railroad Artillery</Text>
+	    </Row>
+	    <Row Tag="TXT_KEY_UNIT_HELP_RAILROAD_GUN">
+		    <Text>Railroad Artillery</Text>
+	   </Row>
+		
+		<!--KNIGHT_TEMPLAR-->
+		<Row Tag="TXT_KEY_CIVIL_UNIT_KNIGHT_TEMPLAR">
+			<Text>The Poor Fellow-Soldiers of Christ and of the Temple of Solomon (Latin: Pauperes commilitones Christi Templique Salomonici), commonly known as the Knights Templar, the Order of the Temple (French: Ordre du Temple or Templiers) or simply as Templars, were among the most wealthy and powerful of the Western Christian military orders and were among the most prominent actors of the Christian finance. The organisation existed for nearly two centuries during the Middle Ages. Officially endorsed by the Roman Catholic Church around 1129, the Order became a favoured charity throughout Christendom and grew rapidly in membership and power. Templar knights, in their distinctive white mantles with a red cross, were among the most skilled fighting units of the Crusades.Non-combatant members of the Order managed a large economic infrastructure throughout Christendom, innovating financial techniques that were an early form of banking, and building fortifications across Europe and the Holy Land. The Templars' existence was tied closely to the Crusades; when the Holy Land was lost, support for the Order faded. Rumours about the Templars' secret initiation ceremony created mistrust and King Philip IV of France, deeply in debt to the Order, took advantage of the situation. In 1307, many of the Order's members in France were arrested, tortured into giving false confessions, and then burned at the stake. Under pressure from King Philip, Pope Clement V disbanded the Order in 1312. The abrupt disappearance of a major part of the European infrastructure gave rise to speculation and legends, which have kept the "Templar" name alive into the modern day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KNIGHT_TEMPLAR">
+			<Text>Knight_templar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STRATEGY_UNIT_KNIGHT_TEMPLAR">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HELP_UNIT_KNIGHT_TEMPLAR">
+			<Text>upps</Text>
+		</Row>
+		
+		<!--SPION-->
+		<Row Tag="TXT_KEY_UNIT_SPION">
+			<Text>Agent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SPION_HELP">
+			<Text>Ignores enemy borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SPION_TEXT">
+			<Text>A secret agent is a spy, a covert agent engaged in espionage.</Text>
+		</Row>
+		
+		<!--SAVAGE-->
+		<Row Tag="TXT_KEY_UNIT_SAVAGE">
+			<Text>Savage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAVAGE_STRATEGY">
+			<Text>The Savage is particularly useful when attacking enemy settlements. Armed with half a tree as weapon, he can easily bring down enemy fortifications.[NEWLINE]Protect it from attacks, as it is weak when defending.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SAVAGE">
+			<Text>An exceptionally big and strong human specimen with a bad temper.[NEWLINE][NEWLINE]Receives a bonus when attacking Cities, but also a penalty when defending.[NEWLINE][NEWLINE][COLOR_RED]Requires[ENDCOLOR] the [COLOR_POSITIVE_TEXT]Savage Hutt[ENDCOLOR] to be trained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAVAGE_TEXT">
+			<Text>In times when weapons were dull and military strategy was virtually non-existent, muscle power was the main tool of winning a fight. Especially strong and big men made good front-line warriors, who often fought in reckless rage. Nearly unstoppable when attacking, the Berserk fighters often did not watch their backs and were susceptible to strategic attacks.</Text>
+		</Row>
+
+		<!--FIRE_EATER-->
+		<Row Tag="TXT_KEY_UNIT_FIRE_EATER">
+			<Text>Fire Eater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIRE_EATER_STRATEGY">
+			<Text>A useful unit for all purposes, the Fire Eater is the first ranged unit in the Prehistoric Era. Use it to burn down cities or attack enemies, but protect it from melee attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FIRE_EATER">
+			<Text>Prehistoric ranged unit, throws burning torches at the enemy.[NEWLINE]Has a short range, but may move after attacking.[NEWLINE][NEWLINE][COLOR_RED]Requires[ENDCOLOR] [COLOR_POSITIVE_TEXT]Bonfire[ENDCOLOR] Building to be trained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FIRE_EATER_TEXT">
+			<Text>After the discovery of Fire as a beneficial tool for cooking and surviving harsh winters, Man also found out about its destructive power. Fire was - and still is - a powerful element that can burn skin and turn buildings to cinders. For millennia, armies have made use of torches and burning projectiles of all sizes against their enemies.</Text>
+		</Row>
+
+		<!--CAVEMAN-->
+		<Row Tag="TXT_KEY_UNIT_CAVEMAN">
+			<Text>Caveman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVEMAN_STRATEGY">
+			<Text>Take club, use club on enemy's head. All a Caveman needs to know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAVEMAN">
+			<Text>The earliest and weakest military unit in the game.[NEWLINE][NEWLINE]Not very smart, but determined.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CAVEMAN_TEXT">
+			<Text>In the earliest times of humanity, the Homo Sapiens Sapiens often used to live in caves, which provided shelter and protection before the invention of hut and house building. Armed with rudimentary weapons, like clubs or stones, they fought small battles between communities, or amongst themselves.</Text>
+		</Row>
+	<!-- TODO: Insert table data example here.-->
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_MOUNTED_SCOUT">
+			<Text>Mounted Scout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_MOUNTED_SCOUT_TEXT">
+			<Text>Mounted Scouts are the first unit that requires horses and are very fast, perfect to exploration in the erarly game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MOUNTED_SCOUT_STRATEGY">
+			<Text>This unit needs [ICON_RES_HORSE] Horse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MOUNTED_SCOUT">
+			<Text>Fast unit and  good for early discovery.</Text>
+		</Row>
+		
+		<!--Shamane-->
+		<Row Tag="TXT_KEY_UNIT_SHAMAN">
+			<Text>Shaman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SHAMAN">
+			<Text>Faith unit.[NEWLINE][NEWLINE]Provide [ICON_PEACE] Faith for each killed [ICON_WAR] enemy unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHAMAN_TEXT">
+			<Text>Provide [ICON_PEACE] Faith for each killed [ICON_WAR] enemy unit.[NEWLINE][NEWLINE]Also starts with the free Medic promotion.</Text>
+		</Row>
+
+
+
+		<Update>
+			<Set Text="War Walker" />
+			<Where Tag="TXT_KEY_UNIT_MECH" />
+		</Update>
+		<Update>
+			<Set Text="Naval Unit specialized in warding off enemy aircraft. Can also hold 3 Missiles.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER" />
+		</Update>
+		<Update>
+			<Set Text="Invisible to all Units except Destroyers and other Submarines. Can carry 2 Missiles, and is specialized in hunting other Submarines.[NEWLINE][NEWLINE]Nuclear Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE" />
+		</Update>
+		<Update>
+			<Set Text="Carries up to 2 Aircraft.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_CARRIER" />
+		</Update>
+		<Update>
+			<Set Text="Highly Powerful industrial era naval unit.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_BATTLESHIP" />
+		</Update>
+		<Update>
+			<Set Text="Invisible to all Units except Destroyers and other Submarines. Can cause major damage to other ships if they get into range without being seen.[NEWLINE][NEWLINE]Industrial Shipyard Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_SUBMARINE" />
+		</Update>
+		<Update>
+			<Set Text="Receives penalties when attacking Cities and on defense, but is otherwise one of the strongest military units in the game..[NEWLINE][NEWLINE]Mecha Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_MECH" />
+		</Update>
+		<Update>
+			<Set Text="Unleash nuclear destruction upon your foes. Does immense damage to Cities and destroys any Unit caught in the blast radius. May be stationed on Missile Cruisers and Nuclear Submarines.[NEWLINE][NEWLINE]Nuclear Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_NUCLEAR_MISSILE" />
+		</Update>
+		<Update>
+			<Set Text="A long-range Air Unit that rains death from above onto enemy Units and Cities.[NEWLINE][NEWLINE]Advanced Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_STEALTH_BOMBER" />
+		</Update>
+		<Update>
+			<Set Text="Air Unit designed to wrest control of the skies and intercept incoming enemy aircraft.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_JET_FIGHTER" />
+		</Update>
+		<Update>
+			<Set Text="Fast and powerful Modern Era Unit. Receives a penalty when attacking Cities and on defense, but is incredibly effective in open ground.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_MODERN_ARMOR" />
+		</Update>
+		<Update>
+			<Set Text="Unit specialized in fighting Modern Armor and Tanks. It is capable of hovering over mountains.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP" />
+		</Update>
+		<Update>
+			<Set Text="Fast Siege Unit of the Modern Era. Unlike other Siege Units, it does not need to set up prior to firing.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_ROCKET_ARTILLERY" />
+		</Update>
+		<Update>
+			<Set Text="Unleash nuclear destruction upon your foes. Does great damage to Cities and damages any Unit caught in the blast radius. May be stationed on Aircraft Carriers.[NEWLINE][NEWLINE]Nuclear Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_ATOMIC_BOMB" />
+		</Update>
+		<Update>
+			<Set Text="Early Air Unit that can bombard enemy Units and Cities from the skies.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_WWI_BOMBER" />
+		</Update>
+		<Update>
+			<Set Text="Air Unit that rains death from above onto enemy Units and Cities.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_BOMBER" />
+		</Update>
+		<Update>
+			<Set Text="Early Air Unit designed to intercept incoming enemy aircraft.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_TRIPLANE" />
+		</Update>
+		<Update>
+			<Set Text="Air Unit designed to wrest control of the skies and intercept incoming enemy aircraft.[NEWLINE][NEWLINE]Aircraft Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_FIGHTER" />
+		</Update>
+		<Update>
+			<Set Text="The first of its kind, this powerful late game unit can move after attacking.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_WWI_TANK" />
+		</Update>
+		<Update>
+			<Set Text="Fast and powerful Industrial Era Unit.[NEWLINE][NEWLINE]Auto Plant Required." />
+			<Where Tag="TXT_KEY_UNIT_HELP_TANK" />
+		</Update>
+
+
+
+
+
+
+
+
+	</Language_en_US>
+		<!--Have a nice Day:=)-->
+
+	
+</GameData>

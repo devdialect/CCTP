@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/18/2014 1:15:01 AM -->
+<GameData>
+  
+ 
+  <!--*****Trait_ImprovementYieldChanges*****-->
+<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+<!--*****Next*****-->
+		<Row>
+			<TraitType>TRAIT_SCHOLARS_JADE_HALL</TraitType>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SCHOLARS_JADE_HALL</TraitType>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SCHOLARS_JADE_HALL</TraitType>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SCHOLARS_JADE_HALL</TraitType>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SCHOLARS_JADE_HALL</TraitType>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SCHOLARS_JADE_HALL</TraitType>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+
+
+</Trait_ImprovementYieldChanges>
+
+  
+</GameData>  
+<!--Have a nice Day;=)-->

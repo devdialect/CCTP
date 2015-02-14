@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/17/2014 11:05:58 PM -->
+<GameData>
+
+
+	<!--<<<<<<<<<<Features[]>>>>>>>>>>-->
+	<Belief_FeatureYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_YGGDRASIL</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_HEALTH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_YGGDRASIL</BeliefType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_HEALTH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_POSEIDON</BeliefType>
+			<FeatureType>FEATURE_ATOLL</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATUREONE</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATUREONE</BeliefType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GAIA</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GAIA</BeliefType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_EDEN</BeliefType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_EDEN</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MOOR</BeliefType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_SACRED_PATH</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_FeatureYieldChanges>
+
+
+
+	<Belief_YieldChangeNaturalWonder>
+		<Row>
+			<BeliefType>BELIEF_NATURALFAITH</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATURALCULT</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATURALFOOD</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATURALPRO</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATURALSCIENCE</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_NATURALGOLD</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Belief_YieldChangeNaturalWonder>
+
+
+	<!--<<<<<<<<<<[Yields per class]>>>>>>>>>>-->
+
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_KIRCHENSTEUER</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_IANNA</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_EDEN</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+	<!--<<<<<<<<<<[Happyness per building]>>>>>>>>>>-->
+
+
+	<!--CityYieldChanges-->
+	<Belief_CityYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_TIAMAT</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Belief_CityYieldChanges>
+
+	<!--MaxYieldModifierPerFollower-->
+	<Belief_MaxYieldModifierPerFollower>
+		<Row>
+			<BeliefType>BELIEF_LIVINGGODS</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Max>10</Max>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ARGO</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Max>25</Max>
+		</Row>
+	</Belief_MaxYieldModifierPerFollower>
+
+	<!--<<<<<<<<<<[Belief_YieldChangeTradeRoute]>>>>>>>>>>-->
+	<Belief_YieldChangeTradeRoute>
+		<Row>
+			<BeliefType>BELIEF_NEWAGE</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Belief_YieldChangeTradeRoute>
+
+	<Belief_YieldModifierNaturalWonder>
+		<!--<<<<<<<<<<[Belief_YieldModifierNaturalWonde]>>>>>>>>>>-->
+	</Belief_YieldModifierNaturalWonder>
+
+	<!--<<<<<<<<<<[EraFaithUnitPurchase]>>>>>>>>>>-->
+	<Belief_EraFaithUnitPurchase>
+		<Row>
+			<BeliefType>BELIEF_PROMETHEUS</BeliefType>
+			<EraType>ERA_ANCIENT</EraType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PROMETHEUS</BeliefType>
+			<EraType>ERA_CLASSICAL</EraType>
+			<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PROMETHEUS</BeliefType>
+			<EraType>ERA_MEDIEVAL</EraType>
+			<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		</Row>
+	</Belief_EraFaithUnitPurchase>
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

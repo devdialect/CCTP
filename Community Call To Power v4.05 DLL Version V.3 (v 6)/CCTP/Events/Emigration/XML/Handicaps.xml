@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/1/2012 6:50:29 PM -->
+<GameData>
+	<HandicapInfos>
+		<Update>
+			<Where Type="HANDICAP_EMPEROR"/>
+			<Set AIUnhappinessPercent="100"/>
+			<!-- changed from 90 -->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL"/>
+			<Set AIUnhappinessPercent="95"/>
+			<!-- changed from 85 -->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnhappinessPercent="90"/>
+			<!-- changed from 75 -->
+		</Update>
+	</HandicapInfos>
+</GameData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/20/2014 1:44:26 PM -->
+<GameData>
+  <!--*****Trait_FeatureYieldChanges*****-->
+	
+<Trait_FeatureYieldChanges>
+	<!--*****Next*****
+	<Row>
+		<TraitType>TRAIT_PMILL</TraitType>
+		<FeatureType>FEATURE_FOREST</FeatureType>
+		<YieldType>YIELD_GOLD</YieldType>
+		<Yield>1</Yield>
+	</Row>-->
+</Trait_FeatureYieldChanges>
+
+
+
+
+</GameData>
+<!--Have a nice Day;=)-->

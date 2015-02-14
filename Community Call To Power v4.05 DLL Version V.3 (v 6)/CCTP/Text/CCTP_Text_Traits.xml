@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:55:04 PM -->
+<GameData>
+	<!--/////////Traits***Gametext\\\\\\\\\-->
+<Language_en_US>
+
+	<!--Trait-->
+		
+
+	<Update>
+		<Where Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES" />
+		<Set Text="Raze Cities at double speed.[NEWLINE]Borrow City names from other in-game Civs.[NEWLINE]Provides a free [ICON_GREAT_GENERAL] Great General with the discovering of Leadership."/>
+	</Update>
+	<Update>
+		<Where Tag="TXT_KEY_TRAIT_LONG_COUNT" />
+		<Set Text="After researching Calendar, you can choice a [ICON_GREAT_PERSON] Great Person with the beginning of each new Baktum."/>
+	</Update>
+	<Update>
+		<Where Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS" />
+		<Set Text="After researching Leadership, gain [ICON_CULTURE] Culture for the empire from each enemy unit killed."/>
+	</Update>
+	<Update>
+		<Where Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE" />
+		<Set Text="After researching Idols, receive +1 [ICON_PEACE] Faith per city with an adjacent unimproved Forest.[NEWLINE]Bonus increases to +2 [ICON_PEACE] Faith in Cities with 3 or more adjacent unimproved Forest tiles."/>
+	</Update>
+		
+  <!-- TODO: Insert table data example here.-->
+	<Update>
+		<Set Text="Strategic Resources provide +1 [ICON_PRODUCTION] Production and [ICON_RES_HORSE] Horse, [ICON_RES_IRON] Iron and [ICON_RES_URANIUM] Uranium Resources provide double quantity." />
+		<Where Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" />
+	</Update>
+	
+	<!-- Disabled due BNW
+		<Update>
+			<Set Text="+3 [ICON_GOLD] Gold from each [ICON_CONNECTED] Trade Route and Oil Resources provide double quantity." />
+			<Where Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD" />
+		</Update>-->
+</Language_en_US>
+	
+	
+<!--Have a nice Day:=)-->
+
+  
+</GameData>

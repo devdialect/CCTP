@@ -1,0 +1,39 @@
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="PROMOTIONS_FLAGSHIP"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_FLAGSHIP</Type>
+			<Description>TXT_KEY_PROMOTION_FLAGSHIP</Description>
+			<Help>TXT_KEY_PROMOTION_FLAGSHIP_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_FLAGSHIP</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<GreatGeneralReceivesMovement>true</GreatGeneralReceivesMovement>
+		</Row>
+	</UnitPromotions>
+
+	<PostDefines>
+		<Row Name="PROMOTION_FLAGSHIP">
+			<Key>PROMOTION_FLAGSHIP</Key>
+			<Table>UnitPromotions</Table>
+		</Row>
+	</PostDefines>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_FLAGSHIP">
+			<Text>Flagship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLAGSHIP_HELP">
+			<Text>Great Admiral moves at rate of this unit if they start the turn stacked.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

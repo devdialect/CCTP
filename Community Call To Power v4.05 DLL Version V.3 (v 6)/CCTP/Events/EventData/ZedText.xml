@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/13/2014 7:51:40 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_ZOMBIE">
+			<Text>Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ZOMBIE_TEXT">
+			<Text>Zombies can turn any units they kill into other zombies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ZOMBIE">
+			<Text>Zombies can turn any units they kill into other zombies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZOMBIE">
+			<Text>Urrguuh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZOMBIE_PEDIA">
+			<Text>Reprensentation of Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ZOMBIE_DESC">
+			<Text>Zombies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ZOMBIE_SHORT_DESC">
+			<Text>Zed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ZOMBIE_ADJECTIVE">
+			<Text>Zombie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ZOMBIE_PEDIA">
+			<Text>Zombie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ZOMBIE">
+			<Text>Zombie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ZEDHORDEA">
+			<Text>There was an explosion during the production[NEWLINE]of your new bio-weapon and it could[NEWLINE]not be contained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ZEDHORDEB">
+			<Text>Impaitent with the length of time testing takes[NEWLINE]a scientist attempted to speed the process[NEWLINE]resulting in a terrible accident.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ZEDHORDEC">
+			<Text>A group of scientists have disobeyed your directive[NEWLINE]and attempted to produce the bio weapon anyway,[NEWLINE]leading to accidental exposure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ZEDHORDE">
+			<Text>Zombies!</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 8/9/2014 2:40:46 PM -->
+<GameData>
+
+	<!--/////////Project_VictoryThresholds\\\\\\\\\-->
+	<Project_VictoryThresholds>
+		<Row>
+			<ProjectType>PROJECT_WORMHOLE_DETECTION_ARRAY</ProjectType>
+			<VictoryType>VICTORY_SPACE_RACE</VictoryType>
+			<Threshold>1</Threshold>
+		</Row>
+	</Project_VictoryThresholds>
+
+
+	<!--/////////Project_Flavor\\\\\\\\\-->
+
+
+	<Project_Flavors>
+		<Row>
+			<ProjectType>PROJECT_WORMHOLE_DETECTION_ARRAY</ProjectType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>100</Flavor>
+		</Row>
+
+		<Row>
+			<ProjectType>PROJECT_SDI</ProjectType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<ProjectType>PROJECT_SDI</ProjectType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>100</Flavor>
+		</Row>
+
+		<Row>
+			<ProjectType>PROJECT_ORBITAL_DEFENSE_POD</ProjectType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<ProjectType>PROJECT_ORBITAL_DEFENSE_POD</ProjectType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Project_Flavors>
+
+	<!--/////////Project_Prereqs\\\\\\\\\-->
+	<Project_Prereqs>
+		<Row>
+			<ProjectType>PROJECT_WORMHOLE_DETECTION_ARRAY</ProjectType>
+			<PrereqProjectType>PROJECT_APOLLO_PROGRAM</PrereqProjectType>
+			<AmountNeeded>1</AmountNeeded>
+		</Row>
+		<Update>
+			<Set PrereqProjectType="PROJECT_WORMHOLE_DETECTION_ARRAY"/>
+			<Where ProjectType="PROJECT_SS_COCKPIT"/>
+		</Update>
+		<Update>
+			<Set PrereqProjectType="PROJECT_WORMHOLE_DETECTION_ARRAY"/>
+			<Where ProjectType="PROJECT_SS_STASIS_CHAMBER"/>
+		</Update>
+		<Update>
+			<Set PrereqProjectType="PROJECT_WORMHOLE_DETECTION_ARRAY"/>
+			<Where ProjectType="PROJECT_SS_ENGINE"/>
+		</Update>
+		<Update>
+			<Set PrereqProjectType="PROJECT_WORMHOLE_DETECTION_ARRAY"/>
+			<Where ProjectType="PROJECT_SS_BOOSTER"/>
+		</Update>
+	</Project_Prereqs>>
+  
+  <!-- Have a nice day:=)-->
+  
+</GameData>

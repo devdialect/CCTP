@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 8/9/2013 12:11:33 PM -->
+<GameData>
+  <!-- Barbarians can heal. -->
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_BARBARIAN</LeaderType>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Traits>
+		<Row>
+			<Type>BARB_CAN_HEAL</Type>
+			<Description>TXT_KEY_TRAIT_RIVER_EXPANSION</Description>
+			<ShortDescription>TXT_KEY_TRAIT_RIVER_EXPANSION_SHORT</ShortDescription>
+			<FightWellDamaged>true</FightWellDamaged>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_HEAL_IF_DESTROY_ENEMY</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_HEAL_IF_DESTROY_ENEMY</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_HEAL_IF_DESTROY_ENEMY</PromotionType>
+		</Row>
+
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_COVER_1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_COVER_1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_COVER_1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<PromotionType>PROMOTION_COVER_2</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_COVER_2</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_COVER_2</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_COVER_2</PromotionType>
+		</Row>
+
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_FREE_PILLAGE_MOVES</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_FREE_PILLAGE_MOVES</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>BARB_CAN_HEAL</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_FREE_PILLAGE_MOVES</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

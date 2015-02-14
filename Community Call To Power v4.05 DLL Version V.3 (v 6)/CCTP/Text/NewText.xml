@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/30/2014 3:33:22 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+	
+	<!--HMEXICO-->
+	<Row Tag="TXT_KEY_BUILDING_HMEXICO">
+		<Text>Zocalo</Text>
+	</Row>
+	<Row Tag="TXT_KEY_WONDER_HMEXICO_HELP">
+		<Text>Contains 3 slots for art and artifacts. +10% [ICON_FOOD] Growth in all cities. Gives a free cathedral in the city and an additional trade route. Gives 2 new luxuries: 1 [ICON_RES_JAGUARSKIN] Jaguar skins and 1 [ICON_RES_AZTECJEWELRY] Aztec jewelry.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_WONDER_HMEXICO_QUOTE">
+		<Text>[NEWLINE]"Today we all speak, if not the same tongue, the same universal language. There is no one center, and time has lost its former coherence: East and West, yesterday and tomorrow exist as a confused jumble in each one of us. Different times and different spaces are combined in a here and now that is everywhere at once." - Octavio Paz[NEWLINE]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_HMEXICO_THEMING_BONUS_HELP">
+		<Text>To maximize your bonus, make sure to have 3 great works of art from the same civilization.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_THEMING_BONUS_HMEXICO">
+		<Text>Pride of The Nation</Text>
+	</Row>
+	<Row Tag="TXT_KEY_WONDER_HMEXICO_PEDIA">
+		<Text>The Aztecs built what was to become the capital of their empire on a small island in the Lake of Texcoco, in the Valley of Mexico. Testimonies from the time of the arrival of the Spanish conquerors at Tenochtitlan, the capital of the Aztec Empire, account for the existence of the great lake dotted with a multitude of canoes and the island city, full of oratories like towers and fortresses and all gleaming white. The conquering Spaniards destroyed the island city of Tenochtitlan and started to drain the lake that surrounded it. They built the capital of New Spain, Mexico City, the “city of palaces”, on the ruins of the prehispanic city, following a European model which was slightly changed by the intervention of indigenous artisans and workers, and influenced by the canals and rivers that had structured the Pre-Hispanic city. Independent Mexico maintained its capital on the same place and added its stylistic influences to the architectonic palimpsest that we are left with today.</Text>
+	</Row>
+	<!-- TODO: Insert table data example here.-->
+	
+	
+	
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

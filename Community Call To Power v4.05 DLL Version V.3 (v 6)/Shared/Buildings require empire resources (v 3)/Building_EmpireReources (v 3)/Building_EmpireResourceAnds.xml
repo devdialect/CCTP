@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/13/2014 8:05:13 PM -->
+<!-- 
+	In this example the Smelter will be a building
+	that requires Iron and Copper to build.
+	(It looks like the Workshop).
+	
+	Step 1: Define the building
+	Step 2: Add an entry in the new table
+-->
+<GameData>
+	<!-- Step 1 -->
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SMELTER</Type>
+			<DefaultBuilding>BUILDING_SMELTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SMELTER</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SMELTER</Type>
+			<BuildingClass>BUILDINGCLASS_SMELTER</BuildingClass>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<Cost>120</Cost>
+			<GoldMaintenance>2</GoldMaintenance>
+			<PrereqTech>TECH_METAL_CASTING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_SMELTER_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SMELTER</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<AllowsProductionTradeRoutes>true</AllowsProductionTradeRoutes>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>28</PortraitIndex>
+		</Row>
+	</Buildings>
+	<!-- Step 2 -->
+	<Building_EmpireResourceAnds>
+		<Row>
+			<BuildingType>BUILDING_SMELTER</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMELTER</BuildingType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+		</Row>
+	</Building_EmpireResourceAnds>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SMELTER">
+			<Text>Smelter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMELTER_HELP">
+			<Text>Requires Iron and Copper.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

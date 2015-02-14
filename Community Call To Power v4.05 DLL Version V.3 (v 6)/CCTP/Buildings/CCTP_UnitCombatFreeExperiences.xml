@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 9:39:05 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Building_UnitCombatFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_STABLE</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ARTILLERY_RANGE</BuildingType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ARTILLERY_RANGE</BuildingType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ARMOUR_WORKSHOP</BuildingType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FARRIER</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_UnitCombatFreeExperiences>
+	
+  <!-- TODO: Insert table data example here.-->
+	
+	<Building_DomainFreeExperiences>
+		
+	</Building_DomainFreeExperiences>
+	
+	<!--DomainFreeExperiencePerGreatWork-->
+	<Building_DomainFreeExperiencePerGreatWork>
+		<Row>
+			<BuildingType>BUILDING_PENA</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>10</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PENA</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>10</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PENA</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>10</Experience>
+		</Row>
+	</Building_DomainFreeExperiencePerGreatWork>
+
+	<!-- Enter your Game Data here. -->
+  
+</GameData>

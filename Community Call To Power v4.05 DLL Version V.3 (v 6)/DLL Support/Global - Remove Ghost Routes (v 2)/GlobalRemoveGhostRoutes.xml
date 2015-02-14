@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="BUGFIX_REMOVE_GHOST_ROUTES"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+</GameData>

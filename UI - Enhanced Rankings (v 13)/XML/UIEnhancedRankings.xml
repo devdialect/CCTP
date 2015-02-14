@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RANKINGS_DIPLO_CORNER_HOOK" >
+			<Text>Civilization Rankings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RANKINGS_DIPLO_CORNER_HOOK_TT" >
+			<Text>Ranking types: Overall score, [ICON_FOOD] production, [ICON_PRODUCTION] capacity, Total [ICON_GOLD], [ICON_GOLD] per turn, Number of techs known, [ICON_RESEARCH] per turn, Number of social policies active, [ICON_CULTURE] per turn, National [ICON_HAPPINESS_1], Number of wonders built, Military power.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_NEXT">
+			<Text>Next</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_PREV">
+			<Text>Previous</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_OVERALL" >
+			<Text>Overall Score</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_OVERALL_TT" >
+			<Text>Ranks players by their overall score.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_GPT" >
+			<Text>New Shiny per Turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_GPT_TT" >
+			<Text>Ranks players by amount of [ICON_GOLD] Gold per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_SPT" >
+			<Text>Lit Bunsen Burners per Turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_SPT_TT" >
+			<Text>Ranks players by amount of [ICON_RESEARCH] Science per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CPT" >
+			<Text>Number of DVD's Sold per Turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CPT_TT" >
+			<Text>Ranks players by amount of [ICON_CULTURE] Culture per turn.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_FAITH">
+      <Text>The World's Most Religious People</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_FAITH_TT">
+      <Text>Ranks players by the number of cities following their founded religion.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_FPT" >
+      <Text>Number of Prayers per Turn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_FPT_TT" >
+      <Text>Ranks players by amount of [ICON_PEACE] Faith per turn.</Text>
+    </Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_TPT" >
+			<Text>Number of Photos per Turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_TPT_TT" >
+			<Text>Ranks players by amount of [ICON_TOURISM] Tourism per turn.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DUDE_A" >
+			<Text>Annales Cambriae has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_B" >
+			<Text>Bodhi Vamsa has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_C" >
+			<Text>Chronica seu originale regum et principum Poloniae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_D" >
+			<Text>Dioclean Priest's Chronicle has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_E" >
+			<Text>Croyland Chronicle has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_F" >
+			<Text>Froissart's Chronicles has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_G" >
+			<Text>History of the Prophets and Kings has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_H" >
+			<Text>Dale Kent has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_I" >
+			<Text>Jans der Enikel has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_J" >
+			<Text>Kaiserchronik has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_K" >
+			<Text>Lethrense Chronicle has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_L" >
+			<Text>Nabonidus Chronicle has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_M" >
+			<Text>Puranas has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_N" >
+			<Text>Rajatarangini has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_O" >
+			<Text>Records of Three Kingdoms has compiled:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_P" >
+			<Text>Swiss illustrated chronicles has compiled:</Text>
+		</Row>
+	</Language_en_US>
+
+	<Language_de_DE>
+		<Row Tag="TXT_KEY_RANKINGS_DIPLO_CORNER_HOOK" >
+			<Text>Zivilisations Ranglisten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RANKINGS_DIPLO_CORNER_HOOK_TT" >
+			<Text>Ranking types: Overall score, [ICON_FOOD] production, [ICON_PRODUCTION] capacity, Total [ICON_GOLD], [ICON_GOLD] per turn, Number of techs known, [ICON_RESEARCH] per turn, Number of social policies active, [ICON_CULTURE] per turn, National [ICON_HAPPINE&#223;_1], Number of wonders built, Military power.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_NEXT">
+			<Text>N&#228;chste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_PREV">
+			<Text>Zur&#252;ck</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_OVERALL" >
+			<Text>Gesamtpunkte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_OVERALL_TT" >
+			<Text>Punkte Rangliste.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_GPT" >
+			<Text>Die gr&#246;&#223;ten Finanzstrategen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_GPT_TT" >
+			<Text>[ICON_GOLD] Gold pro Runde.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_SPT" >
+			<Text>Die erfolgreichsten Forscher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_SPT_TT" >
+			<Text>[ICON_RESEARCH] Wi&#223;enschaft pro Runde.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CPT" >
+			<Text>Kulturelles Erbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CPT_TT" >
+			<Text>[ICON_CULTURE] Kultur pro Runde.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_FAITH">
+			<Text>Die religi&#246;sesten Menschen der Welt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_FAITH_TT">
+			<Text>Anzahl der St&#228;dte die dieser Religion folgen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_FPT" >
+			<Text>Die gl&#228;ubigsten Menschen der Welt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_FPT_TT" >
+			<Text>[ICON_PEACE] Glauben pro Runde.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_TPT" >
+			<Text>Die meisten Urlauber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_TPT_TT" >
+			<Text>[ICON_TOURISM] Tourismus pro Runde.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DUDE_A" >
+			<Text>Annales Cambriae hat ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_B" >
+			<Text>Bodhi Vamsa hat ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_C" >
+			<Text>Chronica seu originale regum et principum Poloniae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_D" >
+			<Text>Dioclean Priest's Chroniken wurden ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_E" >
+			<Text>Croyland Chronik wurde ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_F" >
+			<Text>Froi&#223;art's Chronik wurde ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_G" >
+			<Text>Geschichten der Propheten und K&#246;nige wurden ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_H" >
+			<Text>Dale Kent hat ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_I" >
+			<Text>Jans der Enikel hat ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_J" >
+			<Text>Kaiserchronik hat ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_K" >
+			<Text>Lethrense Chronik wurde ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_L" >
+			<Text>Nabonidus Chronik wurde ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_M" >
+			<Text>Puranas hat ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_N" >
+			<Text>Rajatarangini hat ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_O" >
+			<Text>Die Aufzeichnungen der Drei K&#246;nigreiche wurden ver&#246;ffentlicht:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DUDE_P" >
+			<Text>Die Schweizer illustrierten Chroniken wurden ver&#246;ffentlicht:</Text>
+		</Row>
+	</Language_de_DE>
+</GameData>

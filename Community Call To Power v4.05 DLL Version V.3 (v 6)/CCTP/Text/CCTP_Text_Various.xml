@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:34:59 PM -->
+<GameData>
+	<!--/////////Varios***Gametext\\\\\\\\\-->
+	<Language_en_US>
+	<!-- Update Gamespeed Names -->
+	<Update>
+		<Set Text="Fast"/>
+		<Where Tag="TXT_KEY_GAMESPEED_QUICK"/>
+	</Update>
+	<Update>
+		<Set Text="Normal"/>
+		<Where Tag="TXT_KEY_GAMESPEED_STANDARD"/>
+	</Update>
+	<Update>
+		<Set Text="Slow"/>
+		<Where Tag="TXT_KEY_GAMESPEED_EPIC"/>
+	</Update>
+	<Update>
+		<Set Text="Cruel"/>
+		<Where Tag="TXT_KEY_GAMESPEED_MARATHON"/>
+	</Update>
+	<!-- Update Gamespeed Help -->
+	<Update>
+		<Set Text="UNBALANCED. A fast paced game. Good for players that do not like to hang around. "/>
+		<Where Tag="TXT_KEY_GAMESPEED_QUICK_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="This is the standard option for use with CCTP, it is the only option that is balanced and enjoyable to play."/>
+		<Where Tag="TXT_KEY_GAMESPEED_STANDARD_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="Using this option will BREAK the game, please use Extended CCTP if you wish to play Epic style games."/>
+		<Where Tag="TXT_KEY_GAMESPEED_EPIC_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="Using this option will slow almost all parts down, but its playable."/>
+		<Where Tag="TXT_KEY_GAMESPEED_MARATHON_HELP"/>
+	</Update>
+	
+	<!-- Update Mods Menu -->
+	<Update>
+		<Set Text="START GAME"/>
+		<Where Tag="TXT_KEY_MODDING_CUSTOMGAME"/>
+	</Update>
+	<Update>
+		<Set Text="QUICK START"/>
+		<Where Tag="TXT_KEY_MODDING_MAPS"/>
+	</Update>
+	<!-- Update Gamespeed Names -->
+	<Update>
+		<Set Text="Fast"/>
+		<Where Tag="TXT_KEY_GAMESPEED_QUICK"/>
+	</Update>
+	<Update>
+		<Set Text="Normal"/>
+		<Where Tag="TXT_KEY_GAMESPEED_STANDARD"/>
+	</Update>
+	<Update>
+		<Set Text="Slow"/>
+		<Where Tag="TXT_KEY_GAMESPEED_EPIC"/>
+	</Update>
+	<Update>
+		<Set Text="Cruel"/>
+		<Where Tag="TXT_KEY_GAMESPEED_MARATHON"/>
+	</Update>
+	<!-- Update Gamespeed Help -->
+	<Update>
+		<Set Text="UNBALANCED. A fast paced game. Good for players that do not like to hang around. "/>
+		<Where Tag="TXT_KEY_GAMESPEED_QUICK_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="This is the standard option for use with CCTP, it is the only option that is balanced and enjoyable to play."/>
+		<Where Tag="TXT_KEY_GAMESPEED_STANDARD_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="Using this option will BREAK the game, please use Extended CCTP if you wish to play Epic style games."/>
+		<Where Tag="TXT_KEY_GAMESPEED_EPIC_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="Using this option will slow almost all parts down, but its playable."/>
+		<Where Tag="TXT_KEY_GAMESPEED_MARATHON_HELP"/>
+	</Update>
+	
+
+
+
+	<!--Have a nice Day:=)-->
+	<Update>
+		<Set Text="While in a [ICON_GOLDEN_AGE] Golden Age, every tile in your empire that produces at least 1 [ICON_PRODUCTION] Production, 1 [ICON_GOLD] Gold, or 1 [ICON_RESEARCH] Science produces 1 extra."/>
+		<Where Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT" />
+	</Update>
+		<!--Have a nice Day:=)-->
+
+	<!--Specialist-->
+	<Row Tag="TXT_KEY_SPECIALIST_PRIEST_STRATEGY">
+		<Text>Create Priests to increase your civilization's [ICON_PEACE] Faith output and to speed the creation of [ICON_PROPHET] Great Prophets.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_PRIEST">
+		<Text>Priest</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_PRIEST_SLOTS">
+		<Text>Priest Slots:</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_PRIEST_TITLE">
+		<Text>Great Priest Points:</Text>
+	</Row>
+		
+	<Row Tag="TXT_KEY_SPECIALIST_LABORER">
+		<Text>Laborer</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_LABORER_STRATEGY">
+		<Text>Adds to [ICON_RES_MANPOWER] Manpower at the start of next turn.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_LABORER_TITLE">
+		<Text>Great Laborer Points:</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_LABORER_SLOTS">
+		<Text>Labor Slots:</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+
+	<Row Tag="TXT_KEY_SPECIALIST_ENERGY">
+		<Text>Electrician</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENERGY_STRATEGY">
+		<Text>Adds to [ICON_POWER3] Electricity at the start of next turn.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENERGY_TITLE">
+		<Text>Great Electrician Points:</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENERGY_SLOTS">
+		<Text>Electrician Slots:</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+
+		<Row Tag="TXT_KEY_SPECIALIST_JUDGE">
+			<Text>Judge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_JUDGE_STRATEGY">
+			<Text>Increase [ICON_ORDER] Order</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_JUDGE_TITLE">
+			<Text>Great Judge Points:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_JUDGE_SLOTS">
+			<Text>Judge Slots:</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		
+		<Row Tag="TXT_KEY_SPECIALIST_TRANSCEND">
+			<Text>Transcend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_TRANSCEND_STRATEGY">
+			<Text>[ICON_TRANS]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_TRANSCEND_TITLE">
+			<Text>Great Transcend Points:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_TRANSCEND_SLOTS">
+			<Text>Transcend Slots:</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPECIALIST_ENTERTAINER">
+		<Text>Entertainer</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENTERTAINER_STRATEGY">
+		<Text>Adds to [ICON_HAPPINESS_1] Happiness at the start of next turn.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENTERTAINER_TITLE">
+		<Text>Great Entertainer Points:</Text>
+		</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENTERTAINER_SLOTS">
+		<Text>Entertainer Slots:</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+		
+	<Row Tag="TXT_KEY_SPECIALIST_ENVIRONMENT">
+		<Text>Enviroment</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENVIRONMENT_STRATEGY">
+		<Text>[ICON_GREEN]</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENVIRONMENT_TITLE">
+		<Text>Great Environment Points:</Text>
+	</Row>
+	<Row Tag="TXT_KEY_SPECIALIST_ENVIRONMENT_SLOTS">
+		<Text>Eiviroment Slots:</Text>
+		<Gender>neuter:an</Gender>
+	</Row>
+
+
+	</Language_en_US>
+<!--Have a nice Day:=)-->
+
+
+			<!-- Enter your Game Data here. -->
+  
+</GameData>

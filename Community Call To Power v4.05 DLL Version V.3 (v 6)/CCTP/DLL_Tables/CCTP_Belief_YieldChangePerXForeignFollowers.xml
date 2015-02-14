@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/27/2014 6:38:51 PM -->
+<GameData>
+	
+ <!--*****Belief_YieldChangePerXForeignFollowers*****-->
+<Belief_YieldChangePerXForeignFollowers>
+<!--<Row>
+	<BeliefType>BELIEF_JORMUNGAND</BeliefType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<ForeignFollowers>1</ForeignFollowers>
+</Row>-->
+</Belief_YieldChangePerXForeignFollowers>
+ 
+  
+</GameData> 
+<!--Have a nice Day;=)-->

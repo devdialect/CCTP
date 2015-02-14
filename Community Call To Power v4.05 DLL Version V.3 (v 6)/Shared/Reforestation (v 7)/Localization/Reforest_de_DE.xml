@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/22/2012 1:16:13 PM -->
+<GameData>
+	<!--TEXT STRINGS-->
+	<Language_de_DE>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PLANT_FOREST_TEXT">
+			<Text>Aufforstung bedeutet in der Forstwirtschaft das Anpflanzen von Bäumen oder die Aussaat von Samen mit dem Ziel einer Bewaldung, oft als Wiederherstellung einer früheren, durch Abholzung, Sturmschäden verschwundenen Bewaldung. War die aufzuforstende Fläche bereits vorher mit Wald bestockt, spricht man von einer Wiederaufforstung, ansonsten von einer Erstaufforstung.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PLANT_FOREST">
+			<Text>Wald pflanzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST">
+			<Text>[LINK=IMPROVEMENT_PLANT_FOREST]Wald pflanzen[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST_HELP">
+			<Text>Ersetzt alle Verbesserungen und Features auf diesem Geländefeld.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOREST_REC">
+			<Text>Forste die Welt wieder auf!</Text>
+		</Row>
+	</Language_de_DE>
+</GameData>

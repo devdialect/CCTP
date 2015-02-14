@@ -1,0 +1,1 @@
+ALTER TABLE UnitPromotions ADD ShowInUnitPanel INTEGER DEFAULT 1;

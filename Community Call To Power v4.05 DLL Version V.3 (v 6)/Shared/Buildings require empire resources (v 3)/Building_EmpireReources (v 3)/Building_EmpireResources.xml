@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/13/2014 7:27:03 PM -->
+<GameData>
+	<Table name="Building_EmpireResourceAnds">
+		<Column name="BuildingType" type="text" reference="Buildings(Type)"/>
+		<Column name="ResourceType" type="text" reference="Resources(Type)"/>
+		<Column name="AllowsImport" type="boolean" default="true"/>
+	</Table>
+
+	<Table name="Building_EmpireResourceOrs">
+		<Column name="BuildingType" type="text" reference="Buildings(Type)"/>
+		<Column name="ResourceType" type="text" reference="Resources(Type)"/>
+		<Column name="AllowsImport" type="boolean" default="true"/>
+	</Table>
+</GameData>

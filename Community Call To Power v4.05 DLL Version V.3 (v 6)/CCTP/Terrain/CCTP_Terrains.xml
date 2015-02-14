@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/18/2014 1:26:43 AM -->
+<GameData>
+	
+<!--*****Terrains******-->
+
+<Terrains>
+<!--*****Next*****-->
+	<Update>
+		<Set TurnDamage="25"/>
+		<Where Type="FEATURE_FALLOUT"/>
+	</Update>
+	<Update>
+		<Set TurnDamage="10"/>
+		<Where Type="FEATURE_ICE"/>
+	</Update>
+	<Update>
+		<Set Defense="-10" />
+		<Where Type="TERRAIN_GRASS" />
+	</Update>
+	<Update>
+		<Set Defense="-10" />
+		<Where Type="TERRAIN_PLAINS" />
+	</Update>
+	<Update>
+		<Set Defense="-25" Movement="2"/>
+		<Where Type="TERRAIN_DESERT" />
+	</Update>
+	<Update>
+		<Set Defense="-10" />
+		<Where Type="TERRAIN_TUNDRA" />
+	</Update>
+	<Update>
+		<Set Defense="-25" Movement="2"/>
+		<Where Type="TERRAIN_SNOW" />
+	</Update>
+	<Update>
+		<Set Defense="30" Movement="2"/>
+		<Where Type="TERRAIN_TERRAIN_HILL" />
+	</Update>
+	<Update>
+		<Set Defense="-25" Found="true"/>
+	    <Where Type="TERRAIN_OCEAN" />
+	</Update>
+	<Update>
+		<Set Defense="-15" Found="true"/>
+		<Where Type="TERRAIN_COAST" />
+	</Update>
+	<Update>
+		<Set Defense="50" Found="true"/>
+		<Where Type="TERRAIN_MOUNTAIN" />
+	</Update>
+</Terrains>
+
+  
+</GameData> 
+ <!--Have a nice Day:=)-->

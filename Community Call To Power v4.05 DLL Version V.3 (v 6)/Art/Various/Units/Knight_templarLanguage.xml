@@ -1,0 +1,16 @@
+<GameData>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIVIL_UNIT_KNIGHT_TEMPLAR">
+      <Text>Created By Indiestone Nexus Buddy.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_KNIGHT_TEMPLAR">
+      <Text>Knight_templar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_STRATEGY_UNIT_KNIGHT_TEMPLAR">
+      <Text>Created By Indiestone Nexus Buddy.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HELP_UNIT_KNIGHT_TEMPLAR">
+      <Text>Created By Indiestone Nexus Buddy.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 4/4/2014 4:28:38 PM -->
+<GameData>
+
+	<!--HurryModifiers-->
+	<Policy_HurryModifiers>
+		<Row>
+			<PolicyType>POLICY_CCTPAUTOCRACY3</PolicyType>
+			<HurryType>HURRY_GOLD</HurryType>
+			<HurryCostModifier>-50</HurryCostModifier>
+		</Row>
+		<!--Next-->
+		<Row>
+			<PolicyType>POLICY_CCTP10</PolicyType>
+			<HurryType>HURRY_GOLD</HurryType>
+			<HurryCostModifier>-10</HurryCostModifier>
+		</Row>
+
+		<Row>
+			<PolicyType>POLICY_EXECUTIVE_BOARD</PolicyType>
+			<HurryType>HURRY_GOLD</HurryType>
+			<HurryCostModifier>-25</HurryCostModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_INSTANT_REFERENDUM</PolicyType>
+			<HurryType>HURRY_GOLD</HurryType>
+			<HurryCostModifier>-35</HurryCostModifier>
+		</Row>
+
+		<Row>
+			<PolicyType>POLICY_BOURGEOIS</PolicyType>
+			<HurryType>HURRY_GOLD</HurryType>
+			<HurryCostModifier>-20</HurryCostModifier>
+		</Row>
+
+	</Policy_HurryModifiers>
+  
+  <!--Have a nice Day:=)-->
+  
+</GameData>

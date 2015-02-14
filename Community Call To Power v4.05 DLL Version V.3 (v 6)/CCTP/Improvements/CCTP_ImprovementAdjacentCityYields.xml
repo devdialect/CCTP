@@ -1,0 +1,35 @@
+<!-- Created by Gilgamesch on 9/21/2014 10:43:12 PM -->
+<GameData>
+
+<!--*****Improvement_AdjacentCityYields*****-->
+<Improvement_AdjacentCityYields>
+<Row>
+	<ImprovementType>IMPROVEMENT_TIPI</ImprovementType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_TRADING_POST</ImprovementType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_INDUSTRIAL</ImprovementType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_ARCOLOGY</ImprovementType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<ImprovementType>IMPROVEMENT_ARCOLOGY</ImprovementType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Improvement_AdjacentCityYields>
+
+
+</GameData>
+<!--Have a nice Day;=)-->

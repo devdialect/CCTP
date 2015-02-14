@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/25/2014 8:30:57 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Set Text=""/>
+			<Where Tag="TXT_KEY_CIV_BARBARIAN_ADJECTIVE"/>
+		</Update>	
+	</Language_en_US>
+</GameData>

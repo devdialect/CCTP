@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/28/2010 7:38:31 PM -->
+<GameData>
+	<!--Improvements-->
+	<Improvements>
+		<!--Wind-->
+		<Row>
+			<Type>IMPROVEMENT_WIND</Type>
+			<Description>TXT_KEY_IMPROVEMENT_WIND</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_WIND</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_WIND_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_5_4</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--Solar-->
+		<Row>
+			<Type>IMPROVEMENT_SOLAR</Type>
+			<Description>TXT_KEY_IMPROVEMENT_SOLAR</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_SOLAR_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_SOLAR_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_5_5</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--Arcology-->
+		<Row>
+			<Type>IMPROVEMENT_ARCOLOGY</Type>
+			<Description>TXT_KEY_IMPROVEMENT_ARCOLOGY</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_ARCOLOGY_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_ARCOLOGY_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_5_3B</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--PSI-->
+		<Row>
+			<Type>IMPROVEMENT_PSI</Type>
+			<Description>TXT_KEY_IMPROVEMENT_PSI</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_PSI_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_PSI_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_5_2</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--Beacon-->
+		<Row>
+			<Type>IMPROVEMENT_BEACON</Type>
+			<Description>TXT_KEY_IMPROVEMENT_BEACON</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_BEACON_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_BEACON_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_5</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--High_Energy-->
+		<Row>
+			<Type>IMPROVEMENT_HIGH_ENERGY</Type>
+			<Description>TXT_KEY_IMPROVEMENT_HIGH_ENERGY</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_HIGH_ENERGY_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_HIGH_ENERGY_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_5</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<!--Sat-->
+		<Row>
+			<Type>IMPROVEMENT_SAT</Type>
+			<Description>TXT_KEY_IMPROVEMENT_SAT</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_SAT_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_SAT_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<!--Industrial-->
+		<Row>
+			<Type>IMPROVEMENT_INDUSTRIAL</Type>
+			<Description>TXT_KEY_IMPROVEMENT_INDUSTRIAL</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_INDUSTRIAL_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_INDUSTRIAL_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_4</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<!--NODE-->
+		<Row>
+			<Type>IMPROVEMENT_NODE</Type>
+			<Description>TXT_KEY_IMPROVEMENT_NODE</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_NODE_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_NODE_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_2</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<!--TEMPEL-->
+		<Row>
+			<Type>IMPROVEMENT_TEMPEL</Type>
+			<Description>TXT_KEY_IMPROVEMENT_TEMPEL</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_TEMPEL_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_TEMPEL_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_4_4</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--TEMPEL-->
+		<Row>
+			<Type>IMPROVEMENT_ALCHEMIST</Type>
+			<Description>TXT_KEY_IMPROVEMENT_ALCHEMIST</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_ALCHEMIST_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_ALCHEMIST_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_4</ArtDefineTag>
+			<AdjacentLuxury>true</AdjacentLuxury>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+	   </Row>
+		<!--PAPER-->
+		<Row>
+			<Type>IMPROVEMENT_PAPER</Type>
+			<Description>TXT_KEY_IMPROVEMENT_PAPER</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_PAPER_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_PAPER_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_4_2</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--TOWER-->
+		<Row>
+			<Type>IMPROVEMENT_TOWER</Type>
+			<Description>TXT_KEY_IMPROVEMENT_TOWER</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_TOWER_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_TOWER_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_4_3</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--NANO-->
+		<Row>
+			<Type>IMPROVEMENT_NANO</Type>
+			<Description>TXT_KEY_IMPROVEMENT_NANO</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_NANO_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_NANO_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_5B</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<!--PRESERVE-->
+		<Row>
+			<Type>IMPROVEMENT_PRESERVE</Type>
+			<Description>TXT_KEY_IMPROVEMENT_PRESERVE</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_PRESERVE_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_PASTURE</ArtDefineTag>
+			<RequiresFeature>true</RequiresFeature>
+			<PillageGold>0</PillageGold>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		
+		<!--/////////\\\\\\\\\\\\-->
+	
+		<!--added 29.7.14-->
+		
+		<Update>
+			<Set CreatedByGreatPerson="true"/>
+			<Where Type="IMPROVEMENT_GOODY_HUT"/>
+		</Update>
+		<!--Under testing-->
+		<Update>
+			<Set OutsideBorders="true"/>
+			<Where Type="IMPROVEMENT_GOODY_HUT"/>
+		</Update>
+		
+		<Row>
+			<Type>IMPROVEMENT_CAMPER</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CAMPER</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CAMPER_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_BARBARIAN_CAMP</ArtDefineTag>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<PillageGold>15</PillageGold>
+			<DestroyedWhenPillaged>true</DestroyedWhenPillaged>
+			<BuildableOnResources>true</BuildableOnResources>
+			<DefenseModifier>15</DefenseModifier>
+			<PortraitIndex>21</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		
+		<Row>
+			<Type>IMPROVEMENT_TIPI</Type>
+			<Description>TXT_KEY_IMPROVEMENT_TIPI</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_TIPI_TEXT</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_TIPI_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_TIPIS</ArtDefineTag>
+			<RequiresFlatlands>true</RequiresFlatlands>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<PillageGold>15</PillageGold>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_DLC_07</IconAtlas>
+		</Row>
+		
+		<!--/////////\\\\\\\\\\\\-->
+		<Row>
+			<Type>IMPROVEMENT_WAJO</Type>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_WAJO</ArtDefineTag>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>KOREA_TERRAIN_ATLAS</IconAtlas>
+			<Coastal>true</Coastal>
+			<NearbyEnemyDamage>20</NearbyEnemyDamage>
+			<Description>TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO</Description>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_WAJO_HELP</Help>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_WAJO_TEXT</Civilopedia>
+		</Row>
+
+		<!--/////////\\\\\\\\\\\\-->
+		<Row>
+			<Type>IMPROVEMENT_MOTTE_BAILEY</Type>
+			<Description>TXT_KEY_IMPROVEMENT_MOTTE_BAILEY</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_TEXT</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_MOTTE_BAILEY</ArtDefineTag>
+			<DestroyedWhenPillaged>true</DestroyedWhenPillaged>
+			<BuildableOnResources>true</BuildableOnResources>
+			<RiverSideMakesValid>true</RiverSideMakesValid>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>DENMARK_TERRAIN_ATLAS</IconAtlas>
+		
+	</Row>
+		
+		<!--/////////\\\\\\\\\\\\-->
+		<Update>
+			<Set SpecificCivRequired="NULL" CivilizationType="NULL" />
+			<Where Type="IMPROVEMENT_TERRACE_FARM" />
+		</Update>
+		<Update>
+			<Set SpecificCivRequired="NULL" CivilizationType="NULL" />
+			<Where Type="IMPROVEMENT_MOAI" />
+		</Update>
+		<Update>
+			<Set SpecificCivRequired="NULL" CivilizationType="NULL" />
+			<Where Type="IMPROVEMENT_POLDER" />
+		</Update>
+		<Update>
+			<Set SpecificCivRequired="NULL" CivilizationType="NULL" />
+			<Where Type="IMPROVEMENT_CHATEAU" />
+		</Update>
+		<Update>
+			<Set SpecificCivRequired="NULL" CivilizationType="NULL" />
+			<Where Type="IMPROVEMENT_BRAZILWOOD_CAMP" />
+		</Update>
+		<Update>
+			<Set SpecificCivRequired="NULL" CivilizationType="NULL" />
+			<Where Type="IMPROVEMENT_KASBAH" />
+		</Update>
+		<Update>
+			<Set SpecificCivRequired="NULL" CivilizationType="NULL" />
+			<Where Type="IMPROVEMENT_FEITORIA" />
+		</Update>
+		<!-- Better Barbs -->
+		<Update>
+			<Set DefenseModifier="75" NearbyEnemyDamage="10"/>
+			<Where Type="IMPROVEMENT_BARBARIAN_CAMP"/>
+		</Update>
+
+		<!-- More Goodies -->
+		<Update>
+			<Set TilesPerGoody="23"/>
+			<!--was 30-->
+			<Where Type="IMPROVEMENT_GOODY_HUT"/>
+		</Update>
+
+
+		<!--Citadel outside border-->
+		<Update>
+			<Set OutsideBorders="true" CultureBombRadius="1" NearbyEnemyDamage="35"/>
+			<!--was 30-->
+			<Where Type="IMPROVEMENT_CITADEL"/>
+		</Update>
+
+		<!--Fort-->
+
+		<Update>
+			<Set NearbyEnemyDamage="20"/>
+			<Where Type="IMPROVEMENT_FORT"/>
+		</Update>
+
+		
+	</Improvements>
+	
+
+
+
+</GameData>

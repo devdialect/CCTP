@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<!-- Created by ModBuddy on 1/24/2011 11:21:58 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_CC_TEMPLE</Type>
+			<DefaultBuilding>BUILDING_CC_TEMPLE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_TEMPLE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_CATHEDRAL</Type>
+			<DefaultBuilding>BUILDING_CC_CATHEDRAL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_CATHEDRAL</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_CC_EXHIBITION</Type>
+			<DefaultBuilding>BUILDING_CC_EXHIBITION</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_EXHIBITION</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_CC_STATUE_OF_EMPOWERMENT</Type>
+			<DefaultBuilding>BUILDING_CC_STATUE_OF_EMPOWERMENT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_CC_ARS_TECHNICA</Type>
+			<DefaultBuilding>BUILDING_CC_ARS_TECHNICA</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_ARS_TECHNICA</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_TRADING_HOUSE</Type>
+			<DefaultBuilding>BUILDING_CC_TRADING_HOUSE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_TRADING_HOUSE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_THINK_TANK</Type>
+			<DefaultBuilding>BUILDING_CC_THINK_TANK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_THINK_TANK</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_PALISADE</Type>
+			<DefaultBuilding>BUILDING_CC_PALISADE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_PALISADE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_BUNKER</Type>
+			<DefaultBuilding>BUILDING_CC_BUNKER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_BUNKER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_CONSTRUCTION_HALL</Type>
+			<DefaultBuilding>BUILDING_CC_CONSTRUCTION_HALL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_ECOLOGICAL_CENTER</Type>
+			<DefaultBuilding>BUILDING_CC_ECOLOGICAL_CENTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_MEMORIAL</Type>
+			<DefaultBuilding>BUILDING_CC_MEMORIAL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_MEMORIAL</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_GEOLOGY_MUSEUM</Type>
+			<DefaultBuilding>BUILDING_CC_GEOLOGY_MUSEUM</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_RADIO_STUDIO</Type>
+			<DefaultBuilding>BUILDING_CC_RADIO_STUDIO</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_RADIO_STUDIO</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_EXCHANGE_MARKET</Type>
+			<DefaultBuilding>BUILDING_CC_EXCHANGE_MARKET</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_EXCHANGE_MARKET</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_LABOR_CAMP</Type>
+			<DefaultBuilding>BUILDING_CC_LABOR_CAMP</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_LABOR_CAMP</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_DETECTIVE_BUREAU</Type>
+			<DefaultBuilding>BUILDING_CC_DETECTIVE_BUREAU</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_BEACON_OF_HEAVENS</Type>
+			<DefaultBuilding>BUILDING_CC_BEACON_OF_HEAVENS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CC_COMMITTEE</Type>
+			<DefaultBuilding>BUILDING_CC_COMMITTEE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CC_COMMITTEE</Description>
+		</Row>
+	</BuildingClasses>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_CC_COMMITTEE</Type>
+			<BuildingClass>BUILDINGCLASS_CC_COMMITTEE</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_COMMITTEE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_COMMITTEE</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_COMMITTEE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<ConquestProb>100</ConquestProb>
+			<IconAtlas>CC_ATLAS_BASE</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+faith from hills
+			-->
+			<Type>BUILDING_CC_BEACON_OF_HEAVENS</Type>
+			<BuildingClass>BUILDINGCLASS_CC_BEACON_OF_HEAVENS</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_MONUMENT</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<!-- Grand Mesa -->
+			<IconAtlas>NW_ATLAS</IconAtlas>
+			<PortraitIndex>7</PortraitIndex>
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+ 1 free spy
+			-->
+			<Type>BUILDING_CC_DETECTIVE_BUREAU</Type>
+			<BuildingClass>BUILDINGCLASS_CC_DETECTIVE_BUREAU</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_INTELLIGENCE_AGENCY</ArtDefineTag>
+
+			<ExtraSpies>1</ExtraSpies>
+			<Espionage>true</Espionage>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+
+			<!-- Industrialization -->
+			<IconAtlas>EXPANSION_TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+% Workerspeed
+			-->
+			<Type>BUILDING_CC_LABOR_CAMP</Type>
+			<BuildingClass>BUILDINGCLASS_CC_LABOR_CAMP</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_LABOR_CAMP_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_LABOR_CAMP</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_LABOR_CAMP_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_COLOSSEUM</ArtDefineTag>
+
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+
+			<WorkerSpeedModifier>200</WorkerSpeedModifier>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<!-- Mining -->
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+% Gold from Trade Routes
+			-->
+			<Type>BUILDING_CC_EXCHANGE_MARKET</Type>
+			<BuildingClass>BUILDINGCLASS_CC_EXCHANGE_MARKET</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_EXCHANGE_MARKET</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_BANK</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+
+			<CityConnectionTradeRouteModifier>10</CityConnectionTradeRouteModifier>
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>35</PortraitIndex>
+			<!-- Economics -->
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+Gold, Food, Science from features
+			-->
+			<Type>BUILDING_CC_ECOLOGICAL_CENTER</Type>
+			<BuildingClass>BUILDINGCLASS_CC_ECOLOGICAL_CENTER</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_SOLAR_PLANT</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<!-- Ecology -->
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+Culture and +Science from resources
+			-->
+			<Type>BUILDING_CC_GEOLOGY_MUSEUM</Type>
+			<BuildingClass>BUILDINGCLASS_CC_GEOLOGY_MUSEUM</BuildingClass>
+			<Cost>-1</Cost>
+			<ThemingBonusHelp>TXT_KEY_MUSEUM_THEMING_BONUS_HELP</ThemingBonusHelp>
+			<Help>TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_CC_GEOLOGY_MUSEUM</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+			<GreatWorkCount>2</GreatWorkCount>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+			<PortraitIndex>13</PortraitIndex>
+			<!-- Gems -->
+		</Row>
+
+		<Row>
+			<Type>BUILDING_CC_STATUE_OF_EMPOWERMENT</Type>
+			<BuildingClass>BUILDINGCLASS_CC_STATUE_OF_EMPOWERMENT</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_MONUMENT</ArtDefineTag>
+
+			<FreePolicies>1</FreePolicies>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>11</PortraitIndex>
+			<!-- Also Horseback riding -->
+		</Row>
+
+		<Row>
+			<Type>BUILDING_CC_MEMORIAL</Type>
+			<BuildingClass>BUILDINGCLASS_CC_MEMORIAL</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_MEMORIAL_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_MEMORIAL</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_MEMORIAL_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_MONUMENT</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>11</PortraitIndex>
+			<!-- Horseback Riding -->
+		</Row>
+
+		<Row>
+			<Type>BUILDING_CC_THINK_TANK</Type>
+			<BuildingClass>BUILDINGCLASS_CC_THINK_TANK</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_THINK_TANK_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_THINK_TANK</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_THINK_TANK_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_LIBRARY</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+			<GreatWorkCount>1</GreatWorkCount>
+
+			<GreatPeopleRateModifier>15</GreatPeopleRateModifier>
+
+			<EnhancedYieldTech>TECH_SCIENTIFIC_THEORY</EnhancedYieldTech>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+			<!-- Philosophy -->
+
+			<!-- Could be used that it shows in correct era in civilopedia, but it also needs space in tech tree view -->
+			<!--<PrereqTech>TECH_PHILOSOPHY</PrereqTech>-->
+		</Row>
+		<Row>
+			<Type>BUILDING_CC_ARS_TECHNICA</Type>
+			<BuildingClass>BUILDINGCLASS_CC_ARS_TECHNICA</BuildingClass>
+			<Cost>-1</Cost>
+			<ThemingBonusHelp>TXT_KEY_MUSEUM_THEMING_BONUS_HELP</ThemingBonusHelp>
+			<Help>TXT_KEY_BUILDING_CC_ARS_TECHNICA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_ARS_TECHNICA</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_ARS_TECHNICA_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_PUBLIC_SCHOOL</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<SpecialistCount>3</SpecialistCount>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+			<GreatWorkCount>2</GreatWorkCount>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>51</PortraitIndex>
+			<!-- Telegraph-->
+		</Row>
+
+
+		<Row>
+			<!-- Ideas:
+				+Gold
+				+Gold from every bonus resource
+				+% Food
+			-->
+			<Type>BUILDING_CC_TRADING_HOUSE</Type>
+			<BuildingClass>BUILDINGCLASS_CC_TRADING_HOUSE</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_TRADING_HOUSE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_TRADING_HOUSE</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_TRADING_HOUSE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+
+			<EnhancedYieldTech>TECH_ECONOMICS</EnhancedYieldTech>
+
+			<TradeRouteSeaDistanceModifier>25</TradeRouteSeaDistanceModifier>
+			<TradeRouteSeaGoldBonus>200</TradeRouteSeaGoldBonus>
+			<TradeRouteLandDistanceModifier>25</TradeRouteLandDistanceModifier>
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
+			<!-- Currency -->
+		</Row>
+
+		<!-- Production Buildings -->
+		<Row>
+			<!-- Ideas:
+				+% Production
+				+Healrate
+			-->
+			<Type>BUILDING_CC_CONSTRUCTION_HALL</Type>
+			<BuildingClass>BUILDINGCLASS_CC_CONSTRUCTION_HALL</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_WORKSHOP</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+
+			<BuildingProductionModifier>15</BuildingProductionModifier>
+
+			<EnhancedYieldTech>TECH_STEAM_POWER</EnhancedYieldTech>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>10</PortraitIndex>
+			<!-- Iron Working -->
+		</Row>
+
+
+		<!-- Defense Buildings -->
+		<Row>
+			<!-- Ideas: 
+				+Def
+				+Happiness
+			-->
+			<Type>BUILDING_CC_PALISADE</Type>
+			<BuildingClass>BUILDINGCLASS_CC_PALISADE</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_PALISADE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_PALISADE</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_PALISADE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_WALL</ArtDefineTag>
+
+			<Happiness>1</Happiness>
+			<Defense>750</Defense>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<CityWall>true</CityWall>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>32</PortraitIndex>
+			<!-- Walls -->
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+Defense
+				+% Science
+			-->
+			<Type>BUILDING_CC_BUNKER</Type>
+			<BuildingClass>BUILDINGCLASS_CC_BUNKER</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_BUNKER_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_BUNKER</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_BUNKER_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_MILITARY_BASE</ArtDefineTag>
+
+			<Defense>1350</Defense>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>50</PortraitIndex>
+			<!-- Refrigeration -->
+		</Row>
+
+		<!-- Religion Buildings -->
+		<Row>
+			<!-- Ideas: 
+				+Happiness
+				+Faith
+			-->
+			<Type>BUILDING_CC_TEMPLE</Type>
+			<BuildingClass>BUILDINGCLASS_CC_TEMPLE</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_BUILDING_CC_TEMPLE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_TEMPLE</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_TEMPLE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+			<Happiness>2</Happiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>20</PortraitIndex>
+			<!-- Calendar -->
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				+Culture
+				+Faith
+			-->
+			<Type>BUILDING_CC_CATHEDRAL</Type>
+			<BuildingClass>BUILDINGCLASS_CC_CATHEDRAL</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_CATHEDRAL_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_CATHEDRAL</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_CATHEDRAL_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+
+			<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+			<GreatWorkCount>1</GreatWorkCount>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>27</PortraitIndex>
+			<!-- Chivalry -->
+		</Row>
+
+		<!-- Misc Buildings -->
+		<Row>
+			<!-- Ideas: 
+				+Happiness
+				+%Gold
+			-->
+			<Type>BUILDING_CC_RADIO_STUDIO</Type>
+			<BuildingClass>BUILDINGCLASS_CC_RADIO_STUDIO</BuildingClass>
+			<Cost>-1</Cost>
+			<ThemingBonusHelp>TXT_KEY_BROADWAY_THEMING_BONUS_HELP</ThemingBonusHelp>
+			<Help>TXT_KEY_BUILDING_CC_RADIO_STUDIO_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_RADIO_STUDIO</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_RADIO_STUDIO_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_BROADCAST_TOWER</ArtDefineTag>
+
+			<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+			<SpecialistCount>3</SpecialistCount>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_MUSIC</GreatWorkSlotType>
+			<GreatWorkCount>3</GreatWorkCount>
+
+			<Happiness>4</Happiness>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<PortraitIndex>55</PortraitIndex>
+			<!-- Radio -->
+		</Row>
+
+		<Row>
+			<!-- Ideas: 
+				-HappinessFromCityCount
+				+% Global Culture
+				+% Global Great People Rate
+				+Great Artist Rate
+			-->
+			<Type>BUILDING_CC_EXHIBITION</Type>
+			<BuildingClass>BUILDINGCLASS_CC_EXHIBITION</BuildingClass>
+			<Cost>-1</Cost>
+
+			<Help>TXT_KEY_BUILDING_CC_EXHIBITION_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CC_EXHIBITION</Description>
+			<Strategy>TXT_KEY_BUILDING_CC_EXHIBITION_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_CC_GEOLOGY_MUSEUM</ArtDefineTag>
+
+			<GreatPeopleRateChange>3</GreatPeopleRateChange>
+			<CityCountUnhappinessMod>100</CityCountUnhappinessMod>
+			<GlobalCultureRateModifier>150</GlobalCultureRateModifier>
+			<GlobalGreatPeopleRateModifier>150</GlobalGreatPeopleRateModifier>
+
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_ResourceCultureChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<CultureChange>1</CultureChange>
+		</Row>
+	</Building_ResourceCultureChanges>
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_DETECTIVE_BUREAU</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_MEMORIAL</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_CONSTRUCTION_HALL</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_PALISADE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_TEMPLE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_CATHEDRAL</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_CATHEDRAL</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_TRADING_HOUSE</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_STATUE_OF_EMPOWERMENT</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Building_ThemingBonuses>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_1</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArt>true</MustBeArt>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_1</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArt>true</MustBeArt>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_2</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_2</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_3</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArt>true</MustBeArt>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_4</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArtifact>true</MustBeArtifact>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_5</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_6</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_7</Description>
+			<Bonus>1</Bonus>
+			<MustBeArt>true</MustBeArt>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_7</Description>
+			<Bonus>1</Bonus>
+			<MustBeArt>true</MustBeArt>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_8</Description>
+			<Bonus>1</Bonus>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_8</Description>
+			<Bonus>1</Bonus>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+
+
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_1</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArt>true</MustBeArt>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_1</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArt>true</MustBeArt>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_2</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_2</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>2</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_3</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArt>true</MustBeArt>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_4</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeArtifact>true</MustBeArtifact>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_5</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_6</Description>
+			<Bonus>1</Bonus>
+			<SameEra>true</SameEra>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_7</Description>
+			<Bonus>1</Bonus>
+			<MustBeArt>true</MustBeArt>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_7</Description>
+			<Bonus>1</Bonus>
+			<MustBeArt>true</MustBeArt>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_8</Description>
+			<Bonus>1</Bonus>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresOwner>true</RequiresOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MUSEUM_8</Description>
+			<Bonus>1</Bonus>
+			<MustBeArtifact>true</MustBeArtifact>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>1</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_RADIO_STUDIO</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_BROADWAY</Description>
+			<Bonus>3</Bonus>
+			<SameEra>true</SameEra>
+			<RequiresSamePlayer>true</RequiresSamePlayer>
+			<AIPriority>2</AIPriority>
+		</Row>
+
+
+
+
+	</Building_ThemingBonuses>
+
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_CC_THINK_TANK</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BUNKER</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_RADIO_STUDIO</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>25</Yield>
+		</Row>
+
+	</Building_YieldModifiers>
+
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_GEOLOGY_MUSEUM</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+
+	<!-- Yield are getting added ONLY when you add a yield to TERRAIN_DESERT first :(-->
+	<Building_TerrainYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_HILL</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_OCEAN</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_BEACON_OF_HEAVENS</BuildingType>
+			<TerrainType>TERRAIN_COAST</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_TerrainYieldChanges>
+
+	<Building_SpecialistYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ARS_TECHNICA</BuildingType>
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_SpecialistYieldChanges>
+
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_ECOLOGICAL_CENTER</BuildingType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_ECOLOGICAL_CENTER</BuildingType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_CC_ECOLOGICAL_CENTER</BuildingType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+
+	<Building_SeaPlotYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_ECOLOGICAL_CENTER</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_SeaPlotYieldChanges>
+
+	<Building_TechEnhancedYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_CC_THINK_TANK</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_TRADING_HOUSE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_CONSTRUCTION_HALL</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_TechEnhancedYieldChanges>
+
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_CC_MEMORIAL</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_MEMORIAL</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_MEMORIAL</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+
+	<Building_DomainProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_CC_MEMORIAL</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_MEMORIAL</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CC_MEMORIAL</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+	</Building_DomainProductionModifiers>
+
+	<Building_UnitCombatProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_CC_CONSTRUCTION_HALL</BuildingType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<Modifier>15</Modifier>
+		</Row>
+	</Building_UnitCombatProductionModifiers>
+
+</GameData>

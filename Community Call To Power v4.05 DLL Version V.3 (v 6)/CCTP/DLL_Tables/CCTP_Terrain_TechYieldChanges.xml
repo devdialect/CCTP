@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/15/2014 4:22:08 PM -->
+<GameData>
+  
+ <!--*****Terrain_TechYieldChanges*****-->	
+<Terrain_TechYieldChanges>
+	
+<!--***Desert***2***-->
+<Row>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<TechType>TECH_DRYLAND</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<TechType>TECH_HEAT_TREATMENT</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<TechType>TECH_SURVIVAL</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+	
+<!--***Tundra***2***-->
+<Row>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<TechType>TECH_STONES</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<TechType>TECH_FIRE</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<!--***Plains***1***-->
+<Row>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<TechType>TECH_FIRE</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<TechType>TECH_COOKING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>	
+<!--***Ocean***2***-->
+<Row>
+	<TerrainType>TERRAIN_OCEAN</TerrainType>
+	<TechType>TECH_AQUA_FARMING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_OCEAN</TerrainType>
+	<TechType>TECH_WATERWORLD</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_OCEAN</TerrainType>
+	<TechType>TECH_SHIPBUILDING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>	
+<!--***Coast***3***-->
+<Row>
+	<TerrainType>TERRAIN_COAST</TerrainType>
+	<TechType>TECH_AQUA_FARMING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_COAST</TerrainType>
+	<TechType>TECH_WATERWORLD</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_COAST</TerrainType>
+	<TechType>TECH_SURVIVAL</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_COAST</TerrainType>
+	<TechType>TECH_AQUACULTURE</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>	
+<!--***Snow***2***-->
+<Row>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<TechType>TECH_SNOW</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<TechType>TECH_SNOW</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<TechType>TECH_SURVIVAL</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<!--***Grass***2***-->
+<Row>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<TechType>TECH_AGRICULTURAL_REVOLUTION</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<TechType>TECH_COOKING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Hill***2***-->
+<Row>
+	<TerrainType>TERRAIN_HILL</TerrainType>
+	<TechType>TECH_FLINTSTONES</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_HILL</TerrainType>
+	<TechType>TECH_INCAFARM</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>	
+
+</Terrain_TechYieldChanges>
+  
+  
+
+
+</GameData>
+<!--Have a nice Day;=)-->

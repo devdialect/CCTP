@@ -1,0 +1,454 @@
+<trigger_system type="FGrannyTimedTriggerSystem">
+  <event_tracks>
+    <event_track ec="1160">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1800">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1580">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1520">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1620">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1400">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1194">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1180">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1500">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1120">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1540">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1192">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1640">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1420">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1140">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1190">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1560">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1290">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1285">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1710">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1280">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1600">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1705">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1700">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1110">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1130">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+  </event_tracks>
+  <triggers>
+    <trigger type="FTimedTriggerAction" id="74" time="0.837037" duration="0" repeat="0" ec="1140" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="75" time="0.503704" duration="0" repeat="0" ec="1192" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="70" time="0.614815056" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="69" time="0.311111" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="71" time="0.2" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="73" time="0.9537034" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="72" time="0.518519" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="29" time="0" duration="0.633333" repeat="0" ec="1220" track="2" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_01" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="32" time="0" duration="0.9" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_01" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="30" time="0" duration="0.633333" repeat="0" ec="2220" track="2" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_02" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="31" time="0.2" duration="0.8" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_02" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="24" time="0" duration="0" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_MECHINFANTRY_EXPLOSION_DEATH" bone="bone_Turret_Plat" />
+    <trigger type="FTimedTriggerEffect" id="25" time="0" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_MECHINFANTRY_EXPLOSION_DEATH" bone="tank_bone_turret_TOP" />
+    <trigger type="FTimedTriggerEffect" id="46" time="0.762963" duration="0.1" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="47" time="0.807407" duration="0.133333" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="42" time="0.503704" duration="0.2" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="45" time="0.355556" duration="0.3" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="41" time="0.111111" duration="0.3" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="44" time="0" duration="0.4" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="58" time="0.636667" duration="0.233333" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="57" time="0.734074" duration="0.166667" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="43" time="0.525926" duration="0.166667" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_GLOW" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="55" time="0.637037" duration="0.233333" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="40" time="0.811407" duration="0.133333" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="33" time="0.533333" duration="0.166667" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="35" time="0.111111" duration="0.3" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="37" time="0.362963" duration="0.3" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="36" time="0" duration="0.4" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="56" time="0.733333" duration="0.166667" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="39" time="0.766667" duration="0.1" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="34" time="0.503704" duration="0.2" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE01_MG_MUZZLE" bone="FX_MG_Bone" />
+    <trigger type="FTimedTriggerEffect" id="82" time="0" duration="5" repeat="0" ec="1040" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="83" time="0" duration="1" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="84" time="0" duration="1" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="85" time="0" duration="1" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="86" time="0" duration="0.5" repeat="0" ec="1110" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="87" time="0" duration="0.5" repeat="0" ec="1110" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="88" time="0" duration="0.5" repeat="0" ec="1110" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="89" time="0" duration="0.6666667" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="90" time="0" duration="0.6666667" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="91" time="0.00682593836" duration="0.6666667" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="92" time="0" duration="1" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="95" time="0" duration="1.16666675" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="93" time="0" duration="1" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="94" time="0" duration="1" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="129" time="0" duration="4.5" repeat="0" ec="1520" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="128" time="0" duration="4.5" repeat="0" ec="1520" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="127" time="0" duration="1" repeat="0" ec="1500" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="126" time="0" duration="1" repeat="0" ec="1500" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="125" time="0" duration="1" repeat="0" ec="1500" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="124" time="0" duration="1" repeat="0" ec="1440" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="123" time="0" duration="1" repeat="0" ec="1440" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="122" time="0" duration="1" repeat="0" ec="1440" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="121" time="0" duration="0.5" repeat="0" ec="1420" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="120" time="0" duration="0.5" repeat="0" ec="1420" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="119" time="0" duration="0.5" repeat="0" ec="1420" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="118" time="0" duration="0.6666667" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="117" time="0" duration="0.6666667" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="116" time="0" duration="0.6666667" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="115" time="0" duration="0.6666667" repeat="0" ec="1290" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="114" time="0" duration="0.6666667" repeat="0" ec="1290" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="113" time="0" duration="0.6666667" repeat="0" ec="1290" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="112" time="0" duration="5.166667" repeat="0" ec="1285" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="111" time="0" duration="5.166667" repeat="0" ec="1285" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="110" time="0" duration="5.166667" repeat="0" ec="1285" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="109" time="0" duration="0.6666667" repeat="0" ec="1280" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="108" time="0" duration="0.6666667" repeat="0" ec="1280" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="107" time="0" duration="0.6666667" repeat="0" ec="1280" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="106" time="0" duration="0.6333" repeat="0" ec="1220" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="105" time="0" duration="0.6333" repeat="0" ec="1220" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="104" time="0" duration="0.6333" repeat="0" ec="1220" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="103" time="0" duration="1" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="102" time="0" duration="1" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="101" time="0" duration="1" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="146" time="0" duration="1" repeat="0" ec="1640" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="147" time="0" duration="1" repeat="0" ec="1640" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="148" time="0" duration="1" repeat="0" ec="1640" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="158" time="0" duration="1.33333337" repeat="0" ec="1800" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="159" time="0" duration="1.33333337" repeat="0" ec="1800" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="160" time="0" duration="1.33333337" repeat="0" ec="1800" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="161" time="0" duration="9" repeat="0" ec="2000" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="162" time="0" duration="9" repeat="0" ec="2000" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="163" time="0" duration="9" repeat="0" ec="2000" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="164" time="0" duration="1" repeat="0" ec="2020" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="165" time="0" duration="1" repeat="0" ec="2020" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="166" time="0" duration="1" repeat="0" ec="2020" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="167" time="0" duration="5" repeat="0" ec="2040" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="168" time="0" duration="5" repeat="0" ec="2040" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="169" time="0" duration="5" repeat="0" ec="2040" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="170" time="0" duration="1" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="171" time="0" duration="1" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="172" time="0" duration="1" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="173" time="0" duration="1" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="174" time="0" duration="1" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="175" time="0" duration="1" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="176" time="0" duration="0.633333" repeat="0" ec="2220" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="177" time="0" duration="0.633333" repeat="0" ec="2220" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="178" time="0" duration="0.633333" repeat="0" ec="2220" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="81" time="0" duration="5" repeat="0" ec="1040" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="80" time="0" duration="1" repeat="0" ec="1020" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="79" time="0" duration="1" repeat="0" ec="1020" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="78" time="0" duration="6" repeat="0" ec="1000" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="60" time="0" duration="6" repeat="0" ec="1000" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="53" time="0" duration="5" repeat="0" ec="1040" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="51" time="0" duration="1" repeat="0" ec="1020" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="50" time="0" duration="6" repeat="0" ec="1000" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="130" time="0" duration="4.5" repeat="0" ec="1520" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="131" time="0" duration="6" repeat="0" ec="1540" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="132" time="0" duration="6" repeat="0" ec="1540" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="133" time="0" duration="6" repeat="0" ec="1540" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="134" time="0" duration="1" repeat="0" ec="1560" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="135" time="0" duration="1" repeat="0" ec="1560" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="136" time="0" duration="1" repeat="0" ec="1560" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="137" time="0" duration="1" repeat="0" ec="1580" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="138" time="0" duration="1" repeat="0" ec="1580" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="139" time="0" duration="1" repeat="0" ec="1580" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="140" time="0" duration="1" repeat="0" ec="1600" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="141" time="0" duration="1" repeat="0" ec="1600" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="142" time="0" duration="1" repeat="0" ec="1600" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="143" time="0" duration="6" repeat="0" ec="1620" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="144" time="0" duration="6" repeat="0" ec="1620" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="145" time="0" duration="6" repeat="0" ec="1620" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerEffect" id="8" time="0" duration="0.666667" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_ROCKET_ARTILLERY_DIRT_TRAIL_MD" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="6" time="0" duration="0.6666667" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_ROCKET_ARTILLERY_DIRT_TRAIL_MD" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="7" time="0" duration="1" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_ROCKET_ARTILLERY_DIRT_TRAIL_MD" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="27" time="0" duration="0.666667" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_TANK_DUST_TRAIL_MD" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="26" time="0" duration="0.6666667" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_TANK_DUST_TRAIL_MD" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerEffect" id="28" time="0" duration="0.5" repeat="0" ec="1420" track="2" event="ART_DEF_VEFFECT_TANK_DUST_TRAIL_MD" bone="bone_baseWheel" />
+    <trigger type="FTimedTriggerSound" id="77" time="0" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_SIEGE_01_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="76" time="0" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_SIEGE_01_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="49" time="0.502941" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_SIEGE_01_MACHINE_GUN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="68" time="0.762963" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_SIEGE_01_MACHINE_GUN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="4" time="0.114493705" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_SIEGE_01_MACHINE_GUN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="52" time="0.369181" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_SIEGE_01_MACHINE_GUN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="5" time="0.00163934" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_SIEGE_01_MACHINE_GUN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="17" time="0.753742" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_SIEGE_01_MISSILE_FALL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="12" time="0.348828137" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_SIEGE_01_METAL_LARGE_FALL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="65" time="0.401504" duration="0" repeat="0" ec="1190" track="1" event="AS3D_UNIT_SIEGE_01_TURRET_CLANK" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="64" time="0.414815" duration="0" repeat="0" ec="1194" track="1" event="AS3D_UNIT_SIEGE_01_TURRET_CLANK" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="2" time="0.0148148" duration="0" repeat="0" ec="1194" track="1" event="AS3D_UNIT_SIEGE_01_TURRET_DOWN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="3" time="0.0296296" duration="0" repeat="0" ec="1190" track="1" event="AS3D_UNIT_SIEGE_01_TURRET_UP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="18" time="0.122301579" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_SIEGE_01_TANK_CANNON_RAISE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="16" time="0.587755" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_SIEGE_01_TANK_DEATH_DEBRIS" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="11" time="0.206803" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_SIEGE_01_TANK_DEATH_DEBRIS" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="67" time="0.475" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_SIEGE_01_METAL_LARGE_FALL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="10" time="0.03619763" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_SIEGE_01_TANK_HIT_B" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="14" time="0.028155705" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_SIEGE_01_TANK_HIT_B" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="15" time="0.137415" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="54" time="0.40814" duration="0" repeat="0" ec="1192" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="23" time="0.00136054" duration="0" repeat="0" ec="1800" track="1" event="AS3D_UNIT_SIEGE_01_TANK_REV" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="156" time="0.00185185182" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_SIEGE_01_TANK_REV" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="186" time="0.2462963" duration="0.18" repeat="0" ec="1160" track="4" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_PROJECTILE" bone="Point_PROJECTILE01" />
+    <trigger type="FTimedTriggerEffect" id="187" time="0.3244822" duration="0" repeat="0" ec="1160" track="4" event="ART_DEF_VEFFECT_SIEGE_MISSILE01_LAUNCH_SMOKE" bone="Point_PROJECTILE01" />
+    <trigger type="FTimedTriggerTransfer" id="188" time="0.374074072" duration="0" repeat="0" ec="1160" track="3" refid="186" speed="0" tangent.x="0" tangent.y="-0.858630955" tangent.z="0.5125943" />
+    <trigger type="FTimedTriggerSound" id="189" time="0.301367581" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="190" time="0.3418013" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_SIEGE_01_MISSLE_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="191" time="0.0260052811" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_SIEGE_01_TANK_CANNON_RAISE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="192" time="0.4370371" duration="0.22" repeat="0" ec="1160" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_PROJECTILE" bone="Point_PROJECTILE02" />
+    <trigger type="FTimedTriggerEffect" id="193" time="0.5930008" duration="0" repeat="0" ec="1160" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE01_LAUNCH_SMOKE" bone="Point_PROJECTILE02" />
+    <trigger type="FTimedTriggerTransfer" id="194" time="0.6333333" duration="0" repeat="0" ec="1160" track="3" refid="192" speed="0" tangent.x="0" tangent.y="-0.856211" tangent.z="0.516626358" />
+    <trigger type="FTimedTriggerEffect" id="97" time="0" duration="0.25" repeat="0" ec="1160" track="4" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="96" time="0" duration="0.438" repeat="0" ec="1160" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerSound" id="195" time="0.5402565" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="196" time="0.6029124" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_SIEGE_01_MISSLE_FIRE_END" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="197" time="0.3244822" duration="0" repeat="0" ec="1180" track="4" event="ART_DEF_VEFFECT_SIEGE_MISSILE01_LAUNCH_SMOKE" bone="Point_PROJECTILE01" />
+    <trigger type="FTimedTriggerEffect" id="198" time="0.20740743" duration="0.18" repeat="0" ec="1180" track="4" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_PROJECTILE" bone="Point_PROJECTILE01" />
+    <trigger type="FTimedTriggerEffect" id="199" time="0" duration="0.21" repeat="0" ec="1180" track="4" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="200" time="0" duration="1.16666675" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerSound" id="202" time="0.5402565" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="204" time="0.301367581" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="205" time="0.0260052811" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_SIEGE_01_TANK_CANNON_RAISE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerTransfer" id="206" time="0.374074072" duration="0" repeat="0" ec="1180" track="3" refid="198" speed="0" tangent.x="0" tangent.y="-0.861380041" tangent.z="0.507961" />
+    <trigger type="FTimedTriggerTransfer" id="207" time="0.6333333" duration="0" repeat="0" ec="1180" track="3" refid="208" speed="0" tangent.x="0" tangent.y="-0.8600635" tangent.z="0.51018703" />
+    <trigger type="FTimedTriggerEffect" id="208" time="0.4370371" duration="0.22" repeat="0" ec="1180" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_PROJECTILE" bone="Point_PROJECTILE02" />
+    <trigger type="FTimedTriggerEffect" id="209" time="0.5930008" duration="0" repeat="0" ec="1180" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE01_LAUNCH_SMOKE" bone="Point_PROJECTILE02" />
+    <trigger type="FTimedTriggerEffect" id="210" time="0" duration="0.44" repeat="0" ec="1180" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerSound" id="21" time="0" duration="0.67" repeat="0" ec="1120" track="1" event="AS3D_UNIT_SIEGE_01_RUN_LOOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="38" time="0" duration="0.67" repeat="0" ec="1120" track="1" event="AS3D_UNIT_SIEGE_01_RUN_LOOP_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="59" time="0.00740740728" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_SIEGE_01_RUN_STOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="62" time="0" duration="0.67" repeat="0" ec="1400" track="3" event="AS3D_UNIT_SIEGE_01_RUN_LOOP_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="63" time="0" duration="0.67" repeat="0" ec="1400" track="3" event="AS3D_UNIT_SIEGE_01_RUN_LOOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="99" time="0.2777778" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_SIEGE_01_TANK_CANNON_RAISE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="100" time="0" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_SIEGE_01_LEVER_LARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="149" time="0.6351851" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_SIEGE_01_ACTIVATE_DOOR" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="150" time="0.6351851" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_SIEGE_01_ACTIVATE_DOOR" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="152" time="0" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_SIEGE_01_LEVER_LARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="154" time="0.0518518463" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_SIEGE_01_LEVER_LARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="155" time="0.0462962948" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_SIEGE_01_TANK_CANNON_DOWN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="61" time="0.229629636" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_SIEGE_01_LEVER_LARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="9" time="0.00740740728" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_SIEGE_01_RUN_STOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerAction" id="20" time="0.379629642" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="22" time="0.67037034" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="48" time="0.7185185" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="66" time="0.09259259" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="98" time="0.1425926" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="153" time="0.8907409" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerSound" id="19" time="0.7722223" duration="0" repeat="0" ec="1160" track="1" event="AS3D_IMPACT_BULLETHC_CITY" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="157" time="0.6029124" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_SIEGE_01_MISSLE_FIRE_END" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="179" time="0.3418013" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_SIEGE_01_MISSLE_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="180" time="0.0432725661" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_SIEGE_01_METAL_LARGE_FALL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="13" time="0.6029124" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_SIEGE_01_MISSLE_FIRE_END" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="181" time="0.5402565" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="182" time="0.3418013" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_SIEGE_01_MISSLE_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="183" time="0.301367581" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_SIEGE_01_TANK_RECOIL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="184" time="0.0260052811" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_SIEGE_01_TANK_CANNON_RAISE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="185" time="0.3244822" duration="0" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE01_LAUNCH_SMOKE" bone="Point_PROJECTILE01" />
+    <trigger type="FTimedTriggerEffect" id="201" time="0.20740743" duration="0.18" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_PROJECTILE" bone="Point_PROJECTILE01" />
+    <trigger type="FTimedTriggerEffect" id="203" time="0" duration="0.21" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile01" />
+    <trigger type="FTimedTriggerEffect" id="1" time="0" duration="1.16666675" repeat="0" ec="1130" track="4" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile03" />
+    <trigger type="FTimedTriggerTransfer" id="211" time="0.374074072" duration="0" repeat="0" ec="1130" track="3" refid="201" speed="0" tangent.x="0" tangent.y="-0.861380041" tangent.z="0.507961" />
+    <trigger type="FTimedTriggerTransfer" id="212" time="0.6333333" duration="0" repeat="0" ec="1130" track="3" refid="214" speed="0" tangent.x="0" tangent.y="-0.8600635" tangent.z="0.51018703" />
+    <trigger type="FTimedTriggerEffect" id="213" time="0" duration="0.438" repeat="0" ec="1130" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_NO_TRAIL" bone="tank_bone_missile02" />
+    <trigger type="FTimedTriggerEffect" id="214" time="0.4370371" duration="0.22" repeat="0" ec="1130" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE_BIG01_PROJECTILE" bone="Point_PROJECTILE02" />
+    <trigger type="FTimedTriggerEffect" id="215" time="0.5930008" duration="0" repeat="0" ec="1130" track="3" event="ART_DEF_VEFFECT_SIEGE_MISSILE01_LAUNCH_SMOKE" bone="Point_PROJECTILE02" />
+  </triggers>
+</trigger_system>

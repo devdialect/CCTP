@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 2:58:05 PM -->
+<GameData>
+	
+<!--*******Policy_TerrainYieldChanges********works!!!-->
+<Policy_TerrainYieldChanges>
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+	
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP140</PolicyType>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP140</PolicyType>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP140</PolicyType>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP140</PolicyType>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP140</PolicyType>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP140</PolicyType>
+	<TerrainType>TERRAIN_COAST</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+	
+	
+<!--***Next***-->
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_DEEP_ECOLOGY</PolicyType>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_DEEP_ECOLOGY</PolicyType>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+	<!--<Row>
+	<PolicyType>POLICY_DEEP_ECOLOGY</PolicyType>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<Row>
+	<PolicyType>POLICY_DEEP_ECOLOGY</PolicyType>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_DEEP_ECOLOGY</PolicyType>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>	
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP200</PolicyType>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP200</PolicyType>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP200</PolicyType>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP200</PolicyType>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP200</PolicyType>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Policy_TerrainYieldChanges>
+  
+
+  
+</GameData>  
+<!--Have  anice Day;=)-->

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 9:25:46 PM -->
+<GameData>
+	<!--/////////Building_YieldModifiers\\\\\\\\\-->
+  <!--Building_YieldModifiers-->
+	<Building_YieldModifiers>
+		<Delete BuildingType="BUILDING_MARKET" YieldType="YIELD_GOLD"/>
+		<Delete BuildingType="BUILDING_BAZAAR" YieldType="YIELD_GOLD"/>
+		<Delete BuildingType="BUILDING_BANK" YieldType="YIELD_GOLD"/>
+		<Delete BuildingType="BUILDING_SATRAPS_COURT" YieldType="YIELD_GOLD"/>
+		<Delete BuildingType="BUILDING_STOCK_EXCHANGE" YieldType="YIELD_GOLD"/>
+		<Delete BuildingType="BUILDING_WORKSHOP" YieldType="YIELD_PRODUCTION"/>
+		<Delete BuildingType="BUILDING_LONGHOUSE" YieldType="YIELD_PRODUCTION"/>
+		<Delete BuildingType="BUILDING_FACTORY" YieldType="YIELD_PRODUCTION"/>
+		<Delete BuildingType="BUILDING_NUCLEAR_PLANT" YieldType="YIELD_PRODUCTION"/>
+		<Delete BuildingType="BUILDING_SOLAR_PLANT" YieldType="YIELD_PRODUCTION"/>
+		<Delete BuildingType="BUILDING_NATIONAL_COLLEGE" YieldType="YIELD_SCIENCE"/>
+		<Delete BuildingType="BUILDING_UNIVERSITY" YieldType="YIELD_SCIENCE"/>
+		<Delete BuildingType="BUILDING_WAT" YieldType="YIELD_SCIENCE"/>
+		<Delete BuildingType="BUILDING_OBSERVATORY" YieldType="YIELD_SCIENCE"/>
+		<Delete BuildingType="BUILDING_LABORATORY" YieldType="YIELD_SCIENCE"/>
+		<!--MY CHANGES END-->
+		<Row>
+			<BuildingType>BUILDING_CCTPRELIGION4</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>25</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEBANK</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>25</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CENTRAL_BANK</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CCTPRELIGION8</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BOREHOLE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>25</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_QUANTUM_LAB</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>20</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_UGARIT</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FUSION_LAB</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_QPLANT</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OPTICAL_INTERCONNECTS</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OPTICAL_INTERCONNECTS</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GRID_ENERGY_STORAGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GRID_ENERGY_STORAGE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CLOUD_COMPUTING_NETWORK</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>20</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LASER_MANUFACTURING_MODULE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AI_SECURITY_CENTER</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AI_SECURITY_CENTER</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AI_SECURITY_CENTER</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AI_COURT</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>20</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NANO_FORGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BEHAVIORAL_MOD_CHIP</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>20</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BEHAVIORAL_MOD_CHIP</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>20</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ROBOT_DISTRICT</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAMMURABI</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAMMURABI</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SILO</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ARCHITEKT</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAJI_ALI_DARGAH</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<!-- <Row>
+	<BuildingType>BUILDING_GEOTHERM</BuildingType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>10</Yield>
+</Row>	
+<Row>
+	<BuildingType>BUILDING_KOHLEKRAFTWERK</BuildingType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>10</Yield>
+</Row>-->
+		<Row>
+			<BuildingType>BUILDING_ZIRKURAT</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GARD</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PLASTIKFABRIK</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TREASURE_ROOM</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DOLMABAHCE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DOLMABAHCE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GYEONGBOKGUNG</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>15</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FIRSTBANK</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Building_YieldModifiers>
+  <!--Have a nice Day:=)--> 
+</GameData>

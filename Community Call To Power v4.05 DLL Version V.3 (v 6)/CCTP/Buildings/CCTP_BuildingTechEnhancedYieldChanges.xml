@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 9:14:01 PM -->
+<GameData>
+	
+  <!--TechEnhancedYieldChanges-->
+<Building_TechEnhancedYieldChanges>
+<Update>
+	<Set Yield="4" />
+	<Where BuildingType="BUILDING_MUGHAL_FORT" YieldType="YIELD_GOLD"/>
+</Update>
+	
+
+<Row>
+	<BuildingType>BUILDING_SUPPLY_HOUSE</BuildingType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>2</Yield>
+</Row>
+
+<Row>
+	<BuildingType>BUILDING_MENHIR</BuildingType>
+	<YieldType>YIELD_CULTURE</YieldType>
+	<Yield>1</Yield>
+</Row>
+	<!--
+<Row>
+	<BuildingType>BUILDING_GAIA</BuildingType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_GAIA</BuildingType>
+	<YieldType>YIELD_CULTURE</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+<Row>
+	<BuildingType>BUILDING_EMPIRE</BuildingType>
+	<YieldType>YIELD_CULTURE</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_NATIONALFEST</BuildingType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>10</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_BERGWERK</BuildingType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>2</Yield>
+</Row>
+ <Row>
+	<BuildingType>BUILDING_POTTER</BuildingType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_POTTER</BuildingType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BuildingType>BUILDING_TOWN_SQUARE</BuildingType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>5</Yield>
+</Row>
+</Building_TechEnhancedYieldChanges>
+ 
+  
+  <!--Have a nice Day:=)-->
+  
+</GameData>

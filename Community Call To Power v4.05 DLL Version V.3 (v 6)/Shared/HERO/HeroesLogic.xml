@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 12/7/2013 13:58:34 PM -->
+<GameData>
+<Units>
+<Update>
+	<Set RequiresFaithPurchaseEnabled="true" FaithCost="400" Combat="10" CombatClass="UNITCOMBAT_MOUNTED" DefaultUnitAI="UNITAI_ATTACK" Moves="2" XPValueAttack="20" XPValueDefense="5" Special="NULL" CombatLimit="100"/>
+	<Where Type="UNIT_GREAT_GENERAL"/>
+</Update>
+		
+<Update>
+	<Set RequiresFaithPurchaseEnabled="true" FaithCost="400" Combat="10" CombatClass="UNITCOMBAT_MOUNTED" DefaultUnitAI="UNITAI_ATTACK" Moves="2" XPValueAttack="20" XPValueDefense="5" Special="NULL" CombatLimit="100"/>
+	<Where Type="UNIT_MONGOLIAN_KHAN"/>
+</Update>
+</Units>
+
+<Unit_AITypes>
+<Update>
+	<Set UnitAIType="UNITAI_ATTACK"/>
+	<Where UnitType="UNIT_GREAT_GENERAL"/>
+</Update>
+<Update>
+	<Set UnitAIType="UNITAI_ATTACK"/>
+	<Where UnitType="UNIT_MONGOLIAN_KHAN"/>
+</Update>
+</Unit_AITypes>
+
+<Unit_Flavors>
+<Update>
+	<Set Flavor="1"/>
+	<Where UnitType="UNIT_GREAT_GENERAL" FlavorType="FLAVOR_RECON"/>
+</Update>
+<Update>
+	<Set Flavor="2"/>
+	<Where UnitType="UNIT_GREAT_GENERAL" FlavorType="FLAVOR_DEFENSE"/>
+</Update>
+<Update>
+	<Set Flavor="4"/>
+	<Where UnitType="UNIT_GREAT_GENERAL" FlavorType="FLAVOR_OFFENSE"/>
+</Update>
+<Update>
+	<Set Flavor="1"/>
+	<Where UnitType="UNIT_MONGOLIAN_KHAN" FlavorType="FLAVOR_RECON"/>
+</Update>
+<Update>
+	<Set Flavor="2"/>
+	<Where UnitType="UNIT_MONGOLIAN_KHAN" FlavorType="FLAVOR_DEFENSE"/>
+</Update>
+<Update>
+	<Set Flavor="4"/>
+	<Where UnitType="UNIT_MONGOLIAN_KHAN" FlavorType="FLAVOR_OFFENSE"/>
+</Update>
+</Unit_Flavors>
+	
+<Unit_YieldFromKills>
+<Row>
+	<UnitType>UNIT_SHAMAN</UnitType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>100</Yield>
+</Row>
+<Row>
+	<UnitType>UNIT_GREAT_GENERAL</UnitType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>100</Yield>
+</Row>
+<Row>
+	<UnitType>UNIT_MONGOLIAN_KHAN</UnitType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>100</Yield>
+</Row>
+<Row>
+	<UnitType>UNIT_GREAT_GENERAL</UnitType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>50</Yield>
+</Row>
+<Row>
+	<UnitType>UNIT_MONGOLIAN_KHAN</UnitType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>50</Yield>
+</Row>
+</Unit_YieldFromKills>
+
+<Unit_FreePromotions>
+<Row>
+	<UnitType>UNIT_GREAT_GENERAL</UnitType>
+	<PromotionType>PROMOTION_GOLDEN_AGE_POINTS</PromotionType>
+</Row>
+<Row>
+	<UnitType>UNIT_GREAT_GENERAL</UnitType>
+	<PromotionType>PROMOTION_HERO</PromotionType>
+</Row>
+<Row>
+	<UnitType>UNIT_GREAT_GENERAL</UnitType>
+	<PromotionType>PROMOTION_RECRUITMENT</PromotionType>
+</Row>
+<Row>
+	<UnitType>UNIT_GREAT_GENERAL</UnitType>
+	<PromotionType>PROMOTION_FEARED_ELEPHANT</PromotionType>
+</Row>
+	
+<Row>
+	<UnitType>UNIT_MONGOLIAN_KHAN</UnitType>
+	<PromotionType>PROMOTION_GOLDEN_AGE_POINTS</PromotionType>
+</Row>	
+<Row>
+	<UnitType>UNIT_MONGOLIAN_KHAN</UnitType>
+	<PromotionType>PROMOTION_HERO</PromotionType>
+</Row>
+<Row>
+	<UnitType>UNIT_MONGOLIAN_KHAN</UnitType>
+	<PromotionType>PROMOTION_RECRUITMENT</PromotionType>
+</Row>
+<Row>
+	<UnitType>UNIT_MONGOLIAN_KHAN</UnitType>
+	<PromotionType>PROMOTION_FEARED_ELEPHANT</PromotionType>
+</Row>
+</Unit_FreePromotions>
+<UnitPromotions>
+<Row>
+	<Type>PROMOTION_HERO</Type>
+	<Description>TXT_KEY_PROMOTION_HERO</Description>
+	<Help>TXT_KEY_PROMOTION_HERO_HELP</Help>
+	<Sound>AS2D_IF_LEVELUP</Sound>
+	<OrderPriority>2</OrderPriority>
+	<AttackMod>5</AttackMod>
+	<DefenseMod>25</DefenseMod>
+	<PortraitIndex>59</PortraitIndex>
+	<IconAtlas>ABILITY_ATLAS</IconAtlas>
+	<CannotBeChosen>true</CannotBeChosen>
+</Row>
+</UnitPromotions>
+<Language_en_US>
+<Row Tag="TXT_KEY_PROMOTION_HERO">
+	<Text>Hero Promotion</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_HERO_HELP">
+	<Text>Promotion Hero</Text>
+</Row>
+<Update>
+	<Set Text="Hero"/>
+	<Where Tag="TXT_KEY_UNIT_GREAT_GENERAL"/>
+</Update>
+</Language_en_US>
+<Language_de_DE>
+<Row Tag="TXT_KEY_PROMOTION_HERO">
+	<Text>Hero Promotion</Text>
+</Row>
+<Row Tag="TXT_KEY_PROMOTION_HERO_HELP">
+	<Text>Promotion Hero</Text>
+</Row>
+<Update>
+	<Set Text="Epischer Held"/>
+	<Where Tag="TXT_KEY_UNIT_GREAT_GENERAL"/>
+</Update>
+</Language_de_DE>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

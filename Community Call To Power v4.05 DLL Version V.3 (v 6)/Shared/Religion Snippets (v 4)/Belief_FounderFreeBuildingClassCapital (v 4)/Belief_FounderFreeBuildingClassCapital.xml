@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/8/2014 12:12:00 PM -->
+<!-- 
+	NOTE: Depends on ReligionFoundedEvent.
+
+	Once a player founds a religion if it contains a founder belief listed in this table
+	the player will have the buildingClass placed in their capital (not holy city).  It
+	does not matter what religion any of the player's cities are.
+	
+	Only founder beliefs should be provided as belief type.  Other belief types will
+	not work correctly.
+	
+	If a player's capital moves (due to being captured) the buildingClass will
+	automatically be moved to the new capital.
+-->
+<GameData>
+	<!-- New Table Definitions -->
+	<Table name="Belief_FounderFreeBuildingClassCapital">
+		<Column name="BeliefType" type="text" reference="Beliefs(Type)"/>
+		<Column name="BuildingClassType" type="text" reference="BuildingClasses(Type)"/>
+	</Table>
+</GameData>

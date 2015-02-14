@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 2/15/2014 6:43:51 PM -->
+<GameData>
+<!--/////////Resources***Gametext\\\\\\\\\-->
+
+	<Language_en_US>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		
+		<!--Manpower-->
+		<!--//!\\-->
+		<Update>
+			<Set Text="[ICON_RES_MANPOWER] Manpower is needed to build wonders and units.[NEWLINE]The cost to build wonders are based per era and starts with one requirement of [ICON_RES_MANPOWER] Manpower.[NEWLINE]You will get additional [ICON_RES_MANPOWER] Manpower by constructing  infrastructure buildings, Improvements and by adopting [ICON_CULTURE] Social Policies." />
+			<Where Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_HELP" />
+		</Update>
+		<!--//!\\-->
+		<Update>
+			<Set Text="Every World Wonder need support by [ICON_RES_MANPOWER] Manpower.[NEWLINE]Be carefully with your plans, while you can loose [ICON_RES_MANPOWER] Manpower, when in War or und Culture Siege" />
+			<Where Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_TEXT" />
+		</Update>
+		<!--//!\\-->
+		
+		<!--//!\\-->
+
+		<!--//!\\-->
+		
+		
+		<!--//!\\-->
+		<!--<<<<<<<<<<[RESOURCE_FLAX]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_FLAX">
+			<Text>Flax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FLAX_TEXT">
+			<Text>Flax is an erect annual plant growing to 1.2 m (3 ft 11 in) tall, with slender stems. The leaves are glaucous green, slender lanceolate, 20–40 mm long and 3 mm broad. The flowers are pure pale blue, 15–25 mm diameter, with five petals; they can also be bright red. The fruit is a round, dry capsule 5–9 mm diameter, containing several glossy brown seeds shaped like an apple pip, 4–7 mm long. In addition to referring to the plant itself, the word "flax" may refer to the unspun fibres of the flax plant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FLAX_HELP">
+			<Text>Flax is grown both for its use as an edible oil, as a nutritional supplement, and as an ingredient in many wood finishing products.</Text>
+		</Row>
+		
+		<!--//!\\-->
+		<!--<<<<<<<<<<[RESOURCE_BERRIES]>>>>>>>>>>--><!--//!\\-->
+		<Row Tag="TXT_KEY_RESOURCE_BERRIES">
+			<Text>Berry Bushes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BERRIES_HELP">
+			<Text>Berries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BERRIES_TEXT">
+			<Text>Small berry bushes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CACAO">
+			<Text>Cacao Trees</Text>
+		</Row>  
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CACAO_TEXT">
+			<Text>Cacao tree is a small (4–8 m (13–26 ft) tall) evergreen tree in the family Sterculiaceae, native to the deep tropical regions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CACAO_HELP">
+			<Text>Its seeds are used to make cocoa powder and chocolate.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_MANGO]>>>>>>>>>>-->
+		<!--//!\\-->
+		<Row Tag="TXT_KEY_RESOURCE_MANGO">
+		  	<Text>Mango trees</Text>
+		</Row> 	
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGO_TEXT">
+		    <Text>Mango trees grow up to 35–40 m (115–130 ft) tall, with a crown radius of 10 m (33 ft). The trees are long-lived, as some specimens still fruit after 300 years. In deep soil, the taproot descends to a depth of 6 m (20 ft), with profuse, wide-spreading feeder roots; the tree also sends down many anchor roots, which penetrate several feet of soil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MANGO_HELP">
+		    <Text>Mangoes are widely used in cuisine. Sour, unripe mangoes are used in chutneys, athanu, pickles, or side dishes, or may be eaten raw with salt, chili, or soy sauce.</Text>
+		</Row>
+
+		<!--//!\\-->
+	
+	<!--<<<<<<<<<<[RESOURCE_CORN]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_CORN">
+			<Text>Maize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CORN_TEXT">
+			<Text>Maize, known in some English-speaking countries as corn, is a large grain plant domesticated by indigenous peoples in Mesoamerica in prehistoric times. The leafy stalk produces ears which contain the grain, which are seeds called kernels. Maize kernels are used in cooking as a starch. The Olmec and Mayans cultivated it in numerous varieties throughout Mesoamerica, cooked, ground or processed through nixtamalization. Beginning about 2500 BC, the crop spread through much of the Americas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CORN_HELP">
+			<Text>Maize gives +1 Food</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_COCONUT]>>>>>>>>>>-->
+		<!--//!\\-->
+       <Row Tag="TXT_KEY_RESOURCE_COCONUT">
+			<Text>Coconut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCONUT_TEXT">
+			<Text>Found throughout the tropic and subtropic area, the coconut is known for its great versatility as seen in the many domestic, commercial, and industrial uses of its different parts. Coconuts are part of the daily diet of many people. Coconuts are different from any other fruits because they contain a large quantity of "water" and when immature they are known as tender-nuts or jelly-nuts and may be harvested for drinking. When mature they still contain some water and can be used as seednuts or processed to give oil from the kernel, charcoal from the hard shell and coir from the fibrous husk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COCONUT_HELP">
+			<Text>Versatile foodstuff</Text>
+		</Row>
+
+		<!--//!\\-->
+
+		<!--//!\\-->
+
+		<!--<<<<<<<<<<[RESOURCE_COFFEE]>>>>>>>>>>-->
+		<!-- Resource Additions -->
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+		<!--//!\\-->
+		<Row Tag="TXT_KEY_RESOURCE_WOOD">
+			<Text>Exotic Hardwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_WOOD_TEXT">
+			<Text>Hardwoods are employed in a large range of applications including: fuel, tools, construction, boat building, furniture making, musical instruments, flooring, cooking, barrels, manufacture of charcoal, etc. Solid hardwood joinery tends to be expensive compared to softwood. In the past, tropical hardwoods were easily available but the supply of some species such as Burma teak, and mahogany is now becoming scarce due to over-exploitation. </Text>
+		</Row>
+		<!--<<<<<<<<<<[RESOURCE_WOOD]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_WOOD_HELP">
+			<Text>Strong hardwood used in building construction.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PEACOCKFEATHER_TEXT">
+			<Text>Peacock Feathers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEACOCKFEATHER">
+			<Text>Peacock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COCA">
+			<Text>Coca</Text>
+		</Row>
+	
+	
+		<!--<<<<<<<<<<[RESOURCE_BARLEY]>>>>>>>>>>-->	
+		<Row Tag="TXT_KEY_RESOURCE_BARLEY">
+			<Text>Barley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BARLEY_TEXT">
+			<Text>Barley, a member of the grass family, is a major cereal grain. Important uses include use as animal fodder, as a source of fermentable material for beer and certain distilled beverages, and as a component of various health foods. It is used in soups and stews, and in barley bread of various cultures. Barley grains are commonly made into malt in a traditional and ancient method of preparation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BARLEY_HELP">
+			<Text>It is currently popular in temperate areas where it is grown as a summer crop and tropical areas where it is sown as a winter crop.</Text>
+		</Row>
+		
+		
+		<!--<<<<<<<<<<[RESOURCE_RUBBER]>>>>>>>>>>-->
+		<!--//!\\-->
+
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER">
+			<Text>Rubber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RUBBER_TEXT">
+			<Text>Hevea brasiliensis, the Pará rubber tree, sharinga tree, or, most commonly, the rubber tree, is a tree belonging to the family Euphorbiaceae. It is the most economically important member of the genus Hevea. It is of major economic importance because the milky latex extracted from the tree is the primary source of natural rubber.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER_HELP">
+			<Text>The tree requires a climate with heavy rainfall and without frost.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_BEER]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_COFFEE">
+			<Text>Coffee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COFFEE_TEXT">
+			<Text>Coffee is a brewed beverage with a bitter flavor prepared from the roasted seeds of the coffee plant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COFFEE_HELP">
+			<Text>Aromatic beans coveted by many.</Text>
+		</Row>
+
+		<!--<<<<<<<<<<[RESOURCE_STEEL]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_STEEL">
+			<Text>Steel</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STEEL_HELP">
+			<Text>To get Steel you a supply of Iron and Coal and a Steel Foundry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL">
+			<Text>Steel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TEXT">
+			<Text>Steel is an alloy that consists mostly of iron and has a carbon content between 0.2% and 2.1% by weight, depending on the grade.[NEWLINE] Though steel had been produced by various inefficient methods long before the Renaissance, its use became more common after more-efficient production methods were devised in the 17th century. With the invention of the Bessemer process in the mid-19th century, steel became an inexpensive mass-produced material. (Source : Wikipedia)</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_BEER]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_BEER">
+			<Text>Beer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BEER_TEXT">
+			<Text>Beer is an alcoholic beverage produced by the saccharification of starch and fermentation of the resulting sugar. The starch and saccharification enzymes are often derived from malted cereal grains, most commonly malted barley and malted wheat. Most beer is also flavoured with hops, which add bitterness and act as a natural preservative, though other flavourings such as herbs or fruit may occasionally be included. The preparation of beer is called brewing. Beer is the world's most widely consumed alcoholic beverage, and is the third-most popular drink overall, after water and tea. It is thought by some to be the oldest fermented beverage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BEER_HELP">
+			<Text>Beer is only available through the Brewery.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_CIGARS]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_CIGARS">
+			<Text>Cigars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CIGARS_TEXT">
+			<Text>Cigars are tightly-rolled bundles of dried and fermented tobacco that are ignited so that their smoke may be drawn into the mouth. Cigar tobacco is grown in significant quantities in Brazil, Cameroon, Cuba, the Dominican Republic, Honduras, Indonesia, Mexico, Nicaragua, the Philippines, and the Eastern United States. The word "cigar" originated from the word "cigarro" in Spanish, which probably came from the Mayan "sikar" ("to smoke rolled tobacco leaves" – from sik, "tobacco;") or from the Spanish word cigarra ("grasshopper"). However, the word itself, and variations on it, did not come into general use until 1730. New names for cigars include "Jules", "Havana", "Vitole" and "Puro". An older alternate spelling is "segar", not uncommon in 19th century signs and advertisements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CIGARS_HELP">
+			<Text>Cigars are only available through a Mercantile City-State.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_HONEY]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_HONEY">
+			<Text>Honey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HONEY_TEXT">
+			<Text>Honey is a sweet food made by bees using nectar from flowers. The variety produced by honey bees (the genus Apis) is the one most commonly referred to, as it is the type of honey collected by beekeepers and consumed by humans. Honey produced by other bees and insects has distinctly different properties. Honey bees transform nectar into honey by a process of regurgitation and evaporation. They store it as a primary food source in wax honeycombs inside the beehive. Honey has a long history in human consumption, and is used in various foods and beverages as a sweetener and flavoring.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HONEY_HELP">
+			<Text>Honey is only available through a Mercantile City-State.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_INFUSIONS]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_INFUSIONS">
+			<Text>Infusions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_INFUSIONS_TEXT">
+			<Text>Infusion is the process of extracting chemical compounds or flavors from plant material in a solvent such as water, oil or alcohol, by allowing the material to remain suspended in the solvent over time (a process often called steeping). An infusion is also the name for the resultant liquid. A common example of an infusion is tea, and many tisanes are prepared in the same way. Lemon, chamomile, senna, apple, ginger, rooibos, and a great many other plants are used individually or in combination. Herbal infusions in water and oil are both commonly used as herbal remedies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_INFUSIONS_HELP">
+			<Text>Infusions are only available through a Mercantile City-State.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_ARTIFACT]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_ARTIFACT">
+			<Text>Artefakte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ARTIFACT_TEXT">
+			<Text>Artifacts or artefacts (from Latin phrase arte factum, from ars skill + facere to make) are something made or given shape by man, such as a tool or a work of art, especially objects of archaeological interest. In archaeology, where the term is most commonly used, an artifact is an object recovered by some archaeological endeavor, which may have a cultural interest. Examples include stone tools such as projectile points, pottery vessels, metal objects such as guns, and items of personal adornment such as buttons, jewellery and clothing. Other examples include bone that show signs of human modification, fire cracked rocks from a hearth or plant material used for food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ARTIFACT_HELP">
+			<Text>Artifacts are only available through a Mercantile City-State.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[_RESOURCE_PAINTING]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_PAINTING">
+			<Text>GemAlde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PAINTING_TEXT">
+			<Text>Paintings are compositions or images made as a result of the act of painting; the practice of applying paint, pigment, color or other medium to a surface (support base). The medium is commonly applied to the base with a brush but other objects can be used. In art, the term painting describes both the act and the result of the action. However, painting is also used outside of art as a common trade among craftsmen and builders. Paintings may have for their support such surfaces as walls, paper, canvas, wood, glass, lacquer, clay, leaf, copper or concrete, and may incorporate multiple other materials including sand, clay, paper, gold leaf as well as objects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PAINTING_HELP">
+			<Text>Paintings are only available through a Mercantile City-State.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_MANUSCRIPT]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_MANUSCRIPT">
+			<Text>Manuscripts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANUSCRIPT_TEXT">
+			<Text>A Manuscript or Handwrit is written information that has been manually created by one or more people, such as a hand-written letter, as opposed to being printed or reproduced some other way. The term may also be used for information that is hand-recorded in other ways than writing, for example inscriptions that are chiselled upon a hard material or scratched (the original meaning of graffiti) as with a knife point in plaster or with a stylus on a waxed tablet (the way Romans made notes), or are in cuneiform writing, impressed with a pointed stylus in a flat tablet of unbaked clay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MANUSCRIPT_HELP">
+			<Text>Manuscripts are only available through the improvement Academy.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_CHOCOLATE]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_CHOCOLATE">
+			<Text>Chocolate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CHOCOLATE_TEXT">
+			<Text>Chocolate is a raw or processed food produced from the seed of the tropical Theobroma cacao tree. Cacao has been cultivated for at least three millennia in Mexico, Central and South America. Its earliest documented use is around 1100 BC. The majority of the Mesoamerican people made chocolate beverages, including the Aztecs, who made it into a beverage known as xocolatl, a Nahuatl word meaning "bitter water". The Europeans sweetened and fattened it by adding refined sugar and milk, two ingredients unknown to the Mexicans. By contrast, the Europeans never infused it into their general diet, but have compartmentalized its use to sweets and desserts. In the 19th century, Briton John Cadbury developed an emulsification process to make solid chocolate, creating the modern chocolate bar. Although cocoa is originally from the Americas, today Western Africa produces almost two-thirds of the world's cocoa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CHOCOLATE_HELP">
+			<Text>Chocolate is only available through a Mercantile City-State.</Text>
+		</Row>
+		
+		<!--<<<<<<<<<<[RESOURCE_FURNITURE]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_FURNITURE">
+			<Text>Furniture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FURNITURE_TEXT">
+			<Text>Furniture is an object that is intended to support various human activities such as seating and sleeping. Furniture is also used to hold objects at a convenient height for work (as horizontal surfaces above the ground), or to store things. Furniture can be a product of design and is considered a form of decorative art. In addition to furniture's functional role, it can serve a symbolic or religious purpose. Furniture can be made from many materials, including metal, plastic, and wood. Furniture can be made using a variety of woodworking joints which often reflect the local culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FURNITURE_HELP">
+			<Text>Furniture is only available through a Mercantile City-State.</Text>
+		</Row>
+
+		<!--<<<<<<<<<<[RESOURCE_GLASS]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_GLASS">
+			<Text>Glass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GLASS_TEXT">
+			<Text>Glass is a solid material that is typically transparent and brittle and has been used for centuries in windows and drinking vessels. The history of creating glass can be traced back to 3500 BCE in Mesopotamia. The term glass developed in the late Roman Empire. It was in the Roman glassmaking center at Trier, now in modern Germany, that the late-Latin term glesum originated, probably from a Germanic word for a transparent, lustrous substance. The center for luxury glassmaking from the 14th century was the island of Murano, which developed many new techniques and became the center of a lucrative export trade in dinnerware, mirrors, and other items. What made Venetian Murano glass significantly different was that the local quartz pebbles were almost pure silica, and were ground into a fine clear sand that was combined with soda ash obtained from the Levant, for which the Venetians held the sole monopoly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GLASS_HELP">
+			<Text>Glass is only available through a Mercantile City-State.</Text>
+		</Row>
+		<!--<<<<<<<<<<[RESOURCE_GLASS]>>>>>>>>>>-->
+
+		<!--<<<<<<<<<<[RESOURCE ELECTRICITY]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ELECTRICITY">
+			<Text>Electricity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_PEDIA">
+			<Text>Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electricus ("of amber" or "like amber", from ήλεκτρον [elektron], the Greek word for "amber") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in Thomas Browne's Pseudodoxia Epidemica of 1646</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ELECTRICITY_TEXT">
+		<Text>Electrical phenomena have been studied since antiquity, though advances in the science were not made until the seventeenth and eighteenth centuries. Practical applications for electricity however remained few, and it would not be until the late nineteenth century that engineers were able to put it to industrial and residential use. The rapid expansion in electrical technology at this time transformed industry and society. Electricity's extraordinary versatility as a means of providing energy means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation. Electrical power is the backbone of modern industrial society.</Text>
+</Row>
+		<!--<<<<<<<<<<[RESOURCE ELECTRICITY]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_CIV5_ELECTRICITY_HELP">
+			<Text>Electricity is needed for the most modern buildings and units.</Text>
+		</Row>
+
+		<!--<<<<<<<<<<[RESOURCE_DIESEL]>>>>>>>>>>-->
+		<Row
+			Tag="TXT_KEY_RESOURCE_DIESEL_HELP">
+			<Text>Fuel for land and sea units. A supply of Oil and an Oil Refinery are required to get Diesel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIESEL">
+			<Text>Diesel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIESEL_TEXT">
+			<Text>Diesel fuel in general is any liquid fuel used in diesel engines. The most common is a specific fractional distillate of petroleum fuel oil, but alternatives that are not derived from petroleum, such as biodiesel, biomass to liquid (BTL) or gas to liquid (GTL) diesel, are increasingly being developed and adopted. (Source : Wikipedia)</Text>
+		</Row>
+		<!--<<<<<<<<<<[RESOURCE_KEROSENE]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_KEROSENE_HELP">
+			<Text>Aviation fuel. A supply of Oil and an Oil Refinery are required to get Kerosene.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KEROSENE">
+			<Text>Kerosene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KEROSENE_TEXT">
+			<Text>Kerosene, sometimes spelled kerosine in scientific and industrial usage, also known as paraffin in the United Kingdom and South Africa, is a combustible hydrocarbon liquid. Kerosene is widely used to power jet-engined aircraft (jet fuel) and some rockets, but is also commonly used as a heating fuel and for fire toys such as poi. In parts of Asia, where the price of kerosene is subsidized, it fuels outboard motors rigged on small fishing craft (Source : Wikipedia).</Text>
+		</Row>
+		<!--<<<<<<<<<<[RESOURCE_BLOCKBUSTER]>>>>>>>>>>-->
+		<Row Tag="TXT_KEY_RESOURCE_BLOCKBUSTER">
+			<Text>Blockbuster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BLOCKBUSTER_TEXT">
+			<Text>Blockbuster, as applied to film or theatre, denotes a very popular or successful production. The entertainment industry use was originally theatrical slang referring to a particularly successful play, but is now used primarily by the film industry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BLOCKBUSTER_HELP">
+			<Text>Blockbusters can only be gained from the [COLOR_POSITIVE_TEXT]Hollywood[ENDCOLOR] Wonder. They can be traded off to other Civilizations.</Text>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+
+	
+
+		<Row Tag="TXT_KEY_RESOURCE_COCA">
+			<Text>Coca</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COCA_HELP">
+			<Text>Used for Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA">
+			<Text>Cocaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA_TEXT">
+			<Text>The Coca plant is used for various reasons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA_TITLE1">
+			<Text>Technology Required to See</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA_TITLE2">
+			<Text>Location</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA_TITLE3">
+			<Text>Improvement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA_TITLE4">
+			<Text>Yield Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA_TITLE5">
+			<Text>Allows</Text>
+		</Row>
+
+
+
+
+
+		<!--TURKISHJEWELRY-->
+		<Row Tag="TXT_KEY_RESOURCE_TURKISHJEWELRY">
+			<Text>Ottoman Jewelry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TURKISHJEWELRY_TEXT">
+			<Text>The Ottoman Empire was noted for the quality of its gold- and silversmiths, and particularly for the jewelry they produced. Jewelry had particular importance as it was commonly given at weddings, as a gift that could be used as a form of savings. Silver was the most common material used, with gold reserved for more high-status pieces; designs often displayed complex filigree work and incorporated Persian and Byzantine motifs. Developments in design reflected the tastes of the Ottoman court, with Persian Safavid art, for example, becoming an influence after the Ottoman defeat of Ismail I after the Battle of Chaldiran in 1514. In the rural areas of the Empire, jewelry was simpler and often incorporated gold coins (the Ottoman altin), but the designs of Constantinople nevertheless spread throughout Ottoman territory and were reflected even in the metalwork of Egypt and North Africa..</Text>
+		</Row>
+		
+		<!--TURKISHCARPETS-->
+		<Row Tag="TXT_KEY_RESOURCE_TURKISHCARPETS">
+			<Text>Anatolian Carpets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TURKISHCARPETS_TEXT">
+			<Text>Turkish carpets and rugs, whether hand knotted or flat woven (Kilim, Soumak, Cicim, Zili), are among the most well known and established hand crafted art works in the world. Historically: religious, cultural, environmental, sociopolitical and socioeconomic conditions created widespread utilitarian need and have provided artistic inspiration among the many tribal peoples and ethnic groups in Central Asia and Turkey. The term tends to cover not just the products of the modern territory of Turkey, but also those of Turkic peoples living elsewhere, mostly to the east of Anatolia.</Text>
+		</Row>
+
+		<!--JCRANE-->
+		<Row Tag="TXT_KEY_RESOURCE_JCRANE">
+			<Text>Japanese Cranes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JCRANE_TEXT">
+			<Text>The Red-crowned Crane, also called the Japanese Crane, is a large east Asian crane and among the rarest cranes in the world. In some parts of its range, it is known as a symbol of luck, longevity and fidelity.</Text>
+		</Row>
+
+
+		<!--ROMANSTATUE-->
+		<Row Tag="TXT_KEY_RESOURCE_ROMANSTATUE">
+			<Text>Roman statues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ROMANSTATUE_TEXT">
+			<Text>Classical sculpture refers loosely to the forms of sculpture from Ancient Greece and Ancient Rome, as well as the Hellenized and Romanized civilizations under their rule or influence from about 500 BC to around 200 AD. More precisely it refers to Ancient Greek sculpture from around 500 BC to the onset of the Hellenistic style around 323 BC. It may also refer stylistically to later sculpture done in a Neoclassical or classical style. Classical sculptures have been popular since the Renaissance. Only those works that closely follow the canon of classical forms would fall under the term.</Text>
+		</Row>
+		
+		
+		<!--LINEN-->
+		<Row Tag="TXT_KEY_RESOURCE_LINEN">
+			<Text>Linen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LINEN_HELP">
+			<Text>Produced at the Weaver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LINEN">
+			<Text>Linen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LINEN_TEXT">
+			<Text>Woven linen has been known in Egypt since 5000 BCE. The oldest depiction of a loom was found at Badari on a pottery dish dating from the middle of the 5th millennium BCE while the first known pictures of weavers were drawn during the Middle Kingdom.</Text>
+		</Row>
+		
+		<!--LAPIS-->
+		<Row Tag="TXT_KEY_RESOURCE_LAPIS">
+			<Text>Lapis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LAPIS_HELP">
+			<Text>Royal Palace: +3 [ICON_HAPPINESS_1] per copy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LAPIS">
+			<Text>Lapis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LAPIS_TEXT">
+			<Text>In ancient Egypt, lapis lazuli was a favorite stone for amulets and ornaments such as scarabs; it was also used in ancient Mesopotamia by the Sumerians, Akkadians, Assyrians, and Babylonians for seals and jewelry.[NEWLINE][NEWLINE]Lapis jewelry has been found at excavations of the Predynastic Egyptian site Naqada (3300–3100 BC), and powdered lapis was used as eyeshadow by Cleopatra."
+			</Text>
+		</Row>
+		
+		<!--BREAD-->
+		<Row Tag="TXT_KEY_RESOURCE_BREAD">
+			<Text>Bread</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BREAD_HELP">
+			<Text>Required to support Military Units.[NEWLINE]Produced at Granaries and Bakeries.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BREAD">
+			<Text>Bread</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BREAD_TEXT">
+			<Text>Bread, made from wheat and barley, was the staple food of Egypt and sometimes a source of currency.</Text>
+		</Row>
+		
+		<!--WEAPONS-->
+		<Row Tag="TXT_KEY_RESOURCE_WEAPONS">
+			<Text>Bronze Weapons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WEAPONS_HELP">
+			<Text>Required to equip advanced Military Units.[NEWLINE]Produced at the Weaponsmith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_WEAPONS">
+			<Text>Bronze Weapons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_WEAPONS_TEXT">
+			<Text>
+				The introduction of bronze was a huge improvement in tool and weapon manufacture. Unlike iron which was a difficult material to work with, bronze technologies were similar to the techniques improved during the copper age: It could be cast, hammered cold, and annealing improved its toughness.
+			</Text>
+		</Row>
+
+		<!--BLUEPORCELAIN-->
+		<Row Tag="TXT_KEY_RESOURCE_BLUEPORCELAIN">
+			<Text>Blue Porcelain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BLUEPORCELAIN_TEXT">
+			<Text>"Blue and white wares" designate white pottery and porcelain decorated under the glaze with a blue pigment, generally cobalt oxide. The decoration is commonly applied by hand, by stencilling or by transfer-printing, though other methods of application have also been used.</Text>
+		</Row>
+
+
+		<!--SULFUR-->
+		<Row Tag="TXT_KEY_RESOURCE_SULFUR">
+			<Text>Sulfur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SULFUR_HELP">
+			<Text>Required for musketmen and cannons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SULFUR">
+			<Text>Sulfur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SULFUR_TEXT">
+			<Text>Sulphur is a non-metallic element that occurs in both combined and free states and is distributed widely over the earth's surface. It is tasteless, odorless, insoluble in water, and often occurs in yellow crystals or masses. It is one of the most abundant elements found in a pure crystalline form. The word sulphur is Latin for "burning stone", and was used almost interchangeably with the term for fire.</Text>
+		</Row>
+
+		<!--ASPIRIN-->
+		<Row Tag="TXT_KEY_RESOURCE_ASPIRIN">
+			<Text>Aspirin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ASPIRIN_HELP">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ASPIRIN">
+			<Text>Aspirin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ASPIRIN_TEXT">
+			<Text>Aspirin , also known as acetylsalicylic acid , is a salicylate drug, often used as an analgesic to relieve minor aches and pains, as an antipyretic to reduce fever, and as an anti-inflammatory medication. Aspirin also has an antiplatelet effect by inhibiting the production of thromboxane, which under normal circumstances binds platelet molecules together to create a patch over damaged walls of blood vessels. Because the platelet patch can become too large and also block blood flow, locally and downstream, aspirin is also used long-term, at low doses, to help prevent heart attacks, strokes, and blood clot formation in people at high risk of developing blood clots. Also, low doses of aspirin may be given immediately after a heart attack to reduce the risk of another heart attack or of the death of cardiac tissue. Aspirin may be effective at preventing certain types of cancer, particularly colorectal cancer.[NEWLINE]The main side effects of aspirin are gastrointestinal ulcers, stomach bleeding, and ringing in the ears, especially with higher doses. In children and adolescents, aspirin is not recommended for flu-like symptoms or viral illnesses, because of the risk of Reye's syndrome.[NEWLINE]Aspirin is part of a group of medications called nonsteroidal anti-inflammatory drugs (NSAIDs), but differs from most other NSAIDs in the mechanism of action. Though it and others with similar structure, called the salicylates, have similar effects (antipyretic, anti-inflammatory, analgesic) to the other NSAIDs and inhibit the same enzyme cyclooxygenase (COX), aspirin does so in an irreversible manner and, unlike others, affects more the COX-1 variant than the COX-2 variant of the enzyme.[NEWLINE]The active ingredient of aspirin was first discovered from the bark of the willow tree in 1763 by Edward Stone of Wadham College, University of Oxford. He had discovered salicylic acid, the active metabolite of aspirin. Aspirin was first synthesized by Felix Hoffmann, a chemist with the German company Bayer in 1897. Aspirin is one of the most widely used medications in the world, with an estimated 40,000 tonnes of it being consumed each year. In countries where "Aspirin" is a registered trademark owned by Bayer, the generic term is acetylsalicylic acid (ASA). It is on the WHO Model List of Essential Medicines, a list of the most important medication needed in a basic health system.</Text>
+		</Row>
+
+		<!--SOMA-->
+		<Row Tag="TXT_KEY_RESOURCE_SOMA">
+			<Text>SOMA</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SOMA_HELP">
+			<Text>Increase [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SOMA">
+			<Text>Increase [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SOMA_TEXT">
+			<Text>Soma is the name of a fictional drug in Aldous Huxley's 1932 novel, Brave New World. In the novel the drug produces both intoxicating and psychoactive properties and is used in celebratory rituals. It is described as "All of the benefits of Christianity and alcohol without their defects." Another drug derived from mountain growing mushrooms is featured in his 1962 novel, Island, in which it is used in a Hindu-based religious ceremony worshipping the god Shiva. Called moksha medicine it is portrayed in a positive light, as a key to enlightenment.</Text>
+		</Row>
+		
+		<!--CELLS-->
+		<Row Tag="TXT_KEY_RESOURCE_CELLS">
+			<Text>Fuel Cells</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CELLS_HELP">
+			<Text>[ICON_CELLS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CELLS">
+			<Text>[ICON_CELLS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CELLS_TEXT">
+			<Text></Text>
+		</Row>
+
+		<!--FLINT-->
+		<Row Tag="TXT_KEY_RESOURCE_FLINT">
+			<Text>Obsidian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FLINT_HELP">
+			<Text>[ICON_FLINT] Obsidian is need for some prehistoric buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FLINT">
+			<Text>[ICON_FLINT] Obsidian is need for some prehistoric buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FLINT_TEXT">
+			<Text>Obsidian is a naturally occurring volcanic glass formed as an extrusive igneous rock.[NEWLINE]It is produced when felsic lava extruded from a volcano cools rapidly with minimum crystal growth. Obsidian is commonly found within the margins of rhyolitic lava flows known as obsidian flows, where the chemical composition (high silica content) induces a high viscosity and polymerization degree of the lava. The inhibition of atomic diffusion through this highly viscous and polymerized lava explains the lack of crystal growth. Obsidian is hard and brittle; it therefore fractures with very sharp edges, which were used in the past in cutting and piercing tools, and has been used experimentally as surgical scalpel blades.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_PAPER">
+			<Text>Paper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PAPER_HELP">
+			<Text>Produced at the Paper Maker Building.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PAPER">
+			<Text>Is needed to construct the Library.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PAPER_TEXT">
+			<Text>As a writing material papyrus was used since the late fourth millennium BCE. It was produced in sheets by laying lengths of wet papyrus pith side by side, adding a second layer at a right angle on top, and fusing the pith by applying pressure. The product was then smoothed by rubbing it with a stone, shell or the like.[NEWLINE][NEWLINE]The sheets were stuck together with starch-based glues to form scrolls. From the early second millennium on papyrus was exported, at first to the Levant then later through the Mediterranean.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_RESOURCE_PAPYRUS">
+			<Text>Papyrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PAPYRUS_HELP">
+			<Text>Produced at the Papyrus Farm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PAPYRUS">
+			<Text>Is needed to construct the Library.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PAPYRUS_TEXT">
+			<Text>upps</Text>
+		</Row>
+
+
+
+
+
+
+
+
+		<!--<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE1">
+			<Text>Technology Required to See</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE2">
+			<Text>Location</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE3">
+			<Text>Improvement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE4">
+			<Text>Yield Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE5">
+			<Text>Allows</Text>
+		</Row>-->
+
+
+		<!-- TODO: Insert table data example here.-->
+		
+		<!--BISON
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON">
+			<Text>Bison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT">
+			<Text>The North American bison, which once covered the Great Plains in massive herds, was the primary source for the meat, sinew, hide and bone necessary for survival by many native tribes. Hunted to near extinction by Americans in the late 1800s, in recent decades the buffalo has made a comeback due to federal and state wildlife programs.</Text>
+		</Row>-->
+		<!--Resource tags-->
+		<!--ELECTRICITY
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY">
+			<Text>Electricity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_PEDIA">
+			<Text>Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electricus ("of amber" or "like amber", from ήλεκτρον [elektron], the Greek word for "amber") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in Thomas Browne's Pseudodoxia Epidemica of 1646</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ELECTRICITY_TEXT">
+			<Text>
+				Electrical phenomena have been studied since antiquity, though advances in the science were not made until the seventeenth and eighteenth centuries. Practical applications for electricity however remained few, and it would not be until the late nineteenth century that engineers were able to put it to industrial and residential use. The rapid expansion in electrical technology at this time transformed industry and society. Electricity's extraordinary versatility as a means of providing energy means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation. Electrical power is the backbone of modern industrial society.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_HELP">
+			<Text>Electricity is needed for the most modern buildings.</Text>
+		</Row>
+-->
+		<!--DIESEL
+		<Row Tag="TXT_KEY_RESOURCE_DIESEL_HELP">
+			<Text>Fuel for land and sea units. A supply of Oil and an Oil Refinery are required to get Diesel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIESEL">
+			<Text>Diesel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIESEL_TEXT">
+			<Text>
+				Diesel fuel in general is any liquid fuel used in diesel engines. The most common is a specific fractional distillate of petroleum fuel oil, but alternatives that are not derived from petroleum, such as biodiesel, biomass to liquid (BTL) or gas to liquid (GTL) diesel, are increasingly being developed and adopted. (Source : Wikipedia)
+			</Text>
+		</Row>-->
+
+		<!--KEROSENE
+		<Row Tag="TXT_KEY_RESOURCE_KEROSENE_HELP">
+			<Text>Aviation fuel. A supply of Oil and an Oil Refinery are required to get Kerosene.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KEROSENE">
+			<Text>Kerosene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KEROSENE_TEXT">
+			<Text>Kerosene, sometimes spelled kerosine in scientific and industrial usage, also known as paraffin in the United Kingdom and South Africa, is a combustible hydrocarbon liquid. Kerosene is widely used to power jet-engined aircraft (jet fuel) and some rockets, but is also commonly used as a heating fuel and for fire toys such as poi. In parts of Asia, where the price of kerosene is subsidized, it fuels outboard motors rigged on small fishing craft (Source : Wikipedia).</Text>
+		</Row>-->
+
+		<!--<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE1">
+			<Text>Technology Required to See</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE2">
+			<Text>Location</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE3">
+			<Text>Improvement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE4">
+			<Text>Yield Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE5">
+			<Text>Allows</Text>
+		</Row>-->
+	
+	</Language_en_US>
+<!--Have a nice Day:=)-->
+
+			
+  
+</GameData>

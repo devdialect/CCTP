@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/14/2013 8:13:37 AM -->
+<GameData>
+	
+  <!--Policy_BuildingClassYieldChanges-->
+	<Policy_BuildingClassYieldChanges>
+		<Row>
+			<PolicyType>POLICY_PIETY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MAHADEVA</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+	</Policy_BuildingClassYieldChanges>
+	
+	<!--Policy_BuildingClassYieldModifiers-->
+	<Policy_BuildingClassYieldModifiers>
+		<Row>
+			<PolicyType>POLICY_CCTPORDER4</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_YANGTZE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldMod>25</YieldMod>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_PROTECTIONISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_HANSA</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldMod>25</YieldMod>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_PIETY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_DANCING_ENT</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldMod>20</YieldMod>
+		</Row>
+	</Policy_BuildingClassYieldModifiers>
+
+	<!-- happiness per policy -->
+	<Policy_BuildingClassHappiness>
+		<Row>
+			<PolicyType>POLICY_HONOR</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_DANCING_ENT</BuildingClassType>
+			<Happiness>2</Happiness>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_SOCIALIST_REALISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_BERLINER_MAUER</BuildingClassType>
+			<Happiness>5</Happiness>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_SOVEREIGNTY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_IMPERIALER_GERICHTSHOF</BuildingClassType>
+			<Happiness>10</Happiness>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_ARSENAL_DEMOCRACY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TAHRIR</BuildingClassType>
+			<Happiness>15</Happiness>
+		</Row>
+	</Policy_BuildingClassHappiness>
+  <!--Have a nice Day:=)-->
+</GameData>

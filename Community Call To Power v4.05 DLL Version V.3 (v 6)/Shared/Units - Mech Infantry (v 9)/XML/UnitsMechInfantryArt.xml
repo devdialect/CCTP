@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <ArtDefine_UnitInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_MECH_INFANTRY</Type>
+      <DamageStates>1</DamageStates>
+      <Formation>UnFormed</Formation>
+    </Row>
+  </ArtDefine_UnitInfos>
+  
+  <ArtDefine_UnitInfoMemberInfos>
+    <Row>
+      <UnitInfoType>ART_DEF_UNIT_MECH_INFANTRY</UnitInfoType>
+      <UnitMemberInfoType>ART_DEF_UNIT_MEMBER_MECH_INFANTRY</UnitMemberInfoType>
+      <NumMembers>6</NumMembers>
+    </Row>
+  </ArtDefine_UnitInfoMemberInfos>
+  
+  <ArtDefine_UnitMemberInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_MEMBER_MECH_INFANTRY</Type>
+      <Scale>0.05</Scale>
+      <Domain></Domain>
+      <Model>Assets/Units/Mech/Mech.fxsxml</Model>
+      <MaterialTypeTag>METAL</MaterialTypeTag>
+      <MaterialTypeSoundOverrideTag>METALLRG</MaterialTypeSoundOverrideTag>
+    </Row>
+  </ArtDefine_UnitMemberInfos>
+  
+  <ArtDefine_UnitMemberCombats>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_MECH_INFANTRY</UnitMemberType>
+      <EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady</EnableActions>
+      <DisableActions></DisableActions>
+      <MoveRadius>5</MoveRadius>
+      <RangedAttackRadius>72</RangedAttackRadius>
+      <TargetHeight>12</TargetHeight>
+      <HasShortRangedAttack>1</HasShortRangedAttack>
+      <HasStationaryMelee>1</HasStationaryMelee>
+      <HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+      <ReformBeforeCombat>1</ReformBeforeCombat>
+      <RushAttackFormation></RushAttackFormation>
+    </Row>
+  </ArtDefine_UnitMemberCombats>
+  
+  <ArtDefine_UnitMemberCombatWeapons>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_MECH_INFANTRY</UnitMemberType>
+      <Index>0</Index>
+      <SubIndex>0</SubIndex>
+      <ID>ART_DEF_VEFFECT_MECH_ROCKET_PROJECTILE</ID>
+      <VisKillStrengthMin>5</VisKillStrengthMin>
+      <VisKillStrengthMax>12</VisKillStrengthMax>
+      <ProjectileSpeed>5.3</ProjectileSpeed>
+      <HitEffect></HitEffect>
+      <WeaponTypeTag>EXPLOSIVE</WeaponTypeTag>
+      <WeaponTypeSoundOverrideTag>EXPLOSION20POUND</WeaponTypeSoundOverrideTag>
+    </Row>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_MECH_INFANTRY</UnitMemberType>
+      <Index>0</Index>
+      <SubIndex>1</SubIndex>
+      <ID>ART_DEF_VEFFECT_TRAIL_RAILGUN_PROJ</ID>
+      <ProjectileSpeed>5.3</ProjectileSpeed>
+      <HitEffect></HitEffect>
+      <WeaponTypeTag>EXPLOSIVE</WeaponTypeTag>
+      <WeaponTypeSoundOverrideTag>RAILGUN</WeaponTypeSoundOverrideTag>
+    </Row>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_MECH_INFANTRY</UnitMemberType>
+      <Index>1</Index>
+      <SubIndex>0</SubIndex>
+      <ID></ID>
+      <VisKillStrengthMin>5</VisKillStrengthMin>
+      <VisKillStrengthMax>12</VisKillStrengthMax>
+      <ProjectileSpeed>5.3</ProjectileSpeed>
+      <HitEffect></HitEffect>
+      <WeaponTypeTag>EXPLOSIVE</WeaponTypeTag>
+      <WeaponTypeSoundOverrideTag>EXPLOSION20POUND</WeaponTypeSoundOverrideTag>
+    </Row>
+  </ArtDefine_UnitMemberCombatWeapons>
+
+  <ArtDefine_StrategicView>
+    <Row>
+      <StrategicViewType>ART_DEF_UNIT_MECH_INFANTRY</StrategicViewType>
+      <TileType>Unit</TileType>
+      <Asset>SV_MechInf.dds</Asset>
+    </Row>
+  </ArtDefine_StrategicView>
+</GameData>

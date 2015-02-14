@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 8/4/2014 6:17:09 AM -->
+<GameData>
+	
+	
+  <!--Unit_UniqueNames-->
+
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_COLUMBUS</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MARCOPOLO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FRANCISDRAKE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ALBURQUERQUE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DIEGOALMAGRO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_IBNBATTUTA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_BENJAMINTUDELA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_IBNFADLAN</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ERIKTHERED</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CHANGCHUN</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HANNU</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_BJARNI</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_RUBRUCK</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_AMERIGOVESPUCCI</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_XUANZANG</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MAGELLAN</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JAMESCOOK</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_VASCODAGAMA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPLORER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LEIFERICSON</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
+  
+  <!--Have a nice day:=)-->
+  
+</GameData>

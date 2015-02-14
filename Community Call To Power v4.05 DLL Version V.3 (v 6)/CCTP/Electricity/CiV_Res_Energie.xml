@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Resources>
+
+	</Resources>
+	<Resource_Flavors>
+	
+	</Resource_Flavors>
+	<IconFontTextures>
+	
+	</IconFontTextures>
+	<IconFontMapping>
+	
+	</IconFontMapping>
+	<!-- TODO: Insert table data example here.-->
+	<IconTextureAtlases>
+	
+	</IconTextureAtlases>
+	<Resource_TerrainBooleans>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+	</Resource_TerrainBooleans>
+	<Resource_FeatureBooleans>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+		</Row>
+	</Resource_FeatureBooleans>
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+	<!-- TODO: Insert table data example here.-->
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Improvement_ResourceType_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Improvement_ResourceType_Yields>
+	<Language_en_US>
+
+	</Language_en_US>
+	<!-- TODO: Insert table data example here.-->
+	<Building_ResourceQuantity>
+		<!-- Electricity-->
+	
+	
+	</Building_ResourceQuantity>
+	
+
+	
+	<Building_ResourceQuantityRequirements>
+	<!--
+		<Update>
+			<Set ResourceType="RESOURCE_ELECTRICITY"/>
+			<Where BuildingType="BUILDING_FACTORY"/>
+		</Update>-->
+		
+	</Building_ResourceQuantityRequirements>
+</GameData>
+<!--Have a nice day :=)-->

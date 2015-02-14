@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/27/2014 6:26:03 PM -->
+<GameData>
+	
+<!--*******Belief_GreatPersonExpendedYield*****Not activated***-->
+<Belief_GreatPersonExpendedYield>
+<!--***Next***-->
+	<!--<Row>
+	<BeliefType>BELIEF_MARTANDA</BeliefType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>100</Yield>
+</Row>-->
+</Belief_GreatPersonExpendedYield>
+ 
+  
+</GameData> 
+<!--Have a nice Day;=)-->

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="EVENTS_PLOT"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_PONTOON_BRIDGE</Type>
+			<Description>TXT_KEY_PONTOON_BRIDGE</Description>
+			<Civilopedia>TXT_KEY_PONTOON_BRIDGE_TEXT</Civilopedia>
+			<Help>TXT_KEY_PONTOON_BRIDGE_HELP</Help>
+			<Water>true</Water>
+			<AllowsWalkWater>true</AllowsWalkWater>
+			<OutsideBorders>true</OutsideBorders>
+			<RequiresXAdjacentLand>2</RequiresXAdjacentLand>
+			<DestroyedWhenPillaged>true</DestroyedWhenPillaged>
+			<DisplacePillager>true</DisplacePillager>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_PONTOON_BRIDGE</ArtDefineTag>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PONTOON_IMPROVEMENT_ICON_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PONTOON_BRIDGE</ImprovementType>
+			<TerrainType>TERRAIN_COAST</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Builds>
+		<Row>
+			<Type>BUILD_PONTOON_BRIDGE</Type>
+			<PrereqTech>TECH_MILITARY_ENGINEERING</PrereqTech>
+			<ImprovementType>IMPROVEMENT_PONTOON_BRIDGE</ImprovementType>
+			<Description>TXT_KEY_BUILD_PONTOON_BRIDGE</Description>
+			<Help>TXT_KEY_PONTOON_BRIDGE_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_PONTOON_BRIDGE_REC</Recommendation>
+			<Water>true</Water>
+			<CanBeEmbarked>true</CanBeEmbarked>
+			<Kill>true</Kill>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>PONTOON_BUILD_ICON_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_PONTOON_BRIDGE</BuildType>
+		</Row>
+	</Unit_Builds>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>PONTOON_BUILD_ICON_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>UnitAction45_Expansion_Civil_War.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PONTOON_BUILD_ICON_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>UnitAction64_Expansion_Civil_War.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PONTOON_IMPROVEMENT_ICON_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TerrainIcons256_Expansion_Civil_War.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PONTOON_IMPROVEMENT_ICON_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TerrainIcons64_Expansion_Civil_War.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<ArtDefine_StrategicView>
+		<Row TileType="Improvement">
+			<StrategicViewType>ART_DEF_IMPROVEMENT_PONTOON_BRIDGE</StrategicViewType>
+			<Asset>SV_Pontoon_Bridge.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+	<Language_en_US>
+		<Replace Tag="TXT_KEY_PONTOON_BRIDGE">
+			<Text>Pontoon Bridge</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PONTOON_BRIDGE_HELP">
+			<Text>Allows land units to traverse this Coast tile. May only be constructed in a Coast tile with 2 or more land tiles adjacent to it. For tiles with 2 or 3 adjacent land tiles, the land tiles may not be contiguous. Constructed by an embarked Worker, who is consumed by the construction of the Pontoon Bridge.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PONTOON_BRIDGE_TEXT">
+			<Text>Pontoon (or "floating") bridges are used to allow the rapid crossing of narrow, shallow bodies of water by infantry, artillery and wagons.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_PONTOON_BRIDGE">
+			<Text>Construct a [LINK=IMPROVEMENT_PONTOON_BRIDGE]Pontoon Bridge[\LINK]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_REC">
+			<Text>It will allow land units to traverse this hex.</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

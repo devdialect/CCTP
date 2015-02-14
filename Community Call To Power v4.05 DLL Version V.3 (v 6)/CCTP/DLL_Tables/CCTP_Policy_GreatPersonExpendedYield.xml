@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/15/2014 4:26:22 PM -->
+<GameData>
+
+ <!--*****Policy_GreatPersonExpendedYield*****-->
+<Policy_GreatPersonExpendedYield>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP294</PolicyType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>100</Yield>
+</Row>
+</Policy_GreatPersonExpendedYield>  
+ 
+  
+</GameData> 
+<!--Have a nice day=)-->

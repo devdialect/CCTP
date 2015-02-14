@@ -1,0 +1,15 @@
+<!-- Created by Gilgamesch on 10/18/2014 1:15:01 AM -->
+<GameData>
+
+<!--*****Trait_YieldModifiers*****-->
+<Trait_YieldModifiers>
+<Row>
+	<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>10</Yield>
+</Row>
+</Trait_YieldModifiers>
+  
+  
+</GameData>
+<!--Have a nice Day;=)-->

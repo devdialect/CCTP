@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/24/2014 8:13:17 PM -->
+<GameData>
+	
+ <!--*****Terrain_CoastalLandYields*****-->
+<Terrain_CoastalLandYields>
+<Row>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Terrain_CoastalLandYields>
+  
+ 
+  
+</GameData> 
+<!--Have a ncie Day;=)-->

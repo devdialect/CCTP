@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/13/2014 11:56:05 AM -->
+<GameData>
+	<!-- New Table Definitions -->
+	<Table name="Policy_PGB_FreeBuildingClass">
+		<Column name="PolicyType" reference="Policies(Type)" type="text"/>
+		<Column name="BuildingClassType" reference="BuildingClasses(Type)" type="text"/>
+	</Table>
+
+	<Table name="Policy_PGB_FreeBuildingClassCapital">
+		<Column name="PolicyType" reference="Policies(Type)" type="text"/>
+		<Column name="BuildingClassType" reference="BuildingClasses(Type)" type="text"/>
+	</Table>
+
+	<Table name="Policy_PGB_FreeBuildingClassCityStates">
+		<Column name="PolicyType" reference="Policies(Type)" type="text"/>
+		<Column name="BuildingClassType" reference="BuildingClasses(Type)" type="text"/>
+	</Table>
+</GameData>

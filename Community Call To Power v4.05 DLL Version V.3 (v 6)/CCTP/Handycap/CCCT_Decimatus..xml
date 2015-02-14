@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 08.02.2012 18:41:14 -->
+<GameData>
+	<!--HandicapInfos-->
+	
+	<HandicapInfos>
+		<!--changed 29.7.14-->
+	
+
+
+
+
+
+
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL"/>
+			<Set AIBuildingCostPercent ="45"/>
+			<!--was 85-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL"/>
+			<Set ResearchPercent ="125"/>
+			<!--was 65-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL"/>
+			<Set AIUnitUpgradePercent ="25"/>
+			<!--was 45-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL"/>
+			<Set AIUnitCostPercent ="30"/>
+			<!--was 65-->
+		</Update>
+
+
+
+
+
+
+		<Update>
+			<Where Type="HANDICAP_EMPEROR"/>
+			<Set ResearchPercent ="105"/>
+			<!--was 90-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_EMPEROR"/>
+			<Set AIBuildingCostPercent ="60"/>
+			<!--was 80-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_EMPEROR"/>
+			<Set AIUnitUpgradePercent ="30"/>
+			<!--was 40-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_EMPEROR"/>
+			<Set AIUnitCostPercent ="40"/>
+			<!--was 75-->
+		</Update>
+
+
+
+
+
+
+		<Update>
+			<Where Type="HANDICAP_KING"/>
+			<Set ResearchPercent ="90"/>
+			<!--was 95-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_KING"/>
+			<Set AIBuildingCostPercent ="75"/>
+			<!--was 85-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_KING"/>
+			<Set AIUnitUpgradePercent ="35"/>
+			<!--was 45-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_KING"/>
+			<Set AIUnitCostPercent ="50"/>
+			<!--was 85-->
+		</Update>
+
+
+
+
+		<Update>
+		<Where Type="HANDICAP_DEITY"/>
+		<Set AIDeclareWarProb ="85"/>
+	</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AdvancedStartPointsMod ="100"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set NoTechTradeModifier ="15"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set BarbarianLandTargetRange ="10"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set BarbarianSeaTargetRange ="24"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingUnitMultiplier ="2"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingDefenseUnits ="2"/>
+		</Update>
+
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingWorkerUnits ="1"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingExploreUnits ="1"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIWorkRateModifier ="100"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnhappinessPercent ="50"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIGrowthPercent ="50"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AITrainPercent ="35"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIConstructPercent ="45"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AICreatePercent ="45"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIBuildingCostPercent ="30"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnitCostPercent ="25"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnitSupplyPercent ="65"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set ResearchPercent ="150"/>
+			<!--was 80-->
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnitUpgradePercent ="20"/>
+			<!--was 40-->
+		</Update>
+
+
+
+
+
+
+		<!--<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIPerEraModifier ="-10"/>
+		</Update>-->
+		
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIAdvancedStartPercent ="210"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set BarbarianBonus="-30"
+				 AIBarbarianBonus="50"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL"/>
+			<Set BarbarianBonus="-20"
+				 AIBarbarianBonus="35"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_EMPEROR"/>
+			<Set BarbarianBonus="-10"
+				 AIBarbarianBonus="20"/>
+		</Update>
+		
+		<!--changes for 4.02-->
+		<Update>
+			<Where Type="HANDICAP_PRINCE"/>
+			<Set GoldFreeUnits ="5" HappinessDefault="15" ProductionFreeUnits="8" ProductionFreeUnitsPerCity="3"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_KING" />
+			<Set GoldFreeUnits ="5" HappinessDefault="14" ProductionFreeUnits="8" ProductionFreeUnitsPerCity="3"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_EMPEROR" />
+			<Set GoldFreeUnits ="4" HappinessDefault="13" ProductionFreeUnits="8" ProductionFreeUnitsPerCity="3"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL" />
+			<Set GoldFreeUnits ="4" HappinessDefault="12" ProductionFreeUnits="8" ProductionFreeUnitsPerCity="3"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY" />
+			<Set GoldFreeUnits ="3" HappinessDefault="11" ProductionFreeUnits="8" ProductionFreeUnitsPerCity="3"/>
+		</Update>
+
+		<Update>
+			<Where Type="HANDICAP_AI_DEFAULT" />
+			<Set TechNumOptionsConsidered="8" PolicyNumOptionsConsidered="4" ResearchPercent="150" BuildingCostPercent="50" UnitCostPercent="50"/>
+		</Update>
+
+
+	</HandicapInfos>	
+	<HandicapInfo_AIFreeTechs>
+		<Delete/>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<TechType>TECH_FIRE</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<TechType>TECH_COOKING</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<TechType>TECH_FIRE</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<TechType>TECH_CLAN</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<TechType>TECH_COOKING</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<TechType>TECH_FIRE</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<TechType>TECH_CLAN</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<TechType>TECH_COOKING</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<TechType>TECH_FIRE</TechType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<TechType>TECH_RITUALS</TechType>
+		</Row>
+	</HandicapInfo_AIFreeTechs>
+	
+	<!--this is under development-->
+	<HandicapInfo_Goodies>
+		<Row>
+			<HandicapType>HANDICAP_PRINCE</HandicapType>
+			<GoodyType>GOODY_REVEAL_RESOURCE</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<GoodyType>GOODY_REVEAL_RESOURCE</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<GoodyType>GOODY_REVEAL_RESOURCE</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<GoodyType>GOODY_REVEAL_RESOURCE</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_REVEAL_RESOURCE</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_PRINCE</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_WEAK</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_WEAK</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_WEAK</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_WEAK</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_WEAK</GoodyType>
+		</Row>
+		<!--4.04 
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
+		</Row>-->
+		<Row>
+			<HandicapType>HANDICAP_PRINCE</HandicapType>
+			<GoodyType>GOODY_SCOUT</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<GoodyType>GOODY_SCOUT</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<GoodyType>GOODY_SCOUT</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<GoodyType>GOODY_SCOUT</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_SCOUT</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_PRINCE</HandicapType>
+			<GoodyType>GOODY_HEALING</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<GoodyType>GOODY_HEALING</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<GoodyType>GOODY_HEALING</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<GoodyType>GOODY_HEALING</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_HEALING</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_PRINCE</HandicapType>
+			<GoodyType>GOODY_SETTLER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<GoodyType>GOODY_SETTLER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<GoodyType>GOODY_SETTLER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<GoodyType>GOODY_SETTLER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_SETTLER</GoodyType>
+		</Row>
+		<!-->Row>
+			<HandicapType>HANDICAP_PRINCE</HandicapType>
+			<GoodyType>GOODY_WORKER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<GoodyType>GOODY_WORKER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<GoodyType>GOODY_WORKER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<GoodyType>GOODY_WORKER</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_WORKER</GoodyType>
+		</Row-->
+		<Row>
+			<HandicapType>HANDICAP_PRINCE</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_KING</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_EMPEROR</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_IMMORTAL</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
+		</Row>
+		<Row>
+			<HandicapType>HANDICAP_DEITY</HandicapType>
+			<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
+		</Row>
+	</HandicapInfo_Goodies>
+	<Language_de_DE>
+		<Update>
+			<Where Tag="TXT_KEY_HANDICAP_DEITY"/>
+			<Set Text="Decimatus"/>
+		</Update>
+	</Language_de_DE>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_HANDICAP_DEITY"/>
+			<Set Text="Decimatus"/>
+		</Update>
+	</Language_en_US>
+</GameData>

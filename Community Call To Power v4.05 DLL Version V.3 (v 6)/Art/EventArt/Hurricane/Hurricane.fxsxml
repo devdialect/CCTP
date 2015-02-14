@@ -1,0 +1,6 @@
+<Asset>
+  <Mesh file="Hurricane_Decal.gr2" source="Max" />
+  <Texture file="FX_Blk_Blk4x4.dds"/>
+  <Texture file="Hurricane_d.dds" source="Max" />
+  
+</Asset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 2:47:57 PM -->
+<GameData>
+
+
+<!--*******Policy_TradeRouteYieldChange*****Not activated***-->
+<Policy_TradeRouteYieldChange>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP43</PolicyType>
+	<YieldType>YIELD_CULTURE</YieldType>
+	<Yield>100</Yield>
+</Row>
+</Policy_TradeRouteYieldChange>
+
+
+</GameData>
+<!--Have a nice Day;=)-->
+	

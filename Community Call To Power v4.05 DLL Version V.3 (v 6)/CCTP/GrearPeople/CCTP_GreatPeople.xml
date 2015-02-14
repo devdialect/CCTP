@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/1/2014 4:47:32 AM -->
+<GameData>
+
+	<!--*****Units*****-->
+	<Units>
+		<!--*****Neo*****-->
+		<Row>
+			<Class>UNITCLASS_TRANSCEND</Class>
+			<Type>UNIT_TRANSCEND</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_TRANSCEND</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_TRANSCEND</Description>
+			<Civilopedia>TXT_KEY_CIV5_TRANSCEND_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_TRANSCEND_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ARTIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>6</UnitFlagIconOffset>
+			<IconAtlas>NEO_ATLAS_8</IconAtlas>
+			<PortraitIndex>32</PortraitIndex>
+		</Row>
+		<!--*****Neo*****-->
+		<Row>
+			<Class>UNITCLASS_DOCTOR</Class>
+			<Type>UNIT_DOCTOR</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DOCTOR</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_DOCTOR</Description>
+			<Civilopedia>TXT_KEY_CIV5_DOCTOR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_DOCTOR_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ARTIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>6</UnitFlagIconOffset>
+			<IconAtlas>NEO_ATLAS_8</IconAtlas>
+			<PortraitIndex>20</PortraitIndex>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_INTELLECTUAL</Class>
+			<Type>UNIT_INTELLECTUAL</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_INTELLECTUAL</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_INTELLECTUAL</Description>
+			<Civilopedia>TXT_KEY_CIV5_INTELLECTUAL_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_INTELLECTUAL_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<FreePolicies>1</FreePolicies>
+			<UnitArtInfo>ART_DEF_UNIT_ARTIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>90</UnitFlagIconOffset>
+			<IconAtlas>NEO_ATLAS_12</IconAtlas>
+			<PortraitIndex>53</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+
+		<Row>
+			<Class>UNITCLASS_GUIDE</Class>
+			<Type>UNIT_GUIDE</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_GUIDE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GUIDE</Description>
+			<Civilopedia>TXT_KEY_CIV5_GUIDE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_GUIDE_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<OneShotTourism>200</OneShotTourism>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_SCIENTIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>91</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>12</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_LABORERX</Class>
+			<Type>UNIT_LABORERX</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_LABORERX</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LABORERX</Description>
+			<Civilopedia>TXT_KEY_CIV5_LABORERX_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_LABORERX_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<BaseHurry>300</BaseHurry>
+			<HurryMultiplier>30</HurryMultiplier>
+			<UnitArtInfo>ART_DEF_UNIT_ENGINEER</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>89</UnitFlagIconOffset>
+			<PortraitIndex>12</PortraitIndex>
+			<IconAtlas>NEO_ATLAS_38</IconAtlas>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_ELECTRICIAN</Class>
+			<Type>UNIT_ELECTRICIAN</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ELECTRICIAN</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ELECTRICIAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_ELECTRICIAN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ELECTRICIAN_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<BaseHurry>300</BaseHurry>
+			<HurryMultiplier>30</HurryMultiplier>
+			<UnitArtInfo>ART_DEF_UNIT_ENGINEER</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>90</UnitFlagIconOffset>
+			<IconAtlas>NEO_ATLAS_8</IconAtlas>
+			<PortraitIndex>23</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_ENTERTAINER</Class>
+			<Type>UNIT_ENTERTAINER</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ENTERTAINER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ENTERTAINER</Description>
+			<Civilopedia>TXT_KEY_CIV5_ENTERTAINER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ENTERTAINER_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<GoldenAgeTurns>10</GoldenAgeTurns>
+			<UnitArtInfo>ART_DEF_UNIT_ARTIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>88</UnitFlagIconOffset>
+			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>NEO_ATLAS_10</IconAtlas>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_ENVIRONMENT</Class>
+			<Type>UNIT_ENVIRONMENT</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ENVIRONMENT</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ENVIRONMENT</Description>
+			<Civilopedia>TXT_KEY_CIV5_ENVIRONMENT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ENVIRONMENT_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<BaseHurry>300</BaseHurry>
+			<HurryMultiplier>30</HurryMultiplier>
+			<UnitArtInfo>ART_DEF_UNIT_ARTIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>88</UnitFlagIconOffset>
+			<PortraitIndex>25</PortraitIndex>
+			<IconAtlas>NEO_ATLAS_10</IconAtlas>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+
+	</Units>
+
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_DOCTOR</UnitType>
+			<UnitAIType>UNITAI_SCIENTIST</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TRANSCEND</UnitType>
+			<UnitAIType>UNITAI_SCIENTIST</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENTERTAINER</UnitType>
+			<UnitAIType>UNITAI_ARTIST</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENVIRONMENT</UnitType>
+			<UnitAIType>UNITAI_ENGINEER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INTELLECTUALL</UnitType>
+			<UnitAIType>UNITAI_ARTIST</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GUIDE</UnitType>
+			<UnitAIType>UNITAI_MERCHANT</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ELECTRICIAN</UnitType>
+			<UnitAIType>UNITAI_ENGINEER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LABORERX</UnitType>
+			<UnitAIType>UNITAI_ENGINEER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_DOCTOR</UnitType>
+			<BuildType>BUILD_HOSPITAL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TRANSCEND</UnitType>
+			<BuildType>BUILD_PSI</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INTELLECTUAL</UnitType>
+			<BuildType>BUILD_GOLDEN</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENTERTAINER</UnitType>
+			<BuildType>BUILD_JESTER</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENVIRONMENT</UnitType>
+			<BuildType>BUILD_GREEN</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LABORERX</UnitType>
+			<BuildType>BUILD_STATION</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ELECTRICIAN</UnitType>
+			<BuildType>BUILD_POWERPLANT</BuildType>
+		</Row>
+	</Unit_Builds>
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_DOCTOR</UnitType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TRANSCEND</UnitType>
+			<FlavorType>FLAVOR_RESEARCH</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INTELLECTUAL</UnitType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENTERTAINER</UnitType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENVIRONMENT</UnitType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ELECTRICIAN</UnitType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LABORERX</UnitType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_DOCTOR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MAGNUSSON</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TRANSCEND</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ADONAI</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DOCTOR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SCHWEIZER</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INTELLECTUAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CROWLY</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ENTERTAINER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CHAPLIN</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ELECTRICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_TESLA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LABORERX</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SPEER</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
+
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_DOCTOR</Type>
+			<Description>TXT_KEY_UNIT_DOCTOR</Description>
+			<DefaultUnit>UNIT_DOCTOR</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_TRANSCEND</Type>
+			<Description>TXT_KEY_UNIT_TRANSCEND</Description>
+			<DefaultUnit>UNIT_TRANSCEND</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_INTELLECTUAL</Type>
+			<Description>TXT_KEY_UNIT_INTELLECTUAL</Description>
+			<DefaultUnit>UNIT_INTELLECTUAL</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_ENTERTAINER</Type>
+			<Description>TXT_KEY_ENTERTAINER</Description>
+			<DefaultUnit>UNIT_ENTERTAINER</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_ENVIRONMENT</Type>
+			<Description>TXT_KEY_ENVIRONMENT</Description>
+			<DefaultUnit>UNIT_ENVIRONMENT</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_ELECTRICIAN</Type>
+			<Description>TXT_KEY_UNIT_ELECTRICIAN</Description>
+			<DefaultUnit>UNIT_ELECTRICIAN</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_LABORERX</Type>
+			<Description>TXT_KEY_UNIT_LABORERX</Description>
+			<DefaultUnit>UNIT_LABORERX</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_GUIDE</Type>
+			<Description>TXT_KEY_UNIT_GUIDE</Description>
+			<DefaultUnit>UNIT_GUIDE</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_DOCTOR</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_TRANSCEND</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_INTELLECTUAL</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_ENTERTAINER</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_ENVIRONMENT</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_ELECTRICIAN</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_LABORERX</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_GUIDE</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_PROPHET</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_DOCTOR">
+			<Text>Great Doctor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOCTOR_TEXT">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_TRANSCEND">
+			<Text>Transcend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TRANSCEND_TEXT">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_INTELLECTUAL">
+			<Text>Great Intellectual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INTELLECTUAL_TEXT">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GUIDE">
+			<Text>Great Guide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GUIDE_TEXT">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_LABORERX">
+			<Text>Great Laborer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LABORERX_TEXT">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_ELECTRICIAN">
+			<Text>Great Electrician</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ELECTRICIAN_TEXT">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_ENTERTAINER">
+			<Text>Great Entertainer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ENTERTAINER_TEXT">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_ENVIRONMENT">
+			<Text>Great Eco Manager</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ENVIRONMENT_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENVIRONMENT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENVIRONMENT_HELP">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_POWERPLANT">
+			<Text>Power Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_POWERPLANT_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_POWERPLANT">
+			<Text>Power Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_POWERPLANT_HELP">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_JESTER">
+			<Text>Theme Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_JESTER_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JESTER">
+			<Text>Theme Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JESTER_HELP">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_GOLDEN">
+			<Text>Think Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_GOLDEN_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_GOLDEN">
+			<Text>Think Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_GOLDEN_HELP">
+			<Text>upps</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_HOSPITAL">
+			<Text>Hospital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HOSPITAL_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HOSPITAL">
+			<Text>Hospital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HOSPITAL_HELP">
+			<Text>upps</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_STATION">
+			<Text>Work Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_STATION_TEXT">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_STATION">
+			<Text>Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_STATION_HELP">
+			<Text>upps</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_GREEN">
+			<Text>Green</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_GREEN_TEXT">
+			<Text>upps</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_GREEN">
+			<Text>Green</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_GREEN_HELP">
+			<Text>upps</Text>
+		</Row>
+
+
+
+
+
+
+	</Language_en_US>
+
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_STATION</Type>
+			<Description>TXT_KEY_IMPROVEMENT_STATION</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_STATION_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_MANUFACTORY</ArtDefineTag>
+			<BuildableOnResources>true</BuildableOnResources>
+			<PillageGold>30</PillageGold>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_GREEN</Type>
+			<Description>TXT_KEY_IMPROVEMENT_GREEN</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_GREEN_TEXT</Civilopedia>
+			<BuildableOnResources>true</BuildableOnResources>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_6_3</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>BM_CUSTOM_IMPROVEMENT_6_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_POWERPLANT</Type>
+			<Description>TXT_KEY_IMPROVEMENT_POWERPLANT</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_POWERPLANT_TEXT</Civilopedia>
+			<BuildableOnResources>true</BuildableOnResources>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_JESTER</Type>
+			<Description>TXT_KEY_IMPROVEMENT_JESTER</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_JESTER_TEXT</Civilopedia>
+			<BuildableOnResources>true</BuildableOnResources>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_3</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_GOLDEN</Type>
+			<Description>TXT_KEY_IMPROVEMENT_GOLDEN</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_GOLDEN_TEXT</Civilopedia>
+			<BuildableOnResources>true</BuildableOnResources>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_2</ArtDefineTag>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>IMPROVEMENT_HOSPITAL</Type>
+			<Description>TXT_KEY_IMPROVEMENT_HOSPITAL</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_HOSPITAL_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_ACADEMY</ArtDefineTag>
+			<BuildableOnResources>true</BuildableOnResources>
+			<PillageGold>30</PillageGold>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<PortraitIndex>38</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>4</Yield>
+		</Row>
+
+		<Row>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+
+		<Row>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+
+		<Row>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Builds>
+		<Row>
+			<Type>BUILD_GREEN</Type>
+			<ImprovementType>IMPROVEMENT_GREEN</ImprovementType>
+			<Description>TXT_KEY_BUILD_GREEN</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>23</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_STATION</Type>
+			<ImprovementType>IMPROVEMENT_STATION</ImprovementType>
+			<Description>TXT_KEY_BUILD_STATION</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>23</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_GOLDEN</Type>
+			<ImprovementType>IMPROVEMENT_GOLDEN</ImprovementType>
+			<Description>TXT_KEY_BUILD_GOLDEN</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>23</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_JESTER</Type>
+			<ImprovementType>IMPROVEMENT_JESTER</ImprovementType>
+			<Description>TXT_KEY_BUILD_JESTER</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_H</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>57</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_POWERPLANT</Type>
+			<ImprovementType>IMPROVEMENT_POWERPLANT</ImprovementType>
+			<Description>TXT_KEY_BUILD_POWERPLANT</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_M</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>56</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_HOSPITAL</Type>
+			<ImprovementType>IMPROVEMENT_HOSPITAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_HOSPITAL</Description>
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>23</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+
+	</Builds>
+	<ArtDefine_Landmarks>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>MageTower.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>MageTower_PL.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>HumanConstruction_HB.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_2</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>EvilTemple.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_2</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>EvilTemple_PL.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_3</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>GoodTemple.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_3</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>GoodTemple_PL.fxsxml</Model>
+		</Row>
+	</ArtDefine_Landmarks>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>sv_customimprovement.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_2</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>sv_customimprovement2.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_3</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>sv_customimprovement3.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>
+<!--Have a good Day;=)-->

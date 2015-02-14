@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Builds>
+    <Row>
+      <Type>BUILD_AIRBASE</Type>
+      <PrereqTech>TECH_FLIGHT</PrereqTech>
+      <Time>800</Time>
+      <ImprovementType>IMPROVEMENT_AIRBASE</ImprovementType>
+      <Description>TXT_KEY_BUILD_AIRBASE</Description>
+      <Help>TXT_KEY_BUILD_AIRBASE_HELP</Help>
+      <Recommendation>TXT_KEY_BUILD_AIRBASE_REC</Recommendation>
+      <EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+      <HotKey>KB_F</HotKey>
+      <OrderPriority>1</OrderPriority>
+      <AltDown>1</AltDown>
+      <IconIndex>46</IconIndex>
+      <IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+    </Row>
+  </Builds>
+  
+  <BuildFeatures>
+    <Row>
+      <BuildType>BUILD_AIRBASE</BuildType>
+      <FeatureType>FEATURE_JUNGLE</FeatureType>
+      <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+      <Time>700</Time>
+      <Remove>true</Remove>
+    </Row>
+    <Row>
+      <BuildType>BUILD_AIRBASE</BuildType>
+      <FeatureType>FEATURE_FOREST</FeatureType>
+      <PrereqTech>TECH_MINING</PrereqTech>
+      <Time>400</Time>
+      <Remove>true</Remove>
+    </Row>
+    <Row>
+      <BuildType>BUILD_AIRBASE</BuildType>
+      <FeatureType>FEATURE_MARSH</FeatureType>
+      <PrereqTech>TECH_MASONRY</PrereqTech>
+      <Time>600</Time>
+      <Remove>true</Remove>
+    </Row>
+  </BuildFeatures>
+
+  <Unit_Builds>
+    <Row>
+      <UnitType>UNIT_WORKER</UnitType>
+      <BuildType>BUILD_AIRBASE</BuildType>
+    </Row>
+	<Row>
+	  <UnitType>UNIT_CIVIL_ENGINEER</UnitType>
+	  <BuildType>BUILD_AIRBASE</BuildType>
+    </Row>
+  </Unit_Builds>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILD_AIRBASE">
+      <Text>Construct an [LINK=IMPROVEMENT_AIRBASE]Airbase[\LINK]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_AIRBASE_HELP">
+      <Text>Permits up to three air units to be based on the tile.  +50% [ICON_STRENGTH] Defensive Strength for any Unit stationed in this Tile.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_AIRBASE_REC">
+      <Text>It will improve the [ICON_STRENGTH] Defense of any military unit stationed in this tile.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

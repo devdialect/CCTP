@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 9:06:23 PM -->
+<GameData>
+	<!--Building_ResourceQuantityRequirements-->
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_FUSION_LAB</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CANWONDER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LIBRARY</BuildingType>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SPRACHE</BuildingType>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCHREIBSTUBE</BuildingType>
+			<ResourceType>RESOURCE_PAPER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PAPIER</BuildingType>
+			<ResourceType>RESOURCE_PAPYRUS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CARPENTER</BuildingType>
+			<ResourceType>RESOURCE_LINEN</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CIGARS</BuildingType>
+			<ResourceType>RESOURCE_TOBACCO</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TAVERNE</BuildingType>
+			<ResourceType>RESOURCE_BREAD</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PLASTIKFABRIK</BuildingType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PLASTIKFABRIK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BREWERY</BuildingType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BREWERY</BuildingType>
+			<ResourceType>RESOURCE_BARLEY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	<Update>
+		<Set Cost="2" />
+		<Where BuildingType="BUILDING_NUCLEAR_PLANT" ResourceType="RESOURCE_URANIUM" />
+	</Update>
+		<Row>
+			<BuildingType>BUILDING_RACING_CARNIVAL</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	<Row>
+			<BuildingType>BUILDING_RANCH</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	<Row>
+			<BuildingType>BUILDING_HORSE_DERBY</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	<Row>
+		<BuildingType>BUILDING_FOUNDRY</BuildingType>
+		<ResourceType>RESOURCE_IRON</ResourceType>
+		<Cost>1</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_INDUSTRIAL_SHIPYARD</BuildingType>
+		<ResourceType>RESOURCE_OIL</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_AUTO_PLANT</BuildingType>
+		<ResourceType>RESOURCE_OIL</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_AIRCRAFT_PLANT</BuildingType>
+		<ResourceType>RESOURCE_OIL</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_ADVANCED_AIRCRAFT_PLANT</BuildingType>
+		<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_ADVANCED_SHIPYARD</BuildingType>
+		<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_ADVANCED_AUTO_PLANT</BuildingType>
+		<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_MECHA_PLANT</BuildingType>
+		<ResourceType>RESOURCE_URANIUM</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_MOLECULAR_FABRICATION_PLANT</BuildingType>
+		<ResourceType>RESOURCE_COAL</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_MOLECULAR_FABRICATION_PLANT</BuildingType>
+		<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+		<Cost>5</Cost>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_BEAM_FOUNDRY</BuildingType>
+		<ResourceType>RESOURCE_COAL</ResourceType>
+		<Cost>2</Cost>
+	</Row>
+		<Row>
+			<BuildingType>BUILDING_BEAM_FOUNDRY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ANALYTICAL_ENGINE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>´1</Cost>
+		</Row>
+		<!--
+		<Update>
+			<Set ResourceType="RESOURCE_ELECTRICITY"/>
+			<Where BuildingType="BUILDING_FACTORY"/>
+		</Update>-->
+		<!-- Buildings need Electricity.-->
+		<Row>
+			<BuildingType>BUILDING_TEXTILE_MILL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--1. TEXTILE_MILL-->
+
+		<Row>
+			<BuildingType>BUILDING_FOOD_PROCESSING_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--2. FOOD_PROCESSING_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_INDUSTRIAL_ROBOTICS</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--3. INDUSTRIAL_ROBOTICS-->
+
+		<Row>
+			<BuildingType>BUILDING_INDUSTRIAL_SHIPYARD</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--4. INDUSTRIAL_SHIPYARD-->
+
+		<Row>
+			<BuildingType>BUILDING_BIOTECH_INDUSTRIAL_PARK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--5. BIOTECH_INDUSTRIAL_PARK-->
+
+		<Row>
+			<BuildingType>BUILDING_SERVER_FARM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--6. SERVER_FARM-->
+
+		<Row>
+			<BuildingType>BUILDING_RECYCLING_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--7. RECYCLING_PLANT, was 1-->
+
+		<Row>
+			<BuildingType>BUILDING_AQUARIUM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--8. AQUARIUM-->
+
+		<Row>
+			<BuildingType>BUILDING_AUTO_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--9. AUTO_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_BEEF_VAT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<!--10. BEEF_VAT-->
+
+		<Row>
+			<BuildingType>BUILDING_AIRCRAFT_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--11. AIRCRAFT_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_TELEVISION</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+
+		<!--12. TELEVISION, was 1-->
+		<Row>
+			<BuildingType>BUILDING_MEDICAL_LAB</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--13. MEDICAL_LAB, ,was 1-->
+
+		<Row>
+			<BuildingType>BUILDING_AI_CORE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+
+		<!--14. AI_CORE, was 4-->
+
+		<Row>
+			<BuildingType>BUILDING_SUPERMARKET</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--15. SUPERMARKET, was 2-->
+		
+		<Row>
+			<BuildingType>BUILDING_MOVIE_THEATRE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--16. MOVIE_THEATRE-->
+
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_AIRCRAFT_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--17. ADVANCED_AIR_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_AUTO_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--18. ADVANCED_AUTO_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_CELL_TOWERS</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--19. CELL_TOWERS-->
+
+		<Row>
+			<BuildingType>BUILDING_SUPERCOMPUTER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<!--20. SUPERCOMPUTER-->
+
+		<Row>
+			<BuildingType>BUILDING_HOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--21. HOSPITAL-->
+		<Row>
+			<BuildingType>BUILDING_NAVAL_BASE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--22. NAVAL_BASE-->
+
+		<Row>
+			<BuildingType>BUILDING_MECHA_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--23. MECHA_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_SEAPORT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--24. SEAPORT-->
+
+		<Row>
+			<BuildingType>BUILDING_BODY_EXCHANGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<!--25. BODY_EXCHANGE-->
+
+		<Row>
+			<BuildingType>BUILDING_MASS_TRANSIT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--26. MASS_TRANSIT, was, 2-->
+		<Row>
+			<BuildingType>BUILDING_ROBOT_DISTRICT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<!--27. ROBOT_DISTRICT-->
+
+		<Row>
+			<BuildingType>BUILDING_POLICE_STATION</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--28. POLICE_STATION-->
+
+		<Row>
+			<BuildingType>BUILDING_DRUG_STORE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--29. DRUG_STORE-->
+
+		<Row>
+			<BuildingType>BUILDING_BROADCAST_TOWER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--30. BROADCAST_TOWER, was 1-->
+
+		<Row>
+			<BuildingType>BUILDING_PALACE_SCIENCE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--31. PALACE_SCIENCE-->
+
+		<Row>
+			<BuildingType>BUILDING_LABORATORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--32. LABORATORY, was 2-->
+
+		<Row>
+			<BuildingType>BUILDING_SHOPPING_MALL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--33. SHOPPING_MALL-->
+
+		<Row>
+			<BuildingType>BUILDING_LASER_MANUFACTURING_MODULE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<!--34. LASER_MANUFACTURING_MODULE-->
+
+		<Row>
+			<BuildingType>BUILDING_JEWELRY_STORE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--35. JEWELRY_STORE-->
+
+		<Row>
+			<BuildingType>BUILDING_DINOSAUR_PARK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--36. DINOSAUR_PARK, was 3-->
+
+		<Row>
+			<BuildingType>BUILDING_ARSENAL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--37. ARSENAL-->
+
+		<Row>
+			<BuildingType>BUILDING_AIRBASE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<!--38. AIRBASE-->
+
+		<Row>
+			<BuildingType>BUILDING_MILITARY_BASE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--39. MILITARY_BASE-->
+
+		<Row>
+			<BuildingType>BUILDING_CLOUD_COMPUTING_NETWORK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--40. CLOUD_COMPUTING_NETWORK, was 2-->
+
+		<Row>
+			<BuildingType>BUILDING_STOCK_EXCHANGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--41. STOCK_EXCHANGE-->
+
+		<Row>
+			<BuildingType>BUILDING_ARCOLOGY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>8</Cost>
+		</Row>
+		<!--42. ARCOLOGY-->
+
+		<Row>
+			<BuildingType>BUILDING_MIND_CONTROL_NETWORK
+			</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--43. MIND_CONTROL_NETWORK-->
+
+		<Row>
+			<BuildingType>BUILDING_GIGA_TOWER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>7</Cost>
+		</Row>
+		<!--44. GIGA_TOWER-->
+
+		<Row>
+			<BuildingType>BUILDING_LASER_PERIMETER_DEFENSE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>8</Cost>
+		</Row>
+		<!--45. LASER_PERIMETER_DEFENSE-->
+
+		<Row>
+			<BuildingType>BUILDING_SEMICONDUCTOR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>6</Cost>
+		</Row>
+		<!--45. SEMICONDUCTOR_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_MOLECULAR_FABRICATION_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>7</Cost>
+		</Row>
+		<!--46. MOLECULAR_FABRICATION_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_NATIONAL_LABORATORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<!--47. NATIONAL_LABORATORY-->
+
+		<Row>
+			<BuildingType>BUILDING_AI_CORE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+
+		</Row>
+		<!--48. AI_CORE<-->
+
+		<Row>
+			<BuildingType>BUILDING_NANO_FORGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+
+		</Row>
+		<!--49. NANO_FORGE-->
+
+		<Row>
+			<BuildingType>BUILDING_TOURIST_CENTER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!--50. NANO_FORGE-->
+		<Row>
+			<BuildingType>BUILDING_HOTEL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!--51. Hotel, was 2-->
+		
+		<!--44. GIGA_TOWER-->
+
+		<Row>
+			<BuildingType>BUILDING_MIAPOLISCT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>10</Cost>
+		</Row>
+		<!--OIL_REFINERY-->
+		<Row>
+			<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_KOHLEKRAFTWERK</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WINDTURBINEN</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OSWINDPARK</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OSWINDPARK</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WIEDERAUFBEREITUNGSANLAGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OLYMPIADEX</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NHS</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>10</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BELLAGIO</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEUKONHOF</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MBAYSANDS</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FORCE_FIELD</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ROBOTIC_EGALITARIAN_ACT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+	<Row>
+		<BuildingType>BUILDING_VACUUM_DRYDOCK</BuildingType>
+		<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+		<Cost>4</Cost>
+	</Row>
+		<Row>
+			<BuildingType>BUILDING_VIRTUAL_SECURITIES_EXCHANGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_IMAGINARIUM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_EMPATHIC_NETWORK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NANOHOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_IMMUNITY_CHIP</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BEHAVIORAL_MOD_CHIP</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AI_SECURITY_CENTER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AI_COURT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_INVENTORS_HALL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WEATHER_PARADIGM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NETHACK_TERMINUS</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PLANETARY_DATALINKS</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PLANETARY_TRANSIT_SYSTEM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>4</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FACEBOOK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LONGEVITY_VACCINE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MERCHANT_EXCHANGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NANOHOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_VIRTUAL_WORLD</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!-- TODO: Insert table data example here.-->
+		<Row>
+			<BuildingType>BUILDING_SCHOKOLADE</BuildingType>
+			<ResourceType>RESOURCE_CACAO</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SCHREINER</BuildingType>
+			<ResourceType>RESOURCE_WOOD</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<!-- TODO: Insert table data example here.-->
+		<Row>
+			<BuildingType>BUILDING_AIRBASE</BuildingType>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- TODO: Insert table data example here.-->
+		<Row>
+			<BuildingType>BUILDING_STEEL_FOUNDRY</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STEEL_FOUNDRY</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYNTHETIC_PETROL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Cost>5</Cost>
+		</Row>
+		<!-- TODO: Insert table data example here.-->
+		<Row>
+			<BuildingType>BUILDING_JEWELRY_STORE</BuildingType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_JEWELRY_STORE</BuildingType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SKYLIFT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SKYLIFT</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<!--Have a nice Day:=)-->
+</GameData>

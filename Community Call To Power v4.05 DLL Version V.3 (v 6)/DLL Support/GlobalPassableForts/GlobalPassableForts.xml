@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- GLOBAL_PASSABLE_FORTS=0 ships may only enter player cities or pass through allied CS cities -->
+	<!-- GLOBAL_PASSABLE_FORTS=1 ships may additionally enter coastal forts in player, allied CS or no-mans land -->
+	<!-- GLOBAL_PASSABLE_FORTS_ANY=1 ships may additionally enter inland forts in player, allied CS or no-mans land -->
+	<CustomModOptions>
+		<Update>
+			<Where Name="GLOBAL_PASSABLE_FORTS"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="GLOBAL_PASSABLE_FORTS_ANY"/>
+			<Set Value="1"/> <!-- Default is OFF -->
+		</Update>
+	</CustomModOptions>
+</GameData>

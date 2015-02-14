@@ -1,0 +1,1 @@
+INSERT OR REPLACE INTO CustomModOptions(Name, Value) VALUES('EVENTS_CITY_RAZING', 1);  

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="EVENTS_REBASE"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+	
+	<Improvements>
+    <Row>
+      <Type>IMPROVEMENT_AIRBASE</Type>
+      <Description>TXT_KEY_IMPROVEMENT_AIRBASE</Description>
+      <Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_AIRBASE_TEXT</Civilopedia>
+      <ArtDefineTag>ART_DEF_IMPROVEMENT_AIRBASE</ArtDefineTag>
+      <RequiresFlatlands>true</RequiresFlatlands>
+      <BuildableOnResources>true</BuildableOnResources>
+      <Permanent>true</Permanent>
+      <DestroyedWhenPillaged>false</DestroyedWhenPillaged>
+      <DefenseModifier>50</DefenseModifier>
+      <OutsideBorders>true</OutsideBorders>
+      <IconAtlas>IMPROVEMENTS_AIRBASE_ICON_ATLAS</IconAtlas>
+      <PortraitIndex>0</PortraitIndex>
+    </Row>
+  </Improvements>
+  
+  <Improvement_ValidTerrains>
+    <Row>
+      <ImprovementType>IMPROVEMENT_AIRBASE</ImprovementType>
+      <TerrainType>TERRAIN_GRASS</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_AIRBASE</ImprovementType>
+      <TerrainType>TERRAIN_PLAINS</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_AIRBASE</ImprovementType>
+      <TerrainType>TERRAIN_DESERT</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_AIRBASE</ImprovementType>
+      <TerrainType>TERRAIN_TUNDRA</TerrainType>
+    </Row>
+	 <Row>
+	   <ImprovementType>IMPROVEMENT_AIRBASE</ImprovementType>
+	   <TerrainType>TERRAIN_SNOW</TerrainType>
+	</Row>
+  </Improvement_ValidTerrains>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_IMPROVEMENT_AIRBASE">
+      <Text>Airbase</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AIRBASE">
+      <Text>Airbase</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AIRBASE_TEXT">
+      <Text>An airbase is a special improvement that doesn't increase a hex's productivity or provide access to a resource. Instead, an airbase permits up to three aircraft to be stationed there and improves a hex's defensive bonus by 50%. However, they do not provide a defensive bonus to units in enemy territory.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AIRBASE_TITLE1">
+      <Text>Technology Required</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AIRBASE_TITLE2">
+      <Text>Where It Can Be Constructed</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AIRBASE_TITLE3">
+      <Text>Yield Effect</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AIRBASE_TITLE4">
+      <Text>Resource Accessed</Text>
+    </Row>
+  </Language_en_US>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_AIRCRAFT_STATUS_HEALING">
+      <Text>Healing</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AIRCRAFT_STATUS_INTERCEPTING">
+      <Text>Intercepting</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

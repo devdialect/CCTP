@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/27/2014 12:24:55 PM -->
+<GameData>
+	<Language_en_US>
+		
+		<Row Tag="TXT_KEY_TEST_INPUT_NOTIFY_HEADING">
+			<Text>Title</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_INPUT_NOTIFY_TEXT">
+			<Text>Content</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_INPUT_TAX">
+			<Text>Tax Rate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAX">
+			<Text>Taxes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_INPUT_PERCENT">
+			<Text>%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAX_BASE">
+			<Text>Tax income: {1_iNewTaxes}[ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAX_NOTICE">
+			<Text>Tax income will be added at start of next turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAX_ADVICEA">
+			<Text>This tax rate will improve happiness by +2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAX_ADVICEB">
+			<Text>This tax rate will have no effect on happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAX_ADVICEC">
+			<Text>This tax rate will decrease happiness by {1_iNegHappy}, and slightly increase the[NEWLINE]possibility of unrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAX_ADVICED">
+			<Text>This tax rate will decrease happiness by {1_iNegHappy}, and increase the [NEWLINE]possibility of unrest</Text>
+		</Row>
+		
+	</Language_en_US>
+
+	</GameData>

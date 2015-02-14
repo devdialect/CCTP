@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_POPULATION</Type>
+			<Description>TXT_KEY_UNIT_POPULATION</Description>
+			<DefaultUnit>UNIT_POPULATION</DefaultUnit>
+		</Row>
+	</UnitClasses>
+
+	<Units>
+		<Row>
+			<Class>UNITCLASS_POPULATION</Class>
+			<Type>UNIT_POPULATION</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<Capture>UNITCLASS_SETTLER</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_POPULATION</Description>
+			<Civilopedia>TXT_KEY_UNIT_POPULATION_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_POPULATION_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_POPULATION_HELP</Help>
+			<Pillage>false</Pillage>
+			<Found>true</Found>
+			<XPValueAttack>0</XPValueAttack>
+			<XPValueDefense>0</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_POPULATION</UnitArtInfo>
+			<UnitArtInfoCulturalVariation>true</UnitArtInfoCulturalVariation>
+			<UnitFlagAtlas>UNITS_POPULATION_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>UNITS_POPULATION_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Units>
+
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_POPULATION</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_POPULATION</UnitType>
+			<SelectionSound>AS2D_SELECT_SETTLER</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_SETTLER</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_POPULATION">
+			<Text>Population (Refugees)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_POPULATION_HELP">
+			<Text>Representing the displaced population from cities that are being razed and are willing to settle elsewhere in the new empire, they can found new cities or join existing cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_POPULATION_STRATEGY">
+			<Text>Found new cities or add the population to existing (non-puppet/non-revolt) cities by "garrisoning" them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_POPULATION_TEXT">
+			<Text>This unit randomly spawns from captured cities that are being razed, and represents the displaced population that are willing to settle elsewhere in the new empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_POPULATION_CITY">
+			<Text>{1_UnitName:textkey} appeared from {2_CityName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_POPULATION_CITY">
+			<Text>{1_UnitName:textkey} have appeared outside {2_CityName:textkey}</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

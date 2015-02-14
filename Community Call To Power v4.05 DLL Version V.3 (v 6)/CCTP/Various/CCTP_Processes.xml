@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/12/2013 4:01:41 PM -->
+<GameData>
+  <!--Processes-->
+<Processes>
+<Row>
+	<Type>PROCESS_GROWTH</Type>
+	<Description>TXT_KEY_PROCESS_GROWTH</Description>
+	<Help>TXT_KEY_PROCESS_GROWTH_HELP</Help>
+	<Strategy>TXT_KEY_PROCESS_GROWTH_STRATEGY</Strategy>
+	<TechPrereq>TECH_AGRICULTURAL_REVOLUTION</TechPrereq>
+	<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+	<PortraitIndex>0</PortraitIndex>
+</Row>
+<Row>
+	<Type>PROCESS_CREATION</Type>
+	<Description>TXT_KEY_PROCESS_CREATION</Description>
+	<Help>TXT_KEY_PROCESS_CREATION_HELP</Help>
+	<Strategy>TXT_KEY_PROCESS_CREATION_STRATEGY</Strategy>
+	<TechPrereq>TECH_NUMMER</TechPrereq>
+	<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+	<PortraitIndex>4</PortraitIndex>
+</Row>
+
+<Row>
+	<Type>PROCESS_HEALING</Type>
+	<Description>TXT_KEY_PROCESS_HEALING</Description>
+	<Help>TXT_KEY_PROCESS_HEALING_HELP</Help>
+	<Strategy>TXT_KEY_PROCESS_HEALING_STRATEGY</Strategy>
+	<TechPrereq>TECH_APOLLO</TechPrereq>
+	<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+	<PortraitIndex>5</PortraitIndex>	
+</Row>	
+
+<!--icons
+*6-white
+7-blue/research
+1-orange
+2-Blue
+3-Black
+
+
+
+	
+<Row>
+	<Type>PROCESS_RELIGION</Type>
+	<Description>TXT_KEY_PROCESS_RELIGION</Description>
+	<Help>TXT_KEY_PROCESS_RELIGION_HELP</Help>
+	<Strategy>TXT_KEY_PROCESS_RELIGION_STRATEGY</Strategy>
+	<TechPrereq>TECH_NUMMER</TechPrereq>
+	<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+	<PortraitIndex>7
+	</PortraitIndex>
+</Row>-->
+</Processes>
+<Process_Flavors>
+	<Row>
+		<ProcessType>PROCESS_HEALING</ProcessType>
+		<FlavorType>FLAVOR_GROWTH</FlavorType>
+		<Flavor>5</Flavor>
+	</Row>	
+<Row>
+	<ProcessType>PROCESS_GROWTH</ProcessType>
+	<FlavorType>FLAVOR_GROWTH</FlavorType>
+	<Flavor>5</Flavor>
+</Row>
+<Row>
+	<ProcessType>PROCESS_CREATION</ProcessType>
+	<FlavorType>FLAVOR_GOLD</FlavorType>
+	<Flavor>3</Flavor>
+</Row>
+<Row>
+	<ProcessType>PROCESS_CREATION</ProcessType>
+	<FlavorType>FLAVOR_SCIENCE</FlavorType>
+	<Flavor>1</Flavor>
+</Row>
+</Process_Flavors>
+<Process_ProductionYields>
+<Row>
+	<ProcessType>PROCESS_GROWTH</ProcessType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>25</Yield>
+</Row>
+<Row>
+	<ProcessType>PROCESS_CREATION</ProcessType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>15</Yield>
+</Row>
+<Row>
+	<ProcessType>PROCESS_CREATION</ProcessType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>5</Yield>
+</Row>
+	<Row>
+		<ProcessType>PROCESS_HEALING</ProcessType>
+		<YieldType>YIELD_HEALTH</YieldType>
+		<Yield>5</Yield>
+	</Row>
+	<!--
+<Row>
+	<ProcessType>PROCESS_RELIGION</ProcessType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>20</Yield>
+</Row>-->
+</Process_ProductionYields>
+	<Language_en_US>
+	<!--Process-->
+	<!--CREATION-->
+	<Row Tag="TXT_KEY_PROCESS_CREATION">
+		<Text>Creation</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PROCESS_CREATION_STRATEGY">
+		<Text>Provides a Gold and Science boost.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PROCESS_CREATION_HELP">
+		<Text>Allowes to transform 15% of the [ICON_PRODUCTION] Production output of the city into [ICON_GOLD] Gold and 5% into [ICON_RESEARCH] Science</Text>
+	</Row>
+		<!--HEALING-->
+		<Row Tag="TXT_KEY_PROCESS_HEALING">
+			<Text>Healing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_HEALING_STRATEGY">
+			<Text>Provides a Healtj boost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_HEALING_HELP">
+			<Text>Provides +5 [ICON_HEALTH] HEalth</Text>
+		</Row>
+	</Language_en_US>
+  <!--Have a nice Day:=)-->
+
+</GameData>

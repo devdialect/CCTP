@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/19/2014 2:21:25 PM -->
+<GameData>
+	
+<!--<<<<<<<<<<[Future Era|Manpower amount]>>>>>>>>>>-->
+<Building_ResourceQuantityRequirements>
+<!--*****Next*****-->
+<!--/////////**Future*Era**\\\\\\\\\\-->
+<!--/////////*90*Manpower*\\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MARKOV_ECLIPSE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_RESURRECTION_DEVICE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CLINICAL_IMMORTALITY</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MANIFOLD_HARMONICS</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_NETWORK_BACKBONE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TELEPATHIC_MATRIX</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_NEURAL_AMPLIFIER</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_DREAM_TWISTER</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BULK_MATTER_TRANSMITTER</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_EMPATH_GUILD</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ROBOTIC_EGALITARIAN_ACT</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SHIMIZUMCPCT</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_VIRTUAL_SECURITIES_EXCHANGE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SPACE_MANIPULATION_TESTING_STATION</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_EMPATHIC_NETWORK</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_EMPATHIC_NETWORK</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SKYCITY</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SPACE_ELEVATOR</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_FLOATINGISLANDSCT</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_PLANETARY_ENERGY_GRID</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>90</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+
+</Building_ResourceQuantityRequirements>
+
+
+</GameData>
+<!--Have a nice Day;=)-->

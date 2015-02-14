@@ -1,0 +1,556 @@
+<trigger_system type="FGrannyTimedTriggerSystem">
+  <event_tracks>
+    <event_track ec="1000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1120">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1160">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1280">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1400">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1520">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1560">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1600">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1640">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1800">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1290">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1140">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1420">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1500">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1540">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1580">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1620">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1285">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1450">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1180">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1720">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1725">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1730">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1700">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1705">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1710">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1110">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1130">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+  </event_tracks>
+  <triggers>
+    <trigger type="FTimedTriggerEffect" id="247" time="0" duration="1.33333337" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="246" time="0" duration="1" repeat="0" ec="1140" track="2" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="221" time="0" duration="6.00000048" repeat="0" ec="1000" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="225" time="0" duration="1" repeat="0" ec="1020" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="244" time="0" duration="1.16666675" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="249" time="0" duration="0.6666667" repeat="0" ec="1280" track="2" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="250" time="0" duration="3.66666675" repeat="0" ec="1285" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="245" time="0" duration="0.6666667" repeat="0" ec="1120" track="5" event="ART_DEF_VEFFECT_SIEGE04S_AIRWAKE_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="292" time="0" duration="6.00000048" repeat="0" ec="2000" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="254" time="0" duration="1" repeat="0" ec="1440" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="253" time="0" duration="0.5" repeat="0" ec="1420" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="291" time="0" duration="1.33333337" repeat="0" ec="1800" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="255" time="0" duration="13.34" repeat="0" ec="1450" track="2" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="252" time="0" duration="1" repeat="0" ec="1400" track="5" event="ART_DEF_VEFFECT_SIEGE04S_AIRWAKE_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="256" time="0" duration="1" repeat="0" ec="1500" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="284" time="0" duration="5.00000048" repeat="0" ec="1520" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="290" time="0" duration="0.6666667" repeat="0" ec="1640" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="289" time="0" duration="6.00000048" repeat="0" ec="1620" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="288" time="0" duration="1" repeat="0" ec="1600" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="287" time="0" duration="0.6666667" repeat="0" ec="1580" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="251" time="0" duration="0.6666667" repeat="0" ec="1290" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="296" time="0" duration="13.34" repeat="0" ec="2440" track="2" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="295" time="0" duration="1.33333337" repeat="0" ec="2100" track="2" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="294" time="0" duration="5.00000048" repeat="0" ec="2040" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="293" time="0" duration="1" repeat="0" ec="2020" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="286" time="0" duration="1" repeat="0" ec="1560" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="285" time="0" duration="6.00000048" repeat="0" ec="1540" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerSound" id="141" time="0.40654543" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_EXPLOSION" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="128" time="0.1305781" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_POWER_DOWN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="297" time="0" duration="0.6666667" repeat="0" ec="1120" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="227" time="0" duration="1" repeat="0" ec="1400" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="131" time="0" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_LEV_TANK_RUN_STOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="300" time="0" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_LEV_TANK_RUN_STOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="140" time="0.03090812" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_DEATH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="171" time="0" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="170" time="0" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="127" time="0.0169444457" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_DEATH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="232" time="0.5376247" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_POWER_DOWN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="139" time="0.6690272" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_METAL_LARGE_RATTLE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="1" time="0" duration="1.17" repeat="0" ec="1100" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="62" time="0" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="119" time="0" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_LEV_TANK_RUN_STOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerAction" id="89" time="0.3829099" duration="0" repeat="0" ec="1160" track="4" action="1" />
+    <trigger type="FTimedTriggerSound" id="121" time="0" duration="1.33" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerAction" id="234" time="0.380360335" duration="0" repeat="0" ec="1180" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="78" time="0.398507178" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerSound" id="137" time="0" duration="1.33" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="27" time="0.4084364" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE_END_SWEETENER" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="30" time="0.5555556" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_METAL_LARGE_FALL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="32" time="0" duration="6.00000048" repeat="0" ec="1000" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="35" time="0" duration="6.00000048" repeat="0" ec="2000" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="40" time="0" duration="1" repeat="0" ec="1020" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="41" time="0" duration="5.00000048" repeat="0" ec="1040" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="43" time="0" duration="0.5" repeat="0" ec="1110" track="3" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="46" time="0" duration="0.6666667" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="5" time="0" duration="0.6666667" repeat="0" ec="1280" track="5" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="24" time="0" duration="3.66666675" repeat="0" ec="1285" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="48" time="0" duration="0.6666667" repeat="0" ec="1290" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="49" time="0" duration="1" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="50" time="0" duration="1" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="51" time="0" duration="0.5" repeat="0" ec="1420" track="3" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="52" time="0" duration="1" repeat="0" ec="1440" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="53" time="0" duration="1" repeat="0" ec="1500" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="54" time="0" duration="5.00000048" repeat="0" ec="1520" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="55" time="0" duration="6.00000048" repeat="0" ec="1540" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="57" time="0" duration="1.33333337" repeat="0" ec="1160" track="3" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="59" time="0" duration="0.5" repeat="0" ec="1420" track="3" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="61" time="0" duration="1" repeat="0" ec="1560" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="70" time="0" duration="0.6666667" repeat="0" ec="1580" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="72" time="0" duration="1" repeat="0" ec="1600" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="74" time="0" duration="6.00000048" repeat="0" ec="1620" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="76" time="0" duration="0.6666667" repeat="0" ec="1640" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="99" time="0" duration="1.33333337" repeat="0" ec="1800" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="100" time="0" duration="1" repeat="0" ec="2020" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="101" time="0" duration="1" repeat="0" ec="2020" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="102" time="0" duration="5.00000048" repeat="0" ec="2040" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="104" time="0" duration="1.33333337" repeat="0" ec="2100" track="3" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="106" time="0" duration="0.6666667" repeat="0" ec="1120" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="47" time="0" duration="1" repeat="0" ec="1140" track="5" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerAction" id="91" time="0.8779031" duration="0" repeat="0" ec="1160" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="248" time="0" duration="1.16666675" repeat="0" ec="1180" track="3" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="39" time="0" duration="5.00000048" repeat="0" ec="1040" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="38" time="0" duration="0.5" repeat="0" ec="1110" track="5" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerSound" id="218" time="0" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="219" time="0.290436685" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_GUN_SWEETENER" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="222" time="0.6719182" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE_END_SWEETENER" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="223" time="0.1615177" duration="0.85" repeat="0" ec="1130" track="5" event="ART_DEF_VEFFECT_BEAM_RAILCANNON_MUZZLE_RED_C04P" bone="FX_AA_Flash" />
+    <trigger type="FTimedTriggerAction" id="224" time="1.0268147" duration="0" repeat="0" ec="1130" track="6" action="2" />
+    <trigger type="FTimedTriggerAction" id="226" time="0.8879603" duration="0" repeat="0" ec="1130" track="6" action="2" />
+    <trigger type="FTimedTriggerAction" id="228" time="0.6978937" duration="0" repeat="0" ec="1130" track="6" action="2" />
+    <trigger type="FTimedTriggerAction" id="230" time="0.5340235" duration="0" repeat="0" ec="1130" track="6" action="2" />
+    <trigger type="FTimedTriggerAction" id="233" time="0.3618419" duration="0" repeat="0" ec="1130" track="6" action="2" />
+    <trigger type="FTimedTriggerAction" id="241" time="0.2062862" duration="0" repeat="0" ec="1130" track="6" action="2" />
+    <trigger type="FTimedTriggerEffect" id="242" time="0.157999814" duration="1" repeat="0" ec="1130" track="6" event="ART_DEF_VEFFECT_STEAM_SPARKS_RED_C04P" bone="bone_AA_Gun" />
+    <trigger type="FTimedTriggerSound" id="3" time="0" duration="0.6666667" repeat="0" ec="1120" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="19" time="9.313226E-09" duration="0.6666667" repeat="0" ec="1120" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="275" time="0.2814815" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_EXPLOSION_LARGE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="276" time="0.4925926" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_METAL_LARGE_CRASH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="277" time="0" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="278" time="0" duration="1" repeat="0" ec="1400" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="281" time="0.0370370373" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="282" time="0.04074074" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="301" time="0.0851851851" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_UP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="302" time="0.0148148127" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="303" time="0" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="306" time="0.125925928" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_LARGE_DOWN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="307" time="0.03888889" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="308" time="0.9436216" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE_END_SWEETENER" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="309" time="0.1727309" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_METAL_LARGE_CRASH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="311" time="0.3082962" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_LEV_TANK_CANNON_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="117" time="0.5385848" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="317" time="0.826954961" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_CANNON_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="31" time="0.351851851" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_METAL_LARGE_FALL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="318" time="0.837545753" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_METAL_LARGE_CRASH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="319" time="0.417175382" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_METAL_LARGE_FALL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="320" time="0.146804973" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_EXPLOSION" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="321" time="0" duration="1" repeat="0" ec="1400" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="298" time="0.9907407" duration="0" repeat="0" ec="1160" track="1" event="AS3D_IMPACT_LASERLG_CITY" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="26" time="0.377777785" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE_END_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="28" time="0" duration="1.17" repeat="0" ec="1100" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="29" time="0.6166666" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="310" time="0.459259242" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="314" time="0.65925926" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="326" time="0.0074074096" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="327" time="0.9425926" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="328" time="0.203399643" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="329" time="0" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_LARGE_UP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="330" time="0" duration="1.33" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="331" time="0.8138517" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_CANNON_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="332" time="0.270370334" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="333" time="0.879629552" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE_END_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="334" time="0.640740633" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="335" time="1.1037035" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="336" time="0.3027406" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_CANNON_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="338" time="0.4611111" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE_END_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="339" time="0" duration="1.33" repeat="0" ec="1180" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="340" time="0" duration="1.33" repeat="0" ec="1180" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP_P" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="341" time="0.3027406" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_LEV_TANK_CANNON_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="342" time="0.270370334" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="343" time="0.4611111" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_LEV_TANK_GUN_FIRE_END_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="344" time="0.640740633" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="347" time="0.125925928" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_LEV_TANK_SERVO" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="348" time="0.374074072" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_LEV_TANK_HYDRAULIC" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="349" time="0.374074072" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_LEV_TANK_HYDRAULIC" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="350" time="0.1425926" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_LEV_TANK_SERVO" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="351" time="0" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="352" time="-0.00185185182" duration="0" repeat="0" ec="1420" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="353" time="0" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_LEV_TANK_RUN_STOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="354" time="0.125925928" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_LARGE_UP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="355" time="0.562962949" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_LEV_TANK_HYDRAULIC" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="356" time="0.342592567" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_LEV_TANK_GUN_CHARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="357" time="0.0148148127" duration="0" repeat="0" ec="1580" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="358" time="0.0851851851" duration="0" repeat="0" ec="1580" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_UP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="359" time="0.562962949" duration="0" repeat="0" ec="1580" track="1" event="AS3D_UNIT_LEV_TANK_HYDRAULIC" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="360" time="0" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_LOOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="361" time="0.0148148127" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_LEV_TANK_HOVER_START" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="362" time="0.327777773" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_LEV_TANK_GUN_CHARGE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="363" time="0.0851851851" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_UP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="364" time="0.125925928" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_LARGE_UP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="365" time="0.125925928" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_DOWN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="366" time="0.5092593" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_LEV_TANK_HYDRAULIC" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="367" time="0" duration="1.33" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_RUN_LOOP" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="369" time="1.15925932" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="370" time="0.31028825" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_CANNON_FIRE" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="371" time="0.5277778" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="372" time="1.11481488" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_LEV_TANK_GUN_MOVE" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="2" time="0.3148148" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_LEV_TANK_SERVO_UP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="23" time="0.85" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_LEV_TANK_HYDRAULIC" bone="" tier="0" />
+    <trigger type="FTimedTriggerEffect" id="4" time="0.330838" duration="0.05" repeat="0" ec="1100" track="4" event="ART_DEF_VEFFECT_LEV_TANK_CANNON_MUZ_RED" bone="FX_Muzzle_Flash" />
+    <trigger type="FTimedTriggerEffect" id="150" time="0.328986138" duration="0" repeat="0" ec="1100" track="6" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_R" bone="FX_VENT_FrontGun_R_01" />
+    <trigger type="FTimedTriggerEffect" id="151" time="0.330838" duration="0" repeat="0" ec="1100" track="5" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_L" bone="FX_VENT_FrontGun_L_01" />
+    <trigger type="FTimedTriggerEffect" id="42" time="0" duration="1.16666675" repeat="0" ec="1100" track="3" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="8" time="0.8252825" duration="0.05" repeat="0" ec="2100" track="4" event="ART_DEF_VEFFECT_LEV_TANK_CANNON_MUZ_RED" bone="FX_Muzzle_Flash" />
+    <trigger type="FTimedTriggerAction" id="11" time="0.398507178" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="12" time="0.8215788" duration="0" repeat="0" ec="2100" track="6" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_R" bone="FX_VENT_FrontGun_R_01" />
+    <trigger type="FTimedTriggerEffect" id="13" time="0.8234307" duration="0" repeat="0" ec="2100" track="5" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_L" bone="FX_VENT_FrontGun_L_01" />
+    <trigger type="FTimedTriggerEffect" id="14" time="0.330838" duration="0.05" repeat="0" ec="2100" track="4" event="ART_DEF_VEFFECT_LEV_TANK_CANNON_MUZ_RED" bone="FX_Muzzle_Flash" />
+    <trigger type="FTimedTriggerEffect" id="15" time="0.328986138" duration="0" repeat="0" ec="2100" track="6" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_R" bone="FX_VENT_FrontGun_R_01" />
+    <trigger type="FTimedTriggerEffect" id="18" time="0.330838" duration="0" repeat="0" ec="2100" track="5" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_L" bone="FX_VENT_FrontGun_L_01" />
+    <trigger type="FTimedTriggerAction" id="21" time="0.887037039" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="56" time="0" duration="1.33333337" repeat="0" ec="1130" track="3" event="ART_DEF_VEFFECT_LEVTANK_AIRWAKE_LOW_$(BASETERRAIN)" bone="point_WORLD" />
+    <trigger type="FTimedTriggerEffect" id="63" time="0" duration="1.33333337" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="36" time="0" duration="1.16666675" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_HOVER_GLOW_LEVTANK_MAIN" bone="bone_body" />
+    <trigger type="FTimedTriggerEffect" id="64" time="0.312319428" duration="0.05" repeat="0" ec="1160" track="4" event="ART_DEF_VEFFECT_LEV_TANK_CANNON_MUZ_RED" bone="FX_Muzzle_Flash" />
+    <trigger type="FTimedTriggerEffect" id="67" time="0.8141714" duration="0.05" repeat="0" ec="1160" track="4" event="ART_DEF_VEFFECT_LEV_TANK_CANNON_MUZ_RED" bone="FX_Muzzle_Flash" />
+    <trigger type="FTimedTriggerEffect" id="68" time="0.310467571" duration="0.05" repeat="0" ec="1180" track="4" event="ART_DEF_VEFFECT_LEV_TANK_CANNON_MUZ_RED" bone="FX_Muzzle_Flash" />
+    <trigger type="FTimedTriggerEffect" id="77" time="0.306763858" duration="0" repeat="0" ec="1160" track="6" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_R" bone="FX_VENT_FrontGun_R_01" />
+    <trigger type="FTimedTriggerEffect" id="79" time="0.8123195" duration="0" repeat="0" ec="1160" track="6" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_R" bone="FX_VENT_FrontGun_R_01" />
+    <trigger type="FTimedTriggerEffect" id="80" time="0.306763858" duration="0" repeat="0" ec="1180" track="6" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_R" bone="FX_VENT_FrontGun_R_01" />
+    <trigger type="FTimedTriggerEffect" id="82" time="0.306763858" duration="0" repeat="0" ec="1160" track="5" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_L" bone="FX_VENT_FrontGun_L_01" />
+    <trigger type="FTimedTriggerEffect" id="83" time="0.8104677" duration="0" repeat="0" ec="1160" track="5" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_L" bone="FX_VENT_FrontGun_L_01" />
+    <trigger type="FTimedTriggerEffect" id="84" time="0.306763858" duration="0" repeat="0" ec="1180" track="5" event="ART_DEF_VEFFECT_LEV_TANK_VENT_CANNON_RED_L" bone="FX_VENT_FrontGun_L_01" />
+    <trigger type="FTimedTriggerEffect" id="165" time="0.209259361" duration="0" repeat="0" ec="1200" track="4" event="ART_DEF_VEFFECT_EXP_METAL_SHIP_DEATH_XSM_01" bone="FX_Explosion_05" />
+    <trigger type="FTimedTriggerEffect" id="65" time="0.233333319" duration="0.8666667" repeat="0" ec="1200" track="4" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_MECH_A02" bone="FX_Explosion_05" />
+    <trigger type="FTimedTriggerEffect" id="178" time="0.5537037" duration="0" repeat="0" ec="1200" track="6" event="ART_DEF_VEFFECT_EXP_METAL_SHIP_DEATH_XSM_01" bone="FX_Explosion_04" />
+    <trigger type="FTimedTriggerEffect" id="164" time="0.81296283" duration="0" repeat="0" ec="1200" track="6" event="ART_DEF_VEFFECT_AIR_DEATH_01" bone="FX_Explosion_03" />
+    <trigger type="FTimedTriggerEffect" id="180" time="0.356148" duration="0.743852" repeat="0" ec="1200" track="5" event="ART_DEF_VEFFECT_STEAM_SPARKS_RED_C04P" bone="FX_Explosion_04" />
+    <trigger type="FTimedTriggerEffect" id="116" time="0" duration="0" repeat="0" ec="1200" track="5" event="ART_DEF_VEFFECT_MECHINFANTRY_EXPLOSION_DEATH" bone="bone_Plate_extend" />
+    <trigger type="FTimedTriggerEffect" id="240" time="0.0944448858" duration="0" repeat="0" ec="1200" track="5" event="ART_DEF_VEFFECT_MECHINFANTRY_EXPLOSION_DEATH" bone="tank_bone_turret" />
+    <trigger type="FTimedTriggerEffect" id="16" time="0.103703693" duration="0.996296346" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_MECH_A02" bone="bone_GUN_center" />
+    <trigger type="FTimedTriggerEffect" id="87" time="0.131481275" duration="1.20185208" repeat="0" ec="2200" track="4" event="ART_DEF_VEFFECT_STEAM_SPARKS_RED_C04P" bone="FX_Explosion_03" />
+    <trigger type="FTimedTriggerEffect" id="174" time="0.109259233" duration="0" repeat="0" ec="2200" track="6" event="ART_DEF_VEFFECT_EXP_METAL_SHIP_DEATH_XSM_01" bone="FX_Explosion_03" />
+    <trigger type="FTimedTriggerEffect" id="177" time="0.394444823" duration="0" repeat="0" ec="2200" track="6" event="ART_DEF_VEFFECT_EXP_METAL_SHIP_DEATH_XSM_01" bone="FX_Explosion_04" />
+    <trigger type="FTimedTriggerEffect" id="175" time="0.255555928" duration="0" repeat="0" ec="2200" track="6" event="ART_DEF_VEFFECT_EXP_METAL_SHIP_DEATH_XSM_01" bone="FX_Explosion_02" />
+    <trigger type="FTimedTriggerEffect" id="44" time="0.275159746" duration="0" repeat="0" ec="2200" track="5" event="ART_DEF_VEFFECT_AIR_DEATH_01" bone="bone_GUN_center" />
+    <trigger type="FTimedTriggerEffect" id="60" time="0.08518516" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_MECHINFANTRY_EXPLOSION_DEATH" bone="bone_GUN_center" />
+    <trigger type="FTimedTriggerEffect" id="10" time="0.8648151" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_EXP_METAL_SHIP_DEATH_XSM_01" bone="FX_Explosion_03" />
+    <trigger type="FTimedTriggerEffect" id="90" time="0.3351854" duration="0" repeat="0" ec="1200" track="6" event="ART_DEF_VEFFECT_TANK_DEATH_01" bone="bone_body" />
+    <trigger type="FTimedTriggerSound" id="92" time="0.8074077" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="93" time="0" duration="1.33333337" repeat="0" ec="2200" track="4" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_MECH_A02" bone="bone_Plate_extend" />
+    <trigger type="FTimedTriggerEffect" id="173" time="0" duration="0" repeat="0" ec="2200" track="5" event="ART_DEF_VEFFECT_TANK_DEATH_01" bone="FX_Explosion_01" />
+    <trigger type="FTimedTriggerEffect" id="274" time="0.420962721" duration="0.9123707" repeat="0" ec="2200" track="3" event="ART_DEF_VEFFECT_STEAM_SPARKS_RED_C04P" bone="FX_Explosion_04" />
+    <trigger type="FTimedTriggerEffect" id="243" time="0.6444447" duration="0.5" repeat="0" ec="2200" track="5" event="ART_DEF_VEFFECT_STEAM_SPARKS_RED_C04P" bone="bone_GUN_barrel" />
+    <trigger type="FTimedTriggerEffect" id="17" time="0.9024445" duration="0.4308889" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_STEAM_SPARKS_RED_C04P" bone="FX_Explosion_03" />
+    <trigger type="FTimedTriggerEffect" id="161" time="0.296296149" duration="1.03703725" repeat="0" ec="2200" track="6" event="ART_DEF_VEFFECT_IDLE_DEATH_SMOKE_MECH_A02" bone="FX_Explosion_02" />
+    <trigger type="FTimedTriggerSound" id="6" time="0.6814814" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_EXPLOSIONLG" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="7" time="0.21296297" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_EXPLOSIONLG" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="9" time="0.4351851" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_EXPLOSIONLG" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="20" time="0.3648147" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_EXPLOSIONLG" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="22" time="0.268518418" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_EXPLOSIONLG" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="25" time="0.07777766" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_EXPLOSIONLG" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="33" time="0.6537036" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_LEV_TANK_IMPACT_EXPLOSIONLG" bone="" tier="0" />
+  </triggers>
+</trigger_system>

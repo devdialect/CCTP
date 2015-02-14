@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/12/2012 7:06:37 AM -->
+<GameData>
+	<!-- ENGLISH -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EMIGRATION_SUMMARY"> 
+			<Text>A [ICON_CITIZEN] citizen from {1_From} left for the {2_To}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMMIGRATION_SUMMARY">
+			<Text>A [ICON_CITIZEN] citizen from the {1_From} came to {2_To}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EMIGRATION_TEXT">
+			<Text>Emigration to the {1_To}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMMIGRATION_TEXT">
+			<Text>Immigration from {1_To}.</Text>
+		</Row>
+		<!-- CITY VIEW -->
+		<Row Tag="TXT_KEY_EMIGRATION_SAFE_TURNS">
+			<Text>[COLOR_WARNING_TEXT]No emigration for {1_Num} turns[ENDCOLOR]</Text>
+		</Row>
+		<!-- LOCAL HAPPINESS -->
+		<Row Tag="TXT_KEY_CITYVIEW_LOCAL_HAPPINESS_TEXT">
+			<Text>Happiness</Text>
+		</Row>
+		<!-- PROSPERITY -->
+		<Row Tag="TXT_KEY_CITYVIEW_PROSPERITY_TEXT">
+			<Text>Prosperity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_HAPPINESS">
+			<Text>{1_Num} from Empire Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_LOCAL_HAPPINESS">
+			<Text>{1_Num} from Local Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_PRODUCTIVENESS">
+			<Text>{1_Num} from Yields</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_POLICIES">
+			<Text>{1_Num} from number of Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_FREEDOM">
+			<Text>{1_Num} from the Freedom policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_TOTAL">
+			<Text>{1_Num} [ICON_FLOWER] Total</Text>
+		</Row>
+	</Language_en_US>
+	<!-- RUSSIAN -->
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_EMIGRATION_SUMMARY">
+			<Text>[ICON_CITIZEN] Житель города {1_From} эмигрировал в {2_To}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMMIGRATION_SUMMARY">
+			<Text>[ICON_CITIZEN] Эмигрант из {1_From} поселился в городе {2_To}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EMIGRATION_TEXT">
+			<Text>Эмиграция в {1_To}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMMIGRATION_TEXT">
+			<Text>Иммиграция из {1_To}.</Text>
+		</Row>
+		<!-- CITY VIEW -->
+		<Row Tag="TXT_KEY_EMIGRATION_SAFE_TURNS">
+			<Text>[COLOR_WARNING_TEXT]Эмиграции не будет {1_Num} ходов[ENDCOLOR]</Text>
+		</Row>
+		<!-- LOCAL HAPPINESS -->
+		<Row Tag="TXT_KEY_CITYVIEW_LOCAL_HAPPINESS_TEXT">
+			<Text>Счастье</Text>
+		</Row>
+		<!-- PROSPERITY -->
+		<Row Tag="TXT_KEY_CITYVIEW_PROSPERITY_TEXT">
+			<Text>Процветание</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_HAPPINESS">
+			<Text>{1_Num} от счастья в империи</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_LOCAL_HAPPINESS">
+			<Text>{1_Num} от местного счастья</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_PRODUCTIVENESS">
+			<Text>{1_Num} от продуктивности</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_POLICIES">
+			<Text>{1_Num} от числа общественных институтов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_FROM_FREEDOM">
+			<Text>{1_Num} от Свободы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROSPERITY_TOTAL">
+			<Text>{1_Num} [ICON_FLOWER] всего</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 2:51:47 PM -->
+<GameData>
+	
+<!--*******Policy_YieldChangeWorldWonder********works!!!-->
+<Policy_YieldChangeWorldWonder>
+<!--***Next***-->
+<!--***Next***-->
+<!--***Next***-->
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP86</PolicyType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP226</PolicyType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>2</Yield>
+</Row>
+<!--***Next***-->
+	<!--<Row>
+	<PolicyType>POLICY_CCTP160</PolicyType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<Row>
+	<PolicyType>POLICY_CLERGYX</PolicyType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP201</PolicyType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP201</PolicyType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_CCTP297</PolicyType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<!--***Next***-->
+<!--***Next***-->
+</Policy_YieldChangeWorldWonder>
+
+
+	
+  
+</GameData>
+<!--Have  a nice Day;=)-->

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="API_PLOT_BASED_DAMAGE"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="PROMOTIONS_CROSS_MOUNTAINS"/>
+			<Set Value="1"/>
+		</Update>
+		<Update>
+			<Where Name="GLOBAL_ALPINE_PASSES"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_TUNNEL</Type>
+			<Description>TXT_KEY_IMPROVEMENT_TUNNEL</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_TUNNEL_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_TUNNEL_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_TUNNEL</ArtDefineTag>
+			<Permanent>true</Permanent>
+			<OutsideBorders>true</OutsideBorders>
+			<MountainsMakesValid>true</MountainsMakesValid>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>IMPROVEMENTS_TUNNEL_ICON_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TUNNEL</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Improvement_Yields>
+
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_TBM</Type>
+			<Description>TXT_KEY_UNIT_TBM</Description>
+			<DefaultUnit>UNIT_TBM</DefaultUnit>
+		</Row>
+	</UnitClasses>
+
+	<Units>
+		<Row>
+			<Class>UNITCLASS_TBM</Class>
+			<Type>UNIT_TBM</Type>
+			<PrereqTech>TECH_COMBUSTION</PrereqTech>
+			<Cost>400</Cost>
+			<Moves>1</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<HurryCostModifier>25</HurryCostModifier>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ENGINEER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_TBM</Description>
+			<Civilopedia>TXT_KEY_UNIT_TBM_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_TBM_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_TBM_HELP</Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>100</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<MoveRate>WHEELED</MoveRate>
+			<UnitFlagIconOffset>85</UnitFlagIconOffset>
+			<IconAtlas>UNITS_TBM_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<UnitArtInfo>ART_DEF_UNIT_ENGINEER</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+		</Row>
+	</Units>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_TBM</UnitType>
+			<PromotionType>PROMOTION_TBM</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_TBM</UnitType>
+			<UnitAIType>UNITAI_ENGINEER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_TBM</UnitType>
+			<BuildType>BUILD_TUNNEL</BuildType>
+		</Row>
+	</Unit_Builds>
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_TBM</UnitType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_TBM</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_TBM</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_TBM</Type>
+			<Description>TXT_KEY_PROMOTION_TBM</Description>
+			<Help>TXT_KEY_PROMOTION_TBM_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_TBM_HELP</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CanCrossMountains>true</CanCrossMountains>
+			<IgnoreTerrainDamage>true</IgnoreTerrainDamage>
+			<IgnoreFeatureDamage>true</IgnoreFeatureDamage>
+		</Row>
+	</UnitPromotions>
+
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_TBM</UnitType>
+			<SelectionSound>AS2D_BUILD_UNIT</SelectionSound>
+			<FirstSelectionSound>AS2D_BUILD_UNIT</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Builds>
+		<Row>
+			<Type>BUILD_TUNNEL</Type>
+			<PrereqTech>TECH_TUNNEL</PrereqTech>
+			<!-- Twice a mine plus a railroad -->
+			<Time>1800</Time>
+			<!-- This is a one-shot unit ... TBM's are usually burried at the end of the project -->
+			<Kill>1</Kill>
+			<ImprovementType>IMPROVEMENT_TUNNEL</ImprovementType>
+			<!-- Improvements can now include routes -->
+			<RouteType>ROUTE_RAILROAD</RouteType>
+			<Description>TXT_KEY_BUILD_TUNNEL</Description>
+			<Help>TXT_KEY_BUILD_TUNNEL_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_TUNNEL_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_SHOVEL</EntityEvent>
+			<HotKey>KB_R</HotKey>
+			<CtrlDownAlt>1</CtrlDownAlt>
+			<OrderPriority>95</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>BUILDS_TUNNEL_ICON_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TUNNEL">
+			<Text>Tunnel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TUNNEL_HELP">
+			<Text>A tunnel (or Alpine Pass) can only be built on a mountain tile.  Tunnels take a very long time to construct and consume the unit in the process.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TUNNEL_TEXT">
+			<Text>Tunnels permit a way through mountains. They can only be built by Tunnel Boring Machines, take a long time to build, but can drastically improve movement through the empire once constructed.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TBM">
+			<Text>Tunnel Boring Machine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TBM_HELP">
+			<Text>Builds rail tunnels through mountains. The TBM is consumed in the process.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TBM_TEXT">
+			<Text>The Tunnel Boring Machine (TBM) is a specialised piece of heavy plant designed solely for building tunnels.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TBM_STRATEGY">
+			<Text>This unit constructs tunnels through mountains, thereby improving transit times across the mountains.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TBM">
+			<Text>Tunnel Boring Machine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TBM_HELP">
+			<Text>TBMs can enter mountain tiles</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_TUNNEL">
+			<Text>Construct a Tunnel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TUNNEL_REC">
+			<Text>It will permit units to pass freely and also generates [ICON_GOLD] Gold (in the form of tolls).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TUNNEL_HELP">
+			<Text>Can only be built on mountains. [COLOR_NEGATIVE_TEXT]Costs[ENDCOLOR] 2 [ICON_GOLD] Gold per turn to maintain (as it contains a Railroad).</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

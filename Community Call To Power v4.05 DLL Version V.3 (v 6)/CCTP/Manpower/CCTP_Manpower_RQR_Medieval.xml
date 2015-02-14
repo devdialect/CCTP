@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/19/2014 2:21:25 PM -->
+<GameData>
+<!--<<<<<<<<<<[Medieval Era|Manpower amount]>>>>>>>>>>-->
+	
+<Building_ResourceQuantityRequirements>
+<!--*****Next*****-->
+	<!--/////////Medieval*7MP\\\\\\\\\-->
+	<Row>
+		<BuildingType>BUILDING_MOSQUE_OF_DJENNE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BOROBUDUR</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_RED_FORT</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CHICHEN_ITZA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ALHAMBRA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_THE_GRAND_MOSQUE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GRAND_TEMPLE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_DOGESPALACE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_HEDDAL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TODAIJI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TEOTIHUACAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_STONE_TOWN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_HAGIA_SOPHIA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ANGKOR_WAT</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GUTENBERG_BIBLE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_KREMLIN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GALILEO_TELESCOPE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ARCHIMEDES_LAB</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_AL_JABR</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MONTMICHEL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TAJ_MAHAL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SHAKESPEARE_THEATER</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_POTALA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_WEIYANG</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SISTINE_CHAPEL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TAJIN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MATTERHORN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TITICACA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_LEONARDO_WORKSHOP</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BACH_CATHEDRAL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MADOL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_VATICAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_WATPHRAKAEW</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_XUANKONG</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GULOU</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CARNIVAL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_WEALTH_OF_NATIONS</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_LITERARY_EPIC</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BUDA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_LALIBELA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TORRE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TAKTSANG</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_LESHAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_DOME</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_NATIONAL_EPIC</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GARD</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BAMIYAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ITSUKUSHIMA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MINNE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MINJAM</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_VENICE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_STEPHANSDOM</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MARIA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MALBORK</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_KRONBORG</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GATE_PA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CARCASSONNE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_HARMANDIR</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_MAHADEVA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_ABER</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GARDENSUZHOU</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_NABWI</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_RILA</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SCHONBRUNN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SANTIAGO</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BARDO</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_KAIROUAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GYEONGBOKGUNG</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CHALL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_CHEVALIERS</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_UCH</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_BAMIYAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_COLOGNE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_REGISTAN</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_GULOU</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_TORRE</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_PAUL</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<BuildingType>BUILDING_KIYOMIZU</BuildingType>
+		<ResourceType>RESOURCE_MANPOWER</ResourceType>
+		<Cost>7</Cost>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</Building_ResourceQuantityRequirements>
+
+</GameData>
+<!--Have a nice Day;=)-->

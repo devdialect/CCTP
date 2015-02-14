@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Unit_UniqueNames>
+		<!-- Remove all existing GWs for testing purposes -->
+		<!--
+		<Delete UnitType="UNIT_ARTIST" />
+		<Delete UnitType="UNIT_WRITER" />
+		<Delete UnitType="UNIT_MUSICIAN" />
+		-->
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FRANCIS_BACON_ARTIST</UniqueName>
+			<GreatWorkType>GREAT_WORK_HEAD_VI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MARCEL_DUCHAMP</UniqueName>
+			<GreatWorkType>GREAT_WORK_NUDE_STAIRCASE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JACKSON_POLLOCK</UniqueName>
+			<GreatWorkType>GREAT_WORK_AUTUMN_RHYTHM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_R_CRUMB</UniqueName>
+			<GreatWorkType>GREAT_WORK_MINDS_BLOWN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JEAN_MICHEL_BASQUIAT</UniqueName>
+			<GreatWorkType>GREAT_WORK_UNTITLED_SKULL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SALVADOR_DALI_BNW</UniqueName>
+			<GreatWorkType>GREAT_WORK_DREAM_POMEGRANATE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_PAUL_KLEE</UniqueName>
+			<GreatWorkType>GREAT_WORK_BLUMENMYTHOS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ALEXSANDR_DEYNEKA</UniqueName>
+			<GreatWorkType>GREAT_WORK_KNOCKED_DOWN_ACE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_WASSILY_KANDINSKY</UniqueName>
+			<GreatWorkType>GREAT_WORK_COMPOSITION_VII</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ADOLF_WOLFLI</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_SAN_SALVADOR</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MAX_ERNST</UniqueName>
+			<GreatWorkType>GREAT_WORK_CELEBES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HENRI_MATISSE</UniqueName>
+			<GreatWorkType>GREAT_WORK_WOMAN_HAT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FRIDA_KAHLO</UniqueName>
+			<GreatWorkType>GREAT_WORK_SELF_PORTRAIT_NECKLACE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ERNST_LUDWIG_KIRCHNER</UniqueName>
+			<GreatWorkType>GREAT_WORK_RED_TOWER_IN_HALLE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GEORGES_BRAQUE</UniqueName>
+			<GreatWorkType>GREAT_WORK_VIOLIN_AND_PITCHER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_UMBERTO_BOCCIONI</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_CITY_RISES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GIORGIO_DE_CHIRICO</UniqueName>
+			<GreatWorkType>GREAT_WORK_SONG_OF_LOVE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ABANINDRANATH_TAGORE</UniqueName>
+			<GreatWorkType>GREAT_WORK_BHAGAT_MATA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ROY_LICHTENSTEIN</UniqueName>
+			<GreatWorkType>GREAT_WORK_CRYING_GIRL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_KAZIMIR_MALEVICH</UniqueName>
+			<GreatWorkType>GREAT_WORK_SUPREMATISM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JOAN_MIRO</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_TILLED_FIELD</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GRANDMA_MOSES</UniqueName>
+			<GreatWorkType>GREAT_WORK_FOURTH_OF_JULY</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GEORGE_TOOKER</UniqueName>
+			<GreatWorkType>GREAT_WORK_GOVERNMENT_BUREAU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ALICE_NEEL</UniqueName>
+			<GreatWorkType>GREAT_WORK_JOE_GOULD</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CHUCK_CLOSE</UniqueName>
+			<GreatWorkType>GREAT_WORK_LUCAS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_WILLEM_DE_KOONING</UniqueName>
+			<GreatWorkType>GREAT_WORK_WOMAN_I</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MC_ESCHER</UniqueName>
+			<GreatWorkType>GREAT_WORK_RELATIVITY</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ROBERT_HENRI</UniqueName>
+			<GreatWorkType>GREAT_WORK_SALOME</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_OSCAR_KOKOSCHKA</UniqueName>
+			<GreatWorkType>GREAT_WORK_BRIDE_WIND</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_PHILIP_K_DICK</UniqueName>
+			<GreatWorkType>GREAT_WORK_VALIS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_KURT_VONNEGUT</UniqueName>
+			<GreatWorkType>GREAT_WORK_SLAUGHTERHOUSE_FIVE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ALLEN_GINSBERG</UniqueName>
+			<GreatWorkType>GREAT_WORK_HOWL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HP_LOVECRAFT</UniqueName>
+			<GreatWorkType>GREAT_WORK_CALL_OF_CTHULHU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HENRY_DARGER</UniqueName>
+			<GreatWorkType>GREAT_WORK_REALMS_OF_UNREAL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GEORGE_ORWELL</UniqueName>
+			<GreatWorkType>GREAT_WORK_ANIMAL_FARM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ERNEST_HEMINGWAY</UniqueName>
+			<GreatWorkType>GREAT_WORK_FAREWELL_TO_ARMS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_VLADIMIR_NABOKOV</UniqueName>
+			<GreatWorkType>GREAT_WORK_LOLITA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ANDRE_BRETON</UniqueName>
+			<GreatWorkType>GREAT_WORK_LES_CHAMPS_MAGNETIQUES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JEAN_PAUL_SARTRE</UniqueName>
+			<GreatWorkType>GREAT_WORK_NO_EXIT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HENRY_MILLER</UniqueName>
+			<GreatWorkType>GREAT_WORK_TROPIC_OF_CANCER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ALDOUS_HUXLEY</UniqueName>
+			<GreatWorkType>GREAT_WORK_POINT_COUNTER_POINT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JAMES_JOYCE</UniqueName>
+			<GreatWorkType>GREAT_WORK_ULYSSES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LU_XUN</UniqueName>
+			<GreatWorkType>GREAT_WORK_TRUE_STORY_OF_AH_Q</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_RALPH_ELLISON</UniqueName>
+			<GreatWorkType>GREAT_WORK_INVISIBLE_MAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JOSEPH_CONRAD_BNW</UniqueName>
+			<GreatWorkType>GREAT_WORK_HEART_OF_DARKNESS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HUNTER_S_THOMPSON</UniqueName>
+			<GreatWorkType>GREAT_WORK_FEAR_AND_LOATHING</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JRR_TOLKIEN</UniqueName>
+			<GreatWorkType>GREAT_WORK_LORD_OF_THE_RINGS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_EVELYN_WAUGH</UniqueName>
+			<GreatWorkType>GREAT_WORK_BRIDESHEAD_REVISITED</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FRANZ_KAFKA_BNW</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_TRIAL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GERTRUDE_STEIN</UniqueName>
+			<GreatWorkType>GREAT_WORK_TENDER_BUTTONS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ROBERT_MUSIL</UniqueName>
+			<GreatWorkType>GREAT_WORK_MAN_WITHOUT_QUALITIES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_THOMAS_PYNCHON</UniqueName>
+			<GreatWorkType>GREAT_WORK_GRAVITYS_RAINBOW</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GABRIEL_GARCIA_MARQUEZ</UniqueName>
+			<GreatWorkType>GREAT_WORK_HUNDRED_YEARS_OF_SOLITUDE</GreatWorkType>
+		</Row>				
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_RAYMOND_CHANDLER</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_BIG_SLEEP</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ANTOINE_DE_SAINT_EXUPERY</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_LITTLE_PRINCE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ALAN_MOORE</UniqueName>
+			<GreatWorkType>GREAT_WORK_WATCHMEN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_WILLIAM_GOLDING</UniqueName>
+			<GreatWorkType>GREAT_WORK_LORD_OF_THE_FLIES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_VIRGINIA_WOOLF</UniqueName>
+			<GreatWorkType>GREAT_WORK_TO_THE_LIGHTHOUSE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_WILLIAM_BURROUGHS</UniqueName>
+			<GreatWorkType>GREAT_WORK_NAKED_LUNCH</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DICK_HIGGINS</UniqueName>
+			<GreatWorkType>GREAT_WORK_DANGER_MUSIC</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_HEAD_VI</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HEAD_VI</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Bacon_Head_VI.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NUDE_STAIRCASE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NUDE_STAIRCASE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Duchamp_Nude_Staircase.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_AUTUMN_RHYTHM</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_AUTUMN_RHYTHM</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Pollock_Autumn_Rhythm.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MINDS_BLOWN</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MINDS_BLOWN</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Crumb_Minds_Blown.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_UNTITLED_SKULL</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_UNTITLED_SKULL</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Basquiat_Untitled_Skull.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DREAM_POMEGRANATE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DREAM_POMEGRANATE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Dali_Dream.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BLUMENMYTHOS</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BLUMENMYTHOS</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Klee_Blumenmythos.dds</Image>
+		</Row>		
+		<Row>
+			<Type>GREAT_WORK_KNOCKED_DOWN_ACE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_KNOCKED_DOWN_ACE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Deyneka_Knocked_Down_Ace.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_COMPOSITION_VII</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_COMPOSITION_VII</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Kandinsky_Composition_VII.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_SAN_SALVADOR</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_SAN_SALVADOR</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Wolfli_The_San_Salvador.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CELEBES</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CELEBES</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Ernst_Celebes.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WOMAN_HAT</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WOMAN_HAT</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Matisse_Woman_Hat.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SELF_PORTRAIT_NECKLACE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SELF_PORTRAIT_NECKLACE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Kahlo_Self_Portrait.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_RED_TOWER_IN_HALLE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_RED_TOWER_IN_HALLE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Kirchner_Red_Tower.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_VIOLIN_AND_PITCHER</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_VIOLIN_AND_PITCHER</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Braque_Violin_And_Pitcher.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_CITY_RISES</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_CITY_RISES</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Boccioni_City_Rises.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SONG_OF_LOVE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SONG_OF_LOVE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Chirico_The_Song_Of_Love.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BHAGAT_MATA</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BHAGAT_MATA</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Tagore_Bhagat_Mata.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CRYING_GIRL</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CRYING_GIRL</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Lichtenstein_Crying_Girl.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SUPREMATISM</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SUPREMATISM</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Malevich_Suprematism_58.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_TILLED_FIELD</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_TILLED_FIELD</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Miro_The_Tilled_Field.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FOURTH_OF_JULY</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FOURTH_OF_JULY</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Moses_Fourth_Of_July.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GOVERNMENT_BUREAU</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_GOVERNMENT_BUREAU</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Tooker_Government_Bureau.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_JOE_GOULD</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_JOE_GOULD</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Neel_Joe_Gould.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LUCAS</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LUCAS</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Close_Lucas.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WOMAN_I</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WOMAN_I</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Kooning_Woman_I.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_RELATIVITY</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_RELATIVITY</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Escher_Relativity.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SALOME</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SALOME</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Henri_Salome.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BRIDE_WIND</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BRIDE_WIND</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Kokoschka_Bride_Wind.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_VALIS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_VALIS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_VALIS</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SLAUGHTERHOUSE_FIVE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SLAUGHTERHOUSE_FIVE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SLAUGHTERHOUSE_FIVE</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HOWL</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HOWL</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HOWL</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CALL_OF_CTHULHU</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CALL_OF_CTHULHU</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_CALL_OF_CTHULHU</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_REALMS_OF_UNREAL</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_REALMS_OF_UNREAL</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_REALMS_OF_UNREAL</Quote>
+			<Image>HenryDarger_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ANIMAL_FARM</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ANIMAL_FARM</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ANIMAL_FARM</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>			
+		<Row>
+			<Type>GREAT_WORK_FAREWELL_TO_ARMS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FAREWELL_TO_ARMS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_FAREWELL_TO_ARMS</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LOLITA</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LOLITA</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LOLITA</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LES_CHAMPS_MAGNETIQUES</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LES_CHAMPS_MAGNETIQUES</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LES_CHAMPS_MAGNETIQUES</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NO_EXIT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NO_EXIT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_NO_EXIT</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TROPIC_OF_CANCER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TROPIC_OF_CANCER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TROPIC_OF_CANCER</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_POINT_COUNTER_POINT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_POINT_COUNTER_POINT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_POINT_COUNTER_POINT</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ULYSSES</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ULYSSES</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ULYSSES</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TRUE_STORY_OF_AH_Q</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TRUE_STORY_OF_AH_Q</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TRUE_STORY_OF_AH_Q</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_INVISIBLE_MAN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_INVISIBLE_MAN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_INVISIBLE_MAN</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HEART_OF_DARKNESS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HEART_OF_DARKNESS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HEART_OF_DARKNESS</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FEAR_AND_LOATHING</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FEAR_AND_LOATHING</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_FEAR_AND_LOATHING</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LORD_OF_THE_RINGS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LORD_OF_THE_RINGS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LORD_OF_THE_RINGS</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BRIDESHEAD_REVISITED</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BRIDESHEAD_REVISITED</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_BRIDESHEAD_REVISITED</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_TRIAL</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_TRIAL</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_TRIAL</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TENDER_BUTTONS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TENDER_BUTTONS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TENDER_BUTTONS</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MAN_WITHOUT_QUALITIES</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MAN_WITHOUT_QUALITIES</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_MAN_WITHOUT_QUALITIES</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GRAVITYS_RAINBOW</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_GRAVITYS_RAINBOW</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_GRAVITYS_RAINBOW</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HUNDRED_YEARS_OF_SOLITUDE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HUNDRED_YEARS_OF_SOLITUDE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HUNDRED_YEARS_OF_SOLITUDE</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_BIG_SLEEP</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_BIG_SLEEP</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_BIG_SLEEP</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_LITTLE_PRINCE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_LITTLE_PRINCE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_LITTLE_PRINCE</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WATCHMEN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WATCHMEN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WATCHMEN</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LORD_OF_THE_FLIES</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LORD_OF_THE_FLIES</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LORD_OF_THE_FLIES</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TO_THE_LIGHTHOUSE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TO_THE_LIGHTHOUSE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TO_THE_LIGHTHOUSE</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NAKED_LUNCH</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NAKED_LUNCH</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_NAKED_LUNCH</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DANGER_MUSIC</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DANGER_MUSIC</Description>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCIS_BACON_ARTIST">
+			<Text>Francis Bacon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HEAD_VI">
+			<Text>Head VI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCEL_DUCHAMP">
+			<Text>Marcel Duchamp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NUDE_STAIRCASE">
+			<Text>Nude Descending a Staircase, No. 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JACKSON_POLLOCK">
+			<Text>Jackson Pollock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AUTUMN_RHYTHM">
+			<Text>Autumn Rhythm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_R_CRUMB">
+			<Text>R. Crumb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MINDS_BLOWN">
+			<Text>Minds Are Made to be Blown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_MICHEL_BASQUIAT">
+			<Text>Jean-Michel Basquiat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UNTITLED_SKULL">
+			<Text>Untitled (Skull)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SALVADOR_DALI_BNW">
+			<Text>Salvador Dali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DREAM_POMEGRANATE">
+			<Text>Dream Caused by the Flight of a Bumblebee Around a Pomegranate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_KLEE">
+			<Text>Paul Klee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BLUMENMYTHOS">
+			<Text>Blumenmythos (Flower Myth)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXSANDR_DEYNEKA">
+			<Text>Alexsandr Deyneka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KNOCKED_DOWN_ACE">
+			<Text>The Knocked-Down Ace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WASSILY_KANDINSKY">
+			<Text>Wassily Kandinsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_COMPOSITION_VII">
+			<Text>Composition VII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ADOLF_WOLFLI">
+			<Text>Adolf Wölfli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SAN_SALVADOR">
+			<Text>The San Salvador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAX_ERNST">
+			<Text>Max Ernst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CELEBES">
+			<Text>Celebes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_MATISSE">
+			<Text>Henri Matisse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WOMAN_HAT">
+			<Text>Woman with a Hat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIDA_KAHLO">
+			<Text>Frida Kahlo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SELF_PORTRAIT_NECKLACE">
+			<Text>Self Portrait with Thorn Necklace and Hummingbird</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNST_LUDWIG_KIRCHNER">
+			<Text>Ernst Ludwig Kirchner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RED_TOWER_IN_HALLE">
+			<Text>The Red Tower in Halle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGES_BRAQUE">
+			<Text>Georges Braque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VIOLIN_AND_PITCHER">
+			<Text>Violin and Pitcher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UMBERTO_BOCCIONI">
+			<Text>Umberto Boccioni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CITY_RISES">
+			<Text>The City Rises</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIORGIO_DE_CHIRICO">
+			<Text>Giorgio de Chirico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SONG_OF_LOVE">
+			<Text>The Song of Love</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ABANINDRANATH_TAGORE">
+			<Text>Abanindranath Tagore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BHAGAT_MATA">
+			<Text>Bhagat Mata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROY_LICHTENSTEIN">
+			<Text>Roy Lichtenstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CRYING_GIRL">
+			<Text>Crying Girl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAZIMIR_MALEVICH">
+			<Text>Kazimir Malevich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SUPREMATISM">
+			<Text>Suprematism No. 58</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOAN_MIRO">
+			<Text>Joan Miro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_TILLED_FIELD">
+			<Text>The Tilled Field</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GRANDMA_MOSES">
+			<Text>Grandma Moses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FOURTH_OF_JULY">
+			<Text>July Fourth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_TOOKER">
+			<Text>George Tooker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GOVERNMENT_BUREAU">
+			<Text>Government Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALICE_NEEL">
+			<Text>Alice Neel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JOE_GOULD">
+			<Text>Joe Gould</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHUCK_CLOSE">
+			<Text>Chuck Close</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LUCAS">
+			<Text>Lucas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_DE_KOONING">
+			<Text>Willem de Kooning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WOMAN_I">
+			<Text>Woman I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MC_ESCHER">
+			<Text>M.C. Escher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RELATIVITY">
+			<Text>Relativity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_HENRI">
+			<Text>Robert Henri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SALOME">
+			<Text>Salome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OSCAR_KOKOSCHKA">
+			<Text>Oscar Kokoschka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BRIDE_WIND">
+			<Text>Bride of the Wind</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHILIP_K_DICK">
+			<Text>Philip K. Dick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VALIS">
+			<Text>VALIS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_VALIS">
+			<Text>"The distinction between sanity and insanity is narrower than a razor's edge, sharper than a hound's tooth, more agile than a mule deer. It is more elusive than the merest phantom. Perhaps it does not even exist; perhaps it is a phantom."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KURT_VONNEGUT">
+			<Text>Kurt Vonnegut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLAUGHTERHOUSE_FIVE">
+			<Text>Slaughterhouse-Five</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SLAUGHTERHOUSE_FIVE">
+			<Text>"All time is all time. It does not change. It does not lend itself to warnings or explanations. It simply is. Take it moment by moment, and you will find that we are all, as I've said before, bugs in amber."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALLEN_GINSBERG">
+			<Text>Allen Ginsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HOWL">
+			<Text>Howl and Other Poems</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HOWL">
+			<Text>"I saw the best minds of my generation destroyed by madness, starving hysterical naked,[NEWLINE]dragging themselves through the negro streets at dawn looking for an angry fix..."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HP_LOVECRAFT">
+			<Text>H.P. Lovecraft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CALL_OF_CTHULHU">
+			<Text>The Call of Cthulhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CALL_OF_CTHULHU">
+			<Text>"The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of the infinity, and it was not meant that we should voyage far."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_DARGER">
+			<Text>Henry Darger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_REALMS_OF_UNREAL">
+			<Text>The Story of the Vivian Girls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_REALMS_OF_UNREAL">
+			<Text>"He did not feel himself worthy enough to approach these fair creatures, and determined to become more clean of heart. And that night while he laid in bed he dreamed that he went to Abbiennia, saw the girls beg him most pleadingly to end their unjust sufferings."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_ORWELL">
+			<Text>George Orwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ANIMAL_FARM">
+			<Text>Animal Farm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ANIMAL_FARM">
+			<Text>"ALL ANIMALS ARE EQUAL[NEWLINE]BUT SOME ANIMALS ARE MORE EQUAL THAN OTHERS."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNEST_HEMINGWAY">
+			<Text>Ernest Hemingway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FAREWELL_TO_ARMS">
+			<Text>A Farewell to Arms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FAREWELL_TO_ARMS">
+			<Text>"The world breaks everyone and afterward many are strong in the broken places. But those that will not break it kills. It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VLADIMIR_NABOKOV">
+			<Text>Vladimir Nabokov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LOLITA">
+			<Text>Lolita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LOLITA">
+			<Text>"We all have such fateful objects -- it may be a recurrent landscape in one case, a number in another -- carefully chosen by the gods to attract events of specific significance for us: here shall John always stumble; there shall Jane's heart always break."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDRE_BRETON">
+			<Text>Andre Breton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LES_CHAMPS_MAGNETIQUES">
+			<Text>Les Champs Magnétiques (The Magnetic Fields)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LES_CHAMPS_MAGNETIQUES">
+			<Text>"It was the end of sorrow lies. The rail stations were dead, flowing like bees stung from honeysuckle. The people hung back and watched the ocean, animals flew in and out of focus. The time had come. Yet king dogs never grow old - they stay young and fit, and someday they might come to the beach and have a few drinks, a few laughs, and get on with it. But not now. The time had come; we all knew it. But who would go first?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_PAUL_SARTRE">
+			<Text>Jean-Paul Sartre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NO_EXIT">
+			<Text>No Exit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NO_EXIT">
+			<Text>"So this is hell. I'd never have believed it. You remember all we were told about the torture-chambers, the fire and brimstone, the 'burning marl.' Old wives' tales! There's no need for red-hot pokers. Hell is - other people!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_MILLER">
+			<Text>Henry Miller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TROPIC_OF_CANCER">
+			<Text>Tropic of Cancer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TROPIC_OF_CANCER">
+			<Text>"On the meridian of time, there is no injustice: there is only the poetry of motion creating the illusion of truth and drama."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALDOUS_HUXLEY">
+			<Text>Aldous Huxley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POINT_COUNTER_POINT">
+			<Text>Point Counter Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_POINT_COUNTER_POINT">
+			<Text>"Everything's incredible, if you can skin off the crust of obviousness our habits put on it.  Every object and event contains within itself an infinity of depths within depths."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_JOYCE">
+			<Text>James Joyce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ULYSSES">
+			<Text>Ulysses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ULYSSES">
+			<Text>"History, Stephen said, is a nightmare from which I am trying to awake."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LU_XUN">
+			<Text>Lu Xun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TRUE_STORY_OF_AH_Q">
+			<Text>The True Story of Ah Q</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TRUE_STORY_OF_AH_Q">
+			<Text>"By now he felt not too upset.  He supposed that in this world it was the fate of everybody at some time to be dragged in and out of prison and to have to draw circles on paper; it was only his circle not being round that he felt a blot on his escutcheon.  Presently, however, he regained composure by thinking, 'Only idiots can make perfect circles.' And with this thought he fell asleep."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RALPH_ELLISON">
+			<Text>Ralph Ellison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_INVISIBLE_MAN">
+			<Text>Invisible Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_INVISIBLE_MAN">
+			<Text>"And the mind that has conceived a plan of living must never lose sight of the chaos against which that pattern was conceived. That goes for societies as well as for individuals."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSEPH_CONRAD_BNW">
+			<Text>Joseph Conrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HEART_OF_DARKNESS">
+			<Text>Heart of Darkness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HEART_OF_DARKNESS">
+			<Text>"The conquest of the earth, which mostly means the taking it away from those who have a different complexion or slightly flatter noses than ourselves, is not a pretty thing when you look into it too much."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUNTER_S_THOMPSON">
+			<Text>Hunter S. Thompson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FEAR_AND_LOATHING">
+			<Text>Fear and Loathing in Las Vegas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FEAR_AND_LOATHING">
+			<Text>"No sympathy for the devil; keep that in mind. Buy the ticket, take the ride... and if it gets a little heavier than what you had in mind, well... maybe chalk it up to forced consciousness expansion: Tune in, freak out, get beaten."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JRR_TOLKIEN">
+			<Text>J.R.R. Tolkien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LORD_OF_THE_RINGS">
+			<Text>The Lord of the Rings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LORD_OF_THE_RINGS">
+			<Text>"The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EVELYN_WAUGH">
+			<Text>Evelyn Waugh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BRIDESHEAD_REVISITED">
+			<Text>Brideshead Revisited</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BRIDESHEAD_REVISITED">
+			<Text>"To know and love one other human being is the root of all wisdom."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_KAFKA_BNW">
+			<Text>Franz Kafka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_TRIAL">
+			<Text>Der Prozess (The Trial)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_TRIAL">
+			<Text>"Someone must have slandered Josef K., for one morning, without having done anything truly wrong, he was arrested."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GERTRUDE_STEIN">
+			<Text>Gertrude Stein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENDER_BUTTONS">
+			<Text>Tender Buttons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TENDER_BUTTONS">
+			<Text>"A FEATHER.[NEWLINE][NEWLINE]A feather is trimmed, it is trimmed by the light and the bug and the post, it is trimmed by little leaning and by all sorts of mounted reserves and loud volumes. It is surely cohesive."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_MUSIL">
+			<Text>Robert Musil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MAN_WITHOUT_QUALITIES">
+			<Text>The Man Without Qualities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MAN_WITHOUT_QUALITIES">
+			<Text>"It is life that does the thinking all around us, forming with playful ease the connections our reason can only laboriously patch together piecemeal, and never to such kaleidoscopic effect."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_PYNCHON">
+			<Text>Thomas Pynchon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GRAVITYS_RAINBOW">
+			<Text>Gravity's Rainbow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GRAVITYS_RAINBOW">
+			<Text>"If they can get you asking the wrong questions, they don't have to worry about the answers."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GABRIEL_GARCIA_MARQUEZ">
+			<Text>Gabriel Garcia-Marquez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNDRED_YEARS_OF_SOLITUDE">
+			<Text>One Hundred Years of Solitude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HUNDRED_YEARS_OF_SOLITUDE">
+			<Text>"Taciturn, silent, insensible to the new breath of vitality that was shaking the house, Colonel Aureliano Buendia could understand only that the secret of a good old age is simply an honorable pact with solitude."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAYMOND_CHANDLER">
+			<Text>Raymond Chandler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_BIG_SLEEP">
+			<Text>The Big Sleep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_BIG_SLEEP">
+			<Text>"I don't mind your showing me your legs. They're very swell legs and it's a pleasure to make their acquaintance. I don't mind if you don't like my manners. They're pretty bad. I grieve over them during the long winter nights."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTOINE_DE_SAINT_EXUPERY">
+			<Text>Antoine de Saint-Exupéry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_LITTLE_PRINCE">
+			<Text>The Little Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_LITTLE_PRINCE">
+			<Text>"Here is my secret. It is very simple: It is only with the heart that one can see rightly; what is essential is invisible to the eye."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALAN_MOORE">
+			<Text>Alan Moore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WATCHMEN">
+			<Text>Watchmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WATCHMEN">
+			<Text>"This city is afraid of me. I have seen its true face. The streets are extended gutters and the gutters are full of blood and when the drains finally scab over, all the vermin will drown. The accumulated filth of all their sex and murder will foam up about their waists and all the whores and politicians will look up and shout 'Save us!'...[NEWLINE][NEWLINE]...and I'll look down and whisper 'No.'"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_GOLDING">
+			<Text>William Golding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LORD_OF_THE_FLIES">
+			<Text>Lord of the Flies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LORD_OF_THE_FLIES">
+			<Text>"'I'm scared of him,' said Piggy, 'and that's why I know him. If you're scared of someone you hate him but you can't stop thinking about him. You kid yourself he's alright really, an' then when you see him again; it's like asthma an' you can't breath."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VIRGINIA_WOOLF">
+			<Text>Virginia Woolf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TO_THE_LIGHTHOUSE">
+			<Text>To The Lighthouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TO_THE_LIGHTHOUSE">
+			<Text>"What is the meaning of life? That was all - a simple question; one that tended to close in on one with years. The great revelation had never come. The great revelation perhaps never did come. Instead there were little daily miracles, illuminations, matches struck unexpectedly in the dark; here was one."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BURROUGHS">
+			<Text>William S. Burroughs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NAKED_LUNCH">
+			<Text>Naked Lunch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NAKED_LUNCH">
+			<Text>"Dr. Benway is operating in an auditorium filled with students: 'Now, boys, you won’t see this operation performed very often and there's a reason for that... You see it has absolutely no medical value. No one knows what the purpose of it originally was or if it had a purpose at all. Personally I think it was a pure artistic creation from the beginning."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DICK_HIGGINS">
+			<Text>Dick Higgins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DANGER_MUSIC">
+			<Text>Danger Music No. 28</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

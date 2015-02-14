@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 8/10/2013 1:02:43 PM -->
+<GameData>
+  <!--CCTP-->
+	<!--Resolution moonbase!!!-->
+	<Resolutions>
+		<Row>
+			<!--<<<<<<<<<<[GLOBALENERGY]>>>>>>>>>>-->
+			<Type>RESOLUTION_GLOBALENERGY</Type>
+			<Description>TXT_KEY_RESOLUTION_GLOBALENERGY</Description>
+			<Help>TXT_KEY_RESOLUTION_GLOBALENERGY_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_MEGA_ENGINEERING</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_GLOBALENERGY</LeagueProjectEnabled>
+		</Row>
+		<Row>
+			<!--<<<<<<<<<<[WELTGERICHT]>>>>>>>>>>-->
+			<Type>RESOLUTION_WELTGERICHT</Type>
+			<Description>TXT_KEY_RESOLUTION_WELTGERICHT</Description>
+			<Help>TXT_KEY_RESOLUTION_WELTGERICHT_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_TELECOM</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_WELTGERICHT</LeagueProjectEnabled>
+		</Row>
+		<Row>
+			<!--<<<<<<<<<<[WORLDHISTORY]>>>>>>>>>>-->
+			<Type>RESOLUTION_WORLDHISTORY</Type>
+			<Description>TXT_KEY_RESOLUTION_WORLDHISTORY</Description>
+			<Help>TXT_KEY_RESOLUTION_WORLDHISTORY_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_SATELLITES</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_WORLDHISTORY</LeagueProjectEnabled>
+		</Row>
+		<Row>
+			<!--<<<<<<<<<<[WTO]>>>>>>>>>>-->
+			<Type>RESOLUTION_WTO</Type>
+			<Description>TXT_KEY_RESOLUTION_WTO</Description>
+			<Help>TXT_KEY_RESOLUTION_WTO_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_CONSUMERISM</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_WTO</LeagueProjectEnabled>
+		</Row>
+		<Row>
+			<!--<<<<<<<<<<[GLOBAL_VAULT]>>>>>>>>>>-->
+			<Type>RESOLUTION_GLOBAL_VAULT</Type>
+			<Description>TXT_KEY_RESOLUTION_GLOBAL_VAULT</Description>
+			<Help>TXT_KEY_RESOLUTION_GLOBAL_VAULT_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_GENETIC_ENGINEERING</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_GLOBAL_VAULT</LeagueProjectEnabled>
+		</Row>
+		<Row>
+			<!--<<<<<<<<<<[MOON_COLONY]>>>>>>>>>>-->
+			<Type>RESOLUTION_MOON_COLONY</Type>
+			<Description>TXT_KEY_RESOLUTION_MOON_COLONY</Description>
+			<Help>TXT_KEY_RESOLUTION_MOON_COLONY_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_SPACE_TOURISM</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_MOON_COLONY</LeagueProjectEnabled>
+		</Row>
+		<Row>
+			<!--<<<<<<<<<<[HEALTH]>>>>>>>>>>-->
+			<Type>RESOLUTION_HEALTH</Type>
+			<Description>TXT_KEY_RESOLUTION_HEALTH</Description>
+			<Help>TXT_KEY_RESOLUTION_HEALTH_HELP</Help>
+			<VoterDecision>RESOLUTION_DECISION_YES_OR_NO</VoterDecision>
+			<ProposerDecision>RESOLUTION_DECISION_NONE</ProposerDecision>
+			<TechPrereqAnyMember>TECH_VACCINES</TechPrereqAnyMember>
+			<LeagueProjectEnabled>LEAGUE_PROJECT_HEALTH</LeagueProjectEnabled>
+		</Row>
+
+	</Resolutions>
+
+	<!-- LeagueProject -->
+	<LeagueProjects>
+		<Update>
+			<Set CostPerPlayer="2500" />
+			<Where Type="LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION"/>
+		</Update>
+		<Update>
+			<Set CostPerPlayer="1500" />
+			<Where Type="LEAGUE_PROJECT_WORLD_FAIR"/>
+		</Update>
+		<Update>
+			<Set CostPerPlayer="2000" />
+			<Where Type="LEAGUE_PROJECT_WORLD_GAMES"/>
+		</Update>
+		<Row>
+			<Type>LEAGUE_PROJECT_GLOBALENERGY</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_GLOBALENERGY</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_GLOBALENERGY_SPLASH</Help>
+			<Process>PROCESS_GLOBALENERGY</Process>
+			<CostPerPlayer>2000</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_GLOBALENERGY_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_GLOBALENERGY_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_GLOBALENERGY_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_WTO</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_WTO</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_WTO_SPLASH</Help>
+			<ProjectSplashImage>International_WorldsFair_939x614.dds</ProjectSplashImage>
+			<Process>PROCESS_WTO</Process>
+			<CostPerPlayer>2000</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_WTO_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_WTO_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_WTO_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_WORLDHISTORY</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_WORLDHISTORY</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_WORLDHISTORY_SPLASH</Help>
+			<ProjectSplashImage>International_WorldsFair_939x614.dds</ProjectSplashImage>
+			<Process>PROCESS_WORLDHISTORY</Process>
+			<CostPerPlayer>2000</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_WORLDHISTORY_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_WORLDHISTORY_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_WORLDHISTORY_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_WELTGERICHT</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_WELTGERICHT</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_WELTGERICHT_SPLASH</Help>
+			<ProjectSplashImage>International_WorldsFair_939x614.dds</ProjectSplashImage>
+			<Process>PROCESS_WELTGERICHT</Process>
+			<CostPerPlayer>1850</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_WELTGERICHT_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_WELTGERICHT_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_WELTGERICHT_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_GLOBAL_VAULT</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_GLOBAL_VAULT</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_GLOBAL_VAULT_SPLASH</Help>
+			<ProjectSplashImage>International_WorldsFair_939x614.dds</ProjectSplashImage>
+			<Process>PROCESS_GLOBAL_VAULT</Process>
+			<CostPerPlayer>2750</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_MOON_COLONY</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_MOON_COLONY</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_MOON_COLONY_SPLASH</Help>
+			<ProjectSplashImage>International_WorldsFair_939x614.dds</ProjectSplashImage>
+			<Process>PROCESS_MOON_COLONY</Process>
+			<CostPerPlayer>4500</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_MOON_COLONY_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_MOON_COLONY_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_MOON_COLONY_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_HEALTH</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_HEALTH</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_HEALTH_SPLASH</Help>
+			<ProjectSplashImage>International_WorldsFair_939x614.dds</ProjectSplashImage>
+			<Process>PROCESS_HEALTH</Process>
+			<CostPerPlayer>2000</CostPerPlayer>
+			<RewardTier1>LEAGUE_PROJECT_REWARD_HEALTH_1</RewardTier1>
+			<RewardTier2>LEAGUE_PROJECT_REWARD_HEALTH_2</RewardTier2>
+			<RewardTier3>LEAGUE_PROJECT_REWARD_HEALTH_3</RewardTier3>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</LeagueProjects>
+	<!-- Process -->
+	<Processes>
+		<Row>
+			<Type>PROCESS_GLOBALENERGY</Type>
+			<Description>TXT_KEY_PROCESS_GLOBALENERGY</Description>
+			<Help>TXT_KEY_PROCESS_GLOBALENERGY_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_GLOBALENERGY_HELP</Strategy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>PROCESS_WTO</Type>
+			<Description>TXT_KEY_PROCESS_WTO</Description>
+			<Help>TXT_KEY_PROCESS_WTO_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_WTO_HELP</Strategy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>PROCESS_WORLDHISTORY</Type>
+			<Description>TXT_KEY_PROCESS_WORLDHISTORY</Description>
+			<Help>TXT_KEY_PROCESS_WORLDHISTORY_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_WORLDHISTORY_HELP</Strategy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>PROCESS_WELTGERICHT</Type>
+			<Description>TXT_KEY_PROCESS_WELTGERICHT</Description>
+			<Help>TXT_KEY_PROCESS_WELTGERICHT_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_WELTGERICHT_HELP</Strategy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>PROCESS_GLOBAL_VAULT</Type>
+			<Description>TXT_KEY_PROCESS_GLOBAL_VAULT</Description>
+			<Help>TXT_KEY_PROCESS_GLOBAL_VAULT_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_GLOBAL_VAULT_HELP</Strategy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>PROCESS_MOON_COLONY</Type>
+			<Description>TXT_KEY_PROCESS_MOON_COLONY</Description>
+			<Help>TXT_KEY_PROCESS_MOON_COLONY_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_MOON_COLONY_HELP</Strategy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>PROCESS_HEALTH</Type>
+			<Description>TXT_KEY_PROCESS_HEALTH</Description>
+			<Help>TXT_KEY_PROCESS_HEALTH_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_HEALTH_HELP</Strategy>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>INTL_PROJECT_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</Processes>
+
+	<!-- Flavor-->
+	<Process_Flavors>
+		<Row>
+			<ProcessType>PROCESS_GLOBALENERGY</ProcessType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_GLOBALENERGY</ProcessType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>75</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_GLOBALENERGY</ProcessType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WTO</ProcessType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WTO</ProcessType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WTO</ProcessType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WORLDHISTORY</ProcessType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WORLDHISTORY</ProcessType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WORLDHISTORY</ProcessType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WELTGERICHT</ProcessType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>80</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WELTGERICHT</ProcessType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_WELTGERICHT</ProcessType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+
+		<Row>
+			<ProcessType>PROCESS_GLOBAL_VAULT</ProcessType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>80</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_GLOBAL_VAULT</ProcessType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_GLOBAL_VAULT</ProcessType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_MOON_COLONY</ProcessType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>80</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_MOON_COLONY</ProcessType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_MOON_COLONY</ProcessType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_MOON_COLONY</ProcessType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_MOON_COLONY</ProcessType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		
+		<Row>
+			<ProcessType>PROCESS_HEALTH</ProcessType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>70</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_HEALTH</ProcessType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_HEALTH</ProcessType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_HEALTH</ProcessType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>80</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_HEALTH</ProcessType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+		<Row>
+			<ProcessType>PROCESS_HEALTH</ProcessType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>60</Flavor>
+		</Row>
+	</Process_Flavors>
+
+	<!-- LeagueProjectRewards -->
+	<LeagueProjectRewards>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_GLOBALENERGY_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_1_HELP</Help>
+			<FreeUnitClass>UNITCLASS_MERCHANT</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_GLOBALENERGY_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_2_HELP</Help>
+			<FreeUnitClass>UNITCLASS_ENGINEER</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_GLOBALENERGY_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_3_HELP</Help>
+			<Building>BUILDING_GB1</Building>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WTO_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_1_HELP</Help>
+			<FreeUnitClass>UNITCLASS_MERCHANT</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WTO_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_2_HELP</Help>
+			<FreeUnitClass>UNITCLASS_MERCHANT</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WTO_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_3_HELP</Help>
+			<Building>BUILDING_WTO</Building>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WORLDHISTORY_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_1_HELP</Help>
+			<CultureBonusTurns>10</CultureBonusTurns>
+			<FreeUnitClass>UNITCLASS_ARCHAEOLOGIST</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WORLDHISTORY_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_2_HELP</Help>
+			<FreeUnitClass>UNITCLASS_ARTIST</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WORLDHISTORY_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_3_HELP</Help>
+			<Building>BUILDING_WORLDHISTORY1</Building>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WELTGERICHT_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_1_HELP</Help>
+			<Happiness>5</Happiness>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WELTGERICHT_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_2_HELP</Help>
+			<FreeSocialPolicies>1</FreeSocialPolicies>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_WELTGERICHT_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_3_HELP</Help>
+			<Building>BUILDING_WELTGERICHT</Building>
+		</Row>
+
+
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_1_HELP</Help>
+			<Happiness>5</Happiness>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_2_HELP</Help>
+			<FreeUnitClass>UNITCLASS_SCIENTIST</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_3_HELP</Help>
+			<Building>BUILDING_VAULT</Building>
+		</Row>
+
+
+
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_MOON_COLONY_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_1_HELP</Help>
+			<Happiness>5</Happiness>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_MOON_COLONY_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_2_HELP</Help>
+			<FreeUnitClass>UNITCLASS_SCIENTIST</FreeUnitClass>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_MOON_COLONY_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_3_HELP</Help>
+			<Building>BUILDING_MOON_COLONY</Building>
+		</Row>
+
+
+
+
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_HEALTH_1</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_1</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_1_HELP</Help>
+			<Building>BUILDING_HEALTH1</Building>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_HEALTH_2</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_2</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_2_HELP</Help>
+			<Building>BUILDING_HEALTH2</Building>
+		</Row>
+		<Row>
+			<Type>LEAGUE_PROJECT_REWARD_HEALTH_3</Type>
+			<Description>TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_3</Description>
+			<Help>TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_3_HELP</Help>
+			<Building>BUILDING_HEALTH3</Building>
+		</Row>
+
+
+
+
+
+
+	</LeagueProjectRewards>
+
+
+	<!-- English support-->
+	<Language_en_US>
+		<!--Energy Monopoly-->
+	
+		<Row Tag="TXT_KEY_BUILDING_GB1">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GB1_HELP">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GB1_DESC">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GB1_QUOTE">
+			<Text>WTO</Text>
+		</Row>
+		<!--Resolution-->
+		<Row Tag="TXT_KEY_RESOLUTION_GLOBALENERGY">
+			<Text>Energy Monopoly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_GLOBALENERGY_HELP">
+			<Text>Begins the Global Energy project.  Once underway, Civilizations can contribute [ICON_PRODUCTION] Production towards its completion by selecting it in the city production list.  When complete, Civilizations receive bonuses based on how much they contributed.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_1_HELP}[NEWLINE][NEWLINE]Available once any Civilization discovers Telecommunication.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_GLOBALENERGY">
+			<Text>Global Energy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_GLOBALENERGY_SPLASH">
+			<Text>The Global Energy is now complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_GLOBALENERGY">
+			<Text>Global Energy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_GLOBALENERGY_HELP">
+			<Text>Contribute this city's [ICON_PRODUCTION] Production towards the Global Energy project.</Text>
+		</Row>
+		<!-- League-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_1">
+			<Text>Provider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_1_HELP">
+			<Text>Provides a free Merchant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_2">
+			<Text>Constructer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_2_HELP">
+			<Text>Provides a free Engineer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_3">
+			<Text>Monopolist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBALENERGY_3_HELP">
+			<Text>+15 [ICON_POWER3] Electricity and two Scientist slots.</Text>
+		</Row>
+		
+		<!--International Court-->
+		<Row Tag="TXT_KEY_BUILDING_WELTGERICHT_STRATEGY">
+			<Text>Provides a boost in Culture, Tourism and Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WELTGERICHT_HELP">
+			<Text>+10% [ICON_CULTURE] Culturegeneration in this city and +1 [ICON_HAPPINESS] Happiness for each Courthouse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WELTGERICHT_PEDIA">
+			<Text>[NEWLINE]upps[NEWLINE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WELTGERICHT">
+			<Text>World Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WELTGERICHT_HELP">
+			<Text>Beginn of the International Court. Once underway, Civilizations can contribute [ICON_PRODUCTION] Production towards its completion by selecting it in the city production list.  When complete, Civilizations receive bonuses based on how much they contributed.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_1_HELP}[NEWLINE][NEWLINE]Available once any Civilization discovers Telecommunication.</Text>
+		</Row>
+		<!-- League-->
+		<!-- Bulding-->
+		<Row Tag="TXT_KEY_BUILDING_WELTGERICHT">
+			<Text>Word Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_WELTGERICHT_DESC">
+			<Text>Word Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_WELTGERICHT_HELP">
+			<Text>Word Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_WELTGERICHT_QUOTE">
+			<Text>Word Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WELTGERICHT">
+			<Text>Word Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WELTGERICHT_SPLASH">
+			<Text>The World Court is now complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WELTGERICHT">
+			<Text>World Court</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROCESS_WELTGERICHT_HELP">
+			<Text>Contribute this city's [ICON_PRODUCTION] Production towards the World Court project.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_1">
+			<Text>Justicia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_1_HELP">
+			<Text>+5 [ICON_HAPPINESS] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_2">
+			<Text>Adovadus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_2_HELP">
+			<Text>Provides a free policy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_3">
+			<Text>Internatinal Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WELTGERICHT_3_HELP">
+			<Text>Provides the International Court</Text>
+		</Row>
+		
+		<!--Human History-->
+		<!-- Theme Bonus-->
+		<Row Tag="TXT_KEY_WORLDHISTORY1_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the Great Work Slots are all filled with Art from different Eras and Players.</Text>
+		</Row>
+		<!-- Bulding-->
+		<Row Tag="TXT_KEY_BUILDING_WORLDHISTORY1">
+			<Text>Human History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WORLDHISTORY1_HELP">
+			<Text>Human History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_WORLDHISTORY1_DESC">
+			<Text>Human History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_WORLDHISTORY_STRATEGY">
+			<Text>Provides a boost in Culture,Tourism and grands 4 Great Works Slots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_WORLDHISTORY_HELP">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WORLDHISTORY1_QUOTE">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_WORLDHISTORY_PEDIA">
+			<Text>[NEWLINE]upps[NEWLINE].</Text>
+		</Row>
+		<!-- League-->
+		<Row Tag="TXT_KEY_RESOLUTION_WORLDHISTORY">
+			<Text>World History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLDHISTORY_HELP">
+			<Text>Begins the World History project.  Once underway, Civilizations can contribute [ICON_PRODUCTION] Production towards its completion by selecting it in the city production list.  When complete, Civilizations receive bonuses based on how much they contributed.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY1_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY1_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY1_1_HELP}[NEWLINE][NEWLINE]Available once any Civilization discovers Telecommunication.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WORLDHISTORY">
+			<Text>World History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WORLDHISTORY_SPLASH">
+			<Text>The World History is now complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WORLDHISTORY">
+			<Text>World History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WORLDHISTORY_HELP">
+			<Text>Contribute this city's [ICON_PRODUCTION] Production towards the World History project.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_1">
+			<Text>Indiana Jones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_1_HELP">
+			<Text>Provides a free Archeologist and 10 turns [ICON_CULTURE] Culturebonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_2">
+			<Text>Ancient research</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_2_HELP">
+			<Text>Provides a free Artist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_3">
+			<Text>World History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLDHISTORY_3_HELP">
+			<Text>Grands the World History Museum.</Text>
+		</Row>
+		
+		<!--WTO-->
+		<Row Tag="TXT_KEY_BUILDING_WTO">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WTO_QUOTE">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WTO_HELP">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_WTO_DESC">
+			<Text>WTO</Text>
+		</Row>
+		<!--Resolution-->
+		<Row Tag="TXT_KEY_RESOLUTION_WTO">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WTO_HELP">
+			<Text>Begins the WTO project.  Once underway, Civilizations can contribute [ICON_PRODUCTION] Production towards its completion by selecting it in the city production list.  When complete, Civilizations receive bonuses based on how much they contributed.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_1_HELP}[NEWLINE][NEWLINE]Available once any Civilization discovers Telecommunication.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WTO">
+			<Text>WTO</Text>
+		</Row>
+		<!-- League-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WTO_SPLASH">
+			<Text>The WTO is now complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WTO">
+			<Text>WTO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WTO_HELP">
+			<Text>Contribute this city's [ICON_PRODUCTION] Production towards the WTO project.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_1">
+			<Text>Magnat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_1_HELP">
+			<Text>Provides a free Merchant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_2">
+			<Text>Capitalist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_2_HELP">
+			<Text>Provides a free Merchant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_3">
+			<Text>World Trade Organisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_3_HELP">
+			<Text>+3 new Traderoutes</Text>
+		</Row>
+
+
+
+		<!--Global Vault-->
+		<Row Tag="TXT_KEY_RESOLUTION_GLOBAL_VAULT">
+			<Text>Global Vault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_GLOBAL_VAULT_HELP">
+			<Text>Begins the WTO project.  Once underway, Civilizations can contribute [ICON_PRODUCTION] Production towards its completion by selecting it in the city production list.  When complete, Civilizations receive bonuses based on how much they contributed.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WTO_1_HELP}[NEWLINE][NEWLINE]Available once any Civilization discovers Telecommunication.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_GLOBAL_VAULT">
+			<Text>Global Vault</Text>
+		</Row>
+		<!-- League-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_GLOBAL_VAULT_SPLASH">
+			<Text>The Global Vault is now complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_GLOBAL_VAULT">
+			<Text>Global Vault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_GLOBAL_VAULT_HELP">
+			<Text>Contribute this city's [ICON_PRODUCTION] Production towards the WTO project.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_1">
+			<Text>Restored Live</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_1_HELP">
+			<Text>Provides +5 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_2">
+			<Text>Genetic Research</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_2_HELP">
+			<Text>Provides a free Scientist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_3">
+			<Text>Global Seed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_GLOBAL_VAULT_3_HELP">
+			<Text>Grands the Global Seed Wonder.</Text>
+		</Row>
+
+
+		<!-- League-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_MOON_COLONY_SPLASH">
+			<Text>The Moon Colony is now complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_MOON_COLONY">
+			<Text>Moon Colony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_MOON_COLONY_HELP">
+			<Text>Contribute this city's [ICON_PRODUCTION] Production towards the Moon Colony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_1">
+			<Text>Moon Base Alpha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_1_HELP">
+			<Text>Provides the  Moonbase Wonder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_2">
+			<Text>Moon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_2_HELP">
+			<Text>Provides a free Scientist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_3">
+			<Text>Lunar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_MOON_COLONY_3_HELP">
+			<Text>Provides the Moon Colony.</Text>
+		</Row>
+
+		<!-- League-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_HEALTH_SPLASH">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_HEALTH">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_HEALTH_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_1">
+			<Text>Moon Base Alpha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_1_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_2_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_3">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_HEALTH_3_HELP">
+			<Text></Text>
+		</Row>
+
+	</Language_en_US>
+	<!-- Have a nice Day:=) -->
+</GameData>

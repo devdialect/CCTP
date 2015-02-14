@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/15/2014 1:43:05 AM -->
+<GameData>
+ 
+ 
+  <!--*****Policy_CapitalYieldPerPopChanges*****-->
+<Policy_CapitalYieldPerPopChanges>
+<Row>
+	<PolicyType>POLICY_REFORMATIONX</PolicyType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>50</Yield>
+</Row>
+	
+<!--*****Next*****-->
+<Row>
+	<PolicyType>POLICY_CCTP284</PolicyType>
+	<YieldType>YIELD_CULTURE</YieldType>
+	<Yield>50</Yield>
+</Row> 
+<!--*****Next*****-->
+</Policy_CapitalYieldPerPopChanges>
+	
+</GameData> 
+<!--Have a nice Day;=)-->

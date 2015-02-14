@@ -1,0 +1,482 @@
+<trigger_system type="FGrannyTimedTriggerSystem">
+  <event_tracks>
+    <event_track ec="1000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1120">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1160">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1280">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1400">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1520">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1560">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1600">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1640">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1800">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1290">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1140">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1180">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="1220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1420">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1500">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1540">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1580">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1620">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="2100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="2220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1285">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1110">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1450">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+    <event_track ec="2440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1190">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+    </event_track>
+    <event_track ec="1130">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+      <track id="5" name="Effect" />
+      <track id="6" name="Effect" />
+      <track id="7" name="Effect" />
+    </event_track>
+  </event_tracks>
+  <triggers>
+    <trigger type="FTimedTriggerEffect" id="1" time="0.17037" duration="0" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Body" />
+    <trigger type="FTimedTriggerAction" id="137" time="0.3395637" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="198" time="1.07619119" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="201" time="0.662499964" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="217" time="0.75977236" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="218" time="0.298462868" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="219" time="1.09012938" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerTransfer" id="223" time="0.6949835" duration="0" repeat="0" ec="1180" track="3" refid="222" speed="0" tangent.x="0" tangent.y="-0.9524946" tangent.z="-0.3045555" />
+    <trigger type="FTimedTriggerTransfer" id="226" time="0.2721503" duration="0" repeat="0" ec="1130" track="3" refid="123" speed="0" tangent.x="0.2716199" tangent.y="-0.957799435" tangent.z="0.09403679" />
+    <trigger type="FTimedTriggerTransfer" id="235" time="0.695129931" duration="0" repeat="0" ec="1160" track="3" refid="234" speed="0" tangent.x="0" tangent.y="-0.9524946" tangent.z="-0.304555565" />
+    <trigger type="FTimedTriggerEffect" id="31" time="0.5597268" duration="0" repeat="0" ec="2200" track="7" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Rear_B" />
+    <trigger type="FTimedTriggerEffect" id="10" time="0.146757886" duration="0" repeat="0" ec="2200" track="7" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Rear_A" />
+    <trigger type="FTimedTriggerEffect" id="9" time="0.5699656" duration="0" repeat="0" ec="1200" track="7" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Rear_B" />
+    <trigger type="FTimedTriggerEffect" id="6" time="0.587030649" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Head" />
+    <trigger type="FTimedTriggerEffect" id="111" time="0.74402684" duration="0" repeat="0" ec="2200" track="7" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Shell" />
+    <trigger type="FTimedTriggerEffect" id="23" time="0" duration="1" repeat="0" ec="1020" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="151" time="0" duration="4" repeat="0" ec="1040" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="172" time="0" duration="1.33333337" repeat="0" ec="1100" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="175" time="0" duration="4" repeat="0" ec="2000" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="182" time="0" duration="1" repeat="0" ec="2020" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="25" time="0.24133566" duration="0.07" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_MUZBLAST" bone="FX_Muzzle" />
+    <trigger type="FTimedTriggerEffect" id="192" time="0.4855986" duration="0.07" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_MUZBLAST" bone="FX_Muzzle" />
+    <trigger type="FTimedTriggerEffect" id="204" time="0.934392" duration="0.07" repeat="0" ec="1100" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_MUZBLAST" bone="FX_Muzzle" />
+    <trigger type="FTimedTriggerEffect" id="206" time="0" duration="1.33333337" repeat="0" ec="2100" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="209" time="0.229430884" duration="0.07" repeat="0" ec="2100" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_MUZBLAST" bone="FX_Muzzle" />
+    <trigger type="FTimedTriggerEffect" id="210" time="0.673098445" duration="0.07" repeat="0" ec="2100" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_MUZBLAST" bone="FX_Muzzle" />
+    <trigger type="FTimedTriggerEffect" id="211" time="0.9939158" duration="0.07" repeat="0" ec="2100" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_MUZBLAST" bone="FX_Muzzle" />
+    <trigger type="FTimedTriggerEffect" id="213" time="0" duration="4" repeat="0" ec="1620" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="239" time="0" duration="0.6666667" repeat="0" ec="1600" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="241" time="0" duration="0.6666667" repeat="0" ec="1580" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="245" time="0" duration="0.6666667" repeat="0" ec="1640" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="26" time="0" duration="0.5" repeat="0" ec="1110" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="30" time="0" duration="0.6666667" repeat="0" ec="1120" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="225" time="0.433566421" duration="0.072" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_PROJ" bone="FX_Projectile01" />
+    <trigger type="FTimedTriggerEffect" id="227" time="0.7943707" duration="0" repeat="0" ec="1130" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_BIGMUZBLAST" bone="Head" />
+    <trigger type="FTimedTriggerEffect" id="40" time="0" duration="1.33333337" repeat="0" ec="1130" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="84" time="0" duration="1" repeat="0" ec="1140" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="234" time="0.6240172" duration="0.072" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_PROJ" bone="FX_Projectile01" />
+    <trigger type="FTimedTriggerEffect" id="233" time="0.5732578" duration="0" repeat="0" ec="1160" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_BIGMUZBLAST" bone="Head" />
+    <trigger type="FTimedTriggerEffect" id="147" time="0" duration="1.33333337" repeat="0" ec="1160" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="185" time="0" duration="1.33333337" repeat="0" ec="1180" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="222" time="0.623310268" duration="0.073" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_PROJ" bone="FX_Projectile01" />
+    <trigger type="FTimedTriggerEffect" id="221" time="0.582700551" duration="0" repeat="0" ec="1180" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_BIGMUZBLAST" bone="Head" />
+    <trigger type="FTimedTriggerEffect" id="194" time="0" duration="1" repeat="0" ec="1200" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="8" time="0.317406148" duration="0" repeat="0" ec="1200" track="7" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Rear_A" />
+    <trigger type="FTimedTriggerEffect" id="197" time="0.317406148" duration="0" repeat="0" ec="1200" track="5" event="ART_DEF_VEFFECT_PLASMA_DEATH_HIT_MD" bone="Rear_A" />
+    <trigger type="FTimedTriggerEffect" id="255" time="0" duration="0.5" repeat="0" ec="1280" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="261" time="0" duration="4" repeat="0" ec="1285" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="285" time="0" duration="0.6666667" repeat="0" ec="1400" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="296" time="0" duration="0.5" repeat="0" ec="1420" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="299" time="0" duration="0.6666667" repeat="0" ec="1290" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="321" time="0" duration="1" repeat="0" ec="1440" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="324" time="0" duration="0.6666667" repeat="0" ec="1450" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="327" time="0" duration="1" repeat="0" ec="1500" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="334" time="0" duration="1" repeat="0" ec="1500" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="337" time="0" duration="4" repeat="0" ec="1520" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="340" time="0" duration="4" repeat="0" ec="1540" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="343" time="0" duration="1" repeat="0" ec="1560" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="355" time="0" duration="1.66666675" repeat="0" ec="1800" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="364" time="0" duration="4" repeat="0" ec="2040" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="367" time="0" duration="1" repeat="0" ec="2440" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="376" time="0" duration="1.33333337" repeat="0" ec="2200" track="5" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerSound" id="13" time="0.9351852" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="14" time="0.240740731" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="15" time="0.483333379" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="18" time="0.685185254" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="19" time="0.359259248" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="32" time="0.06481482" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="33" time="0.9611111" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="34" time="0.58518517" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="36" time="0" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="38" time="0" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_1" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="39" time="0" duration="0.67" repeat="0" ec="1120" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="42" time="0" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="43" time="0.05370371" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="44" time="0.842592537" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="45" time="0.292592585" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="46" time="0" duration="0" repeat="0" ec="1140" track="2" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="47" time="0.06481482" duration="0" repeat="0" ec="1140" track="2" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="48" time="0.07777778" duration="0" repeat="0" ec="1140" track="2" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="49" time="0" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="50" time="0.56851846" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="51" time="0.07777778" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="52" time="0.6074076" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="53" time="0.06481482" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="54" time="0.788888931" duration="0" repeat="0" ec="1160" track="1" event="AS3D_IMPACT_ACID_CITY" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="55" time="0.6185187" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="56" time="0.5888889" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="57" time="0.07777778" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="58" time="0.06481482" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="59" time="0.00185185182" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="60" time="0.7425927" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_BODY_FALL_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="61" time="0.75000006" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="62" time="0.07777778" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="63" time="0" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="64" time="0.4148148" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="65" time="0.279629648" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_2" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="66" time="0.03703703" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="67" time="0.03703703" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="68" time="0.07777778" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="69" time="0" duration="4" repeat="0" ec="1285" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP_COMBAT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="70" time="0.07777778" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="71" time="0.03703703" duration="0" repeat="0" ec="1290" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="72" time="0" duration="0.67" repeat="0" ec="1400" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="73" time="0.501851857" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="74" time="0" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="75" time="0.06481482" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="76" time="0.07777778" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="77" time="0" duration="0" repeat="0" ec="1450" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="78" time="0.06481482" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="79" time="0.07777778" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="81" time="1.85925925" duration="0" repeat="0" ec="1540" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="82" time="0.06481482" duration="0" repeat="0" ec="1540" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="83" time="0.06481482" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="85" time="0.0851851851" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="87" time="0" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="88" time="0" duration="0" repeat="0" ec="1580" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="89" time="0.0629629642" duration="0" repeat="0" ec="1580" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="90" time="0.08148149" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="91" time="0.3759259" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="92" time="0" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_1" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="93" time="0.0240740739" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="94" time="0" duration="4" repeat="0" ec="1620" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP_COMBAT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="95" time="0.0240740739" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="96" time="0.08148149" duration="0" repeat="0" ec="1640" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="102" time="1.29074085" duration="0" repeat="0" ec="2040" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="119" time="0.08148149" duration="0" repeat="0" ec="2040" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="120" time="1.16111135" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="121" time="0" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="124" time="0.8925927" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="125" time="0.988889039" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="126" time="0.224074051" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="127" time="0.67592597" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="128" time="0.7240741" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="129" time="0.122222207" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="130" time="0.0328638479" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="131" time="0.457407415" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="132" time="0.00185185182" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_IMPACT_$(WEAPON)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="134" time="0.02037037" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_2" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="135" time="1.0999999" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_BODY_FALL_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="136" time="1.12777746" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ_RUN" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="140" time="0.579629362" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="144" time="1.06851828" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="146" time="0.188888654" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="148" time="0.8074074" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="150" time="0.32407406" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="152" time="0.2148148" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_ALIEN_FLYER_BUZZ" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="153" time="0.0481479168" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="154" time="2.00740719" duration="0" repeat="0" ec="1040" track="2" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerEffect" id="123" time="0.109028287" duration="0.165" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_PROJ" bone="FX_Projectile01" />
+    <trigger type="FTimedTriggerEffect" id="155" time="0.0571971163" duration="0" repeat="0" ec="1130" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_BIGMUZBLAST" bone="Head" />
+    <trigger type="FTimedTriggerTransfer" id="156" time="0.503826" duration="0" repeat="0" ec="1130" track="3" refid="225" speed="0" tangent.x="-0.00146865845" tangent.y="0.0051574707" tangent.z="-0.00048828125" />
+    <trigger type="FTimedTriggerEffect" id="157" time="0.845870554" duration="0.094" repeat="0" ec="1130" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_PROJ" bone="FX_Projectile01" />
+    <trigger type="FTimedTriggerTransfer" id="158" time="0.937638938" duration="0" repeat="0" ec="1130" track="3" refid="157" speed="0" tangent.x="0.0003604889" tangent.y="-0.00126647949" tangent.z="0.0001373291" />
+    <trigger type="FTimedTriggerEffect" id="159" time="0.378007174" duration="0" repeat="0" ec="1130" track="7" event="ART_DEF_VEFFECT_ALIEN_FLYER_BIGMUZBLAST" bone="Head" />
+    <trigger type="FTimedTriggerEffect" id="286" time="0" duration="4" repeat="0" ec="1000" track="2" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="2" time="0" duration="0.6333334" repeat="0" ec="2220" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerEffect" id="3" time="0" duration="0.6333334" repeat="0" ec="1220" track="6" event="ART_DEF_VEFFECT_ALIEN_FLYER_WINGS_ANIM" bone="Body" />
+    <trigger type="FTimedTriggerSound" id="4" time="0.112962879" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="5" time="0.640740752" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_MOVEMENT_SWEETENER" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="7" time="0.6277778" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_ACID_SPLASH" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="11" time="0.790740848" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_BALL" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="12" time="0.6277778" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_ACID_SPLASH" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="17" time="0.04217926" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_1" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="20" time="0" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_1" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="21" time="0" duration="0.67" repeat="0" ec="1450" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="22" time="0" duration="0" repeat="0" ec="1560" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_1" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="24" time="0" duration="1.33" repeat="0" ec="2100" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP_COMBAT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="27" time="0.02037037" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_2" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="28" time="0" duration="1.33333337" repeat="0" ec="1180" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP_COMBAT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="29" time="0" duration="1.33333337" repeat="0" ec="1160" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP_COMBAT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="35" time="0" duration="1.33333337" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP_COMBAT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="16" time="0" duration="1.33333337" repeat="0" ec="1100" track="1" event="AS3D_UNIT_ALIEN_FLYER_RUN_LOOP_COMBAT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="37" time="0.437036961" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_ATTACK" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="41" time="0.8796296" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_ACID_SPLASH" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="80" time="0.138888866" duration="0" repeat="0" ec="1130" track="1" event="AS3D_UNIT_ALIEN_FLYER_ACID_SPLASH" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="86" time="0.1425926" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_ALIEN_FLYER_VOX_2" bone="" tier="0" />
+  </triggers>
+</trigger_system>

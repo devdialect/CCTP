@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POPUP_MESSAGE">
+			<Text>Event Decision</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP1">
+			<Text>A new year has dawned,[NEWLINE]and your people desire a festival[NEWLINE]to mark the occasion.[NEWLINE]They look to you to sponsor the event</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_JAN_ONE">
+			<Text>Throw a lavish celebration for 10 [ICON_GOLD] per population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_JAN_TWO">
+			<Text>Appease them with simple festivities for 2 [ICON_GOLD] per population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_JAN_THREE">
+			<Text>Do nothing, the ungrateful wretches should be[NEWLINE]throwing a party to celebrate you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_STARVE">
+			<Text>There is a food shortage in your lands.[NEWLINE]Current number of cities facing starvation: {1_iStarveCities}</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CHOICE_STARVE_ONE">
+			<Text>Import shipments of food to tide your people over</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_STARVE_TWO">
+			<Text>Force Population out of the effected cities[NEWLINE]and into work camps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_STARVE_THREE">
+			<Text>Let the situation work itself out</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_STARVE_ONE">
+			<Text>Import</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_STARVE_TWO">
+			<Text>Forced Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_STARVE_THREE">
+			<Text>Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_STARVE_ONE">
+			<Text>-25 [ICON_GOLD] per city[NEWLINE] Increases city [ICON_FOOD] stock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_STARVE_TWO">
+			<Text>Converts starving civilians into manpower[NEWLINE]Lowers Happiness[ICON_HAPPINESS] by 10</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_STARVE_THREE">
+			<Text>Some people may die</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_JAN_ONE">
+			<Text>Lavish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_JAN_ONE">
+			<Text>[NEWLINE]Current [ICON_PRODUCTION]Production Increased[NEWLINE][ICON_HAPPINESS]Happiness Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_JAN_TWO">
+			<Text>Moderate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_JAN_TWO">
+			<Text>[NEWLINE][ICON_HAPPINESS]Happiness Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_JAN_THREE">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_JAN_THREE">
+			<Text>[NEWLINE]Who cares about[NEWLINE]consequences</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_HARVEST">
+			<Text>A bountiful harvest has brought in[NEWLINE]an excess of{1_iFoodBonus} [ICON_FOOD] food</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_HARVEST_ONE">
+			<Text>Divide the food among your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_HARVEST_TWO">
+			<Text>Create a food bank for the poor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_HARVEST_THREE">
+			<Text>Sell the harvest to another nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_HARVEST_ONE">
+			<Text>Distribute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_HARVEST_TWO">
+			<Text>Donate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_HARVEST_THREE">
+			<Text>Profit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_HARVEST_ONE">
+			<Text>+2 [ICON_HAPPINESS]Happiness[NEWLINE]Increases city [ICON_FOOD] stock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_HARVEST_TWO">
+			<Text>+2 [ICON_HAPPINESS]Happiness[NEWLINE]+ 2 [ICON_PEACE]Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_HARVEST_THREE">
+			<Text>+{1_iFoodProfit}[ICON_GOLD], -1 [ICON_HAPPINESS]Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_DRAGON">
+			<Text>Your people have witnessed what[NEWLINE]they believe to have been a[NEWLINE]a Great Dragon decending from the sky.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_DRAGON_ONE">
+			<Text>Proclaim it to be a god.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DRAGON_TWO">
+			<Text>Claim it is a sign of your divine rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DRAGON_THREE">
+			<Text>Nothing Happened. No one saw anything.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DRAGON_ONE">
+			<Text>Devotional</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DRAGON_TWO">
+			<Text>Legitimacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DRAGON_THREE">
+			<Text>Denial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DRAGON_ONE">
+			<Text>+50 [ICON_PEACE]Faith[NEWLINE]+25[ICON_CULTURE]Culture[NEWLINE]-25%[ICON_RESEARCH]Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DRAGON_TWO">
+			<Text>+75 [ICON_CULTURE]Culture[NEWLINE]-10% [ICON_RESEARCH]Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DRAGON_THREE">
+			<Text>-25% [ICON_PEACE]Faith[NEWLINE]1 Free Tech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_TRIBE">
+			<Text>The old tribal hierarchies[NEWLINE]are collapsing, your people[NEWLINE]are undergoing a cultural shift.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_TRIBE_ONE">
+			<Text>Promote a culture of Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TRIBE_TWO">
+			<Text>Promote a culture of Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TRIBE_THREE">
+			<Text>Promote a culture of war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TRIBE_ONE">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TRIBE_TWO">
+			<Text>Research</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TRIBE_THREE">
+			<Text>Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TRIBE_ONE">
+			<Text>+2 [ICON_PEACE]Faith[NEWLINE]-2 [ICON_RESEARCH]Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TRIBE_TWO">
+			<Text>+2 [ICON_RESEARCH]Science[NEWLINE]-2 [ICON_PEACE]Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TRIBE_THREE">
+			<Text>+25% combat experience[NEWLINE]-2 [ICON_CULTURE]Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_TREASURY">
+			<Text>The nobles in your court believe[NEWLINE]a new tax would[NEWLINE]benifit your government.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_TREASURY_ONE">
+			<Text>Place a  tax on luxury goods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TREASURY_TWO">
+			<Text>Initiate a city defense tax.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TREASURY_THREE">
+			<Text>The people pay enough taxes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TREASURY_ONE">
+			<Text>Luxury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TREASURY_TWO">
+			<Text>Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TREASURY_THREE">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TREASURY_ONE">
+			<Text>+1 [ICON_GOLD]Gold per luxury resource[NEWLINE]-5 Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TREASURY_TWO">
+			<Text>+1 [ICON_GOLD]Gold per garrison[NEWLINE]-3 Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TREASURY_THREE">
+			<Text>No change</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_HOLYEMPIRE">
+			<Text>As the sovereign leader,[NEWLINE] you have been placed incharge[NEWLINE]of the Church's direction.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_HOLYEMPIRE_ONE">
+			<Text>Establish your religion in all[NEWLINE]your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_HOLYEMPIRE_TWO">
+			<Text>Invest in the spreading of[NEWLINE]your religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_HOLYEMPIRE_THREE">
+			<Text>Increase parishioners tithe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_HOLYEMPIRE_ONE">
+			<Text>Holy Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_HOLYEMPIRE_TWO">
+			<Text>Proselytize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_HOLYEMPIRE_THREE">
+			<Text>Defend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_HOLYEMPIRE_ONE">
+			<Text>Religion in all cities[NEWLINE]-{1_iRelCit}[ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_HOLYEMPIRE_TWO">
+			<Text>2 free Great Prophets[NEWLINE]-20 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_HOLYEMPIRE_THREE">
+			<Text>+{1_iTithe} [ICON_GOLD]Gold[NEWLINE]- 5 Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_PEASANTS">
+			<Text>Your advisors have convened to[NEWLINE]to offer suggestions to manage[NEWLINE]your growing peasant population.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_PEASANTS_ONE">
+			<Text>Allocate the majority to the fields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_PEASANTS_TWO">
+			<Text>Increase the number working in your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_PEASANTS_THREE">
+			<Text>The peasants are fine as they are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PEASANTS_ONE">
+			<Text>Food</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PEASANTS_TWO">
+			<Text>Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PEASANTS_THREE">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PEASANTS_ONE">
+			<Text>+2 [ICON_FOOD]Food per city[NEWLINE]-2 [ICON_PRODUCTION]Production per city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PEASANTS_TWO">
+			<Text>+2 [ICON_PRODUCTION]Production per city[NEWLINE]-2 [ICON_FOOD]Food per city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PEASANTS_THREE">
+			<Text>No change</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_ARTMOVE">
+			<Text>A rediscovery of classical ideas[NEWLINE]has lead to a cultural renaissance[NEWLINE]amoung your people.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_ARTMOVE_ONE">
+			<Text>Be a benifactor of the arts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ARTMOVE_TWO">
+			<Text>Promote new scientific studies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ARTMOVE_THREE">
+			<Text>Invest in the education of your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ARTMOVE_ONE">
+			<Text>Arts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ARTMOVE_TWO">
+			<Text>Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ARTMOVE_THREE">
+			<Text>Education</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ARTMOVE_ONE">
+			<Text>Great Artist and[NEWLINE]Great Musician are born[NEWLINE]-40 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ARTMOVE_TWO">
+			<Text>+10 [ICON_RESEARCH]Science[NEWLINE]-100 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ARTMOVE_THREE">
+			<Text>School in every city[NEWLINE]-250 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_INDUST">
+			<Text>Your ciilization is experiencing an[NEWLINE]Industrial Revolution, how will[NEWLINE]you guide this change?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_INDUST_ONE">
+			<Text>We need to increase our industrial output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_INDUST_TWO">
+			<Text>The health of the people should come first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_INDUST_THREE">
+			<Text>Perhaps we can find a balance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_INDUST_ONE">
+			<Text>Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_INDUST_TWO">
+			<Text>Health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_INDUST_THREE">
+			<Text>Balance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_INDUST_ONE">
+			<Text>+5 [ICON_PRODUCTION]Production in cities[NEWLINE]-2 [ICON_HEALTH]Health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_INDUST_TWO">
+			<Text>+5 [ICON_HEALTH] Health in cities[NEWLINE]-2 [ICON_PRODUCTION]Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_INDUST_THREE">
+			<Text>+1 [ICON_PRODUCTION]Production in cities[NEWLINE]+1 [ICON_HEALTH]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_TERROR">
+			<Text>You have recieved information of[NEWLINE]an impending terrorist attack.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_TERROR_ONE">
+			<Text>Increase security in your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TERROR_TWO">
+			<Text>Enact more stringent border access.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TERROR_THREE">
+			<Text>Ignore it, they're all talk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TERROR_ONE">
+			<Text>Police</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TERROR_TWO">
+			<Text>Border</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TERROR_THREE">
+			<Text>Ignore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TERROR_ONE">
+			<Text>Construct Police Station[NEWLINE]in all cities[NEWLINE]-85% attack chance -400 [ICON_GOLD]Gold </Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TERROR_TWO">
+			<Text>-50% attack chance[NEWLINE]-25% Tourism </Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TERROR_THREE">
+			<Text>Take your chances</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_SOCIAL">
+			<Text>The people of your nation seem[NEWLINE]to be growing restless with[NEWLINE]the status quo.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_SOCIAL_ONE">
+			<Text>Focus resources on finding a[NEWLINE]new Tenant to guide them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_SOCIAL_TWO">
+			<Text>Embark on a building projet to[NEWLINE]appease them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_SOCIAL_THREE">
+			<Text>If they worked harder, there'd be[NEWLINE]less time to complain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SOCIAL_ONE">
+			<Text>Social</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SOCIAL_TWO">
+			<Text>Entertainment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SOCIAL_THREE">
+			<Text>Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SOCIAL_ONE">
+			<Text>Choose a Tenant[NEWLINE]-100 [ICON_RESEARCH]Research progress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SOCIAL_TWO">
+			<Text>Stadiums in cities[NEWLINE]-500 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SOCIAL_THREE">
+			<Text>+10 manpower[NEWLINE] -15 Happiness(...Maybe)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_MARSBASE">
+			<Text>Your space program is prepared[NEWLINE]to establish a permenant base[NEWLINE]on Mars.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_MARSBASE_ONE">
+			<Text>Establish a resource base to[NEWLINE]mine the planet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MARSBASE_TWO">
+			<Text>Establish a science base[NEWLINE]to carry out research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MARSBASE_THREE">
+			<Text>Establish a colony base[NEWLINE]to relieve overcrowding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MARSBASE_ONE">
+			<Text>Resource</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MARSBASE_TWO">
+			<Text>Research</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MARSBASE_THREE">
+			<Text>Colony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MARSBASE_ONE">
+			<Text>+20 strategic resources(except horses)[NEWLINE]-1000 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MARSBASE_TWO">
+			<Text>+50 Research[NEWLINE]-1200 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MARSBASE_THREE">
+			<Text>-2 Population per city over 6[NEWLINE]+5 gold per turn per colonist from taxes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_TRIBAL">
+			<Text>With the growing population of cities[NEWLINE]Tribal Elders fear the loss of their culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_TRIBAL_ONE">
+			<Text>Establish a National Holiday[NEWLINE]to preserve the local customs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TRIBAL_TWO">
+			<Text>Enact laws to impose the[NEWLINE]following of tradition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_TRIBAL_THREE">
+			<Text>Change is inevitable[NEWLINE]the old ways always die out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TRIBAL_ONE">
+			<Text>Holiday</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TRIBAL_TWO">
+			<Text>Impose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_TRIBAL_THREE">
+			<Text>Ignore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TRIBAL_ONE">
+			<Text>+25 [ICON_CULTURE]Culture[NEWLINE]-10 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TRIBAL_TWO">
+			<Text>+15 [ICON_CULTURE]Culture[NEWLINE]-4 Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_TRIBAL_THREE">
+			<Text>[ICON_CULTURE]Culture may either increase[NEWLINE]or decrease</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_BARBS">
+			<Text>A horde of barbarians are threatening[NEWLINE]one of your cities, but offer to leave[NEWLINE]for a small tribute.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_BARBS_ONE">
+			<Text>Pay 100 [ICON_GOLD]Gold to assure the[NEWLINE]safty of your city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_BARBS_TWO">
+			<Text>Offer 25 [ICON_GOLD]Gold[NEWLINE]and hope it will appease them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_BARBS_THREE">
+			<Text>We do not negotiate with savages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_BARBS_ONE">
+			<Text>Pay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_BARBS_TWO">
+			<Text>Barter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_BARBS_THREE">
+			<Text>Scoff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_BARBS_ONE">
+			<Text>-100 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_BARBS_TWO">
+			<Text>-25[ICON_GOLD]Gold[NEWLINE]Might work</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_BARBS_THREE">
+			<Text>Who's afraid of the[NEWLINE]uncivilized beasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_DIPLOMARR">
+			<Text>{1_sCsName} has proposed an arranged marriage[NEWLINE]to strengthen the bonds between you.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_DIPLOMARR_ONE">
+			<Text>Accept the propsal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DIPLOMARR_TWO">
+			<Text>Offer one of your nobels as[NEWLINE}a much better choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DIPLOMARR_THREE">
+			<Text>Refuse the proposal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DIPLOMARR_ONE">
+			<Text>Accept</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DIPLOMARR_TWO">
+			<Text>Negotiate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DIPLOMARR_THREE">
+			<Text>Refuse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DIPLOMARR_ONE">
+			<Text>Improves relations[NEWLINE]-50 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DIPLOMARR_TWO">
+			<Text>Slightly improves relations[NEWLINE]-25 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DIPLOMARR_THREE">
+			<Text>Lowers relations[NEWLINE]May incite them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_SANIT">
+			<Text>It appears the rodent population is[NEWLINE]becoming overwhelming in your cities.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_SANIT_ONE">
+			<Text>Commission sewage systems in all your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_SANIT_TWO">
+			<Text>Establish a sanitation department[NEWLINE]to clean up the cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_SANIT_THREE">
+			<Text>Suggest a new dish to local eateries,[NEWLINE]then tax it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SANIT_ONE">
+			<Text>Sewage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SANIT_TWO">
+			<Text>Sanitation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SANIT_THREE">
+			<Text>Dinner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SANIT_ONE">
+			<Text>City sewer systems[NEWLINE]-500 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SANIT_TWO">
+			<Text>+2 [ICON_HEALTH] Health in cities[NEWLINE]-100 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SANIT_THREE">
+			<Text>-2 [ICON_HEALTH] Health in cities[NEWLINE]+100 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_COVERT">
+			<Text>There have been reports that[NEWLINE]{1_otherName} has secretly been[NEWLINE]plotting against you.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_COVERT_ONE">
+			<Text>Send a covert team to[NEWLINE]sabotage their military.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_COVERT_TWO">
+			<Text>Sent a diplomatic envoy to[NEWLINE]try and strengthen relations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_COVERT_THREE">
+			<Text>I don't trust vague reports,[NEWLINE]let's just wait and see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_COVERT_ONE">
+			<Text>Retaliate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_COVERT_TWO">
+			<Text>Talk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_COVERT_THREE">
+			<Text>Wait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_COVERT_ONE">
+			<Text>Destruction of units[NEWLINE]Possibility of detection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_COVERT_TWO">
+			<Text>Possibility of peaceful outcome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_COVERT_THREE">
+			<Text>Wait and see</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_PROTEST">
+			<Text>There is a growing Save Our Forest movement.[NEWLINE]It's leaders are holding protests demanding[NEWLINE]you close down lumber mills.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_PROTEST_ONE">
+			<Text>Offer a compromise and[NEWLINE]agree to close half your mills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_PROTEST_TWO">
+			<Text>Make a symbolic gesture[NEWLINE]by closing one mill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_PROTEST_THREE">
+			<Text>Arrest the leaders of the group and build a new mill [NEWLINE]to make a point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PROTEST_ONE">
+			<Text>Compromise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PROTEST_TWO">
+			<Text>Humor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PROTEST_THREE">
+			<Text>Silence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PROTEST_ONE">
+			<Text>Loss of {1_numKill} lumber mills[NEWLINE]Happiness +4 per city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PROTEST_TWO">
+			<Text>loss of one mill[NEWLINE]Happiness +3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PROTEST_THREE">
+			<Text>1 new mill[NEWLINE]Happiness -2 per city[NEWLINE]Possible retaliation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_NUCLEAR">
+			<Text>A council of City-States demands you act[NEWLINE]to lessen worries of nuclear proliferation.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_NUCLEAR_ONE">
+			<Text>Offer to reduce your stockpile of Uranium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NUCLEAR_TWO">
+			<Text>Show them you won't be bullied[NEWLINE]by investing in improved techniques.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NUCLEAR_THREE">
+			<Text>Assure them there's no need for worry[NEWLINE]and keep things as they are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NUCLEAR_ONE">
+			<Text>Concede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NUCLEAR_TWO">
+			<Text>Oppose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NUCLEAR_THREE">
+			<Text>Convince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NUCLEAR_ONE">
+			<Text>Reduce Uranium by {1_iUraniumCut}[NEWLINE]Increase relations with CIty-States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NUCLEAR_TWO">
+			<Text>Incease Uranium by {1_iUraniumCut}[NEWLINE]Reduce relations with City-States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NUCLEAR_THREE">
+			<Text>20% chance of lowering relations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_ASTEROID">
+			<Text>Astronomers have discovered a large asteroid on[NEWLINEon an impact course with the planet.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_ASTEROID_ONE">
+			<Text>Attempt to slam a probe into it to[NEWLINE]alter its course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ASTEROID_TWO">
+			<Text>Launch a ship to try and[NEWLINE]push the asteroid into safer orbit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ASTEROID_THREE">
+			<Text>Prep your nuclear missiles for launch[NEWLINE]and blow the thing to bits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ASTEROID_ONE">
+			<Text>Probe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ASTEROID_TWO">
+			<Text>Tug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ASTEROID_THREE">
+			<Text>Destroy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ASTEROID_ONE">
+			<Text>-1500 [ICON_GOLD]Gold[NEWLINE]85% chance of success</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ASTEROID_TWO">
+			<Text>-750 [ICON_GOLD]Gold[NEWLINE]70% chance of success</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ASTEROID_THREE">
+			<Text>Might work, might leave you with[NEWLINE]hundres of smaller ones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_EXILES">
+			<Text>A group of exiles from {1_csName}[NEWLINE]are seeking asylum in {1_capName}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_EXILES_ONE">
+			<Text>Welcome them into the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_EXILES_TWO">
+			<Text>Turn them away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_EXILES_THREE">
+			<Text>Attempt to capture and enslave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_EXILES_ONE">
+			<Text>Grant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_EXILES_TWO">
+			<Text>Deny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_EXILES_THREE">
+			<Text>Enslave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_EXILES_ONE">
+			<Text>+2 [ICON_CITIZEN]Population in [ICON_CAPITAL]Capital.[NEWLINE]-25 Relations with {1_csName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_EXILES_TWO">
+			<Text>+25 Relations with {1_csName}.[NEWLINE]Chance they may pillage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_EXILES_THREE">
+			<Text>+2 [ICON_RES_MANPOWER]Manpower if sucessful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_FARMHARASS">
+			<Text>A pack of wolves[NEWLINE]are harassing local farmers near {1_targetName}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_FARMHARASS_ONE">
+			<Text>Hire trappers to tend to the problem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_FARMHARASS_TWO">
+			<Text>Convince local citizens to[NEWLINE]volunteer to hunt them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_FARMHARASS_THREE">
+			<Text>I have more important thing to deal with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FARMHARASS_ONE">
+			<Text>Trappers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FARMHARASS_TWO">
+			<Text>Hunting Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FARMHARASS_THREE">
+			<Text>Ignore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FARMHARASS_ONE">
+			<Text>-80 [ICON_GOLD]Gold.[NEWLINE]+3 [ICON_GOLD]Gold, +2 [ICON_FOOD]Food per turn[NEWLINE] for 10 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FARMHARASS_TWO">
+			<Text>-1 population in {1_targetName}.[NEWLINE]+2 [ICON_GOLD]Gold, +1 [ICON_FOOD]Food per turn[NEWLINE] for 10 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FARMHARASS_THREE">
+			<Text>-4 [ICON_FOOD]Food per turn[NEWLINE] for 10 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_NAVAL">
+			<Text>We have word a master Shipwright from {1_otherCivName}[NEWLINE]Is visiting in your lands.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_NAVAL_ONE">
+			<Text>Commission him to build an andvanced vessel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NAVAL_TWO">
+			<Text>Arrest him on trumped up charges[NEWLINE]and put him to work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NAVAL_THREE">
+			<Text>Offer him best wishes for his visit[NEWLINE]and let him be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NAVAL_ONE">
+			<Text>Commission</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NAVAL_TWO">
+			<Text>Arrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NAVAL_THREE">
+			<Text>Do Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NAVAL_ONE">
+			<Text>-150 [ICON_GOLD]Gold.[NEWLINE]Galleass produced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NAVAL_TWO">
+			<Text>Produce Venetian Galleass.[NEWLINE]Diplomatic penalties, possible retaliation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NAVAL_THREE">
+			<Text>No Change.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_CHURCHDEF">
+			<Text>Church Leaders have grown concerned[NEWLINE]by the spread of false religions.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_CHURCHDEF_ONE">
+			<Text>Expel all foriegn missionaries[NEWLINE]and Prophets for 25 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_CHURCHDEF_TWO">
+			<Text>Strenghen your followers faith[NewLINE]by holding a religious festival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_CHURCHDEF_THREE">
+			<Text>People must be free to chose[NEWLINE]their own religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_CHURCHDEF_ONE">
+			<Text>Expulsion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_CHURCHDEF_TWO">
+			<Text>Festival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_CHURCHDEF_THREE">
+			<Text>Do Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_CHURCHDEF_ONE">
+			<Text>No foriegn religious units for 25 turns.[NEWLINE]-2 Happiness per city for 25 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_CHURCHDEF_TWO">
+			<Text>+3[ICON_PEACE]Faith per turn.[NEWLINE]-1 gold per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_CHURCHDEF_THREE">
+			<Text>No Change.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_ANTISLAVE">
+			<Text>There is a growing sentament then[NEWLINE]slavery is barbaric and people are[NEWLINE]calling for it's abolishment.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_ANTISLAVE_ONE">
+			<Text>Completely abolish the practice of slavery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ANTISLAVE_TWO">
+			<Text>Leave the decision up to individual cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ANTISLAVE_THREE">
+			<Text>Salvery is a necessity of our industry and[NEWLINE]economy, and shall be further utilized.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ANTISLAVE_ONE">
+			<Text>Abolish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ANTISLAVE_TWO">
+			<Text>Compromise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ANTISLAVE_THREE">
+			<Text>Reject</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ANTISLAVE_ONE">
+			<Text>Lose Slavery Policy branch.[NEWLINE]Close any slave markets.[NEWLINE]+5 Happiness per city[NEWLINE]+2 [ICON_CITIZEN]Population per city(from freed slaves)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ANTISLAVE_TWO">
+			<Text>-3 production in cities that choose.[NEWLINE]Closure of their slave markets.[NEWLINE]+3 Happiness per city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ANTISLAVE_THREE">
+			<Text>-3 Happiness per city[NEWLINE]Possiblity of protest or revolution.[NEWLINE]+10 [ICON_RES_MANPOWER]manpower[NEWLINE]+5 [ICON_GOLD]Gold per turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_FREEPUPPET">
+			<Text>The people of {1_csName} are restless[NEWLINE] and desire to be free. The revolutionary council[NEWLINE] of {1_csName}has decreed that they wish to have their independence.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_FREEPUPPET_ONE">
+			<Text>Grant them their independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_FREEPUPPET_TWO">
+			<Text>Execute the revolutionaries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_FREEPUPPET_THREE">
+			<Text>Annex the city completely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FREEPUPPET_ONE">
+			<Text>Freedom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FREEPUPPET_TWO">
+			<Text>Control</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FREEPUPPET_THREE">
+			<Text>Absorb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FREEPUPPET_ONE">
+			<Text>{1_csName} is liberated.[NEWLINE]+10 Happiness[NEWLINE]Ally with City State[NEWLINE]+5 [ICON_CULTURE]Culture per turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FREEPUPPET_TWO">
+			<Text>Citizen uprising.[NEWLINE]City revolts for 10 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FREEPUPPET_THREE">
+			<Text>City is annexed[NEWLINE]May cause uprising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_MILITARY">
+			<Text>Your militay leaders are seeking funding[NEWLINE]to improve combat effectiveness.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_MILITARY_ONE">
+			<Text>Fund enhanced combat training.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MILITARY_TWO">
+			<Text>Develop improved city defenses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MILITARY_THREE">
+			<Text>There is no room[NEWLINE]in the budget.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MILITARY_ONE">
+			<Text>Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MILITARY_TWO">
+			<Text>Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MILITARY_THREE">
+			<Text>Reject</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MILITARY_ONE">
+			<Text>All current units combat strength[NEWLINE]increased by 1[NEWLINE]-500 [ICON_GOLD]Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MILITARY_TWO">
+			<Text>Garrisoned units improve[NEWLINE]strike range by 1.[NEWLINE]-350 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MILITARY_THREE">
+			<Text>-10% combat experience</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_DESIGNDRUG">
+			<Text>A new designer drug has hit the streets[NEWLINE]Though the dangers of the drug are[NEWLINE]not fully known, you Health advisors][NEWLINE]recommend action.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_DESIGNDRUG_ONE">
+			<Text>New Drugs always mean problems,[NEWLINE]outlaw it completely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DESIGNDRUG_TWO">
+			<Text>Regulate the drug and[NEWLINE]research any medical applications.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DESIGNDRUG_THREE">
+			<Text>Let the people do what they want,[NEWLINE]just as long as we tax it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DESIGNDRUG_ONE">
+			<Text>Criminalize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DESIGNDRUG_TWO">
+			<Text>Regulate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DESIGNDRUG_THREE">
+			<Text>Tax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DESIGNDRUG_ONE">
+			<Text>-4 Happiness per city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DESIGNDRUG_TWO">
+			<Text>-2 Happiness per city[NEWLINE]+2 [ICON_HEALTH]Health per city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DESIGNDRUG_THREE">
+			<Text>+4 happiness per city[NEWLINE]+10 gold per turn[NEWLINE]-3 [ICON_PRODUCTION]Production and -3 [ICON_HEALTH]Health in cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_OPPRISION">
+			<Text>In order to reduce the burden[NEWLINE]on cities of housing criminals,[NEWLINE]an off-planet penal colony has been proposed.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_OPPRISION_ONE">
+			<Text>Build the colony and[NEWLINE]begin transporting prisoners.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_OPPRISION_TWO">
+			<Text>We don't need to waste money on infrastructure,[NEWLINE]just drop them on site and[NEWLINE]let them fend for themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_OPPRISION_THREE">
+			<Text>The situation is fine as it is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_OPPRISION_ONE">
+			<Text>Build</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_OPPRISION_TWO">
+			<Text>Abandon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_OPPRISION_THREE">
+			<Text>Veto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_OPPRISION_ONE">
+			<Text>-1500 [ICON_GOLD]Gold[NEWLINE]+20 [ICON_ORDER] in cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_OPPRISION_TWO">
+			<Text>-20 [ICON_CULTURE]Culture per city[NEWLINE]+20 [ICON_ORDER] in cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_OPPRISION_THREE">
+			<Text>No change.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_DINOBONE">
+			<Text>While working in the fields[NEWLINE]farmers have unearthed strange giant bones.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_DINOBONE_ONE">
+			<Text>Allow your shamen[NEWLINE]to create a mythology around them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DINOBONE_TWO">
+			<Text>Stundy the bones in an attempt[NEWLINE]to discern their true nature.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DINOBONE_THREE">
+			<Text>They would make great clubs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DINOBONE_ONE">
+			<Text>Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DINOBONE_TWO">
+			<Text>Reson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DINOBONE_THREE">
+			<Text>Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DINOBONE_ONE">
+			<Text>+2 [ICON_PEACE]Faith[NEWLINE]-2 [ICON_RESEARCH]Research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DINOBONE_TWO">
+			<Text>+2 [ICON_RESEARCH]Research[NEWLINE]-2 [ICON_PEACE]Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DINOBONE_THREE">
+			<Text>+ 20% combat experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_LAWCODE">
+			<Text>As the ruler of this great nation,[NEWLINE]You have the authority to make[NEWLINE]your word the law.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_LAWCODE_ONE">
+			<Text>Establish a code of laws to guide your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_LAWCODE_TWO">
+			<Text>Allow individual cities to decide their own laws.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_LAWCODE_THREE">
+			<Text>I kind of enjoy anything goes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_LAWCODE_ONE">
+			<Text>Kings' Law</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_LAWCODE_TWO">
+			<Text>Local Law</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_LAWCODE_THREE">
+			<Text>No Law</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_LAWCODE_ONE">
+			<Text>+3 [ICON_ORDER]Order in all cities[NEWLINE]-1 happiness per city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_LAWCODE_TWO">
+			<Text>+1 [ICON_ORDER]Order in all cities[NEWLINE]+1 happiness per city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_LAWCODE_THREE">
+			<Text>Possibility of increased disorder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_MGSTRTS">
+			<Text>You advisors recommend the placement[NEWLINE]of local Magistrates to administer[NEWLINE]the law.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_MGSTRTS_ONE">
+			<Text>Appoint magistrates to your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MGSTRTS_TWO">
+			<Text>Appoint one magistrate to travel between cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MGSTRTS_THREE">
+			<Text>The cities can hadle such things.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MGSTRTS_ONE">
+			<Text>Magistrates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MGSTRTS_TWO">
+			<Text>One Magistrate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MGSTRTS_THREE">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MGSTRTS_ONE">
+			<Text>+3 [ICON_ORDER]Order in all cities[NEWLINE]-150 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MGSTRTS_TWO">
+			<Text>+1 [ICON_ORDER]Order in all cities[NEWLINE]-20 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MGSTRTS_THREE">
+			<Text>No Change.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_NGHTWTCH">
+			<Text>The local authorities wish to force[NEWLINE]the populus into service as[NEWLINE]part of a night watch.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_NGHTWTCH_ONE">
+			<Text>Make it a law and[NELINE]fine all those who[NEWLINE]do not comply.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NGHTWTCH_TWO">
+			<Text>Offer a small salary and hire[NEWLINE]a professional force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NGHTWTCH_THREE">
+			<Text>Kill the first who does not[NEWLINE]show for duty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NGHTWTCH_ONE">
+			<Text>Mandate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NGHTWTCH_TWO">
+			<Text>Employ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NGHTWTCH_THREE">
+			<Text>Make a Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NGHTWTCH_ONE">
+			<Text>+2 [ICON_ORDER]Order in all cities[NEWLINE]+ 2 [ICON_GOLD]Gold per turn[NEWLINE]-3 Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NGHTWTCH_TWO">
+			<Text>+2 [ICON_ORDER]Order in all cities[NEWLINE]-1 [ICON_GOLD]Gold per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NGHTWTCH_THREE">
+			<Text>+4 [ICON_ORDER]Order in all cities[NEWLINE]-4 Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_CHRCHST">
+			<Text>The Church has become very Powerful[NEWLINE]and is exerting its' word as law.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_CHRCHST_ONE">
+			<Text>We must follow the will of God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_CHRCHST_TWO">
+			<Text>We will compromise with the Church[NEWLINE]and allow them authority over relegious matters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_CHRCHST_THREE">
+			<Text>My word is the law![NEWLINE]Have the church leaders imprisoned,[NEWLINE]and I shall be head.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_CHRCHST_ONE">
+			<Text>Obediant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_CHRCHST_TWO">
+			<Text>Diplomatic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_CHRCHST_THREE">
+			<Text>The King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_CHRCHST_ONE">
+			<Text>-2 [ICON_ORDER]Order in all cities[NEWLINE]+5 [ICON_PEACE]Faith per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_CHRCHST_TWO">
+			<Text>+1 [ICON_ORDER]Order in all cities[NEWLINE]+1 [ICON_PEACE]Faith per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_CHRCHST_THREE">
+			<Text>+3 [ICON_ORDER]Order in all cities[NEWLINE]-2 [ICON_PEACE]Faith per turn[NEWLINE]-100 [ICON_CULTURE]Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_PRISONERS">
+			<Text>We have a growing prison population[NEWLINE]and there are concerns as to[NEWLINE]how to deal with them.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_PRISONERS_ONE">
+			<Text>Re-evaluate their sentences, and release[NEWLINE] those who needn't be there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_PRISONERS_TWO">
+			<Text>Form chain gangs and put them to work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_PRISONERS_THREE">
+			<Text>Stage public executions and show the people[NEWLIME]the price of crime.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PRISONERS_ONE">
+			<Text>Reform</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PRISONERS_TWO">
+			<Text>Utilize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_PRISONERS_THREE">
+			<Text>Execute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PRISONERS_ONE">
+			<Text>-2 [ICON_ORDER]Order in all cities[NEWLINE]+2 Happiness[NEWLINE]+2 [ICON_CULTURE]Culture per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PRISONERS_TWO">
+			<Text>+8 [ICON_RES_MANPOWER][NEWLINE]-2 [ICON_ORDER]Order in all cities[NEWLINE]-2 [ICON_CULTURE]Culture per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_PRISONERS_THREE">
+			<Text>+5 [ICON_ORDER]Order in all cities[NEWLINE]-3 [ICON_CULTURE]Culture per turn[NEWLINE]-2 Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_WHUNGER">
+			<Text>There are those who beleive we have a[NEWLINE]responsbility to battle world hunger.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_WHUNGER_ONE">
+			<Text>Have cities with extra food donate their excess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_WHUNGER_TWO">
+			<Text>Invest in a programto teach better[NEWLINE]argicultural methods to areas in need.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_WHUNGER_THREE">
+			<Text>If they can't feed themselves,that will make[NEWLINE]them easier to conquer later on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WHUNGER_ONE">
+			<Text>Donate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WHUNGER_TWO">
+			<Text>Educate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WHUNGER_THREE">
+			<Text>Ignore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WHUNGER_ONE">
+			<Text>-50% excess [ICON_FOOD]Food in all cities[NEWLINE]+5 Happiness[NEWLINE]+200 [ICON_CULTURE]Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WHUNGER_TWO">
+			<Text>-150 [ICON_GOLD]Gold[NEWLINE]+200 [ICON_CULTURE]Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WHUNGER_THREE">
+			<Text>-100 [ICON_CULTURE]Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_ZEDS">
+			<Text>Your Scientists beleive they have developed a[NEWLINE]new bio-weapon that will allow[NEWLINE]you to defeat any enemy.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_ZEDS_ONE">
+			<Text>Begin production immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ZEDS_TWO">
+			<Text>We should be causious, it's needs to be fully understood[NEWLINE]before any actual production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ZEDS_THREE">
+			<Text>The effects of bio-warfare are too horrendous[NEWLINE]We have no need for such weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ZEDS_ONE">
+			<Text>Produce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ZEDS_TWO">
+			<Text>Study</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ZEDS_THREE">
+			<Text>Reject</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ZEDS_ONE">
+			<Text>-700 [ICON_GOLD][NEWLINE]Production on bio-weapon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ZEDS_TWO">
+			<Text>-100 [ICON_RESEARCH]Research[NEWLINE]possibility of new weapon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ZEDS_THREE">
+			<Text>All researched destroyed[NEWLINE]+100 [ICON_CULTURE]Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_SOLARSTRM">
+			<Text>Astronamers are warning of an intense solar cycle.[NEWLINE]They say there is a 23% chance of flares disrupting[NEWLINE]our electrical systems.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_SOLARSTRM_ONE">
+			<Text>Invest in a proposed Solar Sheild system.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_SOLARSTRM_TWO">
+			<Text>Have engineers fortify our infrastructure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_SOLARSTRM_THREE">
+			<Text>It's only a 23% chance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SOLARSTRM_ONE">
+			<Text>Invest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SOLARSTRM_TWO">
+			<Text>Fortify</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_SOLARSTRM_THREE">
+			<Text>Do Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SOLARSTRM_ONE">
+			<Text>-1000 [ICON_GOLD][NEWLINE]-300 [ICON_RESEARCH]Research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SOLARSTRM_TWO">
+			<Text>-2000 [ICON_GOLD].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_SOLARSTRM_THREE">
+			<Text>Possible loss of electricity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_EQUAKE">
+			<Text>The ground about the city of {1_targetName} has begun trembling[NEWLINE]causing fear and worry amoung its' residents.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_EQUAKE_ONE">
+			<Text>They must have angered the gods, A sacrifice must be made.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_EQUAKE_TWO">
+			<Text>Evacuate the people briefly until it subsides.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_EQUAKE_THREE">
+			<Text>There is no reason to fear, the earth bows before me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_EQUAKE_ONE">
+			<Text>Ritual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_EQUAKE_TWO">
+			<Text>Concern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_EQUAKE_THREE">
+			<Text>Ego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_EQUAKE_ONE">
+			<Text>-1 [ICON_CITIZEN]Population[NEWLINE]You never know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_EQUAKE_TWO">
+			<Text>Loss of production this turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_EQUAKE_THREE">
+			<Text>Maybe it does.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_IRRIGATION">
+			<Text>A brilliant engineer has developed a new method[NEWLINE]of irrigation and that would improve our crop yield.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_IRRIGATION_ONE">
+			<Text>Commission him to oversee its' development in our cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_IRRIGATION_TWO">
+			<Text>Enslave him and force him to work for us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_IRRIGATION_THREE">
+			<Text>Sieze his plans, then kill him so no other nation can benifit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_IRRIGATION_ONE">
+			<Text>Hire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_IRRIGATION_TWO">
+			<Text>Capture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_IRRIGATION_THREE">
+			<Text>Kill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_IRRIGATION_ONE">
+			<Text>-150 [ICON_GOLD]Gold[NEWLINE]+3 to [ICON_FOOD]Food production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_IRRIGATION_TWO">
+			<Text>-100[ICON_CULTURE]Culture[NEWLINE]+2 to [ICON_FOOD]Food production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_IRRIGATION_THREE">
+			<Text>+1 to [ICON_FOOD] production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_KIDNAP">
+			<Text>Brigands have kidnapped a Noble of you court[NEWLINE]whom is very popular amoungst your people.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_KIDNAP_ONE">
+			<Text>Pay the Ransom for his safe return.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_KIDNAP_TWO">
+			<Text>Have every Brigand band in your territory hunted[NEWLINE]down tortured and slayed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_KIDNAP_THREE">
+			<Text>If the people love him so much, let them raise the ransom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_KIDNAP_ONE">
+			<Text>Pay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_KIDNAP_TWO">
+			<Text>Annialate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_KIDNAP_THREE">
+			<Text>Refuse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_KIDNAP_ONE">
+			<Text>-125 [ICON_GOLD]Gold[NEWLINE]+4 Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_KIDNAP_TWO">
+			<Text>Death of any Brigands within borders[NEWLINE]-3 Happiness, unless noble is found[NEWLINE]Possible loss of unit(s).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_KIDNAP_THREE">
+			<Text>-4 Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_GUILD">
+			<Text>Three guilds are vying for your favor,[NEWLINE]it is your choice which you shall bless.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_GUILD_ONE">
+			<Text>The Worishipful Company of Builders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_GUILD_TWO">
+			<Text>The Honourable Company of Musicians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_GUILD_THREE">
+			<Text>The WorshipFul Company of Goldsmiths.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_GUILD_ONE">
+			<Text>Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_GUILD_TWO">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_GUILD_THREE">
+			<Text>Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_GUILD_ONE">
+			<Text>+2 [ICON_PRODUCTION] in cities[NEWLINE]-1 [ICON_GOLD] -1 [ICON_CULTURE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_GUILD_TWO">
+			<Text>+2 [ICON_CULTURE] in cities[NEWLINE]-1 [ICON_GOLD] -1 [ICON_PRODUCTION].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_GUILD_THREE">
+			<Text>+2 [ICON_GOLD] in cities[NEWLINE]-1 [ICON_CULTURE] -1 [ICON_PRODUCTION].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_GENPLOT">
+			<Text>Spies have discovered one of your generals[NEWLINE]is plotting against you.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_GENPLOT_ONE">
+			<Text>Execute him publicly as a warning to others.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_GENPLOT_TWO">
+			<Text>Bribe his second in command.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_GENPLOT_THREE">
+			<Text>Do nothing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_GENPLOT_ONE">
+			<Text>Execute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_GENPLOT_TWO">
+			<Text>Bribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_GENPLOT_THREE">
+			<Text>Ignore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_GENPLOT_ONE">
+			<Text>Loss of Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_GENPLOT_TWO">
+			<Text>-350 [ICON_GOLD].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_GENPLOT_THREE">
+			<Text>Risk military coup.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_MINSTEAL">
+			<Text>It has been uncovered that your Finace Minister[NEWLINE]has been embezzling state funds.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_MINSTEAL_ONE">
+			<Text>Arrest him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MINSTEAL_TWO">
+			<Text>Cover up his scandal, and quitely have him replaced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_MINSTEAL_THREE">
+			<Text>Seize his assets and have him executed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MINSTEAL_ONE">
+			<Text>Arrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MINSTEAL_TWO">
+			<Text>Cover up</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_MINSTEAL_THREE">
+			<Text>Execute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MINSTEAL_ONE">
+			<Text>+2 [ICON_ORDER]Order For Civ[NEWLINE]-50 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MINSTEAL_TWO">
+			<Text>-4 [ICON_ORDER]Order For Civ[NEWLINE]+250 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_MINSTEAL_THREE">
+			<Text>+4 [ICON_ORDER]Order for Civ[NEWLINE]+500 [ICON_GOLD]Gold[NEWLINE]-250 [ICON_CULTURE]Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_WARS">
+			<Text>The prevelence of war, with {1_iWars} active conflicts had lead to[NEWLINE]A special summit being held on the matter.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_WARS_ONE">
+			<Text>Promote the signing of peace treaties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_WARS_TWO">
+			<Text>Argue the justifications of the wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_WARS_THREE">
+			<Text>Refuse to attend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WARS_ONE">
+			<Text>Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WARS_TWO">
+			<Text>Conflict</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WARS_THREE">
+			<Text>Absence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WARS_ONE">
+			<Text>Higher possibility of Treaties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WARS_TWO">
+			<Text>Higher possibility of escalations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WARS_THREE">
+			<Text>No effect on outcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_OILCOLLAPSE">
+			<Text>Analysts are warning that unless we develop better techniques,[NEWLINE]we are heading for a collapse in our oil production.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_OILCOLLAPSE_ONE">
+			<Text>Have your scientists focus on new refinement technologies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_OILCOLLAPSE_TWO">
+			<Text>Invest in improved surveying techniques.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_OILCOLLAPSE_THREE">
+			<Text>They're probably over-reacting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_OILCOLLAPSE_ONE">
+			<Text>Research</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_OILCOLLAPSE_TWO">
+			<Text>Invest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_OILCOLLAPSE_THREE">
+			<Text>Ignore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_OILCOLLAPSE_ONE">
+			<Text>Lose current [ICON_RESEARCH]Research progress[NEWLINE]+50% [ICON_RES_OIL]Oil stockpile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_OILCOLLAPSE_TWO">
+			<Text>-2000[ICON_GOLD][NEWLINE]Discover new oil fields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_OILCOLLAPSE_THREE">
+			<Text>Possibility of collapse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_WCONTROL">
+			<Text>A large hurricane in on course for impact with {1_targetName}[NEWLINE]Your researches procalim this to be the perfect opportunity[NEWLINE]to test their new system for weather control.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_WCONTROL_ONE">
+			<Text>I have to utmost confidence in our technology,[NEWLINE]Deploy the system.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_WCONTROL_TWO">
+			<Text>Deploy the system, but take no chances,[NEWLINE]evacuate the city first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_WCONTROL_THREE">
+			<Text>We will employ an untested technology,[NEWLINE]Evacuate the city and let the storm run its' course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WCONTROL_ONE">
+			<Text>Confident</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WCONTROL_TWO">
+			<Text>Causious</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_WCONTROL_THREE">
+			<Text>Skeptical</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WCONTROL_ONE">
+			<Text>Avoidence of hurricane,[NEWLINE]if system works.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WCONTROL_TWO">
+			<Text>Possible avoidence of hurricane[NEWLINE]Safty of population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_WCONTROL_THREE">
+			<Text>Safty of population[NEWLINE]Definite damage to city and structures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_LOSTRIBE">
+			<Text>Your scouts have stumbled upon a foriegn tribe, however, they are[NEWLINE]unable to communicate verbally as their language is too different.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_LOSTRIBE_ONE">
+			<Text>Have them attempt to communicate with hand signals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_LOSTRIBE_TWO">
+			<Text>Have them offer gifts of gold to show their peaceful intent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_LOSTRIBE_THREE">
+			<Text>Raze the village and enslave any survivors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_LOSTRIBE_ONE">
+			<Text>Communicate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_LOSTRIBE_TWO">
+			<Text>Offer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_LOSTRIBE_THREE">
+			<Text>Raze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_LOSTRIBE_ONE">
+			<Text>Settler joins if successful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_LOSTRIBE_TWO">
+			<Text>-25 [ICON_GOLD]Gold[NEWLINE]Warrior joins if successful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_LOSTRIBE_THREE">
+			<Text>+3 [ICON_RES_MANPOWER]Manpower[NEWLINE]May lose unit in the battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_BADWATER">
+			<Text>The local water source in {1_targetName} has been tainted[NEWLINE]residents are becoming ill, and may soon begin dying.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_BADWATER_ONE">
+			<Text>Have your engieers design an aqueduct to bring in clean water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_BADWATER_TWO">
+			<Text>Have local Shaman perform a purification ritual.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_BADWATER_THREE">
+			<Text>Survival of the fittest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_BADWATER_ONE">
+			<Text>Construction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_BADWATER_TWO">
+			<Text>Ritual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_BADWATER_THREE">
+			<Text>Do Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_BADWATER_ONE">
+			<Text>-{1_iAquaCost} [ICON_GOLD]Gold[NEWLINE]Aqueduct built in city[NEWLINE](Price higher w/o Tech).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_BADWATER_TWO">
+			<Text>Possibility your gods will listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_BADWATER_THREE">
+			<Text>-{1_iToDie} population[NEWLINE]Remaining population stronger,[NEWLINE]+75 to city heal rate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_FORUM">
+			<Text>Some Members of the {1_civAdj} Senate are scheming[NEWLINE]to increase their power and undermine your rule.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_FORUM_ONE">
+			<Text>Dissolve the Senate immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_FORUM_TWO">
+			<Text>Arrest the offending members for treason[NEWLINE]and punish them accordingly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_FORUM_THREE">
+			<Text>They are no more than advisors,[NEWLINE]My rule is absolute.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FORUM_ONE">
+			<Text>Dissolve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FORUM_TWO">
+			<Text>Arrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_FORUM_THREE">
+			<Text>Ignore Threat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FORUM_ONE">
+			<Text>Chance of riot in Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FORUM_TWO">
+			<Text>May lose units loyal to Senate Members.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_FORUM_THREE">
+			<Text>-6 [ICON_ORDER] for civ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_DARKAGE">
+			<Text>The loss of countless scrolls of ancient knowledge[NEWLINE]to a great fire leaves your civilization[NEWLINE]on the brink of a dark age.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_DARKAGE_ONE">
+			<Text>Agree with the Church that this was the will of God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DARKAGE_TWO">
+			<Text>Dispatch your agents to recover[NEWLINE]any remaining copies of the scrolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_DARKAGE_THREE">
+			<Text>Send diplomatic envoys to purchase copies[NEWLINE]from nation who may have them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DARKAGE_ONE">
+			<Text>Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DARKAGE_TWO">
+			<Text>Quest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_DARKAGE_THREE">
+			<Text>Diplomacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DARKAGE_ONE">
+			<Text>+20 [ICON_PEACE]Faith[NEWLINE]-10 [ICON_RESEARCH]Research[NEWLINE]Next 10 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DARKAGE_TWO">
+			<Text>-10 [ICON_RESEARCH]Research[NEWLINE]Next 5 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_DARKAGE_THREE">
+			<Text>-200 [ICON_GOLD]Gold[NEWLINE]-10 [ICON_RESEARCH]Research[NEWLINE]Next 2 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_ENLIGHT">
+			<Text>Scientists, artists, and prophets are flocking to[NEWLINE]your capital, all seeking your patronage.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_ENLIGHT_ONE">
+			<Text>Patronize the Arts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ENLIGHT_TWO">
+			<Text>Patronize the Sciences.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ENLIGHT_THREE">
+			<Text>Patronize the Church.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ENLIGHT_ONE">
+			<Text>Arts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ENLIGHT_TWO">
+			<Text>Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ENLIGHT_THREE">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ENLIGHT_ONE">
+			<Text>Great Arist appears.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ENLIGHT_TWO">
+			<Text>Great Scientist appears.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ENLIGHT_THREE">
+			<Text>Great Prophet appears.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_NATLSTRIKE">
+			<Text>As a reaction to recent pay cuts[NEWLINE]railway workers across the nation[NEWLINE]have gone on strike.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_NATLSTRIKE_ONE">
+			<Text>Subsidize the railroad companies[NEWLINE]if they agree to raise wages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NATLSTRIKE_TWO">
+			<Text>Arrest the organizers and send in[NEWLINE]troops to break the strike.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NATLSTRIKE_THREE">
+			<Text>Let the companines deal with the problem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NATLSTRIKE_ONE">
+			<Text>Concede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NATLSTRIKE_TWO">
+			<Text>Show Force</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NATLSTRIKE_THREE">
+			<Text>Eschew</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NATLSTRIKE_ONE">
+			<Text>-500 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NATLSTRIKE_TWO">
+			<Text>-8 Happiness[NEWLINE]Uncertain results.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NATLSTRIKE_THREE">
+			<Text>-2 [ICON_GOLD]Gold[NEWLINE]-2[ICON_PRODUCTION]Production[NEWLINE]in cities until strike is resolved.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_ECOCOLLAPSE">
+			<Text>Ecomomists are warning of an impending[NEWLINE]market crash.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_ECOCOLLAPSE_ONE">
+			<Text>Enact a stimulus plan to[NEWLINE]try and boost the economy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ECOCOLLAPSE_TWO">
+			<Text>Lower federal interest rates to[NEWLINE]try an stabilize the market.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_ECOCOLLAPSE_THREE">
+			<Text>The market will balance itself out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ECOCOLLAPSE_ONE">
+			<Text>Stimulate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ECOCOLLAPSE_TWO">
+			<Text>Stabilize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_ECOCOLLAPSE_THREE">
+			<Text>Ignore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ECOCOLLAPSE_ONE">
+			<Text>-2000 [ICON_GOLD]Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ECOCOLLAPSE_TWO">
+			<Text>-10 [ICON_GOLD]Gold per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_ECOCOLLAPSE_THREE">
+			<Text>Possibility of crash.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DESCRIP_NANOBOTS">
+			<Text>A group of scientist and engineers are[NEWLINE]on the verge of producing advanced nanoassemblers[NEWLINE]that can greatly increase our industrial capacity.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHOICE_NANOBOTS_ONE">
+			<Text>Increase their funding for quicker production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NANOBOTS_TWO">
+			<Text>Conduct extensive studies to ensure they are safe to use.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOICE_NANOBOTS_THREE">
+			<Text>Put the project on hold, we currently have more pressing matters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NANOBOTS_ONE">
+			<Text>Produce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NANOBOTS_TWO">
+			<Text>Research</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUTTON_NANOBOTS_THREE">
+			<Text>Cancel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NANOBOTS_ONE">
+			<Text>-5000 [ICON_GOLD]Gold[NEWLINE]+20 [ICON_PRODUCTION]Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NANOBOTS_TWO">
+			<Text>-200 [ICON_RESEARCH]Research[NEWLINE]+10 [ICON_PRODUCTION]Production in 10 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESULT_NANOBOTS_THREE">
+			<Text>+100 [ICON_RESEARCH]Research.</Text>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/8/2014 10:41:55 PM -->
+<GameData>
+	
+	
+<!--/////////Policy_BuildingClassYieldModifiers\\\\\\\\\-->
+<Policy_BuildingClassYieldModifiers> 
+<!--*****Next*****-->
+<Row>
+	<PolicyType>POLICY_CCTP124</PolicyType>
+	<BuildingClassType>BUILDINGCLASS_BLACKSMITH</BuildingClassType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<YieldMod>100</YieldMod>
+</Row>
+<!--*****Next*****-->
+</Policy_BuildingClassYieldModifiers>
+</GameData> 
+<!--Have a nice Day;=)-->

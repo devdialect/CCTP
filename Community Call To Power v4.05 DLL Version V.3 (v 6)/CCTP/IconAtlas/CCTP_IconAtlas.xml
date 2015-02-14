@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/3/2013 12:01:40 AM -->
+<GameData>
+  <!--IconTextureAtlases-->
+ 
+
+	<IconTextureAtlases>  <!-- TODO: Insert table data example here.
+		<Row>
+			<Atlas>SCANDANAVIANWONDERS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ScandanavianWonders256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>SCANDANAVIANWONDERS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>ScandanavianWonders128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>SCANDANAVIANWONDERS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ScandanavianWonders64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>SCANDANAVIANWONDERS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ScandanavianWonders80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>SCANDANAVIANWONDERS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ScandanavianWonders45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>		<Row>
+			<Atlas>NEWLUXURIES_RESOURCE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>NewLuxuries_ResourceAtlas256.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NEWLUXURIES_RESOURCE_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>NewLuxuries_ResourceAtlas80.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NEWLUXURIES_RESOURCE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>NewLuxuries_ResourceAtlas64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NEWLUXURIES_RESOURCE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>NewLuxuries_ResourceAtlas45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Row>
+		-->
+
+		
+	
+	</IconTextureAtlases>
+  <!--Have a nice Day:=)-->
+  
+</GameData>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>-->
+<!-- Created by Gilgamesch on 2/17/2014 10:22:03 PM -->
+
+<GameData>
+
+	
+	
+	
+	<Policy_BuildingClassCultureChanges>
+		<!--
+		<Row>
+			<PolicyType>POLICY_MONARCHY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_QUIRINAL</BuildingClassType>
+			<CultureChange>5</CultureChange>
+		</Row>-->
+		<Row>
+			<PolicyType>POLICY_CCTP254</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<CultureChange>3</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP151</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_RELIGIOUS_LAWX</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_POLITICAL_POPULISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_LIBERALISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_FREE_TRADE</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_COLLECTIVISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+
+		<Row>
+			<PolicyType>POLICY_PLUTOCRACY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_FEDERAL_COURTS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<CultureChange>5</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_FEDERAL_COURTS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PUBLISHING_HOUSE</BuildingClassType>
+			<CultureChange>5</CultureChange>
+		</Row>
+		<!--
+		<Row>
+			<PolicyType>POLICY_ABSOLUTISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<CultureChange>6</CultureChange>
+		</Row>-->
+		<Row>
+			<PolicyType>POLICY_HEAD_OF_STATE</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<CultureChange>12</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_JUDICIAL_REVIEW</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_JUDICIAL_REVIEW</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_JUDICIAL_REVIEW</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PUBLIC_SCHOOL</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+		<!---->
+		<Row>
+			<PolicyType>POLICY_STATE_TERRORISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_POLICE_STATION</BuildingClassType>
+			<CultureChange>4</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP120</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TAVERNE</BuildingClassType>
+			<CultureChange>1</CultureChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP153</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_CONSTABLE</BuildingClassType>
+			<CultureChange>1</CultureChange>
+		</Row>
+
+
+
+	</Policy_BuildingClassCultureChanges>
+  <!-- Have a nice Day:=)-->
+</GameData>

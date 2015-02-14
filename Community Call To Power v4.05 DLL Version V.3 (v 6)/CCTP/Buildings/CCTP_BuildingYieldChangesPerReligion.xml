@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 3/7/2014 4:48:37 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here.
+	<Building_YieldChangesPerReligion>
+		<Row>
+			<BuildingType>BUILDING_CANDI</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>200</Yield>
+		</Row>
+	</Building_YieldChangesPerReligion> -->
+  <!--Have a nice Day=)-->
+  
+</GameData>

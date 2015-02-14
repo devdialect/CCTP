@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/17/2014 1:48:27 PM -->
+<GameData>
+
+<!--*****Trait_YieldFromBarbarianKills*****-->
+	
+<Trait_YieldFromBarbarianKills>
+		<!--***Next***	
+<Row>
+	<TraitType>TRAIT_CCTP249</TraitType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>100</Yield>
+</Row>-->
+		<!--***Next***-->
+	
+</Trait_YieldFromBarbarianKills>
+
+</GameData>
+<!--Have a nice Day ;=)-->

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/7/2014 5:56:12 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Techs that remove health-->	
+
+	<Update>
+		<Set Text="Animal Husbandry ([ICON_GOLD]/[ICON_PLAGUE])" />
+		<Where Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE" />
+	</Update>
+	<Update>
+	<Set Text="Sailing ([ICON_GOLD]/[ICON_PLAGUE])" />
+	<Where Tag="TXT_KEY_TECH_SAILING_TITLE" />	
+	</Update>
+	<Update>
+		<Set Text="Shows [COLOR_POSITIVE_TEXT]Fish[ENDCOLOR], [COLOR_POSITIVE_TEXT]Squid[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Pearls[ENDCOLOR] on the map.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+		<Where Tag="TXT_KEY_TECH_SAILING_HELP"/>
+	</Update>
+	<Update>
+		<Set Text="The Wheel ([ICON_RESEARCH]/[ICON_PLAGUE])" />
+		<Where Tag="TXT_KEY_TECH_THE_WHEEL_TITLE" />
+	</Update>
+	<Update>
+		<Set Text="Allowes you to construct the [COLOR_POSITIVE_TEXT]Abu Simple[ENDCOLOR] Wonder, the [COLOR_POSITIVE_TEXT]Water Mill[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Olive Press[ENDCOLOR] Buildings.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+		<Where Tag="TXT_KEY_TECH_THE_WHEEL_HELP"/>
+	</Update>
+
+		<Update>
+			<Set Text="Compass ([ICON_RESEARCH]/[ICON_PLAGUE]/[ICON_MOVES])" />
+			<Where Tag="TXT_KEY_TECH_COMPASS_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Galleass[ENDCOLOR], the first ranged naval unit. Also allows you to build the [COLOR_POSITIVE_TEXT]Harbor[ENDCOLOR], which creates trade routes from cities to the capital over the water, producing [ICON_GOLD] Gold. Additionally, the [ICON_GOLD] Gold yield from Fishing Boats is increased.[NEWLINE]All naval [ICON_SILVER_FIST] units gain one extra [ICON_MOVE] Move.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Exploration[ENDCOLOR] ."/>
+			<Where Tag="TXT_KEY_TECH_COMPASS_HELP"/>
+		</Update>
+	
+		<Update>
+			<Set Text="Navigation ([ICON_STRENGTH]/[ICON_PLAGUE])" />
+			<Where Tag="TXT_KEY_TECH_NAVIGATION_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="llows you to build the [COLOR_POSITIVE_TEXT]Frigate[ENDCOLOR], a powerful Renaissance-era warship, and the [COLOR_POSITIVE_TEXT]Privateer[ENDCOLOR], a unique Naval Unit that can earn [ICON_GOLD] Gold from attacking coastal cities as well as capture enemy ships. Also allows coastal cities to build the [COLOR_POSITIVE_TEXT]Seaport[ENDCOLOR], which provides [ICON_PRODUCTION] Production from sea resources.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_NAVIGATION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Combustion ([ICON_PRODUCTION]/[ICON_PLAGUE])  " />
+			<Where Tag="TXT_KEY_TECH_COMBUSTION_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to construct the [COLOR_POSITIVE_TEXT]Synthetic Petrol Plant[ENDCOLOR] Building.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_COMBUSTION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Flight ([ICON_STRENGTH]/[ICON_PLAGUE]/[ICON_TRADE])  " />
+			<Where Tag="TXT_KEY_TECH_FLIGHT_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Triplane[ENDCOLOR], an Air Unit designed to gain control of the skies, and the [COLOR_POSITIVE_TEXT]Great War Bomber[ENDCOLOR], which can devastate Land Units and Cities.[NEWLINE]You can now construct the  [COLOR_POSITIVE_TEXT]Prosa Resort[ENDCOLOR] Wonder.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_FLIGHT_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Globalization ([ICON_CULTURE]/[ICON_TRADE]/[ICON_PLAGUE])  " />
+			<Where Tag="TXT_KEY_TECH_GLOBALIZATION_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="With Globalization, each Spy you send to another Civilization as a [ICON_DIPLOMAT] Diplomat will increase the number of Delegates you control in the World Congress, bringing you closer to [COLOR_POSITIVE_TEXT]Diplomatic Victory[ENDCOLOR].[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_GLOBALIZATION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Mining ([ICON_PRODUCTION]/[ICON_PLAGUE])  " />
+			<Where Tag="TXT_KEY_TECH_MINING_TITLE" />
+		</Update>
+	
+		<Update>
+			<Set Text="Bronze Working ([ICON_STRENGTH]/[ICON_PLAGUE])  " />
+			<Where Tag="TXT_KEY_TECH_BRONZE_WORKING_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you the construction of [COLOR_POSITIVE_TEXT]Zeus Statue[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Ollantaytambo[ENDCOLOR] wonders and the [COLOR_POSITIVE_TEXT]Pit[ENDCOLOR] building.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Industrialization ([ICON_PLAGUE]/[ICON_PLAGUE])  " />
+			<Where Tag="TXT_KEY_TECH_INDUSTRIALIZATION_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Reveals [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Coal[ENDCOLOR] and allows you to build the [COLOR_POSITIVE_TEXT]Factory[ENDCOLOR], a building which greatly improves the [ICON_PRODUCTION] Production of a city.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_INDUSTRIALIZATION_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Railroad ([ICON_PRODUCTION]/[ICON_PLAGUE])  " />
+			<Where Tag="TXT_KEY_TECH_RAILROAD_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows Workers to build [COLOR_POSITIVE_TEXT]Railroads[ENDCOLOR] on map tiles. Connecting cities with them will increase [ICON_PRODUCTION] Production, and units traveling along them will move more quickly.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_RAILROAD_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Plastic ([ICON_RESEARCH]/[ICON_PLAGUE])  " />
+			<Where Tag="TXT_KEY_TECH_PLASTICS_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to construct the  [COLOR_POSITIVE_TEXT]Plastic Factory[ENDCOLOR] Building and the [COLOR_POSITIVE_TEXT]Cristo Redento[ENDCOLOR] Wonder.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1."/>
+			<Where Tag="TXT_KEY_TECH_PLASTICS_HELP"/>
+		</Update>
+		
+	
+	
+		<Row>
+			<Tag>TXT_KEY_TECH_SIEGE_WARFARE_TITLE</Tag>
+			<Text>Siege Warfare ([ICON_STRENGTH]/[ICON_PLAGUE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SIEGE_WARFARE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Artillery Range[ENDCOLOR] Building and you can now train the mighty[COLOR_POSITIVE_TEXT]Catapult[ENDCOLOR] Unit.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+		</Row>
+	
+		<Row>
+			<Tag>TXT_KEY_TECH_TOBACCO_TRADING_TITLE</Tag>
+			<Text>Tobacco Trading ([ICON_HAPPINESS_1]/[ICON_PLAGUE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOBACCO_TRADING_HELP</Tag>
+			<Text>Shows [COLOR_POSITIVE_TEXT]Tobacco[ENDCOLOR] on the map.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_INTERNATIONAL_TRADE_TITLE</Tag>
+			<Text>International Trade ([ICON_GOLD]/[ICON_PLAGUE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_INTERNATIONAL_TRADE_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE]Racher[ENDCOLOR] , [COLOR_POSITIVE]Plantation[ENDCOLOR] and [COLOR_POSITIVE]Herbalist[ENDCOLOR] Buildings.[NEWLINE]Provides one additional [ICON_TRADE] Trade Route.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+		</Row>
+	
+		<Row>
+			<Tag>TXT_KEY_TECH_SPACE_MINING_H_TITLE</Tag>
+			<Text>Space Mining ([ICON_FLOWER]/[ICON_PLAGUE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SPACE_MINING_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE]Orbital Power Transmitter[ENDCOLOR] Building.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_EXTREME_ENGINEERING_DESC</Tag>
+			<Text>Extreme Engineering ([ICON_PRODUCTION]/[ICON_PLAGUE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_EXTREME_ENGINEERING_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Space Elevator[ENDCOLOR] national wonder which greatly increases [ICON_GOLD] Gold generation, [ICON_PRODUCTION] Production, and [ICON_CULTURE] Culture generation in the City of it's origin.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.</Text>
+		</Row>
+
+		<!-- Techs that add health-->
+	
+		<Update>
+			<Set Text="Engineering ([ICON_PRODUCTION]/[ICON_HEALTH])  " />
+			<Where Tag="TXT_KEY_TECH_ENGINEERING_TITLE" />
+		</Update>
+		<Update>
+			<Set Text=">Allows your cities to build [COLOR_POSITIVE_TEXT]Aqueducts[ENDCOLOR], increasing the [ICON_FOOD] Food that is carried over as your city grows. Also allows Workers to construct [COLOR_POSITIVE_TEXT]Forts[ENDCOLOR] on map tiles, increasing the defense of units stationed there. Additionally, bridges are automatically added to roads which cross rivers, allowing units to pass over them without slowing down.[NEWLINE]Increase global  [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_ENGINEERING_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Chemistry ([ICON_STRENGTH]/[ICON_HEALTH])  " />
+			<Where Tag="TXT_KEY_TECH_CHEMISTRY_TITLE" />
+		</Update>
+		<Update>
+			<Set Text=">Allows you to build the [COLOR_POSITIVE_TEXT]Knight[ENDCOLOR], a fast and powerful mounted unit. Also allows you to build the [COLOR_POSITIVE_TEXT]Castle[ENDCOLOR] to improve the [ICON_STRENGTH] Defense of your cities.[NEWLINE]Increase global  [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_CHEMISTRY_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Scientific Theory ([ICON_RESEARCH]/[ICON_HEALTH])  " />
+			<Where Tag="TXT_KEY_TECH_SCIENTIFIC_THEORY_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Public School[ENDCOLOR], which increases [ICON_RESEARCH] Science in Cities.[NEWLINE]Increase global  [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_SCIENTIFIC_THEORY_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Biology ([ICON_RESEARCH]/[ICON_HEALTH])  " />
+			<Where Tag="TXT_KEY_TECH_BIOLOGY_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows your Workers to [COLOR_POSITIVE_TEXT]Chop Jungle[ENDCOLOR], clearing the map tile so other improvements can be constructed. Also allows you to build the [COLOR_POSITIVE_TEXT]Spearman[ENDCOLOR], a military unit strong against mounted enemies.[NEWLINE]Increase global  [ICON_HEALTH] Health by +2.[NEWLINE][NEWLINE]Allowes you to open the [ICON_CULTURE] Social Policy Branch [COLOR_POSITIVE_TEXT]Health[ENDCOLOR]"/>
+			<Where Tag=">TXT_KEY_TECH_BIOLOGY_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Electricity ([ICON_RESEARCH]/[ICON_HEALTH])  " />
+			<Where Tag="TXT_KEY_TECH_ELECTRICITY_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Reveals [ICON_RES_ALUMINUM] Aluminum, a resource used for many late-game units. Also allows Cities to build the [COLOR_POSITIVE_TEXT]Stock Exchange[ENDCOLOR], a building which boosts [ICON_GOLD] Gold. Also allows you to build the [COLOR_POSITIVE_TEXT]Hydro Plant[ENDCOLOR], which increases [ICON_PRODUCTION] Production from tiles next to a River, and the [COLOR_POSITIVE_TEXT]Police Station[ENDCOLOR], which hinders a spies' ability to steal your technology.[NEWLINE]Increase global  [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_ELECTRICITY_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Refrigeration ([ICON_RESEARCH]/[ICON_HEALTH])" />
+			<Where Tag="TXT_KEY_TECH_REFRIGERATION_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows the construction of the [COLOR_POSITIVE_TEXT]Supermarket[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Cattle Breeder[ENDCOLOR] Buildings.[NEWLINE]Also allows Work Boats to construct an Offshore Platform.[NEWLINE]Increase global [ICON_HEALTH] Health by +2."/>
+			<Where Tag=">TXT_KEY_TECH_REFRIGERATION_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Penicilin ([ICON_RESEARCH]/[ICON_HEALTH])" />
+			<Where Tag="TXT_KEY_TECH_PENICILIN_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Medical Lab[ENDCOLOR], a building which speeds the [ICON_FOOD] growth of your Cities.[NEWLINE]Increase global [ICON_HEALTH] Health by +3."/>
+			<Where Tag=">TXT_KEY_TECH_PENICILIN_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Ecology ([ICON_CULTURE]/[ICON_HAPPINESS_1]/[ICON_HEALTH])" />
+			<Where Tag="TXT_KEY_TECH_ECOLOGY_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Bio Refinery[ENDCOLOR] Building and also allowes the construction of the [COLOR_POSITIVE_TEXT]Three Gorges Dam[ENDCOLOR] Wonder.[NEWLINE]Increase global  [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_ECOLOGY_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Satellites ([ICON_RESEARCH]/[ICON_HEALTH])" />
+			<Where Tag="TXT_KEY_TECH_SATELLITES_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]SS Cockpit[ENDCOLOR] , one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR].[NEWLINE]Increase global [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_SATELLITES_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Robotics ([ICON_PRODUCTION]/[ICON_HEALTH])" />
+			<Where Tag="TXT_KEY_TECH_ROBOTICS_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="An important technology for the Space Race, Robotics allows you to build the [COLOR_POSITIVE_TEXT]Spaceship Factory[ENDCOLOR], a building which speeds the construction of Spaceship parts.[NEWLINE]It also allows you to build the [COLOR_POSITIVE_TEXT]Industrial Robotics[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Skylift[ENDCOLOR] Building.[NEWLINE]Increase global [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_ROBOTICS_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Agriculture ([ICON_HEALTH])"/>
+			<Where Tag=">TXT_KEY_TECH_AGRICULTURE_TITLE"/>
+		</Update>
+		<Update>
+			<Set Text="Allows Workers to construct [COLOR_POSITIVE_TEXT]Farms[ENDCOLOR], vital for increasing the [ICON_FOOD] [COLOR_POSITIVE_TEXT]Food[ENDCOLOR] output of map tiles.[NEWLINE]Increase global  [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_AGRICULTURE_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Education ([ICON_RESEARCH][ICON_HEALTH])" />
+			<Where Tag="TXT_KEY_TECH_EDUCATION_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]University[ENDCOLOR], which boosts [ICON_RESEARCH] Science. Also provides new [ICON_RESEARCH] Science-related abilities, like the [COLOR_POSITIVE_TEXT]Research Agreement[ENDCOLOR], which is a special deal that may be made with other players in the game.[NEWLINE]Increase global [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_EDUCATION_HELP"/>
+		</Update>
+
+		<Update>
+			<Set Text="Nanotechnology ([ICON_PRODUCTION][ICON_HEALTH])" />
+			<Where Tag="TXT_KEY_TECH_NANOTECHNOLOGY_TITLE" />
+		</Update>
+		<Update>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]SS Stasis Chamber[ENDCOLOR], one of the Spaceship parts necessary to win a [COLOR_POSITIVE_TEXT]Science Victory[ENDCOLOR].[NEWLINE]Increase global [ICON_HEALTH] Health by +1."/>
+			<Where Tag=">TXT_KEY_TECH_NANOTECHNOLOGY_HELP"/>
+		</Update>
+	
+		<Row>
+			<Tag>TXT_KEY_TECH_HUNTING_TITLE</Tag>
+			<Text>Hunting ([ICON_FOOD]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HUNTING_HELP</Tag>
+			<Text>Shows [COLOR_POSITIVE_TEXT]Deer[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Bisons[ENDCOLOR] on the map.[NEWLINE]Increase global [ICON_HEALTH] Health by +1.</Text>
+		</Row>
+		
+		
+		
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_TITLE</Tag>
+			<Text>Sanitary Engineering ([ICON_FOOD]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pont du Gard[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Aqueduct[ENDCOLOR] building.[NEWLINE]Increase global [ICON_HEALTH] Health by +1.</Text>
+		</Row>
+	
+		<Row>
+			<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_TITLE</Tag>
+			<Text>Battlefield Medicine ([ICON_RESEARCH]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Armour Workshop[ENDCOLOR] building.[NEWLINE]Military [ICON_SILVER_FIST] Units heal now faster.[NEWLINE]Increase global [ICON_HEALTH] Health by +2.</Text>
+		</Row>		
+		<Row>
+			<Tag>TXT_KEY_TECH_ENVIRONMENT_TITLE</Tag>
+			<Text>Environment ([ICON_PRODUCTION]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ENVIRONMENT_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Waste Plant[ENDCOLOR] Building.[NEWLINE]Provides the ability to create the [COLOR_POSITIVE_TEXT]Forest Preserve[ENDCOLOR] Improvement.[NEWLINE]Increase [ICON_HEALTH] Health by +1.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_VACCINES_TITLE</Tag>
+			<Text>Vaccines ([ICON_RESEARCH]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_VACCINES_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Smallpox Eradication[ENDCOLOR] national wonder which increases the happiness of every City.[NEWLINE]Increase global [ICON_HEALTH] Health by +3.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_GENETICS_TITLE</Tag>
+			<Text>Genetics ([ICON_RESEARCH]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_GENETICS_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Human Genome[ENDCOLOR] Wonder which causes each [ICON_CITIZEN] Specialist in your empire to produce an extra [ICON_RESEARCH] Science.[NEWLINE]Increase global [ICON_HEALTH] Health by +1.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ECOLOGICAL_ENGINEERING_TITLE</Tag>
+			<Text>Ecological Engineering ([ICON_PRODUCTION]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ECOLOGICAL_ENGINEERING_HELP</Tag>
+			<Text>Increase global [ICON_HEALTH] Health by +1.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ROBOTIC_SURGERY_TITLE</Tag>
+			<Text>Robotic Surgery ([ICON_PRODUCTION]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ROBOTIC_SURGERY_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Robotic Operating Room[ENDCOLOR] which increases [ICON_HAPPINESS_1] and [ICON_GOLD] Gold generation. +2 [ICON_HEALTH] Health +1 [ICON_HEALTH] Health</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HOMO_SUPERIOR_TITLE</Tag>
+			<Text>Homo Superior ([ICON_HEALTH]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HOMO_SUPERIOR_HELP</Tag>
+			<Text> +2 [ICON_HEALTH] Health</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANICAL_BODY_GRAFTING_TITLE</Tag>
+			<Text>Mechanical Body Grafting ([ICON_RESEARCH]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANICAL_BODY_GRAFTING_DESC</Tag>
+			<Text>Mechanical Body Grafting ([ICON_RESEARCH]/[ICON_HEALTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANICAL_BODY_GRAFTING_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Implant Station[ENDCOLOR] which increases [ICON_PRODUCTION] Production and [ICON_GOLD] Gold generation.[NEWLINE]Increase global [ICON_HEALTH] Health by +2.</Text>
+		</Row>
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+	</Language_en_US>
+</GameData>

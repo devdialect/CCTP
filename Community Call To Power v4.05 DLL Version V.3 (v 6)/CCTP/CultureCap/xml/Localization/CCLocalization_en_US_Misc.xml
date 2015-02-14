@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<GameData>
+  <Language_en_US>
+		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS">
+			<Text>Enable Cultural Capitals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS_HELP">
+			<Text>Enables Cultural Capitals for the game.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_NAME">
+      <Text>Cultural Capital</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_TITLE_PLAYER">
+      <Text>Cultural Capital {1_year}:[COLOR_WHITE]{2_city}[ENDCOLOR]</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_TITLE">
+			<Text>Cultural Capital</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_NO_THEME">
+      <Text>No Theme Selected</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_THEMES">
+      <Text>Themes</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_CHOOSE_THEME">
+			<Text>Choose Theme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_THEME">
+			<Text>Currently Active Theme: {1_theme}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_THEME_TOOLTIP">
+			<Text>Click to show the active Effects</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ACTIVE_EFFECTS">
+			<Text>Active Effects</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_POPUP_BUTTON_TOOLTIP">
+      <Text>[COLOR_FONT_GREEN]You can choose this Theme![ENDCOLOR]</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_ALREADY_CHOSEN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]You have already chosen a Theme![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_POPUP_BUTTON_LR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE]Left-Click to view Effects.[NEWLINE]Right-Click to view additional Information.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_POPUP_INACTIVEBUTTON_TOOLTIP">
+      <Text>[COLOR_FONT_RED]At least one requirement not met.[ENDCOLOR]</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_POPUP_MUSTWIN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]You need to win the Cultural Capital Election to choose a theme![ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_POPUP_OBSOLETEBUTTON_TOOLTIP">
+      <Text>[COLOR_FONT_RED]This Theme is Obsolete.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_EFFECTS">
+      <Text>Effects Upon Adoption</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_EFFECT_CIVI">
+			<Text>Click to show Civilopedia for this Item.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_TEMPORARY_EFFECT">
+      <Text>This is a temporary Effect. It will last {1_turns} turn(s).</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_SHOW_ALL">
+      <Text>Show all Themes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_SHOW_ALL_TOOLTIP">
+      <Text>Show all available Themes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_SHOW_OBSOLETE_TOOLTIP">
+      <Text>Show obsolete Themes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_VIEW_CC">
+      <Text>Examine the Cultural Capital</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_DESCRIPTION_LABEL">
+      <Text>Theme Description</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_FULLFILLED_LABEL">
+			<Text>FULLFILLED REQUIREMENTS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_UNMET_LABEL">
+			<Text>UNMET REQUIREMENTS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_DISTANT_CIV">
+			<Text>A distant Civilization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_PLAYER_THEMECHOSEN">
+			<Text>[COLOR_FONT_RED]{1_player}[ENDCOLOR] chose the Theme [COLOR_YELLOW]{2_theme}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_WORLD_LCLICK_TOOLTIP">
+			<Text>Left-Click to view Themes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_RCLICK_TOOLTIP">
+			<Text>Right-Click to open Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MCLICK_TOOLTIP">
+			<Text>Middle-Click to look at {1_city}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_EMPTY_TOOLTIP">
+			<Text>[COLOR_FONT_RED]No one has formed the Cultural Committee yet! Be the first to build[ENDCOLOR][COLOR_FONT_GREEN] {1_value} [ENDCOLOR][COLOR_FONT_RED]Wonders to form it in your [ICON_CAPITAL]Capital![NEWLINE]Having the Committee in your empire enables you to see all election winners and the progress of all players in the election.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_COUNTDOWN_TOOLTIP">
+			<Text>[COLOR_YELLOW]{1_turns}[ENDCOLOR] Turn(s) remaining until new Election starts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_CANCHOOSE_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]You have won the Election and can choose a Theme![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_TURNSREMAINING_TOOLTIP">
+			<Text>[COLOR_YELLOW]{1_turns}[ENDCOLOR] Turn(s) remaining to win the Election.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_BASE_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Point(s) from Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_MINOR_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Bonus Point(s) from Minor Civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_WONDER_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Bonus Point(s) from Wonders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MALUS_CITY_TOOLTIP">
+			<Text>[COLOR_FONT_RED]{1_value}[ENDCOLOR] Malus Point(s) from Number of Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_BONUS_BRIBE_TOOLTIP">
+			<Text>[COLOR_YELLOW]{1_value}[ENDCOLOR] Bonus Point(s) from Bribes ({2_cooldown}).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_MALUS_LASTWIN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]{1_value}[ENDCOLOR] Malus Point(s) as previous Winner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_TOTAL_TOOLTIP">
+			<Text>= [COLOR_FONT_GREEN]{1_value}[ENDCOLOR] Total Point(s)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WORLD_ZERO_TOOLTIP">
+			<Text>[COLOR_FONT_RED]You need at least one Wonder in your Empire to gain Points for the Cultural Capital Election![ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_OVERVIEW_TITLE">
+			<Text>Overview of Cultural Capitals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_SHOW_ALL">
+			<Text>Show all Winners</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_SHOW_ALL_TOOLTIP">
+			<Text>Display the Winners of all former Cultural Capital Elections</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YEAR">
+			<Text>Year</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YEAR_SORT">
+			<Text>Sort by Year</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINNER">
+			<Text>Winner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINNER_SORT">
+			<Text>Sort by Winners</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_CITY">
+			<Text>City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_CITY_SORT">
+			<Text>Sort by Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_THEME">
+			<Text>Theme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_THEME_SORT">
+			<Text>Sort by Themes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNKNOWN_CITY">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PLAYER">
+			<Text>Player</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PLAYER_SORT">
+			<Text>Sort by Players</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS">
+			<Text>Progress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS_SORT">
+			<Text>Sort by Progress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINS">
+			<Text>Wins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_WINS_SORT">
+			<Text>Sort by Number of (known) Wins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_YOU">
+			<Text>You</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNMET">
+			<Text>Unmet Player</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_UNKNOWN_THEME">
+			<Text>Unknown Theme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_HISTORY_BUTTON">
+			<Text>Show History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_PROGRESS_BUTTON">
+			<Text>Show Progress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON">
+			<Text>Bribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_CONFIRM">
+			<Text>Do you really want to bribe the Cultural Committee for [COLOR_YELLOW]{1_gold}[ENDCOLOR][ICON_GOLD] Gold?[NEWLINE][NEWLINE]This Effect will last [COLOR_FONT_GREEN]{2_duration}[ENDCOLOR] Election Turn(s).[NEWLINE][NEWLINE]Bribing will increase your Election Points generation by [COLOR_FONT_GREEN]{3_bribemod}%[ENDCOLOR] for its duration.[NEWLINE][NEWLINE][COLOR_FONT_RED]You may bribe again in [ENDCOLOR]{4_cooldown}[COLOR_FONT_RED] Election Turn(s)[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_ALLOWED_TOOLTIP">
+			<Text>[COLOR_FONT_GREEN]You can bribe the Cultural Committee for [ENDCOLOR][COLOR_YELLOW]{1_gold}[ENDCOLOR][COLOR_FONT_GREEN][ICON_GOLD] Gold![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_COOLDOWN_TOOLTIP">
+			<Text>[COLOR_FONT_RED]You have to wait [ENDCOLOR]{1_turns}[COLOR_FONT_RED] Election Turn(s)![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_RACE_TOOLTIP">
+			<Text>[COLOR_FONT_RED]You can only bribe when the Election is in progress![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_OVERVIEW_BRIBE_BUTTON_NOT_ALLOWED_GOLD_TOOLTIP">
+			<Text>[COLOR_FONT_RED]You need at least [ENDCOLOR][COLOR_YELLOW]{1_gold}[ENDCOLOR][COLOR_FONT_RED] Gold![ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CC_COMMITTEE">
+			<Text>[COLOR_CULTURE_RATE]Cultural Committee[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_COMMITTEENOTFORMED">
+			<Text>Cultural Committee not formed yet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_COMMITTEEFORMED_NOTIFICATION">
+			<Text>{1_location} has formed the [COLOR_CULTURE_RATE]Cultural Committee[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_COMMITTEEMOVED_NOTIFICATION">
+			<Text>The [COLOR_CULTURE_RATE]Cultural Committee[ENDCOLOR] has been rebuilt in {1_location}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WINNER_NOTIFICATION">
+			<Text>[COLOR_CULTURE_RATE]Cultural Capital[ENDCOLOR] {1_year}:[NEWLINE]{2_location}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WONDERSERECTED_NOTIFICATION">
+			<Text>[COLOR_FONT_GREEN]{1_nWonders}[ENDCOLOR] Wonders have been erected!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ELECTIONSTARTED_NOTIFICATION_TITLE">
+			<Text>Cultural Election started!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_ELECTIONSTARTED_NOTIFICATION_DESC">
+			<Text>The Cultural Election process has started! Acquire enough [ICON_CC]Election points to win.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_WINNER">
+			<Text>Cultural Capital Winner: </Text>
+		</Row>
+
+    <Row Tag="TXT_KEY_CC_WONDERS_REQUIRED">
+      <Text>At least {1_count} Wonder(s) required in this City.</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_MINCITIES_REQUIRED">
+			<Text>The Player needs to have at least {1_count} original Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_MAXCITIES_REQUIRED">
+			<Text>The Player must have at most {1_count} original Cities.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_SPECIALISTBUILDING_REQUIRED">
+      <Text>At least one Building required that can employ {1_type} Specialists.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_MINSIZE_REQUIRED">
+      <Text>The City must be at least of Size {1_size}.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_MAXSIZE_REQUIRED">
+      <Text>The City must be at most of Size {1_size}.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_TECH_REQUIRED">
+      <Text>{1_tech} must be researched.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_ERA_REQUIRED">
+      <Text>Must be in the {1_era}.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_BUILDINGCLASS_REQUIRED">
+      <Text>City needs a {1_building}.</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASSINEMPIRE_REQUIRED">
+			<Text>You need at least one {1_building} in your Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASS_EXCLUDED">
+			<Text>City is not allowed to have a {1_building}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_BUILDINGCLASSINEMPIRE_EXCLUDED">
+			<Text>You are not allowed to have a {1_building} in your Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CC_CANHAVERESOURCE">
+			<Text>Requires a Plot near the City that allows {1_resource} to be discovered.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_POLICY_REQUIRED">
+      <Text>Must have adopted {1_policy}.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CC_GARRISON_REQUIRED">
+      <Text>City requires a Garrison.</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_MUST_PRODUCE">
+			<Text>City must build a Building or Unit.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CC_OBSOLETE_TECH">
+      <Text>This Theme becomes Obsolete when {1_tech} is researched.</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CC_OBSOLETE_ERA">
+			<Text>This Theme becomes Obsolete when you reach the {1_era}.</Text>
+		</Row>
+
+  </Language_en_US>
+</GameData>

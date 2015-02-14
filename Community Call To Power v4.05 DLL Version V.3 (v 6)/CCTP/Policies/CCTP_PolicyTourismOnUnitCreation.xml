@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 4/4/2014 4:29:47 PM -->
+<GameData>
+
+
+
+	<!-- CCTP. seems it workes not for the admiral will need a thweak 3.10. Gilgamesch-->
+<Policy_TourismOnUnitCreation>
+<!-- 
+	<Row>
+	<PolicyType>POLICY_CCTP92</PolicyType>
+	<UnitClassType>UNITCLASS_PROPHET</UnitClassType>
+	<Tourism>100</Tourism>
+</Row>
+-->
+	<Row>
+	<PolicyType>POLICY_CCTP295</PolicyType>
+	<UnitClassType>UNITCLASS_PROPHET</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP35</PolicyType>
+	<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
+	<Tourism>100</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_HIERARCHY</PolicyType>
+	<UnitClassType>UNITCLASS_GREAT_GENERAL</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+
+
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_GREAT_GENERAL</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_ARTIST</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_WRITER</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_MUSICIAN</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_SCIENTIST</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_ENGINEER</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP158</PolicyType>
+	<UnitClassType>UNITCLASS_GREAT_ADMIRAL</UnitClassType>
+	<Tourism>50</Tourism>
+</Row>
+
+</Policy_TourismOnUnitCreation>
+	
+  
+  <!--Have a nice Day:=)-->
+  
+</GameData>

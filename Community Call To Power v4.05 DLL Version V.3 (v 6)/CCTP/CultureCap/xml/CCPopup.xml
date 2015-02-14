@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<Context Font="TwCenMT14" FontStyle="Base" Color0="Beige" Color1="Black" Hidden="0" >
+
+	<!-- Box that prohibits clicking on end turn and other buttons on worldview-->
+	<Box Style="BGBlock_ClearTopBar" />
+	<Container ID="CCPopupContainer" Anchor="C,C" Hidden="0">
+
+		<Grid Size="990,653" Anchor="C,C" Offset="0,16" Style="Grid9DetailFive140" ConsumeMouse="1">
+			<!-- Background Image -->
+			<Image Anchor="C,C" Size="512,512" Offset="16,40" Texture="CCBackground_dome_512.dds" Color="255,255,255,50"/>
+			<!-- ## Panel Header Text -->
+			<Label String="TXT_KEY_CC_NAME" ID="TitleLabel" Anchor="C,T" Offset="0,19" Font="TwCenMT20" Color0="30.50.80.255" Color1="133.184.186.255" Color2="133.184.186.255" FontStyle="SoftShadow"  />
+			<!-- ## Panel Images -->
+			<Image Anchor="L,C" AnchorSide="O.I"  Offset="-17,0" Texture="Dec32x64Left.dds" Size="32.64" />
+			<Image Anchor="R,C" AnchorSide="O.I"  Offset="-17,0" Texture="Dec32x64Right.dds" Size="32.64" />
+
+			<!-- ## TopPanel -->
+			<Container ID="PopupTopPanel" Size="990,60" Anchor="L,T" Offset="0,44" Style="Grid9DetailFive140">
+				
+				<!-- ## Quotes -->
+				<Label ID="CCQuote" WrapWidth="900" Anchor="C,T" Offset="0,12" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="Quote"  />
+				<Label ID="CCSource" Anchor="R,B" Offset="120,8" Font="TwCenMT14" ColorSet="White_Black" FontStyle="Shadow" String="Source"  />
+				
+				<!-- ## ActiveTheme -->
+				<Button ID="CCActiveButton" ToolTip="TXT_KEY_CC_ACTIVE_THEME_TOOLTIP" Size="990,60" Anchor="T,L" AnchorSide="i.i" Offset="0,0"  Hidden="1">
+					<Label ID="CCActiveLabel" Offset="0,0" Anchor="C,C" String="TXT_KEY_CC_ACTIVE_THEME" Font="TwCenMT24" ColorSet="Beige_Black_Alpha" FontStyle="SoftShadow" />
+					<Image Anchor="L,C" Size="64,64" Offset="16,0" Texture="Assets/UI/Art/Icons/IconFrame64.dds" >
+						<Image ID="CCActivePortrait1" Anchor="C,C" Size="64,64" Texture="Assets/UI/Art/Icons/DifficultyLevelIcons256.dds"/>
+					</Image>
+					<Image Anchor="R,C" Size="64,64" Offset="16,0" AnchorSide="i,i" Texture="Assets/UI/Art/Icons/IconFrame64.dds" >
+						<Image ID="CCActivePortrait2" Anchor="C,C" Size="64,64" Texture="Assets/UI/Art/Icons/DifficultyLevelIcons256.dds"/>
+					</Image>
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="C,C" Size="990,60" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+							<Grid Anchor="C,C" Size="990,60" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+						</AlphaAnim>
+					</ShowOnMouseOver>
+				</Button>
+			</Container>
+
+			
+			<!-- ## Main Panels -->
+			<Container Anchor="L,T" Size="956,520" Offset="18,103" ID="TypesPanel" >
+				<Image Anchor="L,T" Offset="0,0" Texture="HorizontalTrim.dds" Size="956,5" />
+				<Grid Size="270,501" Anchor="L,T" Offset="0,3" Style="GridBlackIndent8" />
+				<Box Size="270,501" Anchor="L,T" Offset="0,3" Padding="0,0" Color="White.0" >
+					<Image Anchor="R,C" AnchorSide="o,i" Texture="VerticalTrim.dds" Size="5,505" Offset="0,4" />
+				</Box>
+				<Grid Anchor="L,T" Offset="0,5"  Style="WindowGrid" Size="270,28"  >
+					<Label Anchor="C,C" String="TXT_KEY_CC_THEMES" Font="TwCenMT22" ColorSet="Beige_Black_Alpha" FontStyle="SoftShadow" />
+				</Grid>
+				<ScrollPanel Anchor="L,T" Offset="0,34" Size="270,425" Vertical="1" ID="ListScrollPanel" AutoScrollBar="1" >
+					<ScrollBar Offset="0,18" Style="VertSlider" Anchor="R,t" Length="389" ID="LeftScrollBar"/>
+					<UpButton  Offset="0,0"  Style="ScrollBarUp"  Anchor="R,T" ID="LeftUpButton"/>
+					<DownButton Offset="0,0" Style="ScrollBarDown"  Anchor="R,B" ID="LeftDownButton"/>
+					<!--list of articles in this category-->
+					<Stack Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="0" ID="CCTypesStack" />
+				</ScrollPanel>
+
+				<!-- Buttonbox -->
+				<Box Size="270,48" Anchor="L,T" Offset="0,459" Padding="0,0" Color="White.0" >
+					<Image Anchor="L,T" Offset="0,0" Texture="HorizontalTrim.dds" Size="270,5" />
+					<Button ID="CityButton" ConsumeMouseOver="1" Anchor="L,C" Offset="3,3" Size="45.45" Texture="assets/UI/Art/Icons/MainCityButton.dds" Hidden="0" ToolTip="TXT_KEY_CC_VIEW_CC">
+						<ShowOnMouseOver>
+							<Image Anchor="C,C" Offset="0,0" Size="45.45" Texture="assets/UI/Art/Icons/MainCityButton.dds" />
+							<AlphaAnim Anchor="C,C" Offset="0,0" Size="45.45"  TextureOffset="0.0" Texture="assets/UI/Art/Icons/MainCityButtonHL.dds"  Pause="0" Cycle="Bounce" Speed="2" AlphaStart="0.95" AlphaEnd="0.55" />
+						</ShowOnMouseOver>
+					</Button>
+					<!-- Options -->
+					<Stack Anchor="R,C" Padding="0" Offset="0,0" StackGrowth="Left">
+						<CheckBox ID="ShowObsoleteOption" Anchor="C,C" TextAnchorSide="Right" Offset="0,3" TextOffset="0,0" IsChecked="0" ToolTip="TXT_KEY_CC_SHOW_OBSOLETE_TOOLTIP"/>
+						<CheckBox ID="ShowAllOption" Anchor="C,C" TextAnchorSide="Right" Offset="0,3" TextOffset="-100,0" IsChecked="0" String="TXT_KEY_CC_SHOW_ALL" ToolTip="TXT_KEY_CC_SHOW_ALL_TOOLTIP" />
+					</Stack>
+				</Box>
+
+				<Grid Size="680,495" Anchor="R,C" Offset="0,0" Style="GridBlackIndent8" />
+
+				<!-- ## Right Panel Containers -->
+				<!-- ############## Mode Empty ############## -->
+				<Box Anchor="R,C" Offset="0,-5" Size="680,495" Color="0,0,0,0" ID="EmptyBox" Hidden="0" >
+					<Label ID="CCEmptyLabel" Anchor="C,C" String="TXT_KEY_CC_NO_THEME" Font="TwCenMT24" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" />
+				</Box>
+
+				<!-- ############## Mode Basic ############## -->
+				<Box Anchor="R,C" Offset="0,-5" Size="680,495" Color="0,0,0,0" ID="BasicBox" Hidden="1" >
+					<Image Anchor="L,T" Size="64,64" Offset="0,0" Texture="Assets/UI/Art/Icons/IconFrame64.dds" >
+						<Image ID="BasicPortraitLeft" Anchor="C,C"  Size="64,64" Texture="Assets/UI/Art/Icons/DifficultyLevelIcons256.dds"/>
+					</Image>
+					<Image Anchor="R,T" Size="64,64" Offset="0,0" Texture="Assets/UI/Art/Icons/IconFrame64.dds" >
+						<Image ID="BasicPortraitRight" Anchor="C,C"  Size="64,64" Texture="Assets/UI/Art/Icons/DifficultyLevelIcons256.dds"/>
+					</Image>
+					<!-- Name -->
+					<Image Anchor="C,T" Size="500,64" Offset="0,0"  Texture="CivilopediaTitle.dds"   >
+						<Label ID="ThemeBasic" Anchor="C,C" Offset="0,-2" Font="TwCenMT20" FontStyle="SoftShadow" Color0="Beige" Color1="0.0.0.160" String="title goes here" />
+					</Image>
+					<!-- ## Effects -->
+					<Label ID="CCEffectsUponAdoptionLabel" Offset="0,70" Anchor="C,T" String="TXT_KEY_CC_EFFECTS" Font="TwCenMT24" ColorSet="Beige_Black_Alpha" FontStyle="SoftShadow" />
+					<Label ID="CCActiveEffectsLabel" Offset="0,70" Hidden="1" Anchor="C,T" String="TXT_KEY_CC_ACTIVE_EFFECTS" Font="TwCenMT24" ColorSet="Green_Black" FontStyle="SoftShadow" />
+					<Grid Size="660,226" Offset="0,96" Anchor="C,T" Padding="0,0" Style="GridGlass16" Hidden="0" ConsumeMouse="1"/>
+					<Grid Size="670,226" Offset="0,96" Anchor="C,T" Padding="0,0" Style="Grid9Detail48"  Hidden="0" ConsumeMouse="1" >
+						<ScrollPanel Size="638,210" Anchor="L,T" Offset="16,8" Vertical="1" ID="EffectScrollPanel" AutoScrollBar="1" >
+							<ScrollBar Offset="0,18" Style="VertSlider" Anchor="R,t" Length="176" ID="EffectScrollBar"/>
+							<UpButton  Offset="0,0"  Style="ScrollBarUp"  Anchor="R,T" ID="EffectUpButton"/>
+							<DownButton Offset="0,0" Style="ScrollBarDown"  Anchor="R,B" ID="EffectDownButton"/>
+							<!--list of articles in this category-->
+							<Stack Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="0" ID="CCEffectsStack" />
+						</ScrollPanel>
+
+						<!-- ## Met Requirements -->
+						<Grid Anchor="C,B" AnchorSide="i,o" Offset="0,2" Size="678,88" Padding="0,0" Style="Grid9Frame" Hidden="0" >
+							<Label Anchor="R,T" Offset="10,30" String="TXT_KEY_CC_FULLFILLED_LABEL" Font="TwCenMT18" FontStyle="SoftShadow" Color0="Dark_Gray" Color1="0.0.255.125" />
+							<Image Anchor="C,T" AnchorSide="i.i" Offset="0,67" Texture="bar300x2.dds" Size="300.1" />
+							<ScrollPanel ID="CCMetScrollPanel" Offset="4,6" Anchor="L,T" Size="670,64" Vertical="0" AutoScrollBar="1">
+								<UpButton   Offset="0,0"  Anchor="L,B"  AnchorSide="i,o"  Style="ScrollBarLeft"   />
+								<DownButton Offset="0,0"    Anchor="R,B"  AnchorSide="i,o"  Style="ScrollBarRight"  />
+								<ScrollBar ID="CCMetScrollBar" Offset="18,0"   Anchor="L,B"  AnchorSide="i,o"  Style="ScrollBar" Length="634"/>
+								<Stack ID="CCMetStack" Anchor="L,C" Offset="0,0" StackGrowth="Right" Padding="0" />
+							</ScrollPanel>
+							<!-- ## Unmet Requirements -->
+							<Grid Anchor="C,B" AnchorSide="i,o" Offset="0,-2" Size="678,88" Padding="0,0" Style="Grid9Frame" Hidden="0" >
+								<Label Anchor="L,T" Offset="10,30" String="TXT_KEY_CC_UNMET_LABEL" Font="TwCenMT18" FontStyle="SoftShadow" Color0="Dark_Gray" Color1="255.0.0.125" />
+								<Image Anchor="C,T" AnchorSide="i.i" Offset="0,67" Texture="bar300x2.dds" Size="300.1" />
+								<ScrollPanel ID="CCUnmetScrollPanel" Anchor="L,T" Size="670,84" Vertical="0" AutoScrollBar="1">
+									<UpButton   Offset="0,0"  Anchor="L,B"  AnchorSide="i,o"  Style="ScrollBarLeft"   />
+									<DownButton Offset="0,0"    Anchor="R,B"  AnchorSide="i,o"  Style="ScrollBarRight"  />
+									<ScrollBar ID="CCUnmetScrollBar" Offset="18,0"   Anchor="L,B"  AnchorSide="i,o"  Style="ScrollBar" Length="634"/>
+									<Stack ID="CCUnmetStack" Anchor="R,C" Offset="0,0" StackGrowth="Left" Padding="0"/>
+								</ScrollPanel>
+							</Grid>
+						</Grid>
+					</Grid>
+				</Box>
+			</Container>
+
+			<!-- ## CloseButton -->
+			<GridButton Size="200,32" Anchor="C,B" AnchorSide="I.O" Offset="150,-6" ID="CloseButton" Hidden="0">
+				<GridData Style="Grid9DarkBlue8Button" />
+				<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_CLOSE"  Color0="255.255.200.255" Color1="0.0.0.128" Color2="255.255.200.255" Font="TwCenMT22" FontStyle="Shadow" />
+				<Grid Anchor="C,C" Offset="0,0" Size="204,36" Padding="0,0" Style="Grid9Frame" Hidden="0" />
+				<ShowOnMouseOver>
+					<AlphaAnim  Anchor="R,C"  AnchorSide="O.O"  Offset="0,0" Size="16,32" TextureOffset="16.0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+					<AlphaAnim  Anchor="L,C"  AnchorSide="O.O"  Offset="0,0" Size="16,32" TextureOffset="0.0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+					<Image Anchor="R,C" Offset="0,0" TextureOffset="8.0" AnchorSide="O.O"  Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16" />
+					<Image Anchor="L,C" Offset="0,0" TextureOffset="0.0" AnchorSide="O.O"  Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16" />
+					<AlphaAnim Anchor="C,C" Offset="0,0" Size="320,36" TextureOffset="0.0"  Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".25" AlphaEnd=".99" Hidden="0">
+						<Grid  Size="200,32" Anchor="C,C" Offset="0,0" Style="Grid9Highlight8" />
+					</AlphaAnim>
+				</ShowOnMouseOver>
+			</GridButton>
+
+			<!-- ## ChooseThemeButton -->
+			<GridButton ID="CCChooseThemeButton" Size="200,32" Offset="-150,-6" Anchor="C,B" AnchorSide="i.o" Hidden="0">
+				<GridData Style="Grid9DarkBlue8Button" />
+				<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_CC_CHOOSE_THEME"  Color0="255.255.200.255" Color1="0.0.0.128" Color2="255.255.200.255" Font="TwCenMT22" FontStyle="Shadow" />
+				<Grid Anchor="C,C" Offset="0,0" Size="204,36" Padding="0,0" Style="Grid9Frame" Hidden="0" />
+
+				<AlphaAnim  Anchor="R,C"  AnchorSide="O.O"  Offset="0,0" Size="16,32" TextureOffset="16.0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+				<AlphaAnim  Anchor="L,C"  AnchorSide="O.O"  Offset="0,0" Size="16,32" TextureOffset="0.0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+				<Image Anchor="R,C" Offset="0,0" TextureOffset="8.0" AnchorSide="O.O"  Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16" />
+				<Image Anchor="L,C" Offset="0,0" TextureOffset="0.0" AnchorSide="O.O"  Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16" />
+				<AlphaAnim Anchor="C,C" Offset="0,0" Size="320,36" TextureOffset="0.0"  Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".25" AlphaEnd=".99" Hidden="0">
+					<Grid  Size="200,32" Anchor="C,C" Offset="0,0" Style="Grid9Highlight8" />
+				</AlphaAnim>
+			</GridButton>
+		</Grid>
+
+	</Container>
+
+	<!--=======================================================================================================================-->
+	<!--    Instance of an active CCType list item  -->
+	<!--=======================================================================================================================-->
+	<Instance Name="CCTypeButtonInstance" >
+		<Button Anchor="L,C" Size="253,48" Offset="-1,0" ID="CCTypeButton" >
+			<Label Anchor="L,C"  Offset="3,0"  Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="SoftShadow" String="" ID="CCTypeLabel" />
+			<Image ID="CCTypeIcon" Size="45,45" Offset="0,0"  Anchor="R,C" Texture="TechnologyAtlas360.dds" />
+			<ShowOnMouseOver>
+				<AlphaAnim Anchor="C,C" Size="263,48" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+					<Grid Anchor="C,C" Size="263,48" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+				</AlphaAnim>
+			</ShowOnMouseOver>
+			<Image Anchor="L,B" Texture="bar300x2.dds" TextureOffset="200.0" Size="100.1" />
+		</Button>
+	</Instance>
+
+	<!--=======================================================================================================================-->
+	<!--    Instance of an inactive CCType list item  -->
+	<!--=======================================================================================================================-->
+	<Instance Name="CCInactiveTypeButtonInstance" >
+		<Button Anchor="L,C" Size="253,48" Offset="-1,0" ID="CCInactiveTypeButton" >
+			<Label Anchor="L,C"  Offset="3,0"  Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="" ID="CCInactiveTypeLabel" />
+			<Image ID="CCInactiveTypeIcon" Size="45,45" Offset="0,0"  Anchor="R,C" Texture="TechnologyAtlas360.dds" />
+			<Box Color="55,55,55,128" Size="253,48" Anchor="L,T" />
+			<Image Anchor="L,B" Texture="bar300x2.dds" TextureOffset="200.0" Size="100.1" />
+		</Button>
+	</Instance>
+
+	<!--=======================================================================================================================-->
+	<!--    Instance of an Effect list item  -->
+	<!--=======================================================================================================================-->
+	<Instance Name="CCEffectInstance" >
+		<Box ID="CCEffectBox" Color="55,55,55,128" Size="620,36" Anchor="L,T" >
+			<Button ID="CCEffectButton" Size="620,36" Anchor="L,T">
+				<Image ID="CCTimeIcon" Hidden="1" Offset="4,0" Anchor="L,C"  Size="32,32" Texture="Assets/UI/Art/Icons/GameSpeedIcons128.dds" />
+				<Label ID="CCEffectLabel" Anchor="L,C" Offset="40,0" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="This is an Effect!"   />
+				<!--<Image Anchor="C,B" Offset="0,-1" Texture="HorizontalTrim.dds" Size="620,1" />-->
+				<Image Anchor="C,B" Offset="0,-1" Texture="bar300x2.dds" Size="300.2" />
+			</Button>
+		</Box>
+	</Instance>
+
+	<!--=======================================================================================================================-->
+	<!--    Instance of an Requirement list item  -->
+	<!--=======================================================================================================================-->
+	<Instance Name="CCReqInstance" >
+		<Button ID="CCReqButton" Texture="64x64FrameButtons.dds" Anchor="L,C" Size="64,64" Offset="0,0" >
+			<Image ID="CCReqPortrait" Anchor="C,C"  Size="64,64" Texture="Assets/UI/Art/Icons/DifficultyLevelIcons256.dds"/>
+			<Label ID="CCReqLabel" Anchor="C,C" Offset="0,0" Font="TwCenMT24" Color0="Dark_Gray" Color1="0.0.0.180" FontStyle="SoftShadow" String="1" Hidden="1"/>
+			<ShowOnMouseOver>
+				<AlphaAnim  Anchor="R,C"  AnchorSide="O.O"  Offset="-9,0" Size="16,32" TextureOffset="16.0" Texture="buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+				<AlphaAnim  Anchor="L,C"  AnchorSide="O.O"  Offset="-9,0" Size="16,32" TextureOffset="0.0" Texture="buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+				<Image Anchor="R,C" Offset="-9,0" TextureOffset="8,0" AnchorSide="O.O"  Texture="buttonsides.dds" Size="8,16" />
+				<Image Anchor="L,C" Offset="-9,0" TextureOffset="0,0" AnchorSide="O.O"  Texture="buttonsides.dds" Size="8,16" />
+			</ShowOnMouseOver>
+			<Label ID="CCEffectTypeLabel" Hidden="1" Anchor="R,B" Offset="8,12" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="[ICON_CULTURE]" />
+			<Label ID="CCEffectScopeLabel" Hidden="1" Anchor="L,B" Offset="8,11" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="[ICON_CITY_STATE]" />
+		</Button>
+	</Instance>
+</Context>

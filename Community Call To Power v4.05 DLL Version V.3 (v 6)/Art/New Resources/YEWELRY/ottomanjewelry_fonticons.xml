@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/22/2013 2:19:09 AM -->
+<GameData>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_TURKISHJEWELRY</IconFontTexture>
+			<IconFontTextureFile>ottomanjewelry_fonticons</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_TURKISHJEWELRY</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_TURKISHJEWELRY</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

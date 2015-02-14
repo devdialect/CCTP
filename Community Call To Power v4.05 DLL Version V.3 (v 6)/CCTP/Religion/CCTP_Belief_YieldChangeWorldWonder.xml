@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/24/2014 10:42:15 PM -->
+<GameData>
+	
+<!--<<<<<<<<<<[YieldChangeWorldWonder]>>>>>>>>>>-->
+<Belief_YieldChangeWorldWonder>
+<Row>
+	<BeliefType>BELIEF_WONDERSCIENCE</BeliefType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_WONDERCULT</BeliefType>
+	<YieldType>YIELD_CULTURE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_WONDERFOOD</BeliefType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_WONDERPRO</BeliefType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_WONDERGOLD</BeliefType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>2</Yield>
+</Row>
+<Row>
+	<BeliefType>BELIEF_WONDERAGE</BeliefType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>2</Yield>
+</Row>
+</Belief_YieldChangeWorldWonder>
+</GameData>  
+<!--Have a nice Day;=)-->

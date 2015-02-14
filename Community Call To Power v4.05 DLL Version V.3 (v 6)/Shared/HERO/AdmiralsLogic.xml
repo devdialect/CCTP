@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 12/7/2013 13:58:34 PM 	
+<Update>
+			<Set UnitAIType="UNITAI_PIRATE_SEA"/>
+			<Where UnitType="UNIT_GREAT_ADMIRAL"/>
+		</Update>
+		<Update>
+			<Set UnitAIType="UNITAI_ATTACK_SEA"/>
+			<Where UnitType="UNIT_GREAT_ADMIRAL"/>
+		</Update>
+		<Update>
+			<Set UnitAIType="UNITAI_ESCORT_SEA"/>
+			<Where UnitType="UNIT_GREAT_ADMIRAL"/>
+		</Update>
+		<Update>
+			<Set UnitAIType="UNITAI_RESERVE_SEA"/>
+			<Where UnitType="UNIT_GREAT_ADMIRAL"/>
+		</Update>-->
+<GameData>
+	<Units>
+		<Update>
+			<Set RequiresFaithPurchaseEnabled="true" FaithCost="400" Combat="10" CombatClass="UNITCOMBAT_NAVALMELEE" DefaultUnitAI="UNITAI_PIRATE_SEA" Moves="3" XPValueAttack="20" XPValueDefense="5" Special="NULL" CombatLimit="100"/>
+			<Where Type="UNIT_GREAT_ADMIRAL"/>
+		</Update>
+
+	</Units>
+
+	<Unit_AITypes>
+		<Delete UnitType="UNIT_GREAT_ADMIRAL" />
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<UnitAIType>UNITAI_PIRATE_SEA</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_Flavors>
+		<Update>
+			<Set Flavor="4"/>
+			<Where UnitType="UNIT_GREAT_ADMIRAL" FlavorType="FLAVOR_NAVAL_RECON"/>
+		</Update>
+		<Update>
+			<Set Flavor="5"/>
+			<Where UnitType="UNIT_GREAT_ADMIRAL" FlavorType="FLAVOR_NAVAL"/>
+		</Update>
+	</Unit_Flavors>
+
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>200</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<PromotionType>PROMOTION_GOLDEN_AGE_POINTS</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<PromotionType>PROMOTION_HERO</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<PromotionType>PROMOTION_RECRUITMENT</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<PromotionType>PROMOTION_WITHDRAW_BEFORE_MELEE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_ADMIRAL</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	
+	<Missions>
+	<!-- 	<Delete UnitType="UNIT_GREAT_ADMIRAL" />
+		Created by Gilgamesch on 12/7/2013 13:58:34 PM
+		<Update>
+			<Set MissionType="MISSION_BEGIN_COMBAT" />
+			<Where UnitType= "UNIT_GREAT_ADMIRAL"/>
+		</Update>
+		<Update>
+			<Set MissionType="MISSION_END_COMBAT" />
+			<Where UnitType= "UNIT_GREAT_ADMIRAL"/>
+		</Update>
+		<Update>
+			<Set MissionType="MISSION_DAMAGE" />
+			<Where UnitType= "UNIT_GREAT_ADMIRAL"/>
+		</Update>
+		<Update>
+			<Set MissionType="MISSION_PILLAGE" />
+			<Where UnitType= "UNIT_GREAT_ADMIRAL"/>
+		</Update>
+ -->
+	</Missions>
+	
+	<Language_en_US>
+		<Update>
+			<Set Text="Naval Hero"/>
+			<Where Tag="TXT_KEY_UNIT_GREAT_ADMIRAL"/>
+		</Update>
+	</Language_en_US>
+	<Language_de_DE>
+		<Update>
+			<Set Text="Navaler Held"/>
+			<Where Tag="TXT_KEY_UNIT_GREAT_ADMIRAL"/>
+		</Update>
+	</Language_de_DE>
+	<!-- TODO: Insert table creation example here. -->
+	</GameData>

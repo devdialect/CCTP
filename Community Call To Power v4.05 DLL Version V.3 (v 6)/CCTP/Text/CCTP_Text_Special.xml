@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2014 1:21:39 AM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<!-- TODO: Insert table data example here.-->
+
+
+
+
+	<!--various
+		<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
+			<Text>Constructs a Brazilwood Camp, which increases the amount of [ICON_GOLD] Gold provided by this tile, while keeping the Jungle intact. Also provides [ICON_CULTURE] Culture once Acoustics has been researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_REC">
+			<Text>It will increase the amount of [ICON_GOLD] Gold provided by this tile, while keeping the Jungle intact. Also provides [ICON_CULTURE] Culture once Acoustics has been researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KASBAH_HELP">
+			<Text>Constructs a Kasbah, which increases the amount of [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold provided by this tile. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KASBAH_REC">
+			<Text>It will increase the amount of [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold provided by this tile. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEITORIA_HELP">
+			<Text>Constructs a Feitoria in this City-State's lands.  It will provide to you one copy of every Luxury Resource type connected by this City-State, regardless of your relationship with the City-State. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEITORIA_REC">
+			<Text>It will provide to you one copy of every Luxury Resource type connected by this City-State, regardless of your relationship with the City-State. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATEAU_HELP">
+			<Text>Constructs a Chateau which increases the Culture and Gold yield of the tile. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATEAU_REC">
+			<Text>A Chateau must be built adjacent to a Luxury resource.  It may not be adjacent to another Chateau.[NEWLINE][NEWLINE]It will increase the Culture and Gold yield of the tile. Also provides a defensive bonus.</Text>
+		</Row>
+		
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL</Tag>
+			<Text>School</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDINGS_SCHOOL_TEXT</Tag>
+			<Text>Since the cenobitic rule of Pachomius (d. 348 AD) and the sixth-century Rule of the Master and the Rule of St. Benedict, monks and nuns were required to engage actively in reading. This reading took on the characteristics of a school that dealt with both religious and secular subjects. Beginning in the 5th century a variety of abbots took upon themselves the responsibility of educating those who entered the monastery at a young age. The earliest of these monastic schools had more of a spiritual and ascetic focus than a scriptural or theological one, but it has been suggested that these were the qualities that led many monks trained at the monastic school at Lerins to be selected as bishops.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_STRATEGY</Tag>
+			<Text>Provides a [ICON_RESEARCH] Science and [ICON_CULTURE] Culture bonus in the City it was build.[NEWLINE][NEWLINE]Requries a Libery in the City.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_HELP</Tag>
+			<Text>Provides + 2 [ICON_RESEARCH]  Science.</Text>
+		</Row>
+		-->
+
+	<!-- TODO: Insert table data example here.-->
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

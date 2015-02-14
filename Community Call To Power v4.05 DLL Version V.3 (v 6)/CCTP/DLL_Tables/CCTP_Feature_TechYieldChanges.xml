@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 3:00:51 PM -->
+<GameData>
+	
+<!--*******Feature_TechYieldChanges********works!!!-->
+<Feature_TechYieldChanges>	
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_WOODWORKING</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+   <FeatureType>FEATURE_JUNGLE</FeatureType>
+   <TechType>TECH_WOODWORKING</TechType>
+   <YieldType>YIELD_PRODUCTION</YieldType>
+   <Yield>1</Yield>
+</Row>
+	
+	<!--***Next***-->
+	
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_ALCHEMY</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_ALCHEMY</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>	
+	
+<!--***Next***-->	
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_ECO_SYSTEM</TechType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_ECO_SYSTEM</TechType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_MARSH</FeatureType>
+	<TechType>TECH_ECO_SYSTEM</TechType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_MARSH</FeatureType>
+	<TechType>TECH_NATUROPATY</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_ULURU</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_MT_KAILASH</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_MT_SINAI</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_SRI_PADA</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_EL_DORADO</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_POTOSI</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_GEYSER</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_FOUNTAIN_YOUTH</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_VOLCANO</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_REEF</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_MESA</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_FUJI</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_CRATER</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_KILIMANJARO</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_SOLOMONS_MINES</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+	<TechType>TECH_URLAUB</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>5</Yield>
+</Row>
+	
+	
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_MICROSCOPE</TechType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_MICROSCOPE</TechType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_ATOLL</FeatureType>
+	<TechType>TECH_MICROSCOPE</TechType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_ENVIRONMENTAL_ECONOMICS</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_ENVIRONMENTAL_ECONOMICS</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_ATOLL</FeatureType>
+	<TechType>TECH_ENVIRONMENTAL_ECONOMICS</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_OASIS</FeatureType>
+	<TechType>TECH_ENVIRONMENTAL_ECONOMICS</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_MARSH</FeatureType>
+	<TechType>TECH_ENVIRONMENTAL_ECONOMICS</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+	<TechType>TECH_ENVIRONMENTAL_ECONOMICS</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+	
+<!--***Next***-->
+	<!--<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_MIND_MACHINE_INTERFACE</TechType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_MIND_MACHINE_INTERFACE</TechType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+	
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_ATOLL</FeatureType>
+	<TechType>TECH_SONAR</TechType>
+	<YieldType>YIELD_SCIENCE</YieldType>
+	<Yield>3</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_ATOLL</FeatureType>
+	<TechType>TECH_AQUACULTURE</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_ATOLL</FeatureType>
+	<TechType>TECH_TOOL_SPECIALIZATION</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***under testing if this work with lua ski function-->
+<Row>
+	<FeatureType>FEATURE_SKI</FeatureType>
+	<TechType>TECH_TUNNEL</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_SKI</FeatureType>
+	<TechType>TECH_MOUNTAINEERING</TechType>
+	<YieldType>YIELD_TOURISM</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_SKI</FeatureType>
+	<TechType>TECH_DYNAMITE</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_SKI</FeatureType>
+	<TechType>TECH_DEEP_DRILLING</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row
+><!--
+<Row>
+	<FeatureType>FEATURE_OASIS</FeatureType>
+	<TechType>TECH_DRYLAND</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_FOREST_FARMING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_FOREST_FARMING</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+
+<!--***Next***
+<Row>
+	<FeatureType>FEATURE_SKI</FeatureType>
+	<TechType>TECH_STONES</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_AGROFORESTRY</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_AGROFORESTRY</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_TOOLS</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_TOOLS</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+	<TechType>TECH_NATUROPATY</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+	<TechType>TECH_FRESHWATER</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_BERG</FeatureType>
+	<TechType>TECH_FLINTSTONES</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_BERG</FeatureType>
+	<TechType>TECH_SMELTING</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_BERG</FeatureType>
+	<TechType>TECH_INCAFARM</TechType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_WOOD_CLEARING</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_WOOD_CLEARING</TechType>
+	<YieldType>YIELD_PRODUCTION</YieldType>
+	<Yield>1</Yield>
+</Row>
+<!--***Next***-->
+<Row>
+	<FeatureType>FEATURE_FOREST</FeatureType>
+	<TechType>TECH_SIMPLE_WOOD_WORKING</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<FeatureType>FEATURE_JUNGLE</FeatureType>
+	<TechType>TECH_SIMPLE_WOOD_WORKING</TechType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Feature_TechYieldChanges>
+  
+ 
+  
+</GameData> 
+<!--Have a nice Day;=)-->

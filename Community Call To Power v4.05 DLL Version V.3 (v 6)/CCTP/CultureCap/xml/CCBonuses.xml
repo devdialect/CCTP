@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<GameData>
+  <Table name="CCBonusTypes">
+    <Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+    <Column name="Type" type="text" unique="true"/>
+    <Column name="BaseValue" type="float" default="0.0"/>
+    <Column name="IsMalus" type="boolean" default="false" /> <!-- defines if it is a bonus or malus (ie. resulting value is multiplied by -1) -->
+    <Column name="IncreasePerEra" type="float" default="0.0"/> <!-- The percental increase per era, ie: value = baseValue + baseValue * (era * increasePerEra), whereas era = [0(ancient), 7(future)]-->
+    <Column name="IncreasePerElection" type="float" default="0.0" /> <!-- Analogue to IncreasePerEra-->
+    <Column name="Context" type="text" reference="CCContextTypes(Type)" default="NULL"/> <!-- Used in the implementation to determine which city:methods to use-->
+    <Column name="ContextRefType1" type="text" /> <!-- depending on the context, a reftype determines the type to change (i.e. YIELD_PRODUCTION, or SPECIALIST_MERCHANT), if needed -->
+    <Column name="ContextRefType2" type="text" />
+    <Column name="Description" type="text" reference="Language_en_US(Tag)" default="NULL"/>
+    <Column name="IsTemporary" type="boolean" default="false"/> <!-- Defines if the bonus is permanent or temporary, meaning the bonuses will get removed when another election occurs-->
+		<Column name="MapScaler" type="text" default="NULL" /> <!-- Value gets scaled based on this entry in CCMapScales Table -->
+		<Column name="SpeedScaler" type="text" default="NULL" /> <!-- Value gets scaled based on this entry in CCSpeedScales Table -->
+		<Column name="DisplayUseNegative" type="boolean" default="false"/> <!-- Determines if the negative of the value should be displayed -->
+	</Table>
+  
+  <CCBonusTypes>
+    
+    <!-- GENERAL BONUSES-->
+    <Row> 
+      <ID>0</ID>
+      <Type>GENERAL_BONUS_CULTURE</Type>
+      <BaseValue>1.0</BaseValue>
+      <IncreasePerEra>0.5</IncreasePerEra>
+      <Context>CITY_CHANGEBASEYIELDRATEFROMTERRAIN</Context>
+			<ContextRefType1>YIELD_CULTURE</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_YIELD_CULTURE</Description>
+    </Row>
+		<Row>
+			<Type>GENERAL_BONUS_GOLD</Type>
+			<BaseValue>1.0</BaseValue>
+			<IncreasePerEra>1.0</IncreasePerEra>
+			<Context>CITY_CHANGEBASEYIELDRATEFROMTERRAIN</Context>
+			<ContextRefType1>YIELD_GOLD</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_YIELD_GOLD</Description>
+		</Row>
+		
+		<Row>
+			<Type>BONUS_HEALCITY</Type>
+			<Context>CITY_HEALCITY</Context>
+			<Description>TXT_KEY_CC_BONUS_HEALCITY</Description>
+		</Row>
+		<Row>
+			<Type>BONUS_PLAYER_FREEPOLICIES</Type>
+			<BaseValue>1</BaseValue>
+			<Context>PLAYER_CHANGENUMFREEPOLICIES</Context>
+			<Description>TXT_KEY_CC_BONUS_PLAYER_FREEPOLICIES</Description>
+		</Row>
+
+		
+		<!-- TROPHIES BONUSES -->
+		<Row>
+			<Type>BONUS_CITY_CULTUREONKILL</Type>
+			<BaseValue>2.0</BaseValue>
+			<IsTemporary>true</IsTemporary>
+			<Context>CITY_CHANGECULTUREONKILL</Context>
+			<Description>TXT_KEY_CC_BONUS_CITY_CULTUREONKILL</Description>
+			<SpeedScaler>GlobalModifier</SpeedScaler>
+		</Row>
+		<Row>
+			<Type>BONUS_CITY_FOODONKILL</Type>
+			<BaseValue>2.0</BaseValue>
+			<IsTemporary>true</IsTemporary>
+			<Context>CITY_CHANGEFOODONKILL</Context>
+			<Description>TXT_KEY_CC_BONUS_CITY_FOODONKILL</Description>
+			<SpeedScaler>GlobalModifier</SpeedScaler>
+		</Row>
+		<Row>
+			<Type>BONUS_CITY_PRODUCTIONONKILL</Type>
+			<BaseValue>2.0</BaseValue>
+			<IsTemporary>true</IsTemporary>
+			<Context>CITY_CHANGEPRODUCTIONONKILL</Context>
+			<Description>TXT_KEY_CC_BONUS_CITY_PRODUCTIONONKILL</Description>
+			<SpeedScaler>GlobalModifier</SpeedScaler>
+		</Row>
+		
+		<!-- SERVITUDE BONUSES -->
+		<Row>
+			<Type>BONUS_UNIT_EXP</Type>
+			<BaseValue>100</BaseValue>
+			<Context>UNIT_CHANGEEXPERIENCE</Context>
+			<Description>TXT_KEY_CC_BONUS_UNIT_EXP</Description>
+		</Row>
+
+    <!-- KINGS BONUSES-->
+    <Row>
+      <Type>BONUS_KINGS_CULTURE</Type>
+      <BaseValue>20</BaseValue>
+      <Context>CITY_CHANGECULTURERATEMODIFIER</Context>
+			<Description>TXT_KEY_CC_BONUS_CULTURE_MODIFIER</Description>
+    </Row>
+		<Row>
+			<Type>BONUS_KINGS_POPULATION</Type>
+			<BaseValue>1</BaseValue>
+			<IncreasePerEra>0.25</IncreasePerEra>
+			<Context>CITY_CHANGEPOPULATION</Context>
+			<Description>TXT_KEY_CC_BONUS_POPULATION</Description>
+		</Row>
+
+		<!-- IDOLS BONUSES-->
+		<Row>
+			<Type>BONUS_IDOLS</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_MEMORIAL</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_IDOLS</Description>
+		</Row>
+		
+		<!-- HORIZON BONUSES -->
+		<Row>
+			<Type>BONUS_HORIZON_FOOD</Type>
+			<BaseValue>1.5</BaseValue>
+			<IncreasePerEra>0.5</IncreasePerEra>
+			<Context>CITY_CHANGEBASEYIELDRATEFROMTERRAIN</Context>
+			<ContextRefType1>YIELD_FOOD</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_YIELD_FOOD</Description>
+		</Row>
+		<Row>
+			<Type>BONUS_HORIZON_UNITS</Type>
+			<BaseValue>1</BaseValue>
+			<Context>CITY_CREATEFREEUNIT</Context>
+			<ContextRefType1>UNIT_SETTLER</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_HORIZON_UNITS</Description>
+		</Row>
+
+    <!-- ARCHITECTURE BONUSES -->
+    <Row>
+      <Type>BONUS_PRODUCTION_ARCHITECTURE</Type>
+      <BaseValue>0.5</BaseValue>
+      <IncreasePerEra>0.5</IncreasePerEra>
+      <Context>CITY_CHANGEBASEYIELDRATEFROMTERRAIN</Context>
+      <ContextRefType1>YIELD_PRODUCTION</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_YIELD_PRODUCTION</Description>
+    </Row>
+    <Row>
+      <Type>BONUS_WONDERPRODUCTION_ARCHITECTURE</Type>
+      <BaseValue>150</BaseValue>
+      <Context>CITY_CHANGEWONDERPRODUCTIONMODIFIER</Context>
+      <IsTemporary>true</IsTemporary>
+			<Description>TXT_KEY_CC_BONUS_YIELD_WONDERPRODUCTIONMODIFIER</Description>
+    </Row>
+
+		<!-- BELIEF BONUSES -->
+		<Row>
+			<Type>BONUS_BELIEF</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_TEMPLE</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_TEMPLE</Description>
+		</Row>
+
+		<!-- FAITH BONUSES -->
+    <Row>
+      <Type>BONUS_FAITH</Type>
+      <Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_CATHEDRAL</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_CATHEDRAL</Description>
+    </Row>
+    
+    <!-- CONTROVERSY BONUSES -->
+    <Row>
+      <Type>BONUS_CONTROVERSY</Type>
+			<IsTemporary>true</IsTemporary>
+      <Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_EXHIBITION</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_EXHIBITION</Description>
+    </Row>
+		
+		<!-- PHILOSOPHY BONUSES -->
+		<Row>
+			<Type>BONUS_PHILOSOPHY</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_THINK_TANK</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_PHILOSOPHY</Description>
+		</Row>
+
+		<!-- CONSTRUCTION BONUSES -->
+		<Row>
+			<Type>BONUS_CONSTRUCTION</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_CONSTRUCTION_HALL</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_CONSTRUCTION</Description>
+		</Row>
+
+		<!-- TRADE BONUSES -->
+		<Row>
+			<Type>BONUS_TRADE</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_TRADING_HOUSE</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_TRADE</Description>
+		</Row>
+
+		<!-- TECHNOLOGY BONUSES -->
+		<Row>
+			<Type>BONUS_TECHNOLOGY</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_ARS_TECHNICA</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_TECHNOLOGY</Description>
+		</Row>
+
+		<!-- ECOLOGY BONUSES -->
+		<Row>
+			<Type>BONUS_ECOLOGY</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_ECOLOGICAL_CENTER</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_ECOLOGY</Description>
+		</Row>
+		
+		<!-- DEFENSE BONUSES -->
+		<Row>
+			<Type>BONUS_DEFENSE</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_PALISADE</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_DEFENSE</Description>
+		</Row>
+
+		<!-- ADV DEFENSE BONUSES -->
+		<Row>
+			<Type>BONUS_ADV_DEFENSE</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_BUNKER</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_ADV_DEFENSE</Description>
+		</Row>
+
+		<!-- Benevolence -->
+		<Row>
+			<Type>BONUS_BENEVOLENCE</Type>
+			<BaseValue>1</BaseValue>
+			<Context>CITY_CREATEGREATPERSON</Context>
+			<ContextRefType1>UNIT_WRITER</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_BENEVOLENCE</Description>
+		</Row>
+		
+		<!-- Sacrifice -->
+		<Row>
+			<Type>MALUS_SACRIFICE</Type>
+			<IsMalus>true</IsMalus>
+			<BaseValue>-2</BaseValue>
+			<Context>CITY_CHANGEPOPULATION</Context>
+			<Description>TXT_KEY_CC_MALUS_POPULATION</Description>
+			<DisplayUseNegative>true</DisplayUseNegative>
+		</Row>
+		<Row>
+			<Type>BONUS_SACRIFICE_PRODUCTION</Type>
+			<BaseValue>80</BaseValue>
+			<IncreasePerElection>20</IncreasePerElection>
+			<Context>CITY_CHANGEPRODUCTION</Context>
+			<Description>TXT_KEY_CC_BONUS_PRODUCTION</Description>
+			<SpeedScaler>GlobalModifier</SpeedScaler>
+		</Row>
+		<Row>
+			<Type>BONUS_SACRIFICE_CULTURE</Type>
+			<BaseValue>75</BaseValue>
+			<IncreasePerElection>25</IncreasePerElection>
+			<Context>CITY_CHANGECULTURE</Context>
+			<Description>TXT_KEY_CC_BONUS_CULTURE</Description>
+			<SpeedScaler>GlobalModifier</SpeedScaler>
+		</Row>
+
+		<!-- EXCHANGE BONUSES -->
+		<Row>
+			<Type>BONUS_EXCHANGE</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_EXCHANGE_MARKET</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_EXCHANGE</Description>
+		</Row>
+
+		<!-- Loyalty -->
+		<Row>
+			<Type>BONUS_LOYALTY</Type>
+			<BaseValue>1</BaseValue>
+			<Context>CITY_CREATEGREATPERSON</Context>
+			<ContextRefType1>UNIT_GREAT_GENERAL</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_LOYALTY</Description>
+		</Row>
+
+		<!-- Information -->
+		<Row>
+			<Type>BONUS_INFORMATION</Type>
+			<BaseValue>1</BaseValue>
+			<Context>CITY_CREATEGREATPERSON</Context>
+			<ContextRefType1>UNIT_SCIENTIST</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_INFORMATION</Description>
+		</Row>
+
+		<!-- Geology -->
+		<Row>
+			<Type>BONUS_GEOLOGY</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_GEOLOGY_MUSEUM</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_GEOLOGY</Description>
+		</Row>
+
+		<!-- Entertainment -->
+		<Row>
+			<Type>BONUS_ENTERTAINMENT</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_RADIO_STUDIO</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_ENTERTAINMENT</Description>
+		</Row>
+
+		<!-- Empowerment -->
+		<Row>
+			<Type>BONUS_EMPOWERMENT</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_STATUE_OF_EMPOWERMENT</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_EMPOWERMENT</Description>
+		</Row>
+		
+		<!-- Extraction -->
+		<Row>
+			<Type>BONUS_EXTRACTION</Type>
+			<BaseValue>2</BaseValue>
+			<Context>CITY_SETRESOURCE</Context>
+			<ContextRefType1>RESOURCE_IRON</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_EXTRACTION</Description>
+		</Row>
+
+		<!-- Deep Extraction -->
+		<Row>
+			<Type>BONUS_DEEP_EXTRACTION</Type>
+			<BaseValue>2</BaseValue>
+			<Context>CITY_SETRESOURCE</Context>
+			<ContextRefType1>RESOURCE_URANIUM</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_DEEP_EXTRACTION</Description>
+		</Row>
+
+		<!-- Labor -->
+		<Row>
+			<Type>BONUS_LABOR</Type>
+			<IsTemporary>true</IsTemporary>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_LABOR_CAMP</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_LABOR</Description>
+		</Row>
+		<Row>
+			<Type>BONUS_LABOR_UNITS</Type>
+			<BaseValue>1</BaseValue>
+			<Context>CITY_CREATEFREEUNIT</Context>
+			<ContextRefType1>UNIT_WORKER</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_LABOR_UNITS</Description>
+		</Row>
+
+		<!-- Investigation -->
+		<Row>
+			<Type>BONUS_INVESTIGATION</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_DETECTIVE_BUREAU</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_INVESTIGATION</Description>
+		</Row>
+
+		<!-- Ascendancy -->
+		<Row>
+			<Type>BONUS_ASCENDANCY</Type>
+			<Context>CITY_ADDBUILDING</Context>
+			<ContextRefType1>BUILDING_CC_BEACON_OF_HEAVENS</ContextRefType1>
+			<Description>TXT_KEY_CC_BONUS_ASCENDANCY</Description>
+			<IsTemporary>true</IsTemporary>
+		</Row>
+		
+	</CCBonusTypes>
+
+  
+  <!-- Used to associate the bonuses with the cultural capital types-->
+  <Table name="CCBonuses">
+    <Column name="CCType" type="text" reference="CCTypes(Type)"/>
+    <Column name="CCBonusType" type="text" reference="CCBonusTypes(Type)"/>
+  </Table>
+  <CCBonuses>
+    <!-- TYPE_KINGS -->
+		<Row>
+			<CCType>TYPE_KINGS</CCType>
+			<CCBonusType>GENERAL_BONUS_CULTURE</CCBonusType>
+		</Row>
+    <Row>
+      <CCType>TYPE_KINGS</CCType>
+      <CCBonusType>BONUS_KINGS_POPULATION</CCBonusType>
+    </Row>
+
+		<!-- TYPE_IDOLS -->
+		<Row>
+			<CCType>TYPE_IDOLS</CCType>
+			<CCBonusType>BONUS_IDOLS</CCBonusType>
+		</Row>
+
+		<!-- TYPE_HORIZON -->
+		<Row>
+			<CCType>TYPE_HORIZON</CCType>
+			<CCBonusType>BONUS_HORIZON_FOOD</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_HORIZON</CCType>
+			<CCBonusType>BONUS_HORIZON_UNITS</CCBonusType>
+		</Row>
+
+		<!-- TYPE_BELIEF -->
+		<Row>
+			<CCType>TYPE_BELIEF</CCType>
+			<CCBonusType>BONUS_BELIEF</CCBonusType>
+		</Row>
+		
+    <!-- TYPE_FAITH -->
+    <Row>
+      <CCType>TYPE_FAITH</CCType>
+      <CCBonusType>BONUS_FAITH</CCBonusType>
+    </Row>
+
+		<!-- TYPE_CONTROVERSY -->
+		<Row>
+			<CCType>TYPE_CONTROVERSY</CCType>
+			<CCBonusType>BONUS_CONTROVERSY</CCBonusType>
+		</Row>
+		
+    <!-- TYPE_ARCHITECTURE -->
+    <Row>
+      <CCType>TYPE_ARCHITECTURE</CCType>
+      <CCBonusType>BONUS_WONDERPRODUCTION_ARCHITECTURE</CCBonusType>
+    </Row>
+		<Row>
+			<CCType>TYPE_ARCHITECTURE</CCType>
+			<CCBonusType>GENERAL_BONUS_CULTURE</CCBonusType>
+		</Row>
+		
+		<!-- TYPE_TROPHIES -->
+		<Row>
+			<CCType>TYPE_TROPHIES</CCType>
+			<CCBonusType>BONUS_CITY_CULTUREONKILL</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_TROPHIES</CCType>
+			<CCBonusType>BONUS_CITY_FOODONKILL</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_TROPHIES</CCType>
+			<CCBonusType>BONUS_CITY_PRODUCTIONONKILL</CCBonusType>
+		</Row>
+
+		<!-- TYPE_SERVITUDE -->
+		<Row>
+			<CCType>TYPE_SERVITUDE</CCType>
+			<CCBonusType>BONUS_UNIT_EXP</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_SERVITUDE</CCType>
+			<CCBonusType>GENERAL_BONUS_CULTURE</CCBonusType>
+		</Row>
+
+		<!-- TYPE_PHILOSOPHY -->
+		<Row>
+			<CCType>TYPE_PHILOSOPHY</CCType>
+			<CCBonusType>BONUS_PHILOSOPHY</CCBonusType>
+		</Row>
+
+		<!-- TYPE_CONSTRUCTION -->
+		<Row>
+			<CCType>TYPE_CONSTRUCTION</CCType>
+			<CCBonusType>BONUS_CONSTRUCTION</CCBonusType>
+		</Row>
+
+		<!-- TYPE_TRADE -->
+		<Row>
+			<CCType>TYPE_TRADE</CCType>
+			<CCBonusType>BONUS_TRADE</CCBonusType>
+		</Row>
+
+		<!-- TYPE_TECHNOLOGY -->
+		<Row>
+			<CCType>TYPE_TECHNOLOGY</CCType>
+			<CCBonusType>BONUS_TECHNOLOGY</CCBonusType>
+		</Row>
+
+		<!-- TYPE_ECOLOGY -->
+		<Row>
+			<CCType>TYPE_ECOLOGY</CCType>
+			<CCBonusType>BONUS_ECOLOGY</CCBonusType>
+		</Row>
+
+		<!-- TYPE_DEFENSE -->
+		<Row>
+			<CCType>TYPE_DEFENSE</CCType>
+			<CCBonusType>BONUS_DEFENSE</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_DEFENSE</CCType>
+			<CCBonusType>BONUS_HEALCITY</CCBonusType>
+		</Row>
+
+		<!-- TYPE_ADV_DEFENSE -->
+		<Row>
+			<CCType>TYPE_ADV_DEFENSE</CCType>
+			<CCBonusType>BONUS_ADV_DEFENSE</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_ADV_DEFENSE</CCType>
+			<CCBonusType>BONUS_HEALCITY</CCBonusType>
+		</Row>
+
+		<!-- TYPE_EMPOWERMENT -->
+		<Row>
+			<CCType>TYPE_EMPOWERMENT</CCType>
+			<CCBonusType>BONUS_EMPOWERMENT</CCBonusType>
+		</Row>
+		
+		<!-- TYPE_BENEVOLENCE -->
+		<Row>
+			<CCType>TYPE_BENEVOLENCE</CCType>
+			<CCBonusType>BONUS_BENEVOLENCE</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_BENEVOLENCE</CCType>
+			<CCBonusType>GENERAL_BONUS_CULTURE</CCBonusType>
+		</Row>
+
+		<!-- TYPE_SACRIFICE -->
+		<Row>
+			<CCType>TYPE_SACRIFICE</CCType>
+			<CCBonusType>MALUS_SACRIFICE</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_SACRIFICE</CCType>
+			<CCBonusType>BONUS_SACRIFICE_PRODUCTION</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_SACRIFICE</CCType>
+			<CCBonusType>BONUS_SACRIFICE_CULTURE</CCBonusType>
+		</Row>
+
+		<!-- TYPE_EXCHANGE -->
+		<Row>
+			<CCType>TYPE_EXCHANGE</CCType>
+			<CCBonusType>BONUS_EXCHANGE</CCBonusType>
+		</Row>
+
+		<!-- TYPE_LOYALTY -->
+		<Row>
+			<CCType>TYPE_LOYALTY</CCType>
+			<CCBonusType>BONUS_LOYALTY</CCBonusType>
+		</Row>
+
+		<!-- TYPE_INFORMATION -->
+		<Row>
+			<CCType>TYPE_INFORMATION</CCType>
+			<CCBonusType>BONUS_INFORMATION</CCBonusType>
+		</Row>
+
+		<!-- TYPE_GEOLOGY -->
+		<Row>
+			<CCType>TYPE_GEOLOGY</CCType>
+			<CCBonusType>BONUS_GEOLOGY</CCBonusType>
+		</Row>
+
+		<!-- TYPE_ENTERTAINMENT -->
+		<Row>
+			<CCType>TYPE_ENTERTAINMENT</CCType>
+			<CCBonusType>BONUS_ENTERTAINMENT</CCBonusType>
+		</Row>
+
+		<!-- TYPE_EXTRACTION -->
+		<Row>
+			<CCType>TYPE_EXTRACTION</CCType>
+			<CCBonusType>BONUS_EXTRACTION</CCBonusType>
+		</Row>
+
+		<!-- TYPE_DEEP_EXTRACTION -->
+		<Row>
+			<CCType>TYPE_DEEP_EXTRACTION</CCType>
+			<CCBonusType>BONUS_DEEP_EXTRACTION</CCBonusType>
+		</Row>
+
+		<!-- TYPE_LABOR -->
+		<Row>
+			<CCType>TYPE_LABOR</CCType>
+			<CCBonusType>BONUS_LABOR</CCBonusType>
+		</Row>
+		<Row>
+			<CCType>TYPE_LABOR</CCType>
+			<CCBonusType>BONUS_LABOR_UNITS</CCBonusType>
+		</Row>
+
+		<!-- TYPE_INVESTIGATION -->
+		<Row>
+			<CCType>TYPE_INVESTIGATION</CCType>
+			<CCBonusType>BONUS_INVESTIGATION</CCBonusType>
+		</Row>
+
+		<!-- TYPE_INVESTIGATION -->
+		<Row>
+			<CCType>TYPE_ASCENDANCY</CCType>
+			<CCBonusType>BONUS_ASCENDANCY</CCBonusType>
+		</Row>
+	</CCBonuses>
+	
+</GameData>

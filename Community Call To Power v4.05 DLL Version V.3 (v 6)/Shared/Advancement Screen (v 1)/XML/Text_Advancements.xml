@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_ADVANCEMENTS_SCREEN">
+			<Text>Advancements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BRANCHCLASS_SOCIAL_POLICY">
+			<Text>Social Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BRANCHCLASS_SOCIAL_POLICY_2">
+			<Text>Test Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BRANCHCLASS_IDEOLOGY">
+			<Text>Ideological Tenets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLACEHOLDER">
+			<Text>Placeholder - Sod off!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_POLICY_COUNT_ADOPTED">
+			<Text>{1_AdoptedPolicies} of {2_TotalPolicies} Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_POLICY_COUNT_NOT_ADOPTED">
+			<Text>{1_TotalPolicies} Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_NO_ERA_REQUIRED">
+			<Text>No Era Required</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_ERA_REQUIRED">
+			<Text>{1_EraLabel}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_BLOCKED">
+			<Text>Blocked</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_NOT_ADOPTED">
+			<Text>Not Adopted</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_ADOPTED">
+			<Text>Adopted</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_COMPLETED">
+			<Text>Completed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_ADOPT">
+			<Text>Adopt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYBRANCH_ADOPT_BLOCKED">
+			<Text>Adopt (Blocked)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TENETSTACK_LABEL">
+			<Text>Tier {1_TierLevel} Tenets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TENET_SHOW_ALL">
+			<Text>Show All Tenets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TENET_ADOPT">
+			<Text>Adopt</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

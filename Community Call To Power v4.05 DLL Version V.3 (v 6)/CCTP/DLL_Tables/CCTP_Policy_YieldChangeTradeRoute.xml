@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 2:53:40 PM -->
+<GameData>
+	
+<!--*******Policy_YieldChangeTradeRoute********-->
+<Policy_YieldChangeTradeRoute>
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--<Row>
+	<PolicyType>POLICY_CCTP103</PolicyType>
+	<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+	<Yield>1</Yield>
+</Row>-->
+
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+</Policy_YieldChangeTradeRoute>
+
+
+  
+</GameData>	
+<!--Have a nice Day;=)-->

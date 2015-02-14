@@ -1,0 +1,1 @@
+CREATE TABLE DebugTableCheck ('FileName' TEXT NOT NULL);

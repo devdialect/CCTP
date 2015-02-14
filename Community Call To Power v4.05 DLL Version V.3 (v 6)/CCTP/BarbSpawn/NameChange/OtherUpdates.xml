@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/4/2014 5:48:45 PM -->
+<GameData>
+	<Language_ES_ES>
+		<Update>
+			<Set Text="Encampment Cleared!"/>
+			<Where Tag="TXT_KEY_POP_BARBARIAN_CLEARED"/>
+		</Update>
+	</Language_ES_ES>
+</GameData>

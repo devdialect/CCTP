@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilization_Start_Along_River>
+		<Row>
+			<CivilizationType>CIVILIZATION_AMERICA</CivilizationType>
+			<StartAlongRiver>true</StartAlongRiver>
+		</Row>
+	</Civilization_Start_Along_River>
+
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_RIVER_EXPANSION_SHORT"/>
+			<Set>
+				<Text>River Expansion</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_RIVER_EXPANSION"/>
+			<Set>
+				<Text>All land military units have +1 sight. Rivers act as roads for creating city connections.</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

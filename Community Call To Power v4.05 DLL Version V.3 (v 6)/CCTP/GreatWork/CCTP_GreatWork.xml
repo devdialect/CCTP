@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch 8/9/2013 9:26:07 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_CCTP1</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP1</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP2</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP2</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP3</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP3</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP4</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP4</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		
+		<Row>
+			<Type>GREAT_WORK_CCTP5</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP5</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		
+		<Row>
+			<Type>GREAT_WORK_CCTP6</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP6</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP7</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP7</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		
+		<Row>
+			<Type>GREAT_WORK_CCTP8</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP8</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		
+		<Row>
+			<Type>GREAT_WORK_CCTP9</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP9</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CCTP10</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP10</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP11</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP11</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP12</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP12</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP13</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP13</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP14</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP14</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP15</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP15</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP16</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP16</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP17</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP17</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CCTP18</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP18</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP19</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP19</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+
+		<Row>
+			<Type>GREAT_WORK_CCTP20</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP20</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		
+		<Row>
+			<Type>GREAT_WORK_CCTP21</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP21</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		
+		<Row>
+			<Type>GREAT_WORK_CCTP22</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP22</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		
+		<Row>
+			<Type>GREAT_WORK_CCTP23</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP23</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Babel.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CCTP24</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP24</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Venus_Willendorf.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CCTP25</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CCTP25</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Jomon.dds</Image>
+		</Row>
+	</GreatWorks>
+
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP1</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP1</GreatWorkType>
+		</Row>
+		
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP2</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP2</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP3</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP3</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP4</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP4</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP5</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP5</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP6</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP6</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP7</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP7</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP8</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP8</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP9</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP9</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP10</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP10</GreatWorkType>
+		</Row>
+		
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP11</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP11</GreatWorkType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP12</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP12</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP13</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP13</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP14</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP14</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP15</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP15</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP16</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP16</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP17</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP17</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP18</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP18</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP19</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP19</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP20</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP20</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP21</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP21</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP22</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP22</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP23</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP23</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP24</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP24</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CCTP25</UniqueName>
+			<GreatWorkType>GREAT_WORK_CCTP25</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP1">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP1">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP2">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP2">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP3">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP3">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP4">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP4">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP5">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP5">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP6">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP6">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP7">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP7">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP8">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP8">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP9">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP9">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP10">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP10">
+			<Text>"upps"</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP11">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP11">
+			<Text>"upps"</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP12">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP12">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP13">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP13">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP14">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP14">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP15">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP15">
+			<Text>upps</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP16">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP16">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP17">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP17">
+			<Text>upps</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP18">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP18">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP19">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP19">
+			<Text>"upps"</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP20">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP20">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP21">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP21">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP22">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP22">
+			<Text>"upps"</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP23">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP23">
+			<Text>"upps"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP24">
+			<Text>"Vega"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP24">
+			<Text>"Venus"</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_GREAT_PERSON_CCTP25">
+			<Text>"Dogon"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CCTP25">
+			<Text>"Jomon"</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

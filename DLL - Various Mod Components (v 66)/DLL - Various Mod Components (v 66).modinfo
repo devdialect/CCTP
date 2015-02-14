@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" version="66">
+  <Properties>
+    <Name>DLL - Various Mod Components</Name>
+    <Teaser>Various DLL mod components (1.0.3.276)</Teaser>
+    <Description>IMPORTANT - Only one mod with a replacement DLL may be active at a time.
+
+See http://forums.civfanatics.com/showthread.php?t=479600 for details
+
+Source code can be obtained from https://github.com/Gedemon/Civ5-DLL/tree/PNM_Various_Mod_Components_BNW</Description>
+    <Authors>William Howard</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=479600</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Game minversion="1.0.3.124" maxversion="1.0.3.999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="8DBF300FFEC8BB9D400845CA40DD933D" import="1">ART/YieldAtlas_128_GoldenAge.dds</File>
+    <File md5="ABD5FA5416A63C4E062E3F9113215550" import="1">ART/YieldAtlas_128_Tourism.dds</File>
+    <File md5="9282BEBB7AE01E548EF4251BF879133A" import="0">CustomModOptions.xml</File>
+    <File md5="6327545FD78CE8C16AE3A62EDFABFD3D" import="0">CvGameCore_Expansion2.dll</File>
+    <File md5="A53A3F95997B22DE5DABEE779D28BD87" import="0">DB/API/Achievements.xml</File>
+    <File md5="36A115A631B96817D4965D32E894077E" import="0">DB/API/Espionage.xml</File>
+    <File md5="9B4D318C2BB5BEEB0203644FFC335CF6" import="0">DB/API/Extensions.sql</File>
+    <File md5="0A723BCFCE7B3B4FEE8CA09EABF42EA1" import="0">DB/API/PlotBasedDamage.sql</File>
+    <File md5="6D97538D607296FD026A054C09468DD3" import="0">DB/API/PlotYields.xml</File>
+    <File md5="7F9108F053503C87166346AD2488D9CC" import="0">DB/API/Religion.xml</File>
+    <File md5="B1C2E8D070A6676AB523D8E7D760B93F" import="0">DB/API/UnifiedYields.sql</File>
+    <File md5="299813F5C446B2AEAD56877E06F48AFF" import="0">DB/API/UnifiedYields.xml</File>
+    <File md5="04E5A7D7847D1B52CE4E698423FDE2B6" import="0">DB/API/UnifiedYieldsGoldenAge.xml</File>
+    <File md5="61FD6ABB12AC140E2C966718EB8EDEE9" import="0">DB/API/UnifiedYieldsTourism.xml</File>
+    <File md5="3649CA4F3817898997E12690F5A49684" import="0">DB/BUGFIX/FeatureRemoval.sql</File>
+    <File md5="E8750DF83A985489BF5005EF9860625F" import="0">DB/BUGFIX/GoodyHutMessages.xml</File>
+    <File md5="F05356D5D0E61F6D8D34D00F4BA9AA35" import="0">DB/BUGFIX/SpyNames.xml</File>
+    <File md5="FA3BCC26D8997291AEBFFD57DCED931B" import="0">DB/BUGFIX/UnitclassNotUnit.sql</File>
+    <File md5="EC46E85CA29BC011585D0F50E27B7287" import="0">DB/BUGFIX/UnitclassNotUnit.xml</File>
+    <File md5="2D10840949450F800730858E88D663F1" import="0">DB/CONFIG/AiInXml.sql</File>
+    <File md5="CF15AE6370D731589A34C809995F5F63" import="0">DB/CONFIG/GameInXml.xml</File>
+    <File md5="1B9194202D8BDFD40AB1DB188A1C586E" import="0">DB/CustomModTables.xml</File>
+    <File md5="D0D6D053B57D552F04659AC2427D7B6D" import="0">DB/EVENTS/CanMoveInto.sql</File>
+    <File md5="B7036E7A6D8F7F5CCFFDC3C3D9A171F4" import="0">DB/EVENTS/CityBombard.sql</File>
+    <File md5="B9719225BCB71D12B8A7C2E218949E1F" import="0">DB/EVENTS/DiploModifiers.xml</File>
+    <File md5="B2EC173C6EE473335C806278D0C90701" import="0">DB/GLOBAL/AlpinePasses.sql</File>
+    <File md5="9E7C090BEE0EA0C00CFC72DA2E26E07B" import="0">DB/GLOBAL/CannotEmbark.sql</File>
+    <File md5="9AE580627CFD6F5BC6800B56E146BBCA" import="0">DB/GLOBAL/CityWorking.sql</File>
+    <File md5="988A4E2A03A8A65D2BA34454314AE7D4" import="0">DB/GLOBAL/ExcludeFromGifts.sql</File>
+    <File md5="472D7C4DA95FC83DF11F2016759B3645" import="0">DB/GLOBAL/GreatworkYieldtypes.sql</File>
+    <File md5="90694D4709EA89AF77088DF73D90DCA2" import="0">DB/GLOBAL/MoveAfterUpgrade.sql</File>
+    <File md5="79F8188F1FE75C573FE40A983E1E1570" import="0">DB/GLOBAL/PassableForts.sql</File>
+    <File md5="51373E2AA9261D7F86C5DDE69FF50B3F" import="0">DB/GLOBAL/PromotionClasses.sql</File>
+    <File md5="7535E4E51C56BDAFAB2CAB031F6EEE62" import="0">DB/GLOBAL/SeparateGreatAdmiral.sql</File>
+    <File md5="87CA2870D331E7C27DB070DECEC29E65" import="0">DB/GLOBAL/StackingRules.sql</File>
+    <File md5="9639CEC999B47F444742BF4FF0616D4B" import="0">DB/PROMOTIONS/CrossIce.sql</File>
+    <File md5="B3C07FB04A6A210BD9D4D55B0B2875ED" import="0">DB/PROMOTIONS/CrossMountains.sql</File>
+    <File md5="9BEB60B675E932FCD4C5FE642BC412C6" import="0">DB/PROMOTIONS/CrossOceans.sql</File>
+    <File md5="7E661A0B3E710151939AA35D0A941502" import="0">DB/PROMOTIONS/DeepWaterEmbarkation.sql</File>
+    <File md5="2CF34973FE19471DA56BE6323B2AE2DD" import="0">DB/PROMOTIONS/HalfMove.sql</File>
+    <File md5="702973513B4141D021A6A449EE204A78" import="0">DB/PROMOTIONS/ImprovementBonus.sql</File>
+    <File md5="148949D0AC55C112E9696F9D61E889FB" import="0">DB/PROMOTIONS/UnitNaming.xml</File>
+    <File md5="9E8BC63DC9A45421C16253AA9A5F69A9" import="0">DB/PROMOTIONS/VariableRecon.sql</File>
+    <File md5="F8F301C8C64FAD0E2A0C9C804EB26222" import="0">DB/PROMOTIONS/VariableRecon.xml</File>
+    <File md5="1E15551DE1014ED349492B3DFB746E08" import="0">DB/RELIGION/ConversionModifiers.sql</File>
+    <File md5="9CBE98CF52584514D0EDE1F00CC89605" import="0">DB/RELIGION/LocalReligions.sql</File>
+    <File md5="13FEFAD9A05E0391F424CBFEFE96968F" import="0">DB/RELIGION/PlotYields.xml</File>
+    <File md5="82C567F4A4F95C361D93B1A7BC2914A0" import="0">DB/RELIGION/PolicyBranchFaithGp.xml</File>
+    <File md5="16D7C5E227C231075800C15DFB186691" import="0">DB/TRADE/RouteScaling.sql</File>
+    <File md5="9C59EBD46920447DFDEDE24F56086703" import="0">DB/TRAITS/AnyBelief.sql</File>
+    <File md5="7CA1F2B70AA145AF9A0950A31E519A17" import="0">DB/TRAITS/CrossesIce.sql</File>
+    <File md5="B3CCB02EC2837C3E5F0ABBE81E8D8CEB" import="0">DB/TRAITS/TradeRouteBonuses.sql</File>
+    <File md5="C04AB45AA4036AFE4BF736DA0BEAC07D" import="0">DB/UI/CityExpansion.sql</File>
+    <File md5="5A87219957975A85A1D3CEDA1D98A835" import="1">UI/InGame/YieldIconManager.lua</File>
+    <File md5="8FD4EF5AAB5BD6E16DB8EBE95963FC33" import="1">UI/InGame/YieldIconManager.xml</File>
+  </Files>
+  <Actions>
+    <OnGetDLLPath>
+      <SetDllPath>CvGameCore_Expansion2.dll</SetDllPath>
+    </OnGetDLLPath>
+    <OnModActivated>
+      <UpdateDatabase>DB/CustomModTables.xml</UpdateDatabase>
+      <UpdateDatabase>CustomModOptions.xml</UpdateDatabase>
+      <UpdateDatabase>DB/API/Achievements.xml</UpdateDatabase>
+      <UpdateDatabase>DB/API/Espionage.xml</UpdateDatabase>
+      <UpdateDatabase>DB/API/Extensions.sql</UpdateDatabase>
+      <UpdateDatabase>DB/API/PlotBasedDamage.sql</UpdateDatabase>
+      <UpdateDatabase>DB/API/PlotYields.xml</UpdateDatabase>
+      <UpdateDatabase>DB/API/Religion.xml</UpdateDatabase>
+      <UpdateDatabase>DB/API/UnifiedYields.sql</UpdateDatabase>
+      <UpdateDatabase>DB/API/UnifiedYields.xml</UpdateDatabase>
+      <UpdateDatabase>DB/API/UnifiedYieldsGoldenAge.xml</UpdateDatabase>
+      <UpdateDatabase>DB/API/UnifiedYieldsTourism.xml</UpdateDatabase>
+      <UpdateDatabase>DB/BUGFIX/FeatureRemoval.sql</UpdateDatabase>
+      <UpdateDatabase>DB/BUGFIX/GoodyHutMessages.xml</UpdateDatabase>
+      <UpdateDatabase>DB/BUGFIX/SpyNames.xml</UpdateDatabase>
+      <UpdateDatabase>DB/BUGFIX/UnitclassNotUnit.sql</UpdateDatabase>
+      <UpdateDatabase>DB/BUGFIX/UnitclassNotUnit.xml</UpdateDatabase>
+      <UpdateDatabase>DB/CONFIG/AiInXml.sql</UpdateDatabase>
+      <UpdateDatabase>DB/CONFIG/GameInXml.xml</UpdateDatabase>
+      <UpdateDatabase>DB/EVENTS/CanMoveInto.sql</UpdateDatabase>
+      <UpdateDatabase>DB/EVENTS/CityBombard.sql</UpdateDatabase>
+      <UpdateDatabase>DB/EVENTS/DiploModifiers.xml</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/AlpinePasses.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/CannotEmbark.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/CityWorking.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/ExcludeFromGifts.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/GreatworkYieldtypes.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/MoveAfterUpgrade.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/PassableForts.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/PromotionClasses.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/SeparateGreatAdmiral.sql</UpdateDatabase>
+      <UpdateDatabase>DB/GLOBAL/StackingRules.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/CrossIce.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/CrossMountains.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/CrossOceans.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/DeepWaterEmbarkation.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/HalfMove.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/ImprovementBonus.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/UnitNaming.xml</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/VariableRecon.sql</UpdateDatabase>
+      <UpdateDatabase>DB/PROMOTIONS/VariableRecon.xml</UpdateDatabase>
+      <UpdateDatabase>DB/RELIGION/ConversionModifiers.sql</UpdateDatabase>
+      <UpdateDatabase>DB/RELIGION/LocalReligions.sql</UpdateDatabase>
+      <UpdateDatabase>DB/RELIGION/PlotYields.xml</UpdateDatabase>
+      <UpdateDatabase>DB/RELIGION/PolicyBranchFaithGp.xml</UpdateDatabase>
+      <UpdateDatabase>DB/TRADE/RouteScaling.sql</UpdateDatabase>
+      <UpdateDatabase>DB/TRAITS/AnyBelief.sql</UpdateDatabase>
+      <UpdateDatabase>DB/TRAITS/CrossesIce.sql</UpdateDatabase>
+      <UpdateDatabase>DB/TRAITS/TradeRouteBonuses.sql</UpdateDatabase>
+      <UpdateDatabase>DB/UI/CityExpansion.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

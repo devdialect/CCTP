@@ -1,0 +1,38 @@
+<Asset>
+	<Mesh file="Air_Fighter01.gr2"/>
+	<Animation file="Air_Fighter01_Run.gr2" ec="1400"/>
+	<Animation file="Air_Fighter01_Idle.gr2" ec="1000"/>
+	<Animation file="Air_Fighter01_Attack_Air.gr2" ec="1100"/>
+	<Animation file="Air_Fighter01_Bombardment.gr2" ec="1180"/>
+	<Animation file="Air_Fighter01_DeathA.gr2" ec="1200"/>
+	<Animation file="Air_Fighter01_DeathA_Idle.gr2" ec="1220"/>
+	<Animation file="Air_Fighter01_DeathB.gr2" ec="2200"/>
+	<Animation file="Air_Fighter01_DeathB_Idle.gr2" ec="2220"/>
+	<Texture file="AirFighter01_DIFF.dds"/>
+	<Texture file="AirFighter01_SREF.dds"/>
+	<Texture file="Unit_Environment_Dull.dds"/>
+	<Texture file="Unit_Environment_Sharp.dds"/>
+	<Texture file="Unit_Irradiance.dds"/>
+	<StateMachine file="AIRPLANE_STATE_01.fsmxml"/>
+	<BoneUsage>
+		<Bone name="fx_WingTrail_R"/>
+		<Bone name="Bone_EngineTail"/>
+		<Bone name="bone_cockpit"/>
+		<Bone name="fx_PROJECTILE_03"/>
+		<Bone name="fx_WingTrail_L"/>
+		<Bone name="bone_WING_L"/>
+		<Bone name="Bone_L_WingFlap"/>
+		<Bone name="bone_BODY"/>
+		<Bone name="FX_bone_MG_Muz"/>
+		<Bone name="bone_WING_R"/>
+		<Bone name="bone_MAIN"/>
+		<Bone name="fx_PROJECTILE_02"/>
+	</BoneUsage>
+	<AnimGraph file="IDLE_A_GRAPH.dge"/>
+	<AnimGraph file="DEATH_FINAL_GRAPH.dge"/>
+	<AnimGraph file="RUNNING_LOOP_GRAPH.dge"/>
+	<AnimGraph file="PLANES_ATTACK_02.dge"/>
+	<AnimGraph file="PLANES_DEATH.dge"/>
+	<TimedTrigger file="FX_Triggers_Air_Fighter01.ftsxml"/>
+</Asset>
+

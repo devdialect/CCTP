@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/13/2014 8:04:36 PM -->
+<!-- 
+	In this example the Loom will be a building
+	that requires Silk or Cotton to build.
+	(It looks like the Market).
+	
+	Step 1: Define the building
+	Step 2: Add an entry in the new table
+-->
+<GameData>
+	<!-- Step 1 -->
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_LOOM</Type>
+			<DefaultBuilding>BUILDING_LOOM</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LOOM</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_LOOM</Type>
+			<BuildingClass>BUILDINGCLASS_LOOM</BuildingClass>
+			<Cost>100</Cost>
+			<PrereqTech>TECH_CURRENCY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_LOOM_HELP</Help>
+			<Description>TXT_KEY_BUILDING_LOOM</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+		</Row>
+	</Buildings>
+	<!-- Step 2 -->
+	<Building_EmpireResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_LOOM</BuildingType>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LOOM</BuildingType>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+		</Row>
+	</Building_EmpireResourceOrs>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_LOOM">
+			<Text>Loom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LOOM_HELP">
+			<Text>Requires Silk or Cotton.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

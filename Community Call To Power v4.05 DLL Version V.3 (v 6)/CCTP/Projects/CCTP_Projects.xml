@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 8/9/2014 2:39:19 PM -->
+<GameData>
+
+
+	<!--/////////Projects\\\\\\\\\-->
+	<Projects>
+		<Update>
+			<Set Cost="35000" TechPrereq="TECH_MANNED_SPACEFLIGHT" />
+			<Where Type="PROJECT_APOLLO_PROGRAM" />
+		</Update>
+		<Update>
+			<Set Cost="4000" />
+			<Where Type="PROJECT_MANHATTAN_PROJECT" />
+		</Update>
+		<Update>
+			<Set Cost="300000" CultureBranchesRequired="9"/>
+			<Where Type="PROJECT_UTOPIA_PROJECT" />
+		</Update>
+	
+		<Row>
+			<Type>PROJECT_WORMHOLE_DETECTION_ARRAY</Type>
+			<Description>TXT_KEY_PROJECT_WORMHOLE_DETECTION_ARRAY</Description>
+			<Help>TXT_KEY_PROJECT_WORMHOLE_DETECTION_ARRAY_HELP</Help>
+			<Civilopedia>TXT_KEY_PROJECT_WORMHOLE_DETECTION_ARRAY_PEDIA</Civilopedia>
+			<TechPrereq>TECH_WORMHOLE_DETECTION</TechPrereq>
+			<MaxGlobalInstances>-1</MaxGlobalInstances>
+			<MaxTeamInstances>1</MaxTeamInstances>
+			<Cost>300000</Cost>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>33</PortraitIndex>
+		</Row>
+
+		<Row>
+			<Type>PROJECT_SDI</Type>
+			<Description>TXT_KEY_PROJECT_SDI</Description>
+			<Help>TXT_KEY_PROJECT_SDI_HELP</Help>
+			<Civilopedia>TXT_KEY_PROJECT_SDI_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_PROJECT_SDI_STRATEGY</Strategy>
+			<TechPrereq>TECH_SDI</TechPrereq>
+			<Cost>15000</Cost>
+			<NukeInterception>40</NukeInterception>
+			<MaxGlobalInstances>-1</MaxGlobalInstances>
+			<MaxTeamInstances>1</MaxTeamInstances>
+			<IconAtlas>UNIT_ATLAS_SMAC</IconAtlas>
+			<PortraitIndex>23</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>PROJECT_ORBITAL_DEFENSE_POD</Type>
+			<Description>TXT_KEY_PROJECT_ORBITAL_DEFENSE_POD</Description>
+			<Help>TXT_KEY_PROJECT_ORBITAL_DEFENSE_POD_HELP</Help>
+			<Civilopedia>TXT_KEY_PROJECT_ORBITAL_DEFENSE_POD_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_PROJECT_ORBITAL_DEFENSE_POD_STRATEGY</Strategy>
+			<TechPrereq>TECH_SUPER_TENSILE_SOLIDS</TechPrereq>
+			<Cost>20000</Cost>
+			<NukeInterception>2</NukeInterception>
+			<MaxGlobalInstances>-1</MaxGlobalInstances>
+			<MaxTeamInstances>10</MaxTeamInstances>
+			<IconAtlas>BW_ATLAS_SMAC</IconAtlas>
+			<PortraitIndex>42</PortraitIndex>
+		</Row>
+
+	</Projects>
+	
+  <!--Have a nice day:=)-->
+  
+</GameData>

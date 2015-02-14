@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context Font="TwCenMT16" FontStyle="Base" Color="Beige" ColorSet="Beige_Black" >
+
+
+	<Container Size="600,32" Anchor="L,T" Offset="700,30">
+
+		<Stack Anchor="L,C" Padding="0" StackGrowth="Right" ID="BottomPanelInfoStack">
+
+
+
+			<TextButton Anchor="C,C" String="RESOURCES!" ColorLayer0="255,255,200,255"  ID="ResourceString" ToolTipType="TooltipTypeBottomPanel"/>
+
+
+
+
+		</Stack>
+
+	</Container>
+
+	<ToolTipType Name="TooltipTypeBottomPanel" >
+		<Grid Size="530,90" Offset="8.0" Padding="8,8" Style="GridBlack8"  ID="BottomPanelMouseover" NoClip="1" >
+			<Label Offset="12,12" Font="TwCenMT14" ID="TooltipLabel" String="Brief description" LeadingOffset="-5" WrapWidth="350" />
+		</Grid>
+	</ToolTipType>
+
+
+
+</Context>

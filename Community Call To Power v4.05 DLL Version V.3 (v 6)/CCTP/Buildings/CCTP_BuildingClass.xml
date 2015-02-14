@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/2/2013 10:29:15 PM -->
+<GameData>
+	<!--<<<<<<<<<<[Building Classes]>>>>>>>>>>-->
+<BuildingClasses>
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_DOG</Type>
+	<DefaultBuilding>BUILDING_DOG</DefaultBuilding>
+	<Description>TXT_KEY_DOG</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FEUER</Type>
+	<DefaultBuilding>BUILDING_FEUER</DefaultBuilding>
+	<Description>TXT_KEY_FEUER</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEURAL_UPLOADER</Type>
+	<DefaultBuilding>BUILDING_NEURAL_UPLOADER</DefaultBuilding>
+	<Description>TXT_KEY_NEURAL_UPLOADER</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SCHOOL_OF_SCRIBES</Type>
+	<DefaultBuilding>BUILDING_SCHOOL_OF_SCRIBES</DefaultBuilding>
+	<Description>TXT_KEY_SCHOOL_OF_SCRIBES</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PROPAGANDA_OFFICE</Type>
+	<DefaultBuilding>BUILDING_PROPAGANDA_OFFICE</DefaultBuilding>
+	<Description>TXT_KEY_PROPAGANDA_OFFICE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_THEO</Type>
+	<DefaultBuilding>BUILDING_THEO</DefaultBuilding>
+	<Description>TXT_KEY_THEO</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_POLIS</Type>
+	<DefaultBuilding>BUILDING_POLIS</DefaultBuilding>
+	<Description>TXT_KEY_POLIS</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ANGORA</Type>
+	<DefaultBuilding>BUILDING_ANGORA</DefaultBuilding>
+	<Description>TXT_KEY_ANGORA</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_POPU</Type>
+	<DefaultBuilding>BUILDING_POPU</DefaultBuilding>
+	<Description>TXT_KEY_POPU</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ICOURT</Type>
+	<DefaultBuilding>BUILDING_ICOURT</DefaultBuilding>
+	<Description>TXT_KEY_ICOURT</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MANSION</Type>
+	<DefaultBuilding>BUILDING_MANSION</DefaultBuilding>
+	<Description>TXT_KEY_MANSION</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_IQUARTERS</Type>
+	<DefaultBuilding>BUILDING_IQUARTERS</DefaultBuilding>
+	<Description>TXT_KEY_IQUARTERS</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MQUARTERS</Type>
+	<DefaultBuilding>BUILDING_MQUARTERS</DefaultBuilding>
+	<Description>TXT_KEY_MQUARTERS</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_VOYAGE</Type>
+	<DefaultBuilding>BUILDING_VOYAGE</DefaultBuilding>
+	<Description>TXT_KEY_VOYAGE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_COLLEGE</Type>
+	<DefaultBuilding>BUILDING_COLLEGE</DefaultBuilding>
+	<Description>TXT_KEY_COLLEGE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SECRET</Type>
+	<DefaultBuilding>BUILDING_SECRET</DefaultBuilding>
+	<Description>TXT_KEY_SECRET</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MONOPOLYX</Type>
+	<DefaultBuilding>BUILDING_MONOPOLYX</DefaultBuilding>
+	<Description>TXT_KEY_MONOPOLYX</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PROTEST</Type>
+	<DefaultBuilding>BUILDING_PROTEST</DefaultBuilding>
+	<Description>TXT_KEY_PROTEST</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PGROUP</Type>
+	<DefaultBuilding>BUILDING_PGROUP</DefaultBuilding>
+	<Description>TXT_KEY_PGROUP</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CONVENTION</Type>
+	<DefaultBuilding>BUILDING_CONVENTION</DefaultBuilding>
+	<Description>TXT_KEY_CONVENTION</Description>
+</Row>
+
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_RPARLIAMENT</Type>
+	<DefaultBuilding>BUILDING_RPARLIAMENT</DefaultBuilding>
+	<Description>TXT_KEY_RPARLIAMENT</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PPLACE</Type>
+	<DefaultBuilding>BUILDING_PPLACE</DefaultBuilding>
+	<Description>TXT_KEY_PPLACE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FCOURTS</Type>
+	<DefaultBuilding>BUILDING_FCOURTS</DefaultBuilding>
+	<Description>TXT_KEY_FCOURTS</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SECPOLICY</Type>
+	<DefaultBuilding>BUILDING_SECPOLICY</DefaultBuilding>
+	<Description>TXT_KEY_SECPOLICY</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SLABOR</Type>
+	<DefaultBuilding>BUILDING_SLABOR</DefaultBuilding>
+	<Description>TXT_KEY_SLABOR</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WHOUSE</Type>
+	<DefaultBuilding>BUILDING_WHOUSE</DefaultBuilding>
+	<Description>TXT_KEY_WHOUSE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BUYOUT</Type>
+	<DefaultBuilding>BUILDING_BUYOUT</DefaultBuilding>
+	<Description>TXT_KEY_BUYOUT</Description>
+</Row>
+
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_EVOTE</Type>
+	<DefaultBuilding>BUILDING_EVOTE</DefaultBuilding>
+	<Description>TXT_KEY_EVOTE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_RCOURT</Type>
+	<DefaultBuilding>BUILDING_RCOURT</DefaultBuilding>
+	<Description>TXT_KEY_RCOURT</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_RSCHOOL</Type>
+	<DefaultBuilding>BUILDING_RSCHOOL</DefaultBuilding>
+	<Description>TXT_KEY_RSCHOOL</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NMONOPOLY</Type>
+	<DefaultBuilding>BUILDING_NMONOPOLY</DefaultBuilding>
+	<Description>TXT_KEY_NMONOPOLY</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_LCAMP</Type>
+	<DefaultBuilding>BUILDING_LCAMP</DefaultBuilding>
+	<Description>TXT_KEY_LCAMP</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_DHALL</Type>
+	<DefaultBuilding>BUILDING_DHALL</DefaultBuilding>
+	<Description>TXT_KEY_DHALL</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MILITARY_SCHOOL</Type>
+	<DefaultBuilding>BUILDING_MILITARY_SCHOOL</DefaultBuilding>
+	<Description>TXT_KEY_MILITARY_SCHOOL</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_DMONUMENT</Type>
+	<DefaultBuilding>BUILDING_DMONUMENT</DefaultBuilding>
+	<Description>TXT_KEY_DMONUMENT</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SYNSEN</Type>
+	<DefaultBuilding>BUILDING_SYNSEN</DefaultBuilding>
+	<Description>TXT_KEY_SYNSEN</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ORBITAL_FACTORY</Type>
+	<DefaultBuilding>BUILDING_ORBITAL_FACTORY</DefaultBuilding>
+	<Description>TXT_KEY_ORBITAL_FACTORY</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PERIMETER_DEFENSE</Type>
+	<DefaultBuilding>BUILDING_PERIMETER_DEFENSE</DefaultBuilding>
+	<Description>TXT_KEY_PERIMETER_DEFENSE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BOREHOLE</Type>
+	<DefaultBuilding>BUILDING_BOREHOLE</DefaultBuilding>
+	<Description>TXT_KEY_BOREHOLE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CIVIL_CRECHE</Type>
+	<DefaultBuilding>BUILDING_CIVIL_CRECHE</DefaultBuilding>
+	<Description>TXT_KEY_CIVIL_CRECHE</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NODE_BANK</Type>
+	<DefaultBuilding>BUILDING_NODE_BANK</DefaultBuilding>
+	<Description>TXT_KEY_NODE_BANK</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEOPLANETARIUM</Type>
+	<DefaultBuilding>BUILDING_NEOPLANETARIUM</DefaultBuilding>
+	<Description>TXT_KEY_NEOPLANETARIUM</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_DIGITAL</Type>
+	<DefaultBuilding>BUILDING_DIGITAL</DefaultBuilding>
+	<Description>TXT_KEY_DIGITAL</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_OPTICAL_SURGERY</Type>
+	<DefaultBuilding>BUILDING_OPTICAL_SURGERY</DefaultBuilding>
+	<Description>TXT_KEY_OPTICAL_SURGERY</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BIOLAB</Type>
+	<DefaultBuilding>BUILDING_BIOLAB</DefaultBuilding>
+	<Description>TXT_KEY_BIOLAB</Description>
+</Row>
+<!--<<<<<<<<<<[BGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BGARDEN</Type>
+	<DefaultBuilding>BUILDING_BGARDEN</DefaultBuilding>
+	<Description>TXT_KEY_BGARDEN</Description>
+</Row>
+<!--<<<<<<<<<<[DPOLICY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_DPOLICY</Type>
+	<DefaultBuilding>BUILDING_DPOLICY</DefaultBuilding>
+	<Description>TXT_KEY_DPOLICY</Description>
+</Row>
+<!--<<<<<<<<<<[SOMA_DISTILLERY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SOMA_DISTILLERY</Type>
+	<DefaultBuilding>BUILDING_SOMA_DISTILLERY</DefaultBuilding>
+	<Description>TXT_KEY_SOMA_DISTILLERY</Description>
+</Row>
+<!--<<<<<<<<<<[LEV_PLANT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_LEV_PLANT</Type>
+	<DefaultBuilding>BUILDING_LEV_PLANT</DefaultBuilding>
+	<Description>TXT_KEY_LEV_PLANT</Description>
+</Row>
+<!--<<<<<<<<<<[CONTROL_CENTER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CONTROL_CENTER</Type>
+	<DefaultBuilding>BUILDING_CONTROL_CENTER</DefaultBuilding>
+	<Description>TXT_KEY_CONTROL_CENTER</Description>
+</Row>
+<!--<<<<<<<<<<[SAT_STATION]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SAT_STATION</Type>
+	<DefaultBuilding>BUILDING_SAT_STATION</DefaultBuilding>
+	<Description>TXT_KEY_SAT_STATION</Description>
+</Row>
+<!--<<<<<<<<<<[COMMERCIAL_AIRPORT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_COMMERCIAL_AIRPORT</Type>
+	<DefaultBuilding>BUILDING_COMMERCIAL_AIRPORT</DefaultBuilding>
+	<Description>TXT_KEY_COMMERCIAL_AIRPORT</Description>
+</Row>
+<!--<<<<<<<<<<[MUSIKER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MUSIKER</Type>
+	<DefaultBuilding>BUILDING_MUSIKER</DefaultBuilding>
+	<Description>TXT_KEY_MUSIKER</Description>
+</Row>
+<!--<<<<<<<<<<[WETTER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WETTER</Type>
+	<DefaultBuilding>BUILDING_WETTER</DefaultBuilding>
+	<Description>TXT_KEY_WETTER</Description>
+</Row>
+<!--<<<<<<<<<<[VDOCTOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_VDOCTOR</Type>
+	<DefaultBuilding>BUILDING_VDOCTOR</DefaultBuilding>
+	<Description>TXT_KEY_VDOCTOR</Description>
+</Row>
+<!--<<<<<<<<<<[STONE_HOUSE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_STONE_HOUSE</Type>
+	<DefaultBuilding>BUILDING_STONE_HOUSE</DefaultBuilding>
+	<Description>TXT_KEY_STONE_HOUSE</Description>
+</Row>
+<!--<<<<<<<<<<[POISEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_POISEN</Type>
+	<DefaultBuilding>BUILDING_POISEN</DefaultBuilding>
+	<Description>TXT_KEY_POISEN</Description>
+</Row>
+<!--<<<<<<<<<<[CORP]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CORP</Type>
+	<DefaultBuilding>BUILDING_CORP</DefaultBuilding>
+	<Description>TXT_KEY_CORP</Description>
+</Row>
+<!--<<<<<<<<<<[NEUROLAB]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEUROLAB</Type>
+	<DefaultBuilding>BUILDING_NEUROLAB</DefaultBuilding>
+	<Description>TXT_KEY_NEUROLAB</Description>
+</Row>
+<!--<<<<<<<<<<[PRESSE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PRESSE</Type>
+	<DefaultBuilding>BUILDING_PRESSE</DefaultBuilding>
+	<Description>TXT_KEY_PRESSE</Description>
+</Row>
+<!--<<<<<<<<<<[ALLOY_FOUNDRY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ALLOY_FOUNDRY</Type>
+	<DefaultBuilding>BUILDING_ALLOY_FOUNDRY</DefaultBuilding>
+	<Description>TXT_KEY_ALLOY_FOUNDRY</Description>
+</Row>
+<!--<<<<<<<<<<[PLASMA_LAB]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PLASMA_LAB</Type>
+	<DefaultBuilding>BUILDING_PLASMA_LAB</DefaultBuilding>
+	<Description>TXT_KEY_PLASMA_LAB</Description>
+</Row>
+<!--<<<<<<<<<<[YACHTHAFEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_YACHTHAFEN</Type>
+	<DefaultBuilding>BUILDING_YACHTHAFEN</DefaultBuilding>
+	<Description>TXT_KEY_YACHTHAFEN</Description>
+</Row>
+<!--<<<<<<<<<<[MASSE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MASSE</Type>
+	<DefaultBuilding>BUILDING_MASSE</DefaultBuilding>
+	<Description>TXT_KEY_MASSE</Description>
+</Row>
+<!--<<<<<<<<<<[HOLZ]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HOLZ</Type>
+	<DefaultBuilding>BUILDING_HOLZ</DefaultBuilding>
+	<Description>TXT_KEY_HOLZ</Description>
+</Row>
+<!--<<<<<<<<<<[SDRUGS]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SDRUGS</Type>
+	<DefaultBuilding>BUILDING_SDRUGS</DefaultBuilding>
+	<Description>TXT_KEY_SDRUGS</Description>
+</Row>
+<!--<<<<<<<<<<[HABITATION_DOMES]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HABITATION_DOMES</Type>
+	<DefaultBuilding>BUILDING_HABITATION_DOMES</DefaultBuilding>
+	<Description>TXT_KEY_HABITATION_DOMES</Description>
+</Row>
+<!--<<<<<<<<<<[DOKTOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_DOKTOR</Type>
+	<DefaultBuilding>BUILDING_DOKTOR</DefaultBuilding>
+	<Description>TXT_KEY_DOKTOR</Description>
+</Row>
+<!--<<<<<<<<<<[BACFACTORY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BACFACTORY</Type>
+	<DefaultBuilding>BUILDING_BACFACTORY</DefaultBuilding>
+	<Description>TXT_KEY_BACFACTORY</Description>
+</Row>
+<!--<<<<<<<<<<[GLADIATOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GLADIATOR</Type>
+	<DefaultBuilding>BUILDING_GLADIATOR</DefaultBuilding>
+	<Description>TXT_KEY_GLADIATOR</Description>
+</Row>
+<!--<<<<<<<<<<[BACLAB]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BACLAB</Type>
+	<DefaultBuilding>BUILDING_BACLAB</DefaultBuilding>
+	<Description>TXT_KEY_BACLAB</Description>
+</Row>
+<!--<<<<<<<<<<[ORBITAL_HOTEL]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ORBITAL_HOTEL</Type>
+	<DefaultBuilding>BUILDING_ORBITAL_HOTEL</DefaultBuilding>
+	<Description>TXT_KEY_ORBITAL_HOTEL</Description>
+</Row>
+<!--<<<<<<<<<<[CENTRAL_BANK]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CENTRAL_BANK</Type>
+	<DefaultBuilding>BUILDING_CENTRAL_BANK</DefaultBuilding>
+	<Description>TXT_KEY_CENTRAL_BANK</Description>
+</Row>
+<!--<<<<<<<<<<[ORGANICFARM]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ORGANICFARM</Type>
+	<DefaultBuilding>BUILDING_ORGANICFARM</DefaultBuilding>
+	<Description>TXT_KEY_ORGANICFARM</Description>
+</Row>
+<!--<<<<<<<<<<[GLADIATOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CYBER_COMMANDO</Type>
+	<DefaultBuilding>BUILDING_CYBER_COMMANDO</DefaultBuilding>
+	<Description>TXT_KEY_CYBER_COMMANDO</Description>
+</Row>
+<!--<<<<<<<<<<[ACADEMY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ACADEMYX</Type>
+	<DefaultBuilding>BUILDING_ACADEMYX</DefaultBuilding>
+	<Description>TXT_KEY_ACADEMYX</Description>
+</Row>
+<!--<<<<<<<<<<[REFUGIUM]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_REFUGIUM</Type>
+	<DefaultBuilding>BUILDING_REFUGIUM</DefaultBuilding>
+	<Description>TXT_KEY_REFUGIUM</Description>
+</Row>
+<!--<<<<<<<<<<[HANDELSPOSTEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HANDELSPOSTEN</Type>
+	<DefaultBuilding>BUILDING_HANDELSPOSTEN</DefaultBuilding>
+	<Description>TXT_KEY_HANDELSPOSTEN</Description>
+</Row>
+<!--<<<<<<<<<<[SCULT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SCULT</Type>
+	<DefaultBuilding>BUILDING_SCULT</DefaultBuilding>
+	<Description>TXT_KEY_SCULT</Description>
+</Row>
+<!--<<<<<<<<<<[AEROSPACE_COMPLEX]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_AEROSPACE_COMPLEX</Type>
+	<DefaultBuilding>BUILDING_AEROSPACE_COMPLEX</DefaultBuilding>
+	<Description>TXT_KEY_AEROSPACE_COMPLEX</Description>
+</Row>
+<!--<<<<<<<<<<[CYROPRISON]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CYROPRISON</Type>
+	<DefaultBuilding>BUILDING_CYROPRISON</DefaultBuilding>
+	<Description>TXT_KEY_CYROPRISON</Description>
+</Row>	
+<!--<<<<<<<<<<[QUANTUM_LAB]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BIOENHANCEMENT_CENTER</Type>
+	<DefaultBuilding>BUILDING_BIOENHANCEMENT_CENTER</DefaultBuilding>
+	<Description>TXT_KEY_BIOENHANCEMENT_CENTER</Description>
+</Row>
+<!--<<<<<<<<<<[QUANTUM_LAB]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_QUANTUM_LAB</Type>
+	<DefaultBuilding>BUILDING_QUANTUM_LAB</DefaultBuilding>
+	<Description>TXT_KEY_QUANTUM_LAB</Description>
+</Row>
+<!--<<<<<<<<<<[ENERGY_BANK]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ENERGY_BANK</Type>
+	<DefaultBuilding>BUILDING_ENERGY_BANK</DefaultBuilding>
+	<Description>TXT_KEY_ENERGY_BANK</Description>
+</Row>
+<!--<<<<<<<<<<[WALD]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WALD</Type>
+	<DefaultBuilding>BUILDING_WALD</DefaultBuilding>
+	<Description>TXT_KEY_WALD</Description>
+</Row>
+<!--<<<<<<<<<<[WALD]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TARZAN</Type>
+	<DefaultBuilding>BUILDING_TARZAN</DefaultBuilding>
+	<Description>TXT_KEY_TARZAN</Description>
+</Row>
+<!--<<<<<<<<<<[IUNIVERSITY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_IUNIVERSITY</Type>
+	<DefaultBuilding>BUILDING_IUNIVERSITY</DefaultBuilding>
+	<Description>TXT_KEY_IUNIVERSITY</Description>
+</Row>
+<!--<<<<<<<<<<[KATASTROPHENSCHUTZ]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_KATASTROPHENSCHUTZ</Type>
+	<DefaultBuilding>BUILDING_KATASTROPHENSCHUTZ</DefaultBuilding>
+	<Description>TXT_KEY_KATASTROPHENSCHUTZ</Description>
+</Row>
+<!--<<<<<<<<<<[TOOLMAKER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TOOLMAKER</Type>
+	<DefaultBuilding>BUILDING_TOOLMAKER</DefaultBuilding>
+	<Description>TXT_KEY_TOOLMAKER</Description>
+</Row>
+<!--<<<<<<<<<<[QPLANT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_QPLANT</Type>
+	<DefaultBuilding>BUILDING_QPLANT</DefaultBuilding>
+	<Description>TXT_KEY_QPLANT</Description>
+</Row>
+<!--<<<<<<<<<<[POLITIK]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_POLITIK</Type>
+	<DefaultBuilding>BUILDING_POLITIK</DefaultBuilding>
+	<Description>TXT_KEY_POLITIK</Description>
+</Row>
+<!--<<<<<<<<<<[FISHMAN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FISHMAN</Type>
+	<DefaultBuilding>BUILDING_FISHMAN</DefaultBuilding>
+	<Description>TXT_KEY_FISHMAN</Description>
+</Row>
+<!--<<<<<<<<<<[HUNTER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HUNTER</Type>
+	<DefaultBuilding>BUILDING_HUNTER</DefaultBuilding>
+	<Description>TXT_KEY_HUNTER</Description>
+</Row>
+<!--<<<<<<<<<<[CORPSE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CORPSE</Type>
+	<DefaultBuilding>BUILDING_CORPSE</DefaultBuilding>
+	<Description>TXT_KEY_CORPSE</Description>
+</Row>
+<!--<<<<<<<<<<[TATOO]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TATOO</Type>
+	<DefaultBuilding>BUILDING_TATOO</DefaultBuilding>
+	<Description>TXT_KEY_TATOO</Description>
+</Row>
+<!--<<<<<<<<<<[QCELLS]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_QCELLS</Type>
+	<DefaultBuilding>BUILDING_QCELLS</DefaultBuilding>
+	<Description>TXT_KEY_QCELLS</Description>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BRENNZELLE</Type>
+	<Description>TXT_KEY_BUILDING_BRENNZELLE</Description>
+	<DefaultBuilding>BUILDING_BRENNZELLE</DefaultBuilding>
+</Row>
+<!--<<<<<<<<<<[SCOUT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SCOUT</Type>
+	<DefaultBuilding>BUILDING_SCOUT</DefaultBuilding>
+	<Description>TXT_KEY_SCOUT</Description>
+</Row>
+<!--<<<<<<<<<<[BAHNHOF]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BAHNHOF</Type>
+	<DefaultBuilding>BUILDING_BAHNHOF</DefaultBuilding>
+	<Description>TXT_KEY_BAHNHOF</Description>
+</Row>
+<!--<<<<<<<<<<[SAUNA]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SAUNA</Type>
+	<DefaultBuilding>BUILDING_SAUNA</DefaultBuilding>
+	<Description>TXT_KEY_SAUNA</Description>
+</Row>
+<!--<<<<<<<<<<[MSANITATION]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MSANITATION</Type>
+	<DefaultBuilding>BUILDING_MSANITATION</DefaultBuilding>
+	<Description>TXT_KEY_MSANITATION</Description>
+</Row>
+<!--<<<<<<<<<<[LABORER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_LABORER</Type>
+	<DefaultBuilding>BUILDING_LABORER</DefaultBuilding>
+	<Description>TXT_KEY_LABORER</Description>
+</Row>
+<!--<<<<<<<<<<[SAVAGE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SAVAGE</Type>
+	<DefaultBuilding>BUILDING_SAVAGE</DefaultBuilding>
+	<Description>TXT_KEY_SAVAGE</Description>
+</Row>	
+<!--<<<<<<<<<<[AXEMAKER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_AXEMAKER</Type>
+	<DefaultBuilding>BUILDING_AXEMAKER</DefaultBuilding>
+	<Description>TXT_KEY_AXEMAKER</Description>
+</Row>
+<!--<<<<<<<<<<[OFARM]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_OFARM</Type>
+	<DefaultBuilding>BUILDING_OFARM</DefaultBuilding>
+	<Description>TXT_KEY_OFARM</Description>
+</Row>
+<!--<<<<<<<<<<[JGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_JGARDEN</Type>
+	<DefaultBuilding>BUILDING_JGARDEN</DefaultBuilding>
+	<Description>TXT_KEY_JGARDEN</Description>
+</Row>
+<!--<<<<<<<<<<[FGARDEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FGARDEN</Type>
+	<DefaultBuilding>BUILDING_FGARDEN</DefaultBuilding>
+	<Description>TXT_KEY_FGARDEN</Description>
+</Row>
+<!--<<<<<<<<<<[WATERWORLD]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WATERWORLD</Type>
+	<DefaultBuilding>BUILDING_WATERWORLD</DefaultBuilding>
+	<Description>TXT_KEY_WATERWORLD</Description>
+</Row>
+<!--<<<<<<<<<<[HEALER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HEALER</Type>
+	<DefaultBuilding>BUILDING_HEALER</DefaultBuilding>
+	<Description>TXT_KEY_HEALER</Description>
+</Row>
+<!--<<<<<<<<<<[HEALER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_STEINMETZ</Type>
+	<DefaultBuilding>BUILDING_STEINMETZ</DefaultBuilding>
+	<Description>TXT_KEY_STEINMETZ</Description>
+</Row>	
+<!--<<<<<<<<<<[SFARM]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SFARM</Type>
+	<DefaultBuilding>BUILDING_SFARM</DefaultBuilding>
+	<Description>TXT_KEY_SFARM</Description>
+</Row>
+<!--<<<<<<<<<<[PMILL]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PMILL</Type>
+	<DefaultBuilding>BUILDING_PMILL</DefaultBuilding>
+	<Description>TXT_KEY_PMILL</Description>
+</Row>	
+<!--<<<<<<<<<<[PETROLEUM]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PETROLEUM</Type>
+	<DefaultBuilding>BUILDING_PETROLEUM</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PETROLEUM</Description>
+</Row>
+<!--<<<<<<<<<<[TITANMAN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TITANMAN</Type>
+	<DefaultBuilding>BUILDING_TITANMAN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TITANMAN</Description>
+</Row>	
+<!--<<<<<<<<<<[FUSION_LAB]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FUSION_LAB</Type>
+	<DefaultBuilding>BUILDING_FUSION_LAB</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FUSION_LAB</Description>
+</Row>
+<!--<<<<<<<<<<[PFARM]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PFARM</Type>
+	<DefaultBuilding>BUILDING_PFARM</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PFARM</Description>
+</Row>
+<!--<<<<<<<<<<[TEMPLE_OF_GAIA]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TEMPLE_OF_GAIA</Type>
+	<DefaultBuilding>BUILDING_TEMPLE_OF_GAIA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TEMPLE_OF_GAIA</Description>
+</Row>
+<!--<<<<<<<<<<[ANALYTICAL_ENGINE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ANALYTICAL_ENGINE</Type>
+	<DefaultBuilding>BUILDING_ANALYTICAL_ENGINE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ANALYTICAL_ENGINE</Description>
+</Row>
+
+	<!--<<<<<<<<<<[TELEPORTER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TELEPORTER</Type>
+	<DefaultBuilding>BUILDING_TELEPORTER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TELEPORTER</Description>
+</Row>
+	
+<!--<<<<<<<<<<[TESLA]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TESLA</Type>
+	<DefaultBuilding>BUILDING_TESLA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TESLA</Description>
+</Row>
+	
+<!--<<<<<<<<<<[TESLA]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PHILANTHROPORIUM</Type>
+	<DefaultBuilding>BUILDING_PHILANTHROPORIUM</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PHILANTHROPORIUM</Description>
+</Row>
+
+	<!--<<<<<<<<<<[ORBITAL_POWER_TRANSMITTER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ORBITAL_POWER_TRANSMITTER</Type>
+	<DefaultBuilding>BUILDING_ORBITAL_POWER_TRANSMITTER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ORBITAL_POWER_TRANSMITTER</Description>
+</Row>
+
+	<!--<<<<<<<<<<[NEONATURE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEONATURE</Type>
+	<DefaultBuilding>BUILDING_NEONATURE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NEONATURE</Description>
+</Row>
+	
+<!--<<<<<<<<<<[NEONATURE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEOKULT</Type>
+	<DefaultBuilding>BUILDING_NEOKULT</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NEOKULT</Description>
+</Row>
+
+	<!--<<<<<<<<<<[NEOFOOD]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEOFOOD</Type>
+	<DefaultBuilding>BUILDING_NEOFOOD</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NEOFOOD</Description>
+</Row>
+
+	<!--<<<<<<<<<<[FLINTSTONES]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FLINTSTONES</Type>
+	<DefaultBuilding>BUILDING_FLINTSTONES</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FLINTSTONES</Description>
+</Row>
+	
+<!--<<<<<<<<<<[NEODYNAMO]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEODYNAMO</Type>
+	<DefaultBuilding>BUILDING_NEODYNAMO</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NEODYNAMO</Description>
+</Row>
+	
+<!--<<<<<<<<<<[NEODYNAMO2]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_NEODYNAMO2</Type>
+	<DefaultBuilding>BUILDING_NEODYNAMO2</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_NEODYNAMO2</Description>
+</Row>	
+	
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_IMPERIALER_PALAST</Type>
+	<DefaultBuilding>BUILDING_IMPERIALER_PALAST</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_IMPERIALER_PALAST</Description>
+</Row>
+	
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CARPENTER</Type>
+	<DefaultBuilding>BUILDING_CARPENTER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CARPENTER</Description>
+</Row>
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+	
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CIGARS</Type>
+	<DefaultBuilding>BUILDING_CIGARS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CIGARS</Description>
+</Row>
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SKYLIFT</Type>
+	<DefaultBuilding>BUILDING_SKYLIFT</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SKYLIFT</Description>
+</Row>
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ELFENBEINSTUBE</Type>
+	<DefaultBuilding>BUILDING_ELFENBEINSTUBE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ELFENBEINSTUBE</Description>
+</Row>
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GEWURZHAUS</Type>
+	<DefaultBuilding>BUILDING_GEWURZHAUS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_GEWURZHAUS</Description>
+</Row>
+<!--<<<<<<<<<<[RADIOACTICMAN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ALUMAN</Type>
+	<DefaultBuilding>BUILDING_ALUMAN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ALUMAN</Description>
+</Row>
+<!--<<<<<<<<<<[RADIOACTICMAN]>>>>>>>>>>-->
+<Row>
+<Type>BUILDINGCLASS_HORSEMAN</Type>
+<DefaultBuilding>BUILDING_HORSEMAN</DefaultBuilding>
+<Description>TXT_KEY_BUILDING_HORSEMAN</Description>
+</Row>
+<!--<<<<<<<<<<[RADIOACTICMAN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_RADIOACTICMAN</Type>
+	<DefaultBuilding>BUILDING_RADIOACTICMAN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_RADIOACTICMAN</Description>
+</Row>
+<!--<<<<<<<<<<[RADIOACTICMAN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_OILMAN</Type>
+	<DefaultBuilding>BUILDING_OILMAN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_OILMAN</Description>
+</Row>
+<!--<<<<<<<<<<[RADIOACTICMAN]>>>>>>>>>>-->
+<!--<<<<<<<<<<[TAXCOLLECTOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BACKEREI</Type>
+	<DefaultBuilding>BUILDING_BACKEREI</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_BACKEREI</Description>
+</Row>
+<!--<<<<<<<<<<[TAXCOLLECTOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_COALMAN</Type>
+	<DefaultBuilding>BUILDING_COALMAN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_COALMAN</Description>
+</Row>
+<!--<<<<<<<<<<[TAXCOLLECTOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SUPPLY_HOUSE</Type>
+	<DefaultBuilding>BUILDING_SUPPLY_HOUSE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SUPPLY_HOUSE</Description>
+</Row>
+	<!--<<<<<<<<<<[TAXCOLLECTOR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TAXCOLLECTOR</Type>
+	<DefaultBuilding>BUILDING_TAXCOLLECTOR</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TAXCOLLECTOR</Description>
+</Row>
+<!--<<<<<<<<<<[WALFANGERHAUS]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WALFANGERHAUS</Type>
+	<DefaultBuilding>BUILDING_WALFANGERHAUS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_WALFANGERHAUS</Description>
+</Row>
+<!--<<<<<<<<<<[TOWN_SQUARE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TOWN_SQUARE</Type>
+	<DefaultBuilding>BUILDING_TOWN_SQUARE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TOWN_SQUARE</Description>
+</Row>
+<!--<<<<<<<<<<[KRABBENFISCHER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_KRABBENFISCHER</Type>
+	<DefaultBuilding>BUILDING_KRABBENFISCHER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_KRABBENFISCHER</Description>
+</Row>
+<!--<<<<<<<<<<[PALACE_WALL]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PALACE_WALL</Type>
+	<DefaultBuilding>BUILDING_PALACE_WALL</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PALACE_WALL</Description>
+</Row>
+<!--<<<<<<<<<<[PERLENTAUCHER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_PERLENTAUCHER</Type>
+	<DefaultBuilding>BUILDING_PERLENTAUCHER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PERLENTAUCHER</Description>
+</Row>
+<!--<<<<<<<<<<[MENHIR]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MENHIR</Type>
+	<DefaultBuilding>BUILDING_MENHIR</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_MENHIR</Description>
+</Row>
+<!--<<<<<<<<<<[FREUDENHAUS]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FREUDENHAUS</Type>
+	<DefaultBuilding>BUILDING_FREUDENHAUS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FREUDENHAUS</Description>
+</Row>	
+<!--<<<<<<<<<<[SKLAVENMARKT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SKLAVENMARKT</Type>
+	<DefaultBuilding>BUILDING_SKLAVENMARKT</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SKLAVENMARKT</Description>
+</Row>
+<!--<<<<<<<<<<[WEBSTUBE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_IRONMAN</Type>
+	<DefaultBuilding>BUILDING_IRONMAN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_IRONMAN</Description>
+</Row>
+<!--<<<<<<<<<<[WEBSTUBE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WEBSTUBE</Type>
+	<DefaultBuilding>BUILDING_WEBSTUBE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_WEBSTUBE</Description>
+</Row>
+	
+<!--<<<<<<<<<<[BEWASSERUNGSSYSTEM]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BEWASSERUNGSSYSTEM</Type>
+	<DefaultBuilding>BUILDING_BEWASSERUNGSSYSTEM</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_BEWASSERUNGSSYSTEM</Description>
+</Row>
+	
+<!--<<<<<<<<<<[SHAMAN_HUT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SHAMAN_HUT</Type>
+	<Description>TXT_KEY_BUILDING_SHAMAN_HUT</Description>
+	<DefaultBuilding>BUILDING_SHAMAN_HUT</DefaultBuilding>
+</Row>
+<!--<<<<<<<<<<[MILKA]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_MILKA</Type>
+	<DefaultBuilding>BUILDING_MILKA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_MILKA</Description>
+</Row>
+	
+<!--<<<<<<<<<<[SAMMLER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SAMMLER</Type>
+	<DefaultBuilding>BUILDING_SAMMLER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SAMMLER_TITLE</Description>
+</Row>
+<!--<<<<<<<<<<[WASSERSPEICHER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WASSERSPEICHER</Type>
+	<DefaultBuilding>BUILDING_WASSERSPEICHER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_WASSERSPEICHER</Description>
+</Row>
+<!--<<<<<<<<<<[SHELTER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SHELTER</Type>
+	<DefaultBuilding>BUILDING_SHELTER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SHELTER_TITLE</Description>
+</Row>
+<!--<<<<<<<<<<[TAVERNE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TAVERNE</Type>
+	<DefaultBuilding>BUILDING_TAVERNE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TAVERNE</Description>
+</Row>
+<!--<<<<<<<<<<[SCHOOL]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SCHOOL</Type>
+	<Description>TXT_KEY_BUILDING_SCHOOL</Description>
+	<DefaultBuilding>BUILDING_SCHOOL</DefaultBuilding>
+</Row>
+<!--<<<<<<<<<<[COUNCIL]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_COUNCIL</Type>
+	<DefaultBuilding>BUILDING_COUNCIL</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_COUNCIL</Description>
+</Row>	
+<!--<<<<<<<<<<[TRAPPER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_TRAPPER</Type>
+	<DefaultBuilding>BUILDING_TRAPPER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_TRAPPER</Description>
+</Row>
+<!--<<<<<<<<<<[BIO_REFINERY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BIO_REFINERY</Type>
+	<DefaultBuilding>BUILDING_BIO_REFINERY</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_BIO_REFINERY</Description>
+</Row>
+<!--<<<<<<<<<<[KATAKOMBEN]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_KATAKOMBEN</Type>
+	<DefaultBuilding>BUILDING_KATAKOMBEN</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_KATAKOMBEN</Description>
+</Row>
+<!--<<<<<<<<<<[JUSTICIA]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_JUSTICIA</Type>
+	<DefaultBuilding>BUILDING_JUSTICIA</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_JUSTICIA</Description>
+</Row>
+	<!--<<<<<<<<<<[GEHEIMDIENST]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_GEHEIMDIENST</Type>
+	<DefaultBuilding>BUILDING_GEHEIMDIENST</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_GEHEIMDIENST</Description>
+</Row>
+	<!--<<<<<<<<<<[SYNTHETIC_PETROL_PLANT]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SYNTHETIC_PETROL_PLANT</Type>
+		<DefaultBuilding>BUILDING_SYNTHETIC_PETROL_PLANT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SYNTHETIC_PETROL_PLANT</Description>
+</Row>	
+<!--<<<<<<<<<<[STEEL_FOUNDRY]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_STEEL_FOUNDRY</Type>
+	<DefaultBuilding>BUILDING_STEEL_FOUNDRY</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_STEEL_FOUNDRY</Description>
+</Row>	
+<!--<<<<<<<<<<[BONFIRE]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BONFIRE</Type>
+	<DefaultBuilding>BUILDING_BONFIRE</DefaultBuilding>
+	<Description>Bonfire</Description>
+</Row>	
+<!--<<<<<<<<<<[OLIVE_PRESS]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_OLIVE_PRESS</Type>
+	<DefaultBuilding>BUILDING_OLIVE_PRESS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_OLIVE_PRESS</Description>
+</Row>	
+<!--<<<<<<<<<<[SHIPYARDS]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_SHIPYARDS</Type>
+	<DefaultBuilding>BUILDING_SHIPYARDS</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_SHIPYARDS</Description>
+</Row>	
+<!--<<<<<<<<<<[COPPERSMITH]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_COPPERSMITH</Type>
+	<DefaultBuilding>BUILDING_COPPERSMITH</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_COPPERSMITH</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+<!--<<<<<<<<<<[IRONMONGER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_IRONMONGER</Type>
+	<DefaultBuilding>BUILDING_IRONMONGER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_IRONMONGER</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+<!--<<<<<<<<<<[ARMOURER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ARMOURER</Type>
+	<DefaultBuilding>BUILDING_ARMOURER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ARMOURER</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+<!--<<<<<<<<<<[LEATHERWORK]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_LEATHERWORK</Type>
+	<DefaultBuilding>BUILDING_LEATHERWORK</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_LEATHERWORK</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+<!--<<<<<<<<<<[FARRIER]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FARRIER</Type>
+	<DefaultBuilding>BUILDING_FARRIER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FARRIER</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>	
+<!--<<<<<<<<<<[WEAPONSMITH]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_WEAPONSMITH</Type>
+	<DefaultBuilding>BUILDING_WEAPONSMITH</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_WEAPONSMITH</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	
+<!--<<<<<<<<<<[ARMOUR_WORKSHOP]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_ARMOUR_WORKSHOP</Type>
+	<DefaultBuilding>BUILDING_ARMOUR_WORKSHOP</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ARMOUR_WORKSHOP</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+<!--<<<<<<<<<<[BLACKSMITH]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_BLACKSMITH</Type>
+	<DefaultBuilding>BUILDING_BLACKSMITH</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_BLACKSMITH</Description>
+</Row>
+<!--UB Venice-->
+	<Row>
+	<Type>BUILDINGCLASS_CCTPVENICE1</Type>
+	<DefaultBuilding>BUILDING_CCTPVENICE1</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CCTPVENICE1</Description>
+</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_CCTPVENICE2</Type>
+	<DefaultBuilding>BUILDING_CCTPVENICE2</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_CCTPVENICE2</Description>
+</Row>
+	<!--<<<<<<<<<<[BLACKSMITH]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_BINNENHAFEN</Type>
+		<DefaultBuilding>BUILDING_BINNENHAFEN</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_BINNENHAFEN</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_PALISADE</Type>
+		<DefaultBuilding>BUILDING_PALISADE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PALISADE</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_HARVEST</Type>
+		<DefaultBuilding>BUILDING_HARVEST</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_HARVEST</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<Type>BUILDINGCLASS_SKI_RESORT</Type>
+			<DefaultBuilding>BUILDING_SKI_RESORT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SKI_RESORT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GAIA</Type>
+			<DefaultBuilding>BUILDING_GAIA</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GAIA</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_BERGWERK</Type>
+			<DefaultBuilding>BUILDING_BERGWERK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BERGWERK</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SCHOKOLADE</Type>
+			<DefaultBuilding>BUILDING_SCHOKOLADE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SCHOKOLADE</Description>
+		</Row>
+	      <Row>
+	       <Type>BUILDINGCLASS_GEOTHERM</Type>
+	       <DefaultBuilding>BUILDING_GEOTHERM</DefaultBuilding>
+	       <Description>TXT_KEY_BUILDING_GEOTHERM</Description>
+    </Row>
+		<Row>
+			<Type>BUILDINGCLASS_KOHLEKRAFTWERK</Type>
+			<DefaultBuilding>BUILDING_KOHLEKRAFTWERK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOHLEKRAFTWERK</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_FISCHERHAUS</Type>
+			<DefaultBuilding>BUILDING_FISCHERHAUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FISCHERHAUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SOLARTOWER</Type>
+			<DefaultBuilding>BUILDING_SOLARTOWER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SOLARTOWER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WINDTURBINEN</Type>
+			<DefaultBuilding>BUILDING_WINDTURBINEN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WINDTURBINEN</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_LUMBERJACK</Type>
+			<DefaultBuilding>BUILDING_LUMBERJACK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LUMBERJACK</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ARBEITSLAGER</Type>
+			<DefaultBuilding>BUILDING_ARBEITSLAGER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARBEITSLAGER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_INQUISATION</Type>
+			<DefaultBuilding>BUILDING_INQUISATION</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_INQUISATION</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_LIEBE</Type>
+			<DefaultBuilding>BUILDING_LIEBE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LIEBE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ZIRKURAT</Type>
+			<DefaultBuilding>BUILDING_ZIRKURAT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ZIRKURAT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_NATURHEILIGTUM</Type>
+			<DefaultBuilding>BUILDING_NATURHEILIGTUM</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NATURHEILIGTUM</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KERKER</Type>
+			<DefaultBuilding>BUILDING_KERKER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KERKER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WASTE_PLANT</Type>
+			<DefaultBuilding>BUILDING_WASTE_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WASTE_PLANT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_OSWINDPARK</Type>
+			<DefaultBuilding>BUILDING_OSWINDPARK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_OSWINDPARK</Description>
+			<MaxPlayerInstances>3</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_RACING_CARNIVAL</Type>
+			<DefaultBuilding>BUILDING_RACING_CARNIVAL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RACING_CARNIVAL</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WALTOURISMUS</Type>
+			<DefaultBuilding>BUILDING_WALTOURISMUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WALTOURISMUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WACHTURM</Type>
+			<DefaultBuilding>BUILDING_WACHTURM</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WACHTURM</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_POTTER</Type>
+			<DefaultBuilding>BUILDING_POTTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_POTTER</Description>
+		</Row>
+	
+	<Row>
+			<Type>BUILDINGCLASS_RELIGIONSSCHULE</Type>
+			<DefaultBuilding>BUILDING_RELIGIONSSCHULE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RELIGIONSSCHULE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_FEUERWEHR</Type>
+			<DefaultBuilding>BUILDING_FEUERWEHR</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FEUERWEHR</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MUSIK</Type>
+			<DefaultBuilding>BUILDING_MUSIK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MUSIK</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_BESTATTUNGEN</Type>
+			<DefaultBuilding>BUILDING_BESTATTUNGEN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BESTATTUNGEN</Description>
+		</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SAFARI</Type>
+		<DefaultBuilding>BUILDING_SAFARI</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SAFARI</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_MARS</Type>
+		<DefaultBuilding>BUILDING_MARS</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_MARS</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_ARCHITEKT</Type>
+		<DefaultBuilding>BUILDING_ARCHITEKT</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_ARCHITEKT</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_SCHREINER</Type>
+	<DefaultBuilding>BUILDING_SCHREINER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_ASCHREINER</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_FEUDAL</Type>
+		<DefaultBuilding>BUILDING_FEUDAL</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FEUDAL</Description>
+		<MaxPlayerInstances>5</MaxPlayerInstances>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+	<Type>BUILDINGCLASS_MAMMON</Type>
+	<DefaultBuilding>BUILDING_MAMMON</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_MAMMON</Description>
+</Row>
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_FOOD_STORAGE</Type>
+	<DefaultBuilding>BUILDING_FOOD_STORAGE</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_FOOD_STORAGE</Description>
+</Row>
+		
+<!--<<<<<<<<<<[]>>>>>>>>>>-->	
+<Row>
+	<Type>BUILDINGCLASS_PLASTIKFABRIK</Type>
+	<DefaultBuilding>BUILDING_PLASTIKFABRIK</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_PLASTIKFABRIK</Description>
+</Row>
+		
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<Type>BUILDINGCLASS_HUTT</Type>
+	<DefaultBuilding>BUILDING_HUTT</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_HUTT</Description>
+	<MaxPlayerInstances>1</MaxPlayerInstances>
+</Row>
+	
+	
+<!--<<<<<<<<<<[]>>>>>>>>>>
+<Row>
+	<Type>BUILDINGCLASS_WASSERSPEICHER</Type>
+	<DefaultBuilding>BUILDING_WASSERSPEICHER</DefaultBuilding>
+	<Description>TXT_KEY_BUILDING_WASSERSPEICHER</Description>
+</Row>-->
+	
+<!--Added 29.7.14-->
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+	<Row>
+		<Type>BUILDINGCLASS_DUFTWASSER</Type>
+		<DefaultBuilding>BUILDING_DUFTWASSER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_DUFTWASSER</Description>
+	</Row>
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_IMKER</Type>
+		<DefaultBuilding>BUILDING_IMKER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_IMKER</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[
+	
+	<Row>
+		<Type>BUILDINGCLASS_PFARM</Type>
+		<DefaultBuilding>BUILDING_PFARM</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PFARM</Description>
+	</Row>]>>>>>>>>>>-->
+	
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+	<Row>
+		<Type>BUILDINGCLASS_PAPIER</Type>
+		<DefaultBuilding>BUILDING_PAPIER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PAPIER</Description>
+	</Row>
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+	<Row>
+		<Type>BUILDINGCLASS_TIN_SMELTER</Type>
+		<DefaultBuilding>BUILDING_TIN_SMELTER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TIN_SMELTER</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+	<Row>
+		<Type>BUILDINGCLASS_TELEGRAPH</Type>
+		<DefaultBuilding>BUILDING_TELEGRAPH</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_TELEGRAPH</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_REKRUTIERUNGSLAGER</Type>
+		<DefaultBuilding>BUILDING_REKRUTIERUNGSLAGER</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_REKRUTIERUNGSLAGER</Description>
+	</Row>
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_AIRSHIP_HANGAR</Type>
+		<DefaultBuilding>BUILDING_AIRSHIP_HANGAR</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_AIRSHIP_HANGAR</Description>
+	</Row>
+	
+	<!--<<<<<<<<<<[]>>>>>>>>>>
+	<Row>
+		<Type>BUILDINGCLASS_PATENT_OFFICE</Type>
+		<DefaultBuilding>BUILDING_PATENT_OFFICE</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_PATENT_OFFICE</Description>
+	</Row>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_POST</Type>
+		<DefaultBuilding>BUILDING_POST</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_POST</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GALLERY</Type>
+		<DefaultBuilding>BUILDING_GALLERY</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GALLERY</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_GUNSMITH_SHOP</Type>
+		<DefaultBuilding>BUILDING_GUNSMITH_SHOP</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_GUNSMITH_SHOP</Description>
+	</Row>
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_SUBTERRANEAN_OUTPOST</Type>
+		<DefaultBuilding>BUILDING_SUBTERRANEAN_OUTPOST</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION1</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION1</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION1</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION2</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION2</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION2</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION3</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION3</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION3</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION4</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION4</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION4</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION5</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION5</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION5</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION6</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION6</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION6</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION7</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION7</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION7</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION8</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION8</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION8</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION9</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION9</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION9</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION10</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION10</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION10</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION11</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION11</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION11</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION12</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION12</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION12</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Row>
+		<Type>BUILDINGCLASS_CCTPRELIGION13</Type>
+		<DefaultBuilding>BUILDING_CCTPRELIGION13</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPRELIGION13</Description>
+	</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+</BuildingClasses>
+<!--Have a nice Day:=)-->
+</GameData>

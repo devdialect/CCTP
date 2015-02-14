@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/8/2014 9:18:03 PM -->
+<GameData>
+	<!--<<<<<<<<<<[CCTPPB94]>>>>>>>>>>-->
+	
+	
+
+<Policy_UnitCombatFreeExperiences>  
+<!--*****Next*****-->
+<Row>
+	<PolicyType>POLICY_CCTP10</PolicyType>
+	<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP10</PolicyType>
+	<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP10</PolicyType>
+	<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP10</PolicyType>
+	<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP10</PolicyType>
+	<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<!--*****Next*****-->
+<!--*****Next*****-->
+<Row>
+	<PolicyType>POLICY_CCTP290</PolicyType>
+	<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP290</PolicyType>
+	<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP290</PolicyType>
+	<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP290</PolicyType>
+	<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+<Row>
+	<PolicyType>POLICY_CCTP290</PolicyType>
+	<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+	<FreeExperience>15</FreeExperience>
+</Row>
+</Policy_UnitCombatFreeExperiences>
+
+  
+</GameData> 
+<!--Have a nice Day;=)-->

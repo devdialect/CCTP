@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 7/30/2014 5:10:28 PM -->
+<GameData>
+	
+  <!--Building_UnitCombatFreeExperiences-->
+	<Building_UnitCombatFreeExperiences>
+		<!---->
+		<Row>
+			<BuildingType>BUILDING_AIRSHIP_HANGAR</BuildingType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+			<Experience>15</Experience>
+		</Row> 
+		<!---->
+		<Row>
+			<BuildingType>BUILDING_AIRSHIP_HANGAR</BuildingType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+		<!---->
+		<Row>
+			<BuildingType>BUILDING_CAVALRY_GARRISON</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_UnitCombatFreeExperiences>
+	
+	
+ 
+  
+  <!---->
+</GameData>
+
+<!--Have a mice day:=)-->

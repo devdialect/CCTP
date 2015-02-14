@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/9/2013 12:06:11 PM -->
+<GameData>
+	<!--TechAndPrereqs-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Building_TechAndPrereqs>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_FORUM</BuildingType>
+			<TechType>TECH_CODE_OF_LAWS</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	 <Row>
+		<BuildingType>BUILDING_BROOKLYN</BuildingType>
+		<TechType>TECH_REPLACEABLE_PARTS</TechType>
+	</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_PERGAMON</BuildingType>
+			<TechType>TECH_CONSTRUCTION</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_HANSA</BuildingType>
+			<TechType>TECH_GUILDS</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_BABEL</BuildingType>
+			<TechType>TECH_MASONRY</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_METEORA</BuildingType>
+			<TechType>TECH_THEOLOGY</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_MESAVERDE</BuildingType>
+			<TechType>TECH_ECONOMY_OF_SCALE</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_MILLAU</BuildingType>
+			<TechType>TECH_FLIGHT</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_KNOSSOS</BuildingType>
+			<TechType>TECH_MYSTICISM</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_LALIBELA</BuildingType>
+			<TechType>TECH_METAL_CASTING</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>
+		<Row>
+			<BuildingType>BUILDING_STELZENDORF</BuildingType>
+			<TechType>TECH_SEAFARE</TechType>
+		</Row>-->
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_STELZENDORF</BuildingType>
+			<TechType>TECH_WEAVER</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_GOBEKLI</BuildingType>
+			<TechType>TECH_SOCIAL_STRUCTURE</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_BAHRI</BuildingType>
+			<TechType>TECH_MUMMIFICATION</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_MONTMICHEL</BuildingType>
+			<TechType>TECH_THEOLOGY</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<Row>
+			<BuildingType>BUILDING_LALIBELA</BuildingType>
+			<TechType>TECH_SACRED_ART</TechType>
+		</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_ISHTAR</BuildingType>
+	<TechType>TECH_POLYTHEISM</TechType>
+</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_MESAVERDE</BuildingType>
+	<TechType>TECH_POTTERY</TechType>
+</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_MALBORK</BuildingType>
+	<TechType>TECH_ENGINEERING</TechType>
+</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_KRONBORG</BuildingType>
+	<TechType>TECH_CHIVALRY</TechType>
+</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_ALTAR</BuildingType>
+	<TechType>TECH_SCULPTURE</TechType>
+</Row>
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->	
+<Row>
+	<BuildingType>BUILDING_GREAT_HALL</BuildingType>
+	<TechType>TECH_MASONRY</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->	
+<Row>
+	<BuildingType>BUILDING_SCHREIBSTUBE</BuildingType>
+	<TechType>TECH_MATHEMATICS</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_PALACE_THERME</BuildingType>
+	<TechType>TECH_CLERGY</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_CARCASSONNE</BuildingType>
+	<TechType>TECH_CRAFTSMAN</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_IRONMAN</BuildingType>
+	<TechType>TECH_CRAFTSMAN</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_ORGIE</BuildingType>
+	<TechType>TECH_NEPHELIN</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_EUREKA</BuildingType>
+	<TechType>TECH_SACRIFICE_CULT</TechType>
+</Row>	
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_CODEX</BuildingType>
+	<TechType>TECH_MONARCHY</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_SCHATZHAUS</BuildingType>
+	<TechType>TECH_TAXES</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_GATE_PA</BuildingType>
+	<TechType>TECH_HERESY</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_LAQROX</BuildingType>
+	<TechType>TECH_ART</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_VENICE</BuildingType>
+	<TechType>TECH_INVENTION</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_VENUS</BuildingType>
+	<TechType>TECH_IDOLS</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_CARNAC</BuildingType>
+	<TechType>TECH_COMPOSITE_TOOLS</TechType>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_OSIRION</BuildingType>
+	<TechType>TECH_FLINTSTONES</TechType>
+</Row>		
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->		
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+		<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+</Building_TechAndPrereqs>
+<!--Have a nice Day:=)-->
+</GameData>

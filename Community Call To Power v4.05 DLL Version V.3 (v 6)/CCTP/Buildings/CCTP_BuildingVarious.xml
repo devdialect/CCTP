@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 3/12/2014 8:10:48 PM -->
+<GameData>
+ <!--*****BUILDINGS*****-->
+<Buildings>
+<!--*****BUILDINGS*****-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	
+	<!--/////////Manpower*vs*Iron*Gametext\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_IRONMAN</Type>
+		<BuildingClass>BUILDINGCLASS_IRONMAN</BuildingClass>
+		<Cost>375</Cost>
+		<GoldMaintenance>5</GoldMaintenance>
+		<PrereqTech>TECH_PUBLIC_WORKS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_IRONMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_IRONMAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_IRONMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_IRONMAN_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+
+	<!--/////////Manpower*vs*Coal*Gametext\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_COALMAN</Type>
+		<BuildingClass>BUILDINGCLASS_COALMAN</BuildingClass>
+		<Cost>1100</Cost>
+		<GoldMaintenance>10</GoldMaintenance>
+		<PrereqTech>TECH_TUNNEL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_COALMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_COALMAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_COALMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_COALMAN_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>36</PortraitIndex>
+	</Row>
+
+	<!--/////////Manpower*vs*Horse*Gametext\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_HORSEMAN</Type>
+		<BuildingClass>BUILDINGCLASS_HORSEMAN</BuildingClass>
+		<Cost>350</Cost>
+		<GoldMaintenance>3</GoldMaintenance>
+		<PrereqTech>TECH_LIVESTOCK_DISTRIBUTION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_HORSEMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_HORSEMAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_HORSEMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_HORSEMAN_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>ICON_GOT_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>7</PortraitIndex>
+	</Row>
+
+	<!--/////////Manpower*vs*Uran*Gametext\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_RADIOACTICMAN</Type>
+		<BuildingClass>BUILDINGCLASS_RADIOACTICMAN</BuildingClass>
+		<Cost>2500</Cost>
+		<GoldMaintenance>50</GoldMaintenance>
+		<PrereqTech>TECH_TREIBSTOFF</PrereqTech>
+		<Help>TXT_KEY_BUILDING_RADIOACTICMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RADIOACTICMAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_RADIOACTICMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_RADIOACTICMAN_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>TECH_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>15</PortraitIndex>
+	</Row>
+
+	<!--/////////Manpower*vsoil*Gametext\\\\\\\\\\\\-->
+
+	<!--/////////Manpower*vs*Aluminium*Gametext\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_OILMAN</Type>
+		<BuildingClass>BUILDINGCLASS_OILMAN</BuildingClass>
+		<Cost>2500</Cost>
+		<GoldMaintenance>50</GoldMaintenance>
+		<PrereqTech>TECH_TREIBSTOFF</PrereqTech>
+		<Help>TXT_KEY_BUILDING_OILMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_OILMAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_OILMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_OILMAN_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>CIV_LEGENDS</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>39</PortraitIndex>
+	</Row>
+
+	<!--/////////Manpower*vs*Aluminium*Gametext\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_ALUMAN</Type>
+		<BuildingClass>BUILDINGCLASS_ALUMAN</BuildingClass>
+		<Cost>2500</Cost>
+		<GoldMaintenance>50</GoldMaintenance>
+		<PrereqTech>TECH_TREIBSTOFF</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ALUMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ALUMAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ALUMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_ALUMAN_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>21</PortraitIndex>
+	</Row>
+	
+	<!--/////////Manpower*vs*SPICE\\\\\\\\\\\\-->
+
+	<Row>
+		<Type>BUILDING_GEWURZHAUS</Type>
+		<BuildingClass>BUILDINGCLASS_GEWURZHAUS</BuildingClass>
+		<PrereqTech>TECH_FARMERS_MARKETS</PrereqTech>
+		<Cost>225</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<Help>TXT_KEY_BUILDING_GEWURZHAUS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_GEWURZHAUS</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_GEWURZHAUS_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_GEWURZHAUS_HELP</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>17</PortraitIndex>
+		<FoodKept>5</FoodKept>
+		<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+		<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+	</Row>
+	
+	<!--/////////Manpower*vs*IVORY\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_ELFENBEINSTUBE</Type>
+		<BuildingClass>BUILDINGCLASS_ELFENBEINSTUBE</BuildingClass>
+		<FreeStartEra>ERA_FUTURE</FreeStartEra>
+		<PrereqTech>TECH_RAW_MATERIALS</PrereqTech>
+		<Cost>230</Cost>
+		<GoldMaintenance>3</GoldMaintenance>
+		<Strategy>TXT_KEY_BUILDING_ELFENBEINSTUBE_HELP</Strategy>
+		<Help>TXT_KEY_BUILDING_ELFENBEINSTUBE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ELFENBEINSTUBE</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ELFENBEINSTUBE_TEXT</Civilopedia>
+		<ArtDefineTag>ART_DEF_BUILDING_CIRCUS</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>7</PortraitIndex>
+		<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+	</Row>
+
+
+	<!--/////////Manpower*vs*IVORY\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_CIGARS</Type>
+		<BuildingClass>BUILDINGCLASS_CIGARS</BuildingClass>
+		<PrereqTech>TECH_CIGARS</PrereqTech>
+		<Cost>600</Cost>
+		<GoldMaintenance>6</GoldMaintenance>
+		<Strategy>TXT_KEY_BUILDING_CIGARS_HELP</Strategy>
+		<Help>TXT_KEY_BUILDING_CIGARS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CIGARS</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CIGARS_TEXT</Civilopedia>
+		<ArtDefineTag>ART_DEF_BUILDING_CIRCUS</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>7</PortraitIndex>
+	</Row>
+
+	<!--/////////Manpower*vs*Titanium*Gametext\\\\\\\\\\\\-->
+	<Row>
+		<Type>BUILDING_TITANMAN</Type>
+		<BuildingClass>BUILDINGCLASS_TITANMAN</BuildingClass>
+		<Cost>2700</Cost>
+		<GoldMaintenance>60</GoldMaintenance>
+		<PrereqTech>TECH_DEEP_DRILLING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_TITANMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_TITANMAN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_TITANMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_TITANMAN_STRATEGY</Strategy>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>20</PortraitIndex>
+	</Row>
+
+
+
+
+	<!--*****BUILDINGS*****-->
+</Buildings>
+<!--*****BUILDINGS*****-->
+</GameData>
+<!--Have a nice day-->
+  

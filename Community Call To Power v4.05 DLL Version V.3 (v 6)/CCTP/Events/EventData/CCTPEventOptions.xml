@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/11/2014 9:54:55 AM -->
+<GameData>
+	<GameOptions>
+		<Row>
+			<Type>GAMEOPTION_CCTP_EVENTS</Type>
+			<Description>TXT_KEY_GAME_OPTION_CCTP_EVENTS</Description>
+			<Help>TXT_KEY_GAME_OPTION_CCTP_EVENTS_HELP</Help>
+			<Default>true</Default>
+		</Row>
+		<Row>
+			<Type>GAMEOPTION_CCTP_ORDER</Type>
+			<Description>TXT_KEY_GAME_OPTION_CCTP_ORDER</Description>
+			<Help>TXT_KEY_GAME_OPTION_CCTP_ORDER_HELP</Help>
+			<Default>true</Default>
+		</Row>
+	</GameOptions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GAME_OPTION_CCTP_EVENTS">
+			<Text>CCTP Event System</Text>			
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_CCTP_EVENTS_HELP">
+			<Text>Random and triggered events and decisions during gameplay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_CCTP_ORDER">
+			<Text>CCTP Order System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_CCTP_ORDER_HELP">
+			<Text>A system representing order and crime in your cities and civilization</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

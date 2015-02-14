@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/10/2012 4:08:28 PM -->
+<GameData>
+	<!-- English -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TEST_FEEDBACK_SCORE">
+			<Text>Score</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_ERANOTIFY">
+			<Text>A Civilization has entered the {1_EraName}, making Global Warming possible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_ERANOTIFY_SHORT">
+			<Text>Global Warming?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_MELT">
+			<Text>Ice and snow have melted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_MELT_SHORT">
+			<Text>Global Warming Strikes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_FLOOD">
+			<Text>Rising sea levels have inundated the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_FLOOD_SHORT">
+			<Text>Global Warming Strikes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LOST_RESOURCE">
+			<Text>Global Warming has destroyed a {1_ResourceName} Resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LOST_RESOURCE_SHORT">
+			<Text>Resource Lost!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LAND">
+			<Text>A heat wave has changed the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_LAND_SHORT">
+			<Text>Global Warming Strikes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_HURRICANE">
+			<Text>A hurricane has devastated {@1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GW_HURRICANE_SHORT">
+			<Text>Global Warming Strikes!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

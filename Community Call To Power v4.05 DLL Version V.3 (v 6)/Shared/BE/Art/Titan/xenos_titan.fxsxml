@@ -1,0 +1,99 @@
+<Asset>
+	<Mesh file="Xenos_Titan.gr2"/>
+	<Animation file="Xenos_Titan_IdleA.gr2" ec="1000"/>
+	<Animation file="Xenos_Titan_FidgetA.gr2" ec="1040"/>
+	<Animation file="Xenos_Titan_IdleA_Trans_IdleB.gr2" ec="1020"/>
+	<Animation file="Xenos_Titan_IdleB.gr2" ec="2000"/>
+	<Animation file="Xenos_Titan_FidgetB.gr2" ec="2040"/>
+	<Animation file="Xenos_Titan_IdleB_Trans_IdleA.gr2" ec="2020"/>
+	<Animation file="Xenos_Titan_Fortify.gr2" ec="1500"/>
+	<Animation file="Xenos_Titan_Fortify_Idle.gr2" ec="1520"/>
+	<Animation file="Xenos_Titan_Fortify_Idle_Fidget.gr2" ec="1540"/>
+	<Animation file="Xenos_Titan_Fortify_Idle_Trans_Combat_Ready_Idle.gr2" ec="1560"/>
+	<Animation file="Xenos_Titan_Fortify_Idle_Trans_IdleA.gr2" ec="1580"/>
+	<Animation file="Xenos_Titan_Combat_Ready.gr2" ec="1600"/>
+	<Animation file="Xenos_Titan_Combat_Ready_Idle.gr2" ec="1620"/>
+	<Animation file="Xenos_Titan_Shuffle.gr2" ec="1450"/>
+	<Animation file="Xenos_Titan_Combat_Ready_Idle_Trans_IdleA.gr2" ec="1640"/>
+	<Animation file="Xenos_Titan_Run.gr2" ec="1400"/>
+	<Animation file="Xenos_Titan_Stop_Run.gr2" ec="1440"/>
+	<Animation file="Xenos_Titan_Stop_Run_B.gr2" ec="2440"/>
+	<Animation file="Xenos_Titan_Charge_Run.gr2" ec="1120"/>
+	<Animation file="Xenos_Titan_Charge_Attack.gr2" ec="1140"/>
+	<Animation file="Xenos_Titan_AttackA.gr2" ec="1100"/>
+	<Animation file="Xenos_Titan_AttackB.gr2" ec="2100"/>
+	<Animation file="Xenos_Titan_Attack_City.gr2" ec="1160, 1180"/>
+	<Animation file="Xenos_Titan_Attack_Air.gr2" ec="1130"/>
+	<Animation file="Xenos_Titan_Victory.gr2" ec="1800"/>
+	<Animation file="Xenos_Titan_Bombard_Defense.gr2" ec="1280"/>
+	<Animation file="Xenos_Titan_Bombard_Defense_Idle.gr2" ec="1285"/>
+	<Animation file="Xenos_Titan_Bombard_Defense_Idle_Trans_IdleA.gr2" ec="1290"/>
+	<Animation file="Xenos_Titan_DeathA.gr2" ec="1200"/>
+	<Animation file="Xenos_Titan_DeathA_Idle.gr2" ec="1220"/>
+	<Animation file="Xenos_Titan_DeathB.gr2" ec="2200"/>
+	<Animation file="Xenos_Titan_DeathB_Idle.gr2" ec="2220"/>
+	<Texture file="Xenos_Titan_bot_DIFF.dds"/>
+	<Texture file="Xenos_Titan_bot_DMG_DIFF.dds"/>
+	<Texture file="Xenos_Titan_bot_DMG_SREF.dds"/>
+	<Texture file="Xenos_Titan_bot_SREF.dds"/>
+	<Texture file="Xenos_Titan_top_DIFF.dds"/>
+	<Texture file="Xenos_Titan_top_DMG_DIFF.dds"/>
+	<Texture file="Xenos_Titan_top_DMG_SREF.dds"/>
+	<Texture file="Xenos_Titan_top_SREF.dds"/>
+	<Texture file="Unit_Environment_Dull.dds"/>
+	<Texture file="Unit_Environment_Sharp.dds"/>
+	<Texture file="Unit_Sunlight_Irradiance.dds"/>
+	<AnimGraph file="IDLE_OFFSET_CONTINUE_TRUE_GRAPH.dge"/>
+	<AnimGraph file="FORTIFY_FIDGET_GRAPH.dge"/>
+	<AnimGraph file="ENTER_FORTIFY.dge"/>
+	<AnimGraph file="LEAVE_BOMBARD_DEFEND_TRANS_IDLE_A_GRAPH.dge"/>
+	<AnimGraph file="DEATH_FINAL_GRAPH.dge"/>
+	<AnimGraph file="BOMBARD_DEFEND_LOOP_GRAPH.dge"/>
+	<AnimGraph file="ENTER_BOMBARD_DEFEND_GRAPH.dge"/>
+	<AnimGraph file="DEATH_GRAPH.dge"/>
+	<AnimGraph file="LEAVE_COMBAT_READY.dge"/>
+	<AnimGraph file="ENTER_COMBAT_READY_GRAPH.dge"/>
+	<AnimGraph file="FORTIFY_LEAVE_GRAPH.dge"/>
+	<AnimGraph file="COMBAT_READY_GRAPH.dge"/>
+	<AnimGraph file="FORTIFY_GRAPH.dge"/>
+	<AnimGraph file="TRANSITIONS_FOR_IDLES.dge"/>
+	<AnimGraph file="STOP_RUNNING.dge"/>
+	<AnimGraph file="IDLE_GRAPH.dge"/>
+	<AnimGraph file="FIDGETS_GRAPH.dge"/>
+	<AnimGraph file="MELEE_ATTACKS.dge"/>
+	<AnimGraph file="RUN_CHARGE_SHUFFLE_TO_SHUFFLE_RUN_CHARGE.dge"/>
+	<StateMachine file="1_OMNI_STATE_01.fsmxml"/>
+	<AnimGraph file="RUN_CHARGE_SHUFFLE_LOOP.dge"/>
+	<AnimGraph file="ATTACK_TO_RUN_CHARGE_SHUFFLE.dge"/>
+	<AnimGraph file="ATTACK_CITY_TO_RUN_CHARGE_SHUFFLE.dge"/>
+	<AnimGraph file="START_RUN_CHARGE_SHUFFLE.dge"/>
+	<AnimGraph file="SHUFFLE_STOP_GRAPH.dge"/>
+	<TimedTrigger file="FX_Triggers_Xenos_Titan.ftsxml"/>
+	<BoneUsage>
+		<Bone name="SpiderLLeg2Platform"/>
+		<Bone name="SpiderRLeg4Platform"/>
+		<Bone name="SpiderRLeg2Platform"/>
+		<Bone name="SpiderLLeg4Platform"/>
+		<Bone name="fx_Arm_L"/>
+		<Bone name="SpiderLLeg3Platform"/>
+		<Bone name="LizardRRearLegPlatform"/>
+		<Bone name="LizardRFrontLegPlatform"/>
+		<Bone name="fx_hole_1100,1160,1180_L"/>
+		<Bone name="fx_hole_1100,1160,1180_R"/>
+		<Bone name="SpiderRLeg3Platform"/>
+		<Bone name="fx_Arm_R"/>
+		<Bone name="SpiderHub"/>
+		<Bone name="World_Center"/>
+		<Bone name="SpiderHead_Jaw"/>
+		<Bone name="SpiderRArmPalm"/>
+		<Bone name="SpiderLArmPalm"/>
+		<Bone name="SpiderHead"/>
+		<Bone name="SpiderNeck02"/>
+		<Bone name="Spider_Pincher_R"/>
+		<Bone name="Spider_Pincher_L"/>
+		<Bone name="Spider_Eyes_L01"/>
+		<Bone name="Spider_Eyes_R01"/>
+		<Bone name=""/>
+	</BoneUsage>
+</Asset>
+

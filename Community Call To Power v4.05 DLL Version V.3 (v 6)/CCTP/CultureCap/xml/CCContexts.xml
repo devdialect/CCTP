@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: Moaf -->
+<!-- Created by ModBuddy on 2/3/2011 3:23:20 PM -->
+<GameData>
+	<!-- #################### -->
+	<!-- !!! DO NOT CHANGE THESE TABLES !!! -->
+	<!-- This is a table of exported functionalities (to see which functions can be used) -->
+	<Table name="CCContextTypes">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" unique="true"/>
+		<Column name="ContextRefTable1" type="text" default="NULL" />
+		<!-- Points to types in other tables -->
+		<Column name="ContextRefTable2" type="text" default="NULL" />
+	</Table>
+	<CCContextTypes>
+		<!-- ## CITY Scope -->
+		<Row>
+			<ID>0</ID>
+			<Type>CITY_CHANGECULTURERATEMODIFIER</Type>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGEBASEYIELDRATEFROMMISC</Type>
+			<ContextRefTable1>Yields</ContextRefTable1>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGEBASEYIELDRATEFROMTERRAIN</Type>
+			<ContextRefTable1>Yields</ContextRefTable1>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGEWONDERPRODUCTIONMODIFIER</Type>
+		</Row>
+		<Row>
+			<Type>CITY_ADDBUILDING</Type>
+			<ContextRefTable1>Buildings</ContextRefTable1>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGEPOPULATION</Type>
+		</Row>
+		<Row>
+			<Type>CITY_HEALCITY</Type>
+		</Row>
+		
+		<Row>
+			<Type>CITY_CHANGEFOOD</Type>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGEPRODUCTION</Type>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGECULTURE</Type>
+		</Row>
+		
+		<Row>
+			<Type>CITY_CHANGEFOODONKILL</Type>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGEPRODUCTIONONKILL</Type>
+		</Row>
+		<Row>
+			<Type>CITY_CHANGECULTUREONKILL</Type>
+		</Row>
+		
+		<Row>
+			<Type>CITY_CREATEGREATPERSON</Type>
+			<ContextRefTable1>Units</ContextRefTable1>
+		</Row>
+		<Row>
+			<Type>CITY_CREATEFREEUNIT</Type>
+			<ContextRefTable1>Units</ContextRefTable1>
+		</Row>
+		<Row>
+			<Type>CITY_SETRESOURCE</Type>
+			<ContextRefTable1>Resources</ContextRefTable1>
+		</Row>
+
+		<!-- ## PLAYER Scope -->
+		<Row>
+			<Type>PLAYER_CHANGENUMFREEPOLICIES</Type>
+		</Row>
+		<Row>
+			<Type>PLAYER_CHANGEGOLD</Type>
+		</Row>
+
+		<!-- ## UNIT Scope -->
+		<Row>
+			<Type>UNIT_CHANGEEXPERIENCE</Type>
+		</Row>
+	</CCContextTypes>
+
+	<Table name="CCAIViabilityContexts">
+		<Column name="ID" type="integer" primarykey="true" autoincrement="true"/>
+		<Column name="Type" type="text" default="VIABLE"/>
+		<Column name="Value" type="float" default="0.0"/>
+	</Table>
+
+	<CCAIViabilityContexts>
+		<Row>
+			<ID>0</ID>
+			<Type>NOT_VIABLE</Type>
+		</Row>
+		<Row>
+			<Type>CONTROVERSY_CHECK</Type>
+			<Value>1</Value> <!-- Happiness Multiplier from Exhibition of Controversy -->
+		</Row>
+		<Row>
+			<Type>EXCHANGE_CHECK</Type>
+			<Value>20</Value> <!-- scales with gamespeed; doesn't really pay off when the player gets only a small amount of gold from trade routes -->
+		</Row>
+		<Row>
+			<Type>ECOLOGY_CHECK</Type> <!-- Needs to find out if there are water plots or forests/jungles/oasis features -->
+			<Value>5</Value> <!-- So far only checks for num water tiles -->
+		</Row>
+		<Row>
+			<Type>ARCHITECTURE_CHECK</Type>
+			<Value>15</Value> <!-- scales with gamespeed; only use it when so much production turns are left when building a wonder -->
+		</Row>
+		<Row>
+			<Type>GEOLOGY_CHECK</Type>
+			<Value>3</Value> <!-- City needs at least this amount of different types of resources in its vicinity -->
+		</Row>
+	</CCAIViabilityContexts>
+	
+	<!-- ############## -->
+	
+	
+</GameData>

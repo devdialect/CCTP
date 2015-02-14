@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/20/2012 7:54:33 PM -->
+<GameData>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>CC_ICON_FONT_TEXTURE</IconFontTexture>
+			<IconFontTextureFile>CCIconTexture</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_CC</IconName>
+			<IconFontTexture>CC_ICON_FONT_TEXTURE</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+  
+</GameData>

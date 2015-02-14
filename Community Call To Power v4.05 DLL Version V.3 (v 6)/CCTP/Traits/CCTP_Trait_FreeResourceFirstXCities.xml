@@ -1,0 +1,19 @@
+<!-- Created by Gilgamesch on 10/18/2014 1:15:01 AM -->
+<GameData>
+
+<!--*****Trait_FreeResourceFirstXCities*****-->
+<Trait_FreeResourceFirstXCities> 
+<!--*****Next*****-->
+<Row>
+	<TraitType>TRAIT_SUPER_CITY_STATE</TraitType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<ResourceQuantity>2</ResourceQuantity>
+	<NumCities>10</NumCities>
+
+</Row>
+</Trait_FreeResourceFirstXCities>
+
+  
+
+</GameData>  
+<!--Have a nice Day;=)-->

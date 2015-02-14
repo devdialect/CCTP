@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/15/2012 11:01:42 AM -->
+<GameData>
+	<Language_de_DE>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE_HELP">
+			<Text>Der Sitz des Kulturellen Komiteés. Gibt einen Abgeordneten und erlaubt die Gewinner der Wahl zur Weltkulturhauptadt zu sehen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE">
+			<Text>[ICON_CC]Kulturelles Komiteé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_COMMITTEE_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude zu Gründung des [COLOR_YELLOW]Kulturellen Komiteés[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_HELP">
+			<Text>Alle Felder in der Nähe der Stadt erbringen +1[ICON_PEACE] Glauben.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS">
+			<Text>[ICON_CC]Zeichen des Himmels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BEACON_OF_HEAVENS_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt des Aufstiegs[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_HELP">
+			<Text>Sie erhalten einen freien Politikzweig.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT">
+			<Text>[ICON_CC]Statue der Ermächtigung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_STATUE_OF_EMPOWERMENT_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt des Volkes[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE_HELP">
+			<Text>Gibt +2[ICON_HAPPINESS_1] Zufriedenheit und +2[ICON_PEACE] Glauben.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE">
+			<Text>[ICON_CC]Tempel der Göttlichen Verehrung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TEMPLE_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Hoffnung[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL_HELP">
+			<Text>Gibt +3[ICON_CULTURE] Kultur und +3[ICON_PEACE] Glauben. [NEWLINE][NEWLINE]Kann einen [ICON_GREAT_ARTIST] Künstler einstellen und beinhaltet einen Platz für 1[ICON_GREAT_WORK] großes Kunstwerk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL">
+			<Text>[ICON_CC]Kaiserdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CATHEDRAL_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt des Vertrauens[ENDCOLOR].</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION_HELP">
+			<Text>Erhöht zeitweise die [ICON_HAPPINESS_4]Unzufriedenheit der Anzahl der Städte um 100%.[NEWLINE][NEWLINE]Erhöht die Geburtsrate [ICON_GREAT_PEOPLE]Großer Persönlichchkeiten und die[ICON_CULTURE]Kulturrate aller Städte des Reiches um 150%.[NEWLINE][NEWLINE]Erhöht zeitweise die Geburtenrate des [ICON_GREAT_ARTIST]Großen Künstlers um 3 Punkte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION">
+			<Text>[ICON_CC]Kontroverse Ausstellung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXHIBITION_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Kontroverse[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_HELP">
+			<Text>Erhöht den Ertrag von Wald- und Dschungelgeländefeldern um +1[ICON_FOOD] Nahrung und um +2[ICON_FOOD] Nahrung von Oasen.[NEWLINE][NEWLINE]Wassergeländefelder geben +2[ICON_RESEARCH] Wissenschaft.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER">
+			<Text>[ICON_CC]Ökocenter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ECOLOGICAL_CENTER_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Ökologie[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_HELP">
+			<Text>Erhöht die Produktion um +1[ICON_PRODUCTION] und um +15% beim Bau von[ICON_PRODUCTION]Gebäuden und [ICON_WAR]Belagerungswaffen.[NEWLINE][NEWLINE]Gibt +2[ICON_PRODUCTION] Produktion nach Erforschung der Technologie Dampfmaschine.[NEWLINE][NEWLINE]Kann [ICON_GREAT_Engineer]2 Ingenieure einstellen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL">
+			<Text>[ICON_CC]Konstruktionshalle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_CONSTRUCTION_HALL_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Konstruktion[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK_HELP">
+			<Text>Erhöht die Geburtenrate von [ICON_GREAT_PEOPLE]Großen Persönlichkeiten um 15% und den Wissenschaftsfortschritt um [ICON_RESEARCH]+15%.[NEWLINE][NEWLINE]Gibt +3[ICON_RESEARCH] Wissenschaft nach Erforschung der Technologie Wissenschaftliche Methode.[NEWLINE][NEWLINE]Kann [ICON_GREAT_WRITER]1 großen Schriftsteller einstellen und hat Platz für 1[ICON_GREAT_WORK] großes Literaturwerk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK">
+			<Text>[ICON_CC]Denkfabrik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_THINK_TANK_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Philosophie[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE_HELP">
+			<Text>Land- und Seehandelswege[ICON_INTERNATIONAL_TRADE] reichen 25% weiter und bringen zusätzlich +2[ICON_GOLD] Gold ein.[NEWLINE][NEWLINE]+2[ICON_FOOD] Nahrungsproduktion in der Stadt.[NEWLINE][NEWLINE]Gibt +2[ICON_GOLD] Gold nach der Erforschung der Technologie Wirtschaftswesen.[NEWLINE][NEWLINE]Kann [ICON_GREAT_MERCHANT]2 Händler einstellen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE">
+			<Text>[ICON_CC]Forum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_TRADING_HOUSE_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt des Handels[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA_HELP">
+			<Text>Alle großen [ICON_GREAT_ARTIST]Künstler, [ICON_GREAT_WRITER]Schreiber und [ICON_GREAT_MUSICIAN]Musiker im Reich geben +1[ICON_RESEARCH] Wissenschaft.[NEWLINE][NEWLINE]Kann [ICON_GREAT_ARTIST]3 Künstler einstellen und gibt Platz für 2[ICON_GREAT_WORK] Große Kunstwerke.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA">
+			<Text>[ICON_CC]Ars Technica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_ARS_TECHNICA_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Technik[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE_HELP">
+			<Text>Fügt der Stadt +7.5[ICON_STRENGTH] Verteidigung, +1[ICON_HAPPINESS_1] Zufriedenheit und +1[ICON_CULTURE] Kultur zu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE">
+			<Text>[ICON_CC]Palisade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_PALISADE_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Verteidigung[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER_HELP">
+			<Text>Fügt der Stadt +13.5[ICON_STRENGTH] Defensivstärke hinzu und erhöht die Wissenschaft der Stadt um +50%[ICON_RESEARCH].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER">
+			<Text>[ICON_CC]Bunker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_BUNKER_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Abschottung[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL_HELP">
+			<Text>Alle neuen [ICON_WAR]Einheiten bekommen +15 Erfahrung und erhöht die Produktion von [ICON_WAR]Einheiten um 25%[ICON_PRODUCTION].[NEWLINE][NEWLINE]Erhöht die Kultur um +1[ICON_CULTURE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL">
+			<Text>[ICON_CC]Gedenkstätte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_MEMORIAL_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Ikonen[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_HELP">
+			<Text>Erhöht die Einnahmen von [ICON_TRADE]Stadtverbindungen um 10%[ICON_GOLD].[NEWLINE][NEWLINE]Gibt 1[ICON_INTERNATIONAL_TRADE] Handelsweg.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET">
+			<Text>[ICON_CC]Handelsposten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_EXCHANGE_MARKET_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt des interkulturellen Austauschs[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_HELP">
+			<Text>[ICON_RES_STONE][ICON_RES_GEMS][ICON_RES_GOLD][ICON_RES_SILVER][ICON_RES_MARBLE][ICON_RES_PEARLS][ICON_RES_SALT][ICON_RES_IRON][ICON_RES_COPPER][ICON_RES_COAL][ICON_RES_ALUMINUM][ICON_RES_URANIUM] Resourcen geben +2[ICON_SCIENCE] Wissenschaft.[NEWLINE][NEWLINE]Gibt +1[ICON_CULTURE] Kultur und +1[ICON_CULTURE] Kultur für jede Resource dieses Typs nahe der Stadt. [NEWLINE][NEWLINE]Kann [ICON_GREAT_ARTIST]1 Künstler einstellen und bietet Platz für 2[ICON_GREAT_WORK] große Kunstwerke.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM">
+			<Text>[ICON_CC]Museum der Erdgeschichte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_GEOLOGY_MUSEUM_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Erdgeschichte[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO_HELP">
+			<Text>Gibt +4[ICON_HAPPINESS_1] Zufriedenheit.[NEWLINE][NEWLINE]Erhöht die Goldrate der Stadt um [ICON_GOLD]+25%.[NEWLINE][NEWLINE]Kann [ICON_GREAT_MUSICIAN]3 Musiker einstellen und gibt 3[ICON_GREAT_WORK] Plätze für große Musikwerke.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO">
+			<Text>[ICON_CC]Radiostudio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_RADIO_STUDIO_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Unterhaltung[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP_HELP">
+			<Text>Erhöht zeitweise die Arbeitsrate von Arbeitern im ganzen Reich um 200%.[NEWLINE][NEWLINE]Erhöht die Geburtenrate von [ICON_GREAT_ENGINEER]Großen Ingenieuren um 2.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP">
+			<Text>[ICON_CC]Arbeitslager</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_LABOR_CAMP_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Arbeit[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_HELP">
+			<Text>Sie erhalten einen neuen [ICON_SPY]Spion. Gibt +1[ICON_CULTURE] Kultur.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU">
+			<Text>[ICON_CC]Detektivbüro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CC_DETECTIVE_BUREAU_STRATEGY">
+			<Text>Die Stadt bekommt dieses Gebäude nach der Aktivierung der [COLOR_YELLOW]Weltkulturhauptstadt der Ermittlung[ENDCOLOR].</Text>>
+		</Row>
+	</Language_de_DE>
+  
+</GameData>

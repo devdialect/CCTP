@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/21/2011 3:59:07 PM -->
+<GameData>
+	<BuildingClasses>
+	
+		<!-- Ancient Era -->
+
+
+		<Row>
+			<Type>BUILDINGCLASS_HERDER</Type>
+			<Description>TXT_KEY_BUILDING_HERDER</Description>
+			<DefaultBuilding>BUILDING_HERDER</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GARDEN2</Type>
+			<Description>TXT_KEY_BUILDING_GARDEN2</Description>
+			<DefaultBuilding>BUILDING_GARDEN2</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_APOTHECARY</Type>
+			<Description>TXT_KEY_BUILDING_APOTHECARY</Description>
+			<DefaultBuilding>BUILDING_APOTHECARY</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MINER</Type>
+			<Description>TXT_KEY_BUILDING_MINER</Description>
+			<DefaultBuilding>BUILDING_MINER</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TRADER</Type>
+			<Description>TXT_KEY_BUILDING_TRADER</Description>
+			<DefaultBuilding>BUILDING_TRADER</DefaultBuilding>
+		</Row>
+
+		
+		<!--CLASSICAL ERA-->
+		
+		<Row>
+			<Type>BUILDINGCLASS_BUTCHER</Type>
+			<Description>TXT_KEY_BUILDING_BUTCHER</Description>
+			<DefaultBuilding>BUILDING_BUTCHER</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GROCER2</Type>
+			<Description>TXT_KEY_BUILDING_GROCER2</Description>
+			<DefaultBuilding>BUILDING_GROCER2</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SAGE</Type>
+			<Description>TXT_KEY_BUILDING_SAGE</Description>
+			<DefaultBuilding>BUILDING_SAGE</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SMITH</Type>
+			<Description>TXT_KEY_BUILDING_SMITH</Description>
+			<DefaultBuilding>BUILDING_SMITH</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MERCHANT</Type>
+			<Description>TXT_KEY_BUILDING_MERCHANT</Description>
+			<DefaultBuilding>BUILDING_MERCHANT</DefaultBuilding>
+		</Row>
+
+		<!--MEDIEVAL ERA-->
+		<Row>
+			<Type>BUILDINGCLASS_CATTLE_DRIVER</Type>
+			<Description>TXT_KEY_BUILDING_CATTLE_DRIVER</Description>
+			<DefaultBuilding>BUILDING_CATTLE_DRIVER</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ESTATE</Type>
+			<Description>TXT_KEY_BUILDING_ESTATE</Description>
+			<DefaultBuilding>BUILDING_ESTATE</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ALCHEMIST</Type>
+			<Description>TXT_KEY_BUILDING_ALCHEMIST</Description>
+			<DefaultBuilding>BUILDING_ALCHEMIST</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MANUFACTURER</Type>
+			<Description>TXT_KEY_BUILDING_MANUFACTURER</Description>
+			<DefaultBuilding>BUILDING_MANUFACTURER</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_VENDER</Type>
+			<Description>TXT_KEY_BUILDING_VENDER</Description>
+			<DefaultBuilding>BUILDING_VENDER</DefaultBuilding>
+		</Row>
+		
+		
+		<!--RENAISSANCE ERA-->
+		<Row>
+			<Type>BUILDINGCLASS_RANCHER</Type>
+			<Description>TXT_KEY_BUILDING_RANCHER</Description>
+			<DefaultBuilding>BUILDING_RANCHER</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_PLANTATION</Type>
+			<Description>TXT_KEY_BUILDING_PLANTATION</Description>
+			<DefaultBuilding>BUILDING_PLANTATION</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_HERBALIST</Type>
+			<Description>TXT_KEY_BUILDING_HERBALIST</Description>
+			<DefaultBuilding>BUILDING_HERBALIST</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GUILD</Type>
+			<Description>TXT_KEY_BUILDING_GUILD</Description>
+			<DefaultBuilding>BUILDING_GUILD</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CONGLOMERATE</Type>
+			<Description>TXT_KEY_BUILDING_CONGLOMERATE</Description>
+			<DefaultBuilding>BUILDING_CONGLOMERATE</DefaultBuilding>
+		</Row>
+		
+		
+		<!-- Monopoly -->
+		<Row>
+			<Type>BUILDINGCLASS_BREEDER</Type>
+			<Description>TXT_KEY_BUILDING_BREEDER</Description>
+			<DefaultBuilding>BUILDING_BREEDER</DefaultBuilding>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_NATURAL_PRESERVE</Type>
+			<Description>TXT_KEY_BUILDING_NATURAL_PRESERVE</Description>
+			<DefaultBuilding>BUILDING_NATURAL_PRESERVE</DefaultBuilding>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_PHARMACY</Type>
+			<Description>TXT_KEY_BUILDING_PHARMACY</Description>
+			<DefaultBuilding>BUILDING_PHARMACY</DefaultBuilding>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_INDUSTRIALIST</Type>
+			<Description>TXT_KEY_BUILDING_INDUSTRIALIST</Description>
+			<DefaultBuilding>BUILDING_INDUSTRIALIST</DefaultBuilding>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MONOPOLIST</Type>
+			<Description>TXT_KEY_BUILDING_MONOPOLIST</Description>
+			<DefaultBuilding>BUILDING_MONOPOLIST</DefaultBuilding>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+	
+		<!--DUMMY-->
+		<Row>
+			<Type>BUILDINGCLASS_BREEDER_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_BREEDER</Description>
+			<DefaultBuilding>BUILDING_BREEDER_DUMMY</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_NATURAL_PRESERVE_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_PHARMACY</Description>
+			<DefaultBuilding>BUILDING_NATURAL_PRESERVE_DUMMY</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_PHARMACY_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_NATURAL_PRESERVE</Description>
+			<DefaultBuilding>BUILDING_PHARMACY_DUMMY</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_INDUSTRIALIST_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_INDUSTRIALIST</Description>
+			<DefaultBuilding>BUILDING_INDUSTRIALIST_DUMMY</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MONOPOLIST_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_MONOPOLIST</Description>
+			<DefaultBuilding>BUILDING_MONOPOLIST_DUMMY</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+
+
+
+</GameData>

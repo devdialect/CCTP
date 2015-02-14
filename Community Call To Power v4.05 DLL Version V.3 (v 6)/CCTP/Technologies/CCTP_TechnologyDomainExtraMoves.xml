@@ -1,0 +1,63 @@
+<!-- Created by Gilgamesch on 9/21/2014 9:58:02 PM -->
+<GameData>
+
+
+<!--*******Technology_DomainExtraMoves********-->
+<Technology_DomainExtraMoves>
+	
+<!--*****Next*****-->
+<!---->
+<Row>
+	<TechType>TECH_CARTOGRAPHY</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Moves>1</Moves>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_COMPASS</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Moves>1</Moves>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_MANEUVER_WARFARE</TechType>
+	<DomainType>DOMAIN_LAND</DomainType>
+	<Moves>1</Moves>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_NAVAL_WARFARE</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Moves>1</Moves>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_AVIATION</TechType>
+	<DomainType>DOMAIN_AIR</DomainType>
+	<Moves>2</Moves>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_SONAR</TechType>
+	<DomainType>DOMAIN_SEA</DomainType>
+	<Moves>1</Moves>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_AVIATION</TechType>
+	<DomainType>DOMAIN_AIR</DomainType>
+	<Moves>2</Moves>
+</Row>
+<!--*****Next*****-->
+<Row>
+	<TechType>TECH_ADVANCED_FLIGHT</TechType>
+	<DomainType>DOMAIN_AIR</DomainType>
+	<Moves>2</Moves>
+</Row>
+	<!--*****Next*****-->
+</Technology_DomainExtraMoves>
+
+
+
+</GameData>
+<!--Have a nice Day;=)-->

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/7/1214 1:49:12 PM -->
+<GameData>
+ 
+ <!-- Manpower-->
+	<!--The cost system of Manpower*MP*-->
+	<!--Ancient=2*MP*-->
+	<!--Classic=4*MP*-->
+	<!--Medi=7*MP*-->
+	<!--Reni=11*MP*-->
+	<!--Indus=16*MP*-->
+	<!--Modern=22*MP*-->
+
+<!--under Work-->	
+<!--<<<<<<<<<<[needs to be changed]>>>>>>>>>>-->>
+	
+<Building_ResourceQuantityRequirements>
+<!--/////////Various*MP*\\\\\\\\\-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_CIGARS</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_ELFENBEINSTUBE</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_TITANMAN</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>6</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_GOLDEN_TREE</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>1</Cost>
+</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_SENAT</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_FOUNDER_TEMPLE</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_CODEX</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>3</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_IRONMAN</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>2</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_RADIOACTICMAN</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>12</Cost>
+</Row>
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+<BuildingType>BUILDING_HORSEMAN</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>2</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_ALUMAN</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>12</Cost>
+</Row>
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_OILMAN</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>9</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_KATASTROPHENSCHUTZ</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>10</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_KRABBENFISCHER</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>2</Cost>
+</Row>	
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_PERLENTAUCHER</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>2</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	
+	<!--/////////Ancient*2MP*\\\\\\\\\-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_SCHREIBSTUBE</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_PALACE_THERME</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_HAREM</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_ALTAR</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>3</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_WAR_ROOM</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>3</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_TREASURE_ROOM</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>3</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_THRONE_ROOM</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>4</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_PALACE_GARDEN</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>2</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_PALACE_GALLERY</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>3</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_PALACE_OBSERVATORY</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>1</Cost>
+</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_GUARD_ROOM</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>2</Cost>
+</Row>
+<!--<<<<<<<<<<[]>>>>>>>>>>-->	
+<Row>
+	<BuildingType>BUILDING_GREAT_HALL</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>1</Cost>
+</Row>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+<Row>
+	<BuildingType>BUILDING_DINING_ROOM</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>1</Cost>
+</Row>
+
+
+
+
+
+<!--14-->
+
+<!--9-->
+
+<!--17-->
+
+<!--17-->
+<Row>
+	<BuildingType>BUILDING_OLLI</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>2</Cost>
+</Row>
+<!--19-->
+
+
+	<!--27-->
+
+<!--27-->
+
+<!--29-->
+
+<!--27-->	
+
+
+
+
+
+
+	<!--30
+	NEWGRANGE-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--LONDON-->
+	<!--LONDON-->
+
+<!---->
+
+
+<!--
+<Row>
+	<BuildingType>BUILDING_GLOBE_THEATER</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>9</Cost>
+</Row>
+-->
+
+<!--
+<Row>
+	<BuildingType>BUILDING_LONDON</BuildingType>
+	<ResourceType>RESOURCE_MANPOWER</ResourceType>
+	<Cost>9</Cost>
+</Row>
+-->
+	
+
+
+<!---->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--Industrial*12MP*-->
+<!--//Industrial*12MP*\\-->
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+	<!--/////////**Industrial*Era**\\\\\\\\\\-->
+	<!--/////////*14*Manpower*\\\\\\\\\\-->
+	
+
+	<!---->
+
+	<!---->
+
+	<!---->
+
+	<!---->
+
+
+
+	<!--Industrial*12MP*-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Building_ResourceQuantityRequirements>
+	
+
+
+</GameData>

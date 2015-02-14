@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData><IconTextureAtlases>
+	<Row>
+		<Atlas>UNITS_TBM_ICON_ATLAS</Atlas>
+		<IconSize>256</IconSize>
+		<Filename>ART/tbm256.dds</Filename>
+		<IconsPerRow>1</IconsPerRow>
+		<IconsPerColumn>1</IconsPerColumn>
+	</Row>
+	<Row>
+		<Atlas>UNITS_TBM_ICON_ATLAS</Atlas>
+		<IconSize>128</IconSize>
+		<Filename>ART/tbm128.dds</Filename>
+		<IconsPerRow>1</IconsPerRow>
+		<IconsPerColumn>1</IconsPerColumn>
+	</Row>
+	<Row>
+		<Atlas>UNITS_TBM_ICON_ATLAS</Atlas>
+		<IconSize>80</IconSize>
+		<Filename>ART/tbm80.dds</Filename>
+		<IconsPerRow>1</IconsPerRow>
+		<IconsPerColumn>1</IconsPerColumn>
+	</Row>
+	<Row>
+		<Atlas>UNITS_TBM_ICON_ATLAS</Atlas>
+		<IconSize>64</IconSize>
+		<Filename>ART/tbm64.dds</Filename>
+		<IconsPerRow>1</IconsPerRow>
+		<IconsPerColumn>1</IconsPerColumn>
+	</Row>
+	<Row>
+		<Atlas>UNITS_TBM_ICON_ATLAS</Atlas>
+		<IconSize>45</IconSize>
+		<Filename>ART/tbm45.dds</Filename>
+		<IconsPerRow>1</IconsPerRow>
+		<IconsPerColumn>1</IconsPerColumn>
+	</Row>
+	
+
+	
+		<Row>
+			<Atlas>IMPROVEMENTS_TUNNEL_ICON_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ART/Tunnel256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IMPROVEMENTS_TUNNEL_ICON_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ART/Tunnel64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BUILDS_TUNNEL_ICON_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ART/TunnelBuild64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BUILDS_TUNNEL_ICON_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ART/TunnelBuild45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_TUNNEL</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>SV_Tunnel.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

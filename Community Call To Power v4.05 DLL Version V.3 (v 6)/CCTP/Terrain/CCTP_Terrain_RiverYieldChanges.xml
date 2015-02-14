@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/18/2014 1:31:23 AM -->
+<GameData>
+ 
+ 
+ <!--******Terrain_RiverYieldChanges*****-->
+
+<Terrain_RiverYieldChanges>
+  <!--*****Next*****-->
+ <Row>
+	<TerrainType>TERRAIN_GRASS</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_PLAINS</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_DESERT</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_TUNDRA</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+<Row>
+	<TerrainType>TERRAIN_SNOW</TerrainType>
+	<YieldType>YIELD_GOLD</YieldType>
+	<Yield>1</Yield>
+</Row>
+</Terrain_RiverYieldChanges>
+  
+</GameData>  
+<!--Have a nice Day;=)-->

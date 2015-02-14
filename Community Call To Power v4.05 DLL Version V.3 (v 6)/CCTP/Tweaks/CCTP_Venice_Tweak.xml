@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 11.02.2012 00:20:37 -->
+<GameData>
+	<Units>
+		<Update>
+			<Where Type="UNIT_VENETIAN_MERCHANT"/>
+			<Set><Found>true</Found>
+				<WorkRate>100</WorkRate>
+			</Set>
+		</Update>
+	</Units>
+	<Unit_AITypes>
+		<Update>
+			<Set UnitAIType="UNITAI_SETTLE"/>
+			<Where Type="UNIT_VENETIAN_MERCHANT"/>
+		</Update>
+	</Unit_AITypes>
+	
+  
+</GameData>
+<!-- Have a nice Day;=)-->

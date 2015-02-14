@@ -1,0 +1,14 @@
+<Asset>
+  <Mesh file="FXM_HoverGlow_Lev_Tank_Main.gr2" source="Max" />
+  <Texture file="FX_Blk_Blk4x4.dds" source="Max" />
+  <Texture file="FXT_Supremacy_Hover_Glow_MASK.dds" source="Max" />
+  <Texture file="FXt_Energy_P_Flame_MASK.dds" source="Max" />
+  <Texture file="FXt_Fire_Plasma_Wake.dds" source="Max" />
+  <Texture file="FXt_Purity_Engine_Embers_Red.dds" source="Max" />
+  <Texture file="FXt_Purity_Engine_Flame_Red.dds" source="Max" />
+  <Texture file="FXt_Purity_Hover_Glow.dds" source="Max" />
+  <Texture file="FXt_Purity_Hover_Glow_MASK.dds" source="Max" />
+  <Texture file="FXt_UV_Scroll_Left_Fast_01.dds" source="Max" />
+  <Texture file="FXt_UV_Scroll_Right_Fast_01.dds" source="Max" />
+  <Texture file="FXt_UV_Scroll_Up_Fast_01.dds" source="Max" />
+</Asset>

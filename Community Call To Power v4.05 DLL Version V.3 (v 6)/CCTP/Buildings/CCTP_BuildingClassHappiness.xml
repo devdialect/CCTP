@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/8/2013 6:39:14 PM -->
+<GameData>
+	<!--/////////\\\\\\\\\-->
+  <!--Building_BuildingClassHappiness-->
+	<Building_BuildingClassHappiness>
+		<Row>
+			<BuildingType>BUILDING_LUNI</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_FOOD_STORAGE</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CARNAC</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_MENHIR</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KRIEGSMINISTERIUM</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_REKRUTIERUNGSLAGER</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FUJIAN</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ROYAL_CASTLE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KGB</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_GEHEIMDIENST</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TETII</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_RITUELLE_ZEREMONIE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+	
+		<Row>
+			<BuildingType>BUILDING_KEUKONHOF</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NPRESS</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_PRESSE</BuildingClassType>
+			<Happiness>2</Happiness>
+		</Row>
+	</Building_BuildingClassHappiness>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<Policy_BuildingClassHappiness>
+		<Row>
+			<PolicyType>POLICY_COMMERCE</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_ROCKEFELLER</BuildingClassType>
+			<Happiness>5</Happiness>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_CCTP76</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TOWN_HALL</BuildingClassType>
+			<Happiness>2</Happiness>
+		</Row>
+	</Policy_BuildingClassHappiness>
+	<!--<<<<<<<<<<[]>>>>>>>>>>-->
+	<!-- <Policy_BuildingClassYieldChanges>
+		<Row>
+			<PolicyType>POLICY_FREEDOM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_ROCKEFELLER</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>20</YieldChange>
+		</Row>
+	</Policy_BuildingClassYieldChanges>
+	Have a nice Day:=) -->
+</GameData>

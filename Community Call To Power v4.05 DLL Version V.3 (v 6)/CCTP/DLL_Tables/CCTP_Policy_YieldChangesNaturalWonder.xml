@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/20/2014 2:55:08 PM -->
+<GameData>
+	
+<!--*******Policy_YieldChangesNaturalWonder********works!!!-->
+<Policy_YieldChangesNaturalWonder>
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+<Row>
+	<PolicyType>POLICY_HUMANITY</PolicyType>
+	<YieldType>YIELD_FAITH</YieldType>
+	<Yield>4</Yield>
+</Row>
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+	<!--***Next***-->
+</Policy_YieldChangesNaturalWonder>
+
+
+  
+</GameData>	
+<!--Have a nice Day;=)-->

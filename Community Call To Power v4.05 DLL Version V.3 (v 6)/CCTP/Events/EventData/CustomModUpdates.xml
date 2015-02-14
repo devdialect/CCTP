@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/15/2014 9:39:29 PM -->
+<GameData>
+	<CustomModOptions>
+		<!-- Events sent when plots change from worker actions (v44) -->
+		<!--   GameEvents.TileFeatureChanged.Add(function(iPlotX, iPlotY, iOwner, iOldFeature, iNewFeature) end) -->
+		<!--   GameEvents.TileImprovementChanged.Add(function(iPlotX, iPlotY, iOwner, iOldImprovement, iNewImprovement, bPillaged) end) -->
+		<!--   GameEvents.TileOwnershipChanged.Add(function(iPlotX, iPlotY, iOwner, iOldOwner) end) (v46) -->
+		<!--   GameEvents.TileRouteChanged.Add(function(iPlotX, iPlotY, iOwner, iOldRoute, iNewRoute, bPillaged) end) -->
+		<Update>
+			<Where Name="EVENTS_TILE_IMPROVEMENTS"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Event sent when a plot is revealed (v58) -->
+		<!--   GameEvents.TileRevealed.Add(function(iPlotX, iPlotY, iTeam, iFromTeam, bFirst) end) -->
+		<Update>
+			<Where Name="EVENTS_TILE_REVEALED"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Events sent by Great People actions (v19) -->
+		<!--   GameEvents.GreatPersonExpended.Add(function(iPlayer, iUnit, iUnitType, iX, iY) end) -->
+		<Update>
+			<Where Name="EVENTS_GREAT_PEOPLE"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Events sents on espionage outcomes (v63) -->
+		<!--   GameEvents.EspionageResult.Add(function(iPlayer, iSpy, iResult, iCityX, iCityY) end) -->
+		<!--   GameEvents.EspionageState.Add(function(iPlayer, iSpy, iState, iCityX, iCityY) end) -->
+		<Update>
+			<Where Name="EVENTS_ESPIONAGE"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Events sent by golden ages (v52) -->
+		<!--   GameEvents.PlayerGoldenAge.Add(function(iPlayer, bStart, iTurns) end) -->
+		<Update>
+			<Where Name="EVENTS_GOLDEN_AGE"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Event sent to ascertain if a city can acquire a plot (v20) -->
+		<!--   GameEvents.CityCanAcquirePlot.Add(function(iPlayer, iCity, iPlotX, iPlotY) return true end) -->
+		<!-- See also: "Global - Coastal Waters Only" -->
+		<Update>
+			<Where Name="EVENTS_CITY"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Event sent when a unit is created (v46) -->
+		<!--   GameEvents.UnitCreated.Add(function(iPlayer, iUnit, iUnitType, iPlotX, iPlotY) end) -->
+		<Update>
+			<Where Name="EVENTS_UNIT_CREATED"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Event sent when a unit founds a city (v58) -->
+		<!--   GameEvents.UnitCityFounded.Add(function(iPlayer, iUnit, iUnitType, iPlotX, iPlotY) end) -->
+		<Update>
+			<Where Name="EVENTS_UNIT_FOUNDED"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Event sent as a unit is captured (v46) -->
+		<!--   GameEvents.UnitCaptureType.Add(function(iPlayer, iUnit, iUnitType, iByCiv) return iCaptureUnitType; end) -->
+		<Update>
+			<Where Name="EVENTS_UNIT_CAPTURE"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Events sent as units are promoted/upgraded (v19) -->
+		<!--   GameEvents.CanHavePromotion.Add(function(iPlayer, iUnit, iPromotionType) return true end) -->
+		<!--   GameEvents.UnitPromoted.Add(function(iPlayer, iUnit, iPromotionType) end) -->
+		<!--   GameEvents.CanHaveAnyUpgrade.Add(function(iPlayer, iUnit) return true end) -->
+		<!--   GameEvents.CanHaveUpgrade.Add(function(iPlayer, iUnit, iUnitClassType, iUnitType) return true end) -->
+		<!--   GameEvents.UnitUpgraded.Add(function(iPlayer, iOldUnit, iNewUnit, bGoodyHut) end) -->
+		<Update>
+			<Where Name="EVENTS_UNIT_UPGRADES"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Event sent as a trade route is plundered (v52) -->
+		<!--   GameEvents.PlayerPlunderedTradeRoute.Add(function(iPlayer, iUnit, iPlunderedGold, iFromPlayer, iFromCity, iToPlayer, iToCity, iRouteType, iRouteDomain) end) -->
+		<Update>
+			<Where Name="EVENTS_TRADE_ROUTE_PLUNDERED"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Events sent about war and peace (v19) -->
+		<!--   GameEvents.PlayerCanDeclareWar.Add(function(iPlayer, iAgainstTeam) return true end) -->
+		<!--   GameEvents.IsAbleToDeclareWar.Add(function(iPlayer, iAgainstTeam) return true end) - deprecated, use PlayerCanDeclareWar -->
+		<!--   GameEvents.DeclareWar.Add(function(iPlayer, iAgainstTeam, bAggressor) end) -->
+		<!--   GameEvents.PlayerCanMakePeace.Add(function(iPlayer, iAgainstTeam) return true end) -->
+		<!--   GameEvents.IsAbleToMakePeace.Add(function(iPlayer, iAgainstTeam) return true end) - deprecated, use PlayerCanMakePeace -->
+		<!--   GameEvents.MakePeace.Add(function(iPlayer, iAgainstTeam, bPacifier) end) -->
+		<Update>
+			<Where Name="EVENTS_WAR_AND_PEACE"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Events sent about resolutions (v51) -->
+		<!--   GameEvents.PlayerCanPropose.Add(function(iPlayer, iResolution, iChoice, bEnact) return true end) -->
+		<!--   GameEvents.ResolutionResult.Add(function(iResolution, iChoice, bEnact, bPassed) end) -->
+
+		<Update>
+			<Where Name="EVENTS_RESOLUTIONS"/>
+			<Set Value="1"/>
+		</Update>
+		<!-- Event sent when a nuke is fired (v19) -->
+		<!--   GameEvents.NuclearDetonation.Add(function(iPlayer, iX, iY, bWar, bBystanders) end) -->
+		<Update>
+			<Where Name="EVENTS_NUCLEAR_DETONATION"/>
+			<Set Value="1"/>
+		</Update>
+
+	</CustomModOptions>	
+</GameData>

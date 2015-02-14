@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/6/2014 8:12:14 PM -->
+<GameData>
+	<Processes>
+		<Row>
+			<Type>PROCESS_NOBUILD</Type>
+			<Description>TXT_KEY_PROCESS_NOBUILD</Description>
+			<Help>TXT_KEY_PROCESS_NOBUILD_HELP</Help>
+			<Strategy>TXT_KEY_PROCESS_NOBUILD_STRATEGY</Strategy>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+	</Processes>
+	<Process_Flavors>
+		<Row>
+			<ProcessType>PROCESS_NOBUILD</ProcessType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		
+	</Process_Flavors>
+	<Language_en_US>
+		<!--Process-->
+		<!--NOBUILD-->
+		<Row Tag="TXT_KEY_PROCESS_NOBUILD">
+			<Text>No Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_NOBUILD_STRATEGY">
+			<Text>City production paused.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_NOBUILD_HELP">
+			<Text>City production paused to[NEWLINE]stop deficit incurment</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

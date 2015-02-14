@@ -1,0 +1,3342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 10/16/2014 2:44:03 PM -->
+<GameData>
+	
+<!--*****BUILDINGS*****-->
+<Buildings>
+  <!--*****Next*****-->
+	<!--*****New Unique Buildings*****-->
+	<Row>
+		<Type>BUILDING_CCTPUNIQUE1</Type>
+		<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CCTPUNIQUE1_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CCTPUNIQUE1</Description>
+		<Strategy>TXT_KEY_BUILDING_CCTPUNIQUE1_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CCTPUNIQUE1_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+	
+	<Row>
+		<Type>BUILDING_CCTPUNIQUE2</Type>
+		<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CCTPUNIQUE2_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CCTPUNIQUE2</Description>
+		<Strategy>TXT_KEY_BUILDING_CCTPUNIQUE2_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CCTPUNIQUE2_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+	
+	<Row>
+		<Type>BUILDING_CCTPUNIQUE3</Type>
+		<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CCTPUNIQUE3_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CCTPUNIQUE3</Description>
+		<Strategy>TXT_KEY_BUILDING_CCTPUNIQUE3_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CCTPUNIQUE3_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+	
+	<Row>
+		<Type>BUILDING_CCTPUNIQUE4</Type>
+		<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CCTPUNIQUE4_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CCTPUNIQUE4</Description>
+		<Strategy>TXT_KEY_BUILDING_CCTPUNIQUE4_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CCTPUNIQUE4_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+	
+	<Row>
+		<Type>BUILDING_CCTPUNIQUE5</Type>
+		<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CCTPUNIQUE5_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CCTPUNIQUE5</Description>
+		<Strategy>TXT_KEY_BUILDING_CCTPUNIQUE5_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CCTPUNIQUE5_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+	
+	<Row>
+		<Type>BUILDING_CCTPUNIQUE6</Type>
+		<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CCTPUNIQUE6_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CCTPUNIQUE6</Description>
+		<Strategy>TXT_KEY_BUILDING_CCTPUNIQUE6_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CCTPUNIQUE6_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+	
+	<Row>
+		<Type>BUILDING_CCTPUNIQUE7</Type>
+		<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CCTPUNIQUE7_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CCTPUNIQUE7</Description>
+		<Strategy>TXT_KEY_BUILDING_CCTPUNIQUE7_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CCTPUNIQUE7_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+
+
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_PMILL</Type>
+		<BuildingClass>BUILDINGCLASS_PMILL</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_PAPER_MILL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PMILL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PMILL</Description>
+		<Strategy>TXT_KEY_BUILDING_PMILL_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_PMILL_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_6</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>42</PortraitIndex>
+	</Row>
+	
+	<!--*****Next*****-->
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SFARM</Type>
+		<BuildingClass>BUILDINGCLASS_SFARM</BuildingClass>
+		<Cost>575</Cost>
+		<GoldMaintenance>6</GoldMaintenance>
+		<PrereqTech>TECH_AQUAPONICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SFARM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SFARM</Description>
+		<Strategy>TXT_KEY_BUILDING_SFARM_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SFARM_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>12</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_STEINMETZ</Type>
+		<BuildingClass>BUILDINGCLASS_STEINMETZ</BuildingClass>
+		<Cost>575</Cost>
+		<GoldMaintenance>6</GoldMaintenance>
+		<PrereqTech>TECH_STONES</PrereqTech>
+		<Help>TXT_KEY_BUILDING_STEINMETZ_HELP</Help>
+		<Description>TXT_KEY_BUILDING_STEINMETZ</Description>
+		<Strategy>TXT_KEY_BUILDING_STEINMETZ_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_STEINMETZ_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>12</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_HEALER</Type>
+		<BuildingClass>BUILDINGCLASS_HEALER</BuildingClass>
+		<Cost>42</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_HEALING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_HEALER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_HEALER</Description>
+		<Strategy>TXT_KEY_BUILDING_HEALER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_HEALER_PEDIA</Civilopedia>
+		<HealRateChange>10</HealRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>4</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_WATERWORLD</Type>
+		<BuildingClass>BUILDINGCLASS_WATERWORLD</BuildingClass>
+		<Cost>720</Cost>
+		<GoldMaintenance>6</GoldMaintenance>
+		<PrereqTech>TECH_WATERWORLD</PrereqTech>
+		<Help>TXT_KEY_BUILDING_WATERWORLD_HELP</Help>
+		<Description>TXT_KEY_BUILDING_WATERWORLD</Description>
+		<Strategy>TXT_KEY_BUILDING_WATERWORLD_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_WATERWORLD_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>30</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_FGARDEN</Type>
+		<BuildingClass>BUILDINGCLASS_FGARDEN</BuildingClass>
+		<Cost>44</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_FOREST_FARMING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_FGARDEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_FGARDEN</Description>
+		<Strategy>TXT_KEY_BUILDING_FGARDEN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_FGARDEN_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>1</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_JGARDEN</Type>
+		<BuildingClass>BUILDINGCLASS_JGARDEN</BuildingClass>
+		<Cost>44</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_FOREST_FARMING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_JGARDEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_JGARDEN</Description>
+		<Strategy>TXT_KEY_BUILDING_JGARDEN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_JGARDEN_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>1</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_OFARM</Type>
+		<BuildingClass>BUILDINGCLASS_OFARM</BuildingClass>
+		<Cost>500</Cost>
+		<GoldMaintenance>3</GoldMaintenance>
+		<PrereqTech>TECH_DRYLAND</PrereqTech>
+		<Help>TXT_KEY_BUILDING_OFARM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_OFARM</Description>
+		<Strategy>TXT_KEY_BUILDING_OFARM_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_OFARM_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>16</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_AXEMAKER</Type>
+		<BuildingClass>BUILDINGCLASS_AXEMAKER</BuildingClass>
+		<Cost>50</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_AXT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_AXEMAKER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_AXEMAKER</Description>
+		<Strategy>TXT_KEY_BUILDING_AXEMAKER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_AXEMAKER_PEDIA</Civilopedia>
+		<PolicyBranchType>POLICY_BRANCH_SURVIVAL</PolicyBranchType>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>45</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SAVAGE</Type>
+		<BuildingClass>BUILDINGCLASS_SAVAGE</BuildingClass>
+		<Cost>44</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_CLAN</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SAVAGE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SAVAGE</Description>
+		<Strategy>TXT_KEY_BUILDING_SAVAGE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SAVAGE_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>59</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_LABORER</Type>
+		<BuildingClass>BUILDINGCLASS_LABORER</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_TRIBE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_LABORER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_LABORER</Description>
+		<Strategy>TXT_KEY_BUILDING_LABORER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_LABORER_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>60</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_MSANITATION</Type>
+		<BuildingClass>BUILDINGCLASS_MSANITATION</BuildingClass>
+		<Cost>1100</Cost>
+		<GoldMaintenance>20</GoldMaintenance>
+		<PrereqTech>TECH_MODERN_SANITATION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MSANITATION_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MSANITATION</Description>
+		<Strategy>TXT_KEY_BUILDING_MSANITATION_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_MSANITATION_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>50</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SAUNA</Type>
+		<BuildingClass>BUILDINGCLASS_SAUNA</BuildingClass>
+		<Cost>1100</Cost>
+		<GoldMaintenance>10</GoldMaintenance>
+		<PrereqTech>TECH_MODERN_SANITATION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SAUNA_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SAUNA</Description>
+		<Strategy>TXT_KEY_BUILDING_SAUNA_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SAUNA_PEDIA</Civilopedia>
+		<HealRateChange>15</HealRateChange>
+		<Happiness>2</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>25</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_BAHNHOF</Type>
+		<BuildingClass>BUILDINGCLASS_BAHNHOF</BuildingClass>
+		<Cost>1100</Cost>
+		<GoldMaintenance>20</GoldMaintenance>
+		<PrereqTech>TECH_RAILWAY_COMPANY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BAHNHOF_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BAHNHOF</Description>
+		<Strategy>TXT_KEY_BUILDING_BAHNHOF_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_BAHNHOF_PEDIA</Civilopedia>
+		<TradeRouteRecipientBonus>10</TradeRouteRecipientBonus>
+		<TradeRouteTargetBonus>10</TradeRouteTargetBonus>
+		<LandmarksTourismPercent>20</LandmarksTourismPercent>
+		<GreatWorksTourismModifier>20</GreatWorksTourismModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>37</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SCOUT</Type>
+		<BuildingClass>BUILDINGCLASS_SCOUT</BuildingClass>
+		<Cost>44</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_SCOUTING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SCOUT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SCOUT</Description>
+		<Strategy>TXT_KEY_BUILDING_SCOUT_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SCOUT_PEDIA</Civilopedia>
+		<Happiness>1</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>61</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_TATOO</Type>
+		<BuildingClass>BUILDINGCLASS_TATOO</BuildingClass>
+		<Cost>150</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_TATTOO</PrereqTech>
+		<Help>TXT_KEY_BUILDING_TATOO_HELP</Help>
+		<Description>TXT_KEY_BUILDING_TATOO</Description>
+		<Strategy>TXT_KEY_BUILDING_TATOO_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_TATOO_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>52</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CORPSE</Type>
+		<BuildingClass>BUILDINGCLASS_CORPSE</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_MEGAFAUNA</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CORPSE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CORPSE</Description>
+		<Strategy>TXT_KEY_BUILDING_CORPSE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CORPSE_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>29</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_HUNTER</Type>
+		<BuildingClass>BUILDINGCLASS_HUNTER</BuildingClass>
+		<Cost>42</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_HUNTING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_HUNTER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_HUNTER</Description>
+		<Strategy>TXT_KEY_BUILDING_HUNTER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_HUNTER_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>36</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_FISHMAN</Type>
+		<BuildingClass>BUILDINGCLASS_FISHMAN</BuildingClass>
+		<Cost>50</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_AQUACULTURE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_FISHMAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_FISHMAN</Description>
+		<Strategy>TXT_KEY_BUILDING_FISHMAN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_FISHMAN_PEDIA</Civilopedia>
+		<Water>true</Water>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>35</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>35</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_TOOLMAKER</Type>
+		<BuildingClass>BUILDINGCLASS_TOOLMAKER</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_TOOLS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_TOOLMAKER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_TOOLMAKER</Description>
+		<Strategy>TXT_KEY_BUILDING_TOOLMAKER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_TOOLMAKER_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>34</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_FEUER</Type>
+		<BuildingClass>BUILDINGCLASS_FEUER</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_HEAT_TREATMENT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_FEUER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_FEUER</Description>
+		<Strategy>TXT_KEY_BUILDING_FEUER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_FEUER_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>17</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_DOG</Type>
+		<BuildingClass>BUILDINGCLASS_DOG</BuildingClass>
+		<Cost>43</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_DOMESTIFICATION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_DOG_HELP</Help>
+		<Description>TXT_KEY_BUILDING_DOG</Description>
+		<Strategy>TXT_KEY_BUILDING_DOG_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_DOG_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>8</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_UGARIT</Type>
+		<BuildingClass>BUILDINGCLASS_UGARIT</BuildingClass>
+		<Description>TXT_KEY_BUILDING_UGARIT</Description>
+		<Help>TXT_KEY_WONDER_UGARIT_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_UGARIT_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_UGARIT_QUOTE</Quote>
+		<Cost>175</Cost>
+		<PrereqTech>TECH_HERDING</PrereqTech>
+		<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<Water>true</Water>
+		<FreeBuildingThisCity>BUILDINGCLASS_DOCK</FreeBuildingThisCity>
+        <NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<PortraitIndex>14</PortraitIndex>
+		<WonderSplashImage>Ugarit_Splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_LUNI</Type>
+		<BuildingClass>BUILDINGCLASS_LUNI</BuildingClass>
+		<Description>TXT_KEY_BUILDING_LUNI</Description>
+		<Help>TXT_KEY_WONDER_LUNI_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_LUNI_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_LUNI_QUOTE</Quote>
+		<Cost>175</Cost>
+		<PrereqTech>TECH_SIMPLE_WOOD_WORKING</PrereqTech>
+		<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<PortraitIndex>40</PortraitIndex>
+		<WonderSplashImage>Luni_sul_Mignone_Splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SOTOWER</Type>
+		<BuildingClass>BUILDINGCLASS_SOTOWER</BuildingClass>
+		<Description>TXT_KEY_BUILDING_SOTOWER</Description>
+		<Help>TXT_KEY_WONDER_SOTOWER_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_SOTOWER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_SOTOWER_QUOTE</Quote>
+		<Cost>1950</Cost>
+		<PrereqTech>TECH_TOTAL</PrereqTech>
+		<MaxStartEra>ERA_MODERN</MaxStartEra>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>4</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<PortraitIndex>62</PortraitIndex>
+		<WonderSplashImage>ScienceTowerSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_GUNUNG</Type>
+		<BuildingClass>BUILDINGCLASS_GUNUNG</BuildingClass>
+		<Description>TXT_KEY_BUILDING_GUNUNG</Description>
+		<Help>TXT_KEY_WONDER_GUNUNG_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_GUNUNG_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_GUNUNG_QUOTE</Quote>
+		<Cost>165</Cost>
+		<PrereqTech>TECH_FLINTSTONES</PrereqTech>
+		<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<Hill>true</Hill>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<PortraitIndex>49</PortraitIndex>
+		<WonderSplashImage>Gunung_Padang_Splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_BAYER</Type>
+		<BuildingClass>BUILDINGCLASS_BAYER</BuildingClass>
+		<Description>TXT_KEY_BUILDING_BAYER</Description>
+		<Help>TXT_KEY_WONDER_BAYER_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_BAYER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_BAYER_QUOTE</Quote>
+		<Cost>1900</Cost>
+		<PrereqTech>TECH_PROPULSION</PrereqTech>
+		<MaxStartEra>ERA_MODERN</MaxStartEra>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>4</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<PortraitIndex>31</PortraitIndex>
+		<FreeBuildingThisCity>BUILDINGCLASS_FACTORY</FreeBuildingThisCity>
+		<WonderSplashImage>BayerSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_AKRO</Type>
+		<BuildingClass>BUILDINGCLASS_AKRO</BuildingClass>
+		<Description>TXT_KEY_BUILDING_AKRO</Description>
+		<Help>TXT_KEY_WONDER_AKRO_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_AKRO_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_AKRO_QUOTE</Quote>
+		<Cost>400</Cost>
+		<PrereqTech>TECH_SMELTING</PrereqTech>
+		<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<WonderProductionModifier>15</WonderProductionModifier>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<PortraitIndex>3</PortraitIndex>
+		<WonderSplashImage>AkroSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_OCITY</Type>
+		<BuildingClass>BUILDINGCLASS_OCITY</BuildingClass>
+		<Description>TXT_KEY_BUILDING_OCITY</Description>
+		<Help>TXT_KEY_WONDER_OCITY_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_OCITY_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_OCITY_QUOTE</Quote>
+		<Cost>20000</Cost>
+		<PrereqTech>TECH_SKYROADS</PrereqTech>
+		<MaxStartEra>ERA_FUTURE</MaxStartEra>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>15</GreatPeopleRateChange>
+		<GlobalPopulationChange>5</GlobalPopulationChange>
+		<TradeRouteRecipientBonus>25</TradeRouteRecipientBonus>
+		<TradeRouteTargetBonus>15</TradeRouteTargetBonus>
+		<TradeRouteLandDistanceModifier>100</TradeRouteLandDistanceModifier>
+		<TradeRouteSeaDistanceModifier>100</TradeRouteSeaDistanceModifier>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<PortraitIndex>57</PortraitIndex>
+		<WonderSplashImage>OrbitalCitySplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+</Row>
+	
+	<!--*****Needs Flavors and Icon*****-->
+	<Row>
+		<Type>BUILDING_WDOME</Type>
+		<BuildingClass>BUILDINGCLASS_WDOME</BuildingClass>
+		<Description>TXT_KEY_BUILDING_WDOME</Description>
+		<Help>TXT_KEY_WONDER_WDOME_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_WDOME_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_WDOME_QUOTE</Quote>
+		<Cost>17500</Cost>
+		<PrereqTech>TECH_APPLIED_GRAVITONICS</PrereqTech>
+		<MaxStartEra>ERA_FUTURE</MaxStartEra>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<Water>true</Water>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>TECH_ATLAS_4</IconAtlas>
+		<PortraitIndex>16</PortraitIndex>
+		<WonderSplashImage>WaterDome.Splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_FCITY</Type>
+		<BuildingClass>BUILDINGCLASS_FCITY</BuildingClass>
+		<Description>TXT_KEY_BUILDING_FCITY</Description>
+		<Help>TXT_KEY_WONDER_FCITY_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_FCITY_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_FCITY_QUOTE</Quote>
+		<Cost>18500</Cost>
+		<PrereqTech>TECH_VERTICAL_FARMING</PrereqTech>
+		<MaxStartEra>ERA_FUTURE</MaxStartEra>
+		<SpecialistType>SPECIALIST_ENVIRONMENT</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>TECH_ATLAS_4</IconAtlas>
+		<PortraitIndex>49</PortraitIndex>
+		<WonderSplashImage>FarmersCity.Splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<EnhancedYieldTech>TECH_TOURISTIC</EnhancedYieldTech>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_QPLANT</Type>
+		<BuildingClass>BUILDINGCLASS_QPLANT</BuildingClass>
+		<Cost>12500</Cost>
+		<GoldMaintenance>300</GoldMaintenance>
+		<PrereqTech>TECH_QUANTUM_POWER</PrereqTech>
+		<Help>TXT_KEY_BUILDING_QPLANT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_QPLANT</Description>
+		<Strategy>TXT_KEY_BUILDING_QPLANT_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_QPLANT_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_ENERGY</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>16</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_POLITIK</Type>
+		<BuildingClass>BUILDINGCLASS_POLITIK</BuildingClass>
+		<Cost>1000</Cost>
+		<GoldMaintenance>8</GoldMaintenance>
+		<PrereqTech>TECH_TOTAL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_POLITIK_HELP</Help>
+		<Description>TXT_KEY_BUILDING_POLITIK</Description>
+		<Strategy>TXT_KEY_BUILDING_POLITIK_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_POLITIK_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<Happiness>2</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>24</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_KATASTROPHENSCHUTZ</Type>
+		<BuildingClass>BUILDINGCLASS_KATASTROPHENSCHUTZ</BuildingClass>
+		<Cost>1250</Cost>
+		<GoldMaintenance>20</GoldMaintenance>
+		<PrereqTech>TECH_SCORCHED_EARTH</PrereqTech>
+		<Help>TXT_KEY_BUILDING_KATASTROPHENSCHUTZ_HELP</Help>
+		<Description>TXT_KEY_BUILDING_KATASTROPHENSCHUTZ</Description>
+		<Strategy>TXT_KEY_BUILDING_KATASTROPHENSCHUTZ_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_KATASTROPHENSCHUTZ_PEDIA</Civilopedia>
+		<Happiness>2</Happiness>
+		<NukeModifier>-15</NukeModifier>
+		<NukeExplosionRand>-15</NukeExplosionRand>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>26</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_IUNIVERSITY</Type>
+		<BuildingClass>BUILDINGCLASS_IUNIVERSITY</BuildingClass>
+		<Cost>4250</Cost>
+		<GoldMaintenance>100</GoldMaintenance>
+		<PrereqTech>TECH_DIGITAL_AGENDA</PrereqTech>
+		<Help>TXT_KEY_BUILDING_IUNIVERSITY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_IUNIVERSITY</Description>
+		<Strategy>TXT_KEY_BUILDING_IUNIVERSITY_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_IUNIVERSITY_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>18</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_WALD</Type>
+		<BuildingClass>BUILDINGCLASS_WALD</BuildingClass>
+		<Cost>1075</Cost>
+		<GoldMaintenance>20</GoldMaintenance>
+		<PrereqTech>TECH_ECO_SYSTEM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_WALD_HELP</Help>
+		<Description>TXT_KEY_BUILDING_WALD</Description>
+		<Strategy>TXT_KEY_BUILDING_WALD_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_WALD_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_ENVIRONMENT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<Happiness>2</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>16</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_TARZAN</Type>
+		<BuildingClass>BUILDINGCLASS_TARZAN</BuildingClass>
+		<Cost>1075</Cost>
+		<GoldMaintenance>20</GoldMaintenance>
+		<PrereqTech>TECH_ECO_SYSTEM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_TARZAN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_TARZAN</Description>
+		<Strategy>TXT_KEY_BUILDING_TARZAN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_TARZAN_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_ENVIRONMENT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<Happiness>2</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_EMPATH_GUILD</Type>
+		<BuildingClass>BUILDINGCLASS_EMPATH_GUILD</BuildingClass>
+		<Cost>25000</Cost>
+		<PrereqTech>TECH_TRANSCENDENT_THOUGHT</PrereqTech>
+		<Help>TXT_KEY_WONDER_EMPATH_GUILD_HELP</Help>
+		<Description>TXT_KEY_WONDER_EMPATH_GUILD</Description>
+		<Civilopedia>TXT_KEY_WONDER_EMPATH_GUILD_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_EMPATH_GUILD_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_TRANSCEND</SpecialistType>
+		<SpecialistCount>4</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_6</IconAtlas>
+		<PortraitIndex>29</PortraitIndex>
+		<WonderSplashImage>EGSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_BULK_MATTER_TRANSMITTER</Type>
+		<BuildingClass>BUILDINGCLASS_BULK_MATTER_TRANSMITTER</BuildingClass>
+		<Cost>19000</Cost>
+		<PrereqTech>TECH_MATTER_TRANSMISSION</PrereqTech>
+		<Help>TXT_KEY_WONDER_BULK_MATTER_TRANSMITTER_HELP</Help>
+		<Description>TXT_KEY_WONDER_BULK_MATTER_TRANSMITTER</Description>
+		<Civilopedia>TXT_KEY_WONDER_BULK_MATTER_TRANSMITTER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_BULK_MATTER_TRANSMITTER_QUOTE</Quote>
+		<NukeImmune>true</NukeImmune>
+		<Airlift>99</Airlift>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_9</IconAtlas>
+		<PortraitIndex>28</PortraitIndex>
+		<WonderSplashImage>BMSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_DREAM_TWISTER</Type>
+		<BuildingClass>BUILDINGCLASS_DREAM_TWISTER</BuildingClass>
+		<Cost>21000</Cost>
+		<PrereqTech>TECH_THE_WILL_TO_POWER</PrereqTech>
+		<Help>TXT_KEY_WONDER_DREAM_TWISTER_HELP</Help>
+		<Description>TXT_KEY_WONDER_DREAM_TWISTER</Description>
+		<Civilopedia>TXT_KEY_WONDER_DREAM_TWISTER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_DREAM_TWISTER_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_TRANSCEND</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<PortraitIndex>25</PortraitIndex>
+		<WonderSplashImage>DreamTwisterSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_NEURAL_AMPLIFIER</Type>
+		<BuildingClass>BUILDINGCLASS_NEURAL_AMPLIFIER</BuildingClass>
+		<Cost>18000</Cost>
+		<PrereqTech>TECH_INTELLECTUAL_INTEGRITY</PrereqTech>
+		<Help>TXT_KEY_WONDER_NEURAL_AMPLIFIER_HELP</Help>
+		<Description>TXT_KEY_WONDER_NEURAL_AMPLIFIER</Description>
+		<Civilopedia>TXT_KEY_WONDER_NEURAL_AMPLIFIER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_NEURAL_AMPLIFIER_QUOTE</Quote>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NumCityCostMod>40</NumCityCostMod>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_6</IconAtlas>
+		<PortraitIndex>22</PortraitIndex>
+		<WonderSplashImage>NeuralSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors,*****-->
+	<Row>
+		<Type>BUILDING_QUANTUM_LAB</Type>
+		<BuildingClass>BUILDINGCLASS_QUANTUM_LAB</BuildingClass>
+		<Cost>11500</Cost>
+		<GoldMaintenance>185</GoldMaintenance>
+		<PrereqTech>TECH_QUANTUM_POWER</PrereqTech>
+		<Help>TXT_KEY_BUILDING_QUANTUM_LAB_HELP</Help>
+		<Description>TXT_KEY_BUILDING_QUANTUM_LAB</Description>
+		<Civilopedia>TXT_KEY_BUILDING_QUANTUM_LAB_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_QUANTUM_LAB_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>5</GreatPeopleRateChange>
+		<HurryCostModifier>0</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<PortraitIndex>4</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_TELEPATHIC_MATRIX</Type>
+		<BuildingClass>BUILDINGCLASS_TELEPATHIC_MATRIX</BuildingClass>
+		<Cost>22500</Cost>
+		<PrereqTech>TECH_THRESHOLD_OF_TRANSCENDENCE</PrereqTech>
+		<Help>TXT_KEY_WONDER_TELEPATHIC_MATRIX_HELP</Help>
+		<Description>TXT_KEY_WONDER_TELEPATHIC_MATRIX</Description>
+		<Civilopedia>TXT_KEY_WONDER_TELEPATHIC_MATRIX_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_TELEPATHIC_MATRIX_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_TRANSCEND</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_7</IconAtlas>
+		<PortraitIndex>56</PortraitIndex>
+		<WonderSplashImage>TMSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_ENERGY_BANK</Type>
+		<BuildingClass>BUILDINGCLASS_ENERGY_BANK</BuildingClass>
+		<Cost>3800</Cost>
+		<PrereqTech>TECH_INDUSTRIAL_ECONOMICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ENERGY_BANK_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ENERGY_BANK</Description>
+		<Civilopedia>TXT_KEY_BUILDING_ENERGY_BANK_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_ENERGY_BANK_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_ENERGY</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<HurryCostModifier>0</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>75</ConquestProb>
+		<IconAtlas>NEO_ATLAS_9</IconAtlas>
+		<PortraitIndex>23</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_BIOENHANCEMENT_CENTER</Type>
+		<BuildingClass>BUILDINGCLASS_BIOENHANCEMENT_CENTER</BuildingClass>
+		<Cost>4000</Cost>
+		<GoldMaintenance>70</GoldMaintenance>
+		<PrereqTech>TECH_SUBATOMIC_ALLOYS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BIOENHANCEMENT_CENTER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BIOENHANCEMENT_CENTER</Description>
+		<Civilopedia>TXT_KEY_BUILDING_BIOENHANCEMENT_CENTER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_BIOENHANCEMENT_CENTER_QUOTE</Quote>
+		<MilitaryProductionModifier>15</MilitaryProductionModifier>
+		<GreatGeneralRateModifier>25</GreatGeneralRateModifier>
+		<HurryCostModifier>0</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<IconAtlas>NEO_ATLAS_10</IconAtlas>
+		<PortraitIndex>8</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors and Icon*****-->
+	<Row>
+		<Type>BUILDING_THEORY_OF_EVERYTHING</Type>
+		<BuildingClass>BUILDINGCLASS_THEORY_OF_EVERYTHING</BuildingClass>
+		<Cost>14500</Cost>
+		<PrereqTech>TECH_MONOPOLE_MAGNETS</PrereqTech>
+		<Help>TXT_KEY_WONDER_THEORY_OF_EVERYTHING_HELP</Help>
+		<Description>TXT_KEY_WONDER_THEORY_OF_EVERYTHING</Description>
+		<Civilopedia>TXT_KEY_WONDER_THEORY_OF_EVERYTHING_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_THEORY_OF_EVERYTHING_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<GreatPeopleRateChange>10</GreatPeopleRateChange>
+		<GreatScientistBeakerModifier>25</GreatScientistBeakerModifier>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<FreeTechs>1</FreeTechs>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>39</PortraitIndex>
+		<WonderSplashImage>TheoryOfEverythingSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_NETWORK_BACKBONE</Type>
+		<BuildingClass>BUILDINGCLASS_NETWORK_BACKBONE</BuildingClass>
+		<Cost>2000</Cost>
+		<PrereqTech>TECH_DIGITAL_SENTIENCE</PrereqTech>
+		<Help>TXT_KEY_WONDER_NETWORK_BACKBONE_HELP</Help>
+		<Description>TXT_KEY_WONDER_NETWORK_BACKBONE</Description>
+		<Civilopedia>TXT_KEY_WONDER_NETWORK_BACKBONE_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_NETWORK_BACKBONE_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>5</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<PortraitIndex>42</PortraitIndex>
+		<WonderSplashImage>NASplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_MANIFOLD_HARMONICS</Type>
+		<BuildingClass>BUILDINGCLASS_MANIFOLD_HARMONICS</BuildingClass>
+		<Cost>3000</Cost>
+		<PrereqTech>TECH_TEMPORAL_MECHANICS</PrereqTech>
+		<Help>TXT_KEY_WONDER_MANIFOLD_HARMONICS_HELP</Help>
+		<Description>TXT_KEY_WONDER_MANIFOLD_HARMONICS</Description>
+		<Civilopedia>TXT_KEY_WONDER_MANIFOLD_HARMONICS_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_MANIFOLD_HARMONICS_QUOTE</Quote>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>62</PortraitIndex>
+		<WonderSplashImage>MHSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_SKY_HYDROPONICS_LAB</Type>
+		<BuildingClass>BUILDINGCLASS_SKY_HYDROPONICS_LAB</BuildingClass>
+		<Cost>800</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_ADVANCED_SPACEFLIGHT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SKY_HYDROPONICS_LAB_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SKY_HYDROPONICS_LAB</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SKY_HYDROPONICS_LAB_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_SKY_HYDROPONICS_LAB_QUOTE</Quote>
+		<HurryCostModifier>0</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<IconAtlas>BW_ATLAS_SMAC</IconAtlas>
+		<PortraitIndex>33</PortraitIndex>
+	</Row>
+	
+	<!--*****Need Flavors and adjusting*****-->
+	<Row>
+		<Type>BUILDING_BUCKINGHAM</Type>
+		<BuildingClass>BUILDINGCLASS_BUCKINGHAM</BuildingClass>
+		<Cost>1450</Cost>
+		<PrereqTech>TECH_CIVIL_DEFENSE</PrereqTech>
+		<Help>TXT_KEY_WONDER_BUCKINGHAM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BUCKINGHAM</Description>
+		<Civilopedia>TXT_KEY_WONDER_BUCKINGHAM_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_BUCKINGHAM_QUOTE</Quote>
+		<MaxStartEra>ERA_MODERN</MaxStartEra>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>BUCKINGHAM_ATLAS</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>buckingham_splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_CYROPRISON</Type>
+		<BuildingClass>BUILDINGCLASS_CYROPRISON</BuildingClass>
+		<Cost>4000</Cost>
+		<GoldMaintenance>70</GoldMaintenance>
+		<PrereqTech>TECH_CRYO</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CYROPRISON_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CYROPRISON</Description>
+		<Strategy>TXT_KEY_BUILDING_CYROPRISON_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CYROPRISON_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_6</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>25</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_AEROSPACE_COMPLEX</Type>
+		<BuildingClass>BUILDINGCLASS_AEROSPACE_COMPLEX</BuildingClass>
+		<Cost>800</Cost>
+		<GoldMaintenance>4</GoldMaintenance>
+		<PrereqTech>TECH_DOCTRINE_AIR_POWER</PrereqTech>
+		<Help>TXT_KEY_BUILDING_AEROSPACE_COMPLEX_HELP</Help>
+		<Description>TXT_KEY_BUILDING_AEROSPACE_COMPLEX</Description>
+		<Civilopedia>TXT_KEY_BUILDING_AEROSPACE_COMPLEX_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_AEROSPACE_COMPLEX_QUOTE</Quote>
+		<HurryCostModifier>0</HurryCostModifier>
+		<Airlift>1</Airlift>
+		<AirModifier>50</AirModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>59</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SCULT</Type>
+		<BuildingClass>BUILDINGCLASS_SCULT</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_SACRIFICE_CULT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SCULT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SCULT</Description>
+		<Strategy>TXT_KEY_BUILDING_SCULT_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SCULT_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<Happiness>1</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>25</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_HANDELSPOSTEN</Type>
+		<BuildingClass>BUILDINGCLASS_HANDELSPOSTEN</BuildingClass>
+		<Cost>285</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_COMMERCE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_HANDELSPOSTEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_HANDELSPOSTEN</Description>
+		<Strategy>TXT_KEY_BUILDING_HANDELSPOSTEN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_HANDELSPOSTEN_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_MONOPOLY_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>17</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_REFUGIUM</Type>
+		<BuildingClass>BUILDINGCLASS_REFUGIUM</BuildingClass>
+		<Cost>285</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_PATRONAGEX</PrereqTech>
+		<Help>TXT_KEY_BUILDING_REFUGIUM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_REFUGIUM</Description>
+		<Strategy>TXT_KEY_BUILDING_REFUGIUM_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_REFUGIUM_PEDIA</Civilopedia>
+		<UnmoddedHappiness>1</UnmoddedHappiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>TECH_ATLAS_3</IconAtlas>
+		<PortraitIndex>12</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_ACADEMYX</Type>
+		<BuildingClass>BUILDINGCLASS_ACADEMYX</BuildingClass>
+		<Cost>285</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_ARCHIMEDES</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ACADEMYX_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ACADEMYX</Description>
+		<Strategy>TXT_KEY_BUILDING_ACADEMYX_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_ACADEMYX_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>		
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>TECH_ATLAS_4</IconAtlas>
+		<PortraitIndex>20</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_GLADIATOR</Type>
+		<BuildingClass>BUILDINGCLASS_GLADIATOR</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_ATHLETICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_GLADIATOR_HELP</Help>
+		<Description>TXT_KEY_BUILDING_GLADIATOR</Description>
+		<Strategy>TXT_KEY_BUILDING_GLADIATOR_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_GLADIATOR_PEDIA</Civilopedia>
+		<Happiness>1</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_6</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>43</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_DOKTOR</Type>
+		<BuildingClass>BUILDINGCLASS_DOKTOR</BuildingClass>
+		<Cost>285</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_ANCIENT_MEDICINE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_DOKTOR_HELP</Help>
+		<Description>TXT_KEY_BUILDING_DOKTOR</Description>
+		<Strategy>TXT_KEY_BUILDING_DOKTOR_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_DOKTOR_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>22</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CENTRAL_BANK</Type>
+		<BuildingClass>BUILDINGCLASS_CENTRAL_BANK</BuildingClass>
+		<Cost>775</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_MERCANTILISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CENTRAL_BANK_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CENTRAL_BANK</Description>
+		<Strategy>TXT_KEY_BUILDING_CENTRAL_BANK_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CENTRAL_BANK_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>3</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>17</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_ORBITAL_HOTEL</Type>
+		<BuildingClass>BUILDINGCLASS_ORBITAL_HOTEL</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_SPACE_TOURISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ORBITAL_HOTEL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ORBITAL_HOTEL</Description>
+		<Strategy>TXT_KEY_BUILDING_ORBITAL_HOTEL_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_ORBITAL_HOTEL_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>1</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_ORGANICFARM</Type>
+		<BuildingClass>BUILDINGCLASS_ORGANICFARM</BuildingClass>
+		<Cost>4000</Cost>
+		<GoldMaintenance>70</GoldMaintenance>
+		<PrereqTech>TECH_REPLACEMENT_ORGANS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ORGANICFARM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ORGANICFARM</Description>
+		<Strategy>TXT_KEY_BUILDING_ORGANICFARM_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_ORGANICFARM_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<UnmoddedHappiness>3</UnmoddedHappiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>22</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CYBER_COMMANDO</Type>
+		<BuildingClass>BUILDINGCLASS_CYBER_COMMANDO</BuildingClass>
+		<Cost>4750</Cost>
+		<GoldMaintenance>125</GoldMaintenance>
+		<PrereqTech>TECH_CYBERWARFARE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CYBER_COMMANDO_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CYBER_COMMANDO</Description>
+		<Strategy>TXT_KEY_BUILDING_CYBER_COMMANDO_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CYBER_COMMANDO_PEDIA</Civilopedia>
+		<Espionage>true</Espionage>
+		<EspionageModifier>35</EspionageModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>21</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_BACLAB</Type>
+		<BuildingClass>BUILDINGCLASS_BACLAB</BuildingClass>
+		<Cost>11000</Cost>
+		<GoldMaintenance>180</GoldMaintenance>
+		<PrereqTech>TECH_PROTOTYPED_PATHOGENS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BACLAB_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BACLAB</Description>
+		<Strategy>TXT_KEY_BUILDING_BACLAB_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_BACLAB_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>46</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_BACFACTORY</Type>
+		<BuildingClass>BUILDINGCLASS_BACFACTORY</BuildingClass>
+		<Cost>10750</Cost>
+		<GoldMaintenance>175</GoldMaintenance>
+		<PrereqTech>TECH_BACTERIUM_ENGINEERING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BACFACTORY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BACFACTORY</Description>
+		<Strategy>TXT_KEY_BUILDING_BACFACTORY_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_BACFACTORY_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>15</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_HABITATION_DOMES</Type>
+		<BuildingClass>BUILDINGCLASS_HABITATION_DOMES</BuildingClass>
+		<Cost>12000</Cost>
+		<GoldMaintenance>200</GoldMaintenance>
+		<PrereqTech>TECH_ETHICAL_CALCULUS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_HABITATION_DOMES_HELP</Help>
+		<Description>TXT_KEY_BUILDING_HABITATION_DOMES</Description>
+		<Civilopedia>TXT_KEY_BUILDING_HABITATION_DOMES_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_HABITATION_DOMES_QUOTE</Quote>
+		<Happiness>2</Happiness>
+		<FoodKept>10</FoodKept>
+		<GreatPeopleRateModifier>10</GreatPeopleRateModifier>
+		<HurryCostModifier>0</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<PortraitIndex>50</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****
+	<Row>
+		<Type>BUILDING_SDRUGS</Type>
+		<BuildingClass>BUILDINGCLASS_SDRUGS</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_SMART_DRUGS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SDRUGS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SDRUGS</Description>
+		<Strategy>TXT_KEY_BUILDING_SDRUGS_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SDRUGS_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>ICON_GOT</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>55</PortraitIndex>
+	</Row>-->
+	
+	<!--*****Needs Flavors and Icon*****-->
+	<Row>
+		<Type>BUILDING_YACHTHAFEN</Type>
+		<BuildingClass>BUILDINGCLASS_YACHTHAFEN</BuildingClass>
+		<GoldMaintenance>10</GoldMaintenance>
+		<Cost>1275</Cost>
+		<PrereqTech>TECH_MODERN_SPORTS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_YACHTHAFEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_YACHTHAFEN</Description>
+		<Strategy>TXT_KEY_BUILDING_YACHTHAFEN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_YACHTHAFEN_PEDIA</Civilopedia>
+		<LandmarksTourismPercent>33</LandmarksTourismPercent>
+		<GreatWorksTourismModifier>33</GreatWorksTourismModifier>
+		<Happiness>2</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>33</PortraitIndex>
+    </Row>
+	
+	<!--*****Needs Flavors and Icon*****-->
+	<Row>
+		<Type>BUILDING_HOLZ</Type>
+		<BuildingClass>BUILDINGCLASS_HOLZ</BuildingClass>
+		<GoldMaintenance>10</GoldMaintenance>
+		<Cost>1275</Cost>
+		<PrereqTech>TECH_ECOLOGY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_HOLZ_HELP</Help>
+		<Description>TXT_KEY_BUILDING_HOLZ</Description>
+		<Strategy>TXT_KEY_BUILDING_HOLZ_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_HOLZ_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>33</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors and Icon*****-->
+	<Row>
+		<Type>BUILDING_MASSE</Type>
+		<BuildingClass>BUILDINGCLASS_MASSE</BuildingClass>
+		<GoldMaintenance>10</GoldMaintenance>
+		<Cost>1275</Cost>
+		<PrereqTech>TECH_GRAVITON_THEORY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MASSE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MASSE</Description>
+		<Strategy>TXT_KEY_BUILDING_MASSE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_MASSE_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>35</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CLINICAL_IMMORTALITY</Type>
+		<BuildingClass>BUILDINGCLASS_CLINICAL_IMMORTALITY</BuildingClass>
+		<Cost>16500</Cost>
+		<PrereqTech>TECH_GENEJURISPRUDENCE</PrereqTech>
+		<Help>TXT_KEY_WONDER_CLINICAL_IMMORTALITY_HELP</Help>
+		<Description>TXT_KEY_WONDER_CLINICAL_IMMORTALITY</Description>
+		<Civilopedia>TXT_KEY_WONDER_CLINICAL_IMMORTALITY_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_CLINICAL_IMMORTALITY_QUOTE</Quote>
+		<ArtDefineTag>ART_DEF_BUILDING_HOSPITAL</ArtDefineTag>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<UnmoddedHappiness>2</UnmoddedHappiness>
+		<FoodKept>25</FoodKept>
+		<GoldenAgeModifier>33</GoldenAgeModifier>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<PortraitIndex>22</PortraitIndex>
+		<WonderSplashImage>CLSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CLONING_VATS</Type>
+		<BuildingClass>BUILDINGCLASS_CLONING_VATS</BuildingClass>
+		<Cost>11250</Cost>
+		<PrereqTech>TECH_BIOMACHINERY</PrereqTech>
+		<Help>TXT_KEY_WONDER_CLONING_VATS_HELP</Help>
+		<Description>TXT_KEY_WONDER_CLONING_VATS</Description>
+		<Civilopedia>TXT_KEY_WONDER_CLONING_VATS_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_CLONING_VATS_QUOTE</Quote>
+		<ArtDefineTag>ART_DEF_BUILDING_GRANARY</ArtDefineTag>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>5</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<FoodKept>100</FoodKept>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<GlobalPopulationChange>2</GlobalPopulationChange>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+		<PortraitIndex>28</PortraitIndex>
+		<WonderSplashImage>CloningVlat.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_PLASMA_LAB</Type>
+		<BuildingClass>BUILDINGCLASS_PLASMA_LAB</BuildingClass>
+		<Cost>40</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_CONTROLLED_PLASMA</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PLASMA_LAB_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PLASMA_LAB</Description>
+		<Strategy>TXT_KEY_BUILDING_PLASMA_LAB_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_PLASMA_LAB_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>ICON_GOT</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>55</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_TERRA_COMPUTER</Type>
+		<BuildingClass>BUILDINGCLASS_TERRA_COMPUTER</BuildingClass>
+		<Cost>15000</Cost>
+		<PrereqTech>TECH_TERRA_COMPUTER</PrereqTech>
+		<Help>TXT_KEY_WONDER_TERRA_COMPUTER_HELP</Help>
+		<Description>TXT_KEY_WONDER_TERRA_COMPUTER</Description>
+		<Civilopedia>TXT_KEY_WONDER_TERRA_COMPUTER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_TERRA_COMPUTER_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>8</GreatPeopleRateChange>
+		<SpecialistCount>3</SpecialistCount>
+		<FreeGreatPeople>2</FreeGreatPeople>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>16</PortraitIndex>
+		<WonderSplashImage>TerraComputer.dds</WonderSplashImage>
+		<WonderSplashAnchor>C,C</WonderSplashAnchor>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_PRESSE</Type>
+		<BuildingClass>BUILDINGCLASS_PRESSE</BuildingClass>
+		<Cost>1100</Cost>
+		<GoldMaintenance>8</GoldMaintenance>
+		<PrereqTech>TECH_JOURNALISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PRESSE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PRESSE</Description>
+		<Strategy>TXT_KEY_BUILDING_PRESSE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_PRESSE_PEDIA</Civilopedia>
+		<Happiness>2</Happiness>
+		<GreatPeopleRateModifier>25</GreatPeopleRateModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>62</PortraitIndex>
+    </Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_NEUROLAB</Type>
+		<BuildingClass>BUILDINGCLASS_NEUROLAB</BuildingClass>
+		<GoldMaintenance>100</GoldMaintenance>
+		<Cost>3800</Cost>
+		<PrereqTech>TECH_COGNITION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NEUROLAB_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NEUROLAB</Description>
+		<Strategy>TXT_KEY_BUILDING_NEUROLAB_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_NEUROLAB_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>3</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>24</PortraitIndex>
+	</Row>
+
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_ALLOY_FOUNDRY</Type>
+		<BuildingClass>BUILDINGCLASS_ALLOY_FOUNDRY</BuildingClass>
+		<Cost>4250</Cost>
+		<GoldMaintenance>75</GoldMaintenance>
+		<PrereqTech>TECH_SUPERSTRONG_ALLOYS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ALLOY_FOUNDRY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ALLOY_FOUNDRY</Description>
+		<Strategy>TXT_KEY_BUILDING_ALLOY_FOUNDRY_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_ALLOY_FOUNDRY_PEDIA</Civilopedia>
+		<BuildingProductionModifier>15</BuildingProductionModifier>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>2</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>46</PortraitIndex>	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CORP</Type>
+		<BuildingClass>BUILDINGCLASS_CORP</BuildingClass>
+		<Cost>50</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_CORPORATION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CORP_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CORP</Description>
+		<Strategy>TXT_KEY_BUILDING_CORP_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CORP_PEDIA</Civilopedia>
+		<Happiness>1</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>57</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_POISEN</Type>
+		<BuildingClass>BUILDINGCLASS_POISEN</BuildingClass>
+		<Cost>50</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_POISON_CRAFTING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_POISEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_POISEN</Description>
+		<Strategy>TXT_KEY_BUILDING_POISEN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_POISEN_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>57</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_STONE_HOUSE</Type>
+		<BuildingClass>BUILDINGCLASS_STONE_HOUSE</BuildingClass>
+		<Cost>50</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_STONE_BUILDINGS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_STONE_HOUSE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_STONE_HOUSE</Description>
+		<Strategy>TXT_KEY_BUILDING_STONE_HOUSE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_STONE_HOUSE_PEDIA</Civilopedia>
+		<Happiness>1</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>30</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_VDOCTOR</Type>
+		<BuildingClass>BUILDINGCLASS_VDOCTOR</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_VETERIANARY_MEDICINE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_VDOCTOR_HELP</Help>
+		<Description>TXT_KEY_BUILDING_VDOCTOR</Description>
+		<Strategy>TXT_KEY_BUILDING_VDOCTOR_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_VDOCTOR_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_DOCTOR</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_7</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>1</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors and Great Work*****-->
+	<Row>
+		<Type>BUILDING_NEBRA</Type>
+		<BuildingClass>BUILDINGCLASS_NEBRA</BuildingClass>
+		<Cost>415</Cost>
+		<PrereqTech>TECH_CALENDAR</PrereqTech>
+		<Help>TXT_KEY_WONDER_NEBRA_HELP</Help>
+		<Description>TXT_KEY_WONDER_NEBRA</Description>
+		<Civilopedia>TXT_KEY_WONDER_NEBRA_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_NEBRA_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<PortraitIndex>27</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>Nebra_Splash.dds</WonderSplashImage>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_WETTER</Type>
+		<BuildingClass>BUILDINGCLASS_WETTER</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_CLIMATE_CONTROL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_WETTER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_WETTER</Description>
+		<Strategy>TXT_KEY_BUILDING_WETTER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_WETTER_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>30</PortraitIndex>
+	</Row>
+
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_HYPER</Type>
+		<BuildingClass>BUILDINGCLASS_HYPER</BuildingClass>
+		<Cost>225</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_HYPERCOMPUTING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_HYPER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_HYPER</Description>
+		<Strategy>TXT_KEY_BUILDING_HYPER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_HYPER_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<SpecialistCount>4</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_6</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>57</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_MUSIKER</Type>
+		<BuildingClass>BUILDINGCLASS_MUSIKER</BuildingClass>
+		<Cost>300</Cost>
+		<GoldMaintenance>4</GoldMaintenance>
+		<PrereqTech>TECH_MUSIKNOTEN</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MUSIKER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MUSIKER</Description>
+		<Strategy>TXT_KEY_BUILDING_MUSIKER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_MUSIKER_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<Happiness>1</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_10</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>33</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_BGARDEN</Type>
+		<BuildingClass>BUILDINGCLASS_BGARDEN</BuildingClass>
+		<Cost>500</Cost>
+		<GoldMaintenance>5</GoldMaintenance>
+		<PrereqTech>TECH_BOTANY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BGARDEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BGARDEN</Description>
+		<Strategy>TXT_KEY_BUILDING_BGARDEN_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_BGARDEN_PEDIA</Civilopedia>
+		<Happiness>2</Happiness>
+		<GreatPeopleRateModifier>15</GreatPeopleRateModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_10</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>1</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_ATLIT_YAM</Type>
+		<BuildingClass>BUILDINGCLASS_ATLIT_YAM</BuildingClass>
+		<Cost>150</Cost>
+		<PrereqTech>TECH_TOOL_SPECIALIZATION</PrereqTech>
+		<Help>TXT_KEY_WONDER_ATLIT_YAM_HELP</Help>
+		<Description>TXT_KEY_WONDER_ATLIT_YAM</Description>
+		<Civilopedia>TXT_KEY_WONDER_ATLIT_YAM_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_ATLIT_YAM_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>1</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>Atlit-Yam_Splash.dds</WonderSplashImage>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CATAL</Type>
+		<BuildingClass>BUILDINGCLASS_CATAL</BuildingClass>
+		<Cost>180</Cost>
+		<PrereqTech>TECH_CORPORATION</PrereqTech>
+		<Help>TXT_KEY_WONDER_CATAL_HELP</Help>
+		<Description>TXT_KEY_WONDER_CATAL</Description>
+		<Civilopedia>TXT_KEY_WONDER_CATAL_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_CATAL_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HappinessPerCity>true</HappinessPerCity>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>Catal_Splash.dds</WonderSplashImage>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_COMMERCIAL_AIRPORT</Type>
+		<BuildingClass>BUILDINGCLASS_COMMERCIAL_AIRPORT</BuildingClass>
+		<Cost>1275</Cost>	
+		<GoldMaintenance>20</GoldMaintenance>
+		<PrereqTech>TECH_ADVANCED_FLIGHT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_COMMERCIAL_AIRPORT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_COMMERCIAL_AIRPORT</Description>
+		<Strategy>TXT_KEY_BUILDING_COMMERCIAL_AIRPORT_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_COMMERCIAL_AIRPORT_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<NumTradeRouteBonus>1</NumTradeRouteBonus>
+		<TradeRouteTargetBonus>5</TradeRouteTargetBonus>
+		<TradeRouteRecipientBonus>5</TradeRouteRecipientBonus>
+		<TradeRouteSeaDistanceModifier>100</TradeRouteSeaDistanceModifier>
+		<TradeRouteLandDistanceModifier>100</TradeRouteLandDistanceModifier>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>11</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_SAT_STATION</Type>
+		<BuildingClass>BUILDINGCLASS_SAT_STATION</BuildingClass>
+		<Cost>1800</Cost>
+		<GoldMaintenance>30</GoldMaintenance>
+		<PrereqTech>TECH_SETI</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SAT_STATION_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SAT_STATION</Description>
+		<Strategy>TXT_KEY_BUILDING_SAT_STATION_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SAT_STATION_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>10</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CARNAC</Type>
+		<BuildingClass>BUILDINGCLASS_CARNAC</BuildingClass>
+		<Cost>165</Cost>
+		<PrereqTech>TECH_ANIMISM</PrereqTech>
+		<Help>TXT_KEY_WONDER_CARNAC_HELP</Help>
+		<Description>TXT_KEY_WONDER_CARNAC</Description>
+		<Civilopedia>TXT_KEY_WONDER_CARNAC_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_CARNAC_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>2</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>Carnac_Splash.dds</WonderSplashImage>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_CONTROL_CENTER</Type>
+		<BuildingClass>BUILDINGCLASS_CONTROL_CENTER</BuildingClass>
+		<Cost>10000</Cost>
+		<GoldMaintenance>150</GoldMaintenance>
+		<PrereqTech>TECH_MILITARY_ROBOTS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CONTROL_CENTER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CONTROL_CENTER</Description>
+		<Strategy>TXT_KEY_BUILDING_CONTROL_CENTER_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CONTROL_CENTER_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>23</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_DWARF</Type>
+		<BuildingClass>BUILDINGCLASS_DWARF</BuildingClass>
+		<Cost>170</Cost>
+		<PrereqTech>TECH_CHIEFTAIN</PrereqTech>
+		<Help>TXT_KEY_WONDER_DWARF_HELP</Help>
+		<Description>TXT_KEY_WONDER_DWARF</Description>
+		<Civilopedia>TXT_KEY_WONDER_DWARF_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_DWARF_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<GreatPersonExpendGold>100</GreatPersonExpendGold>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>3</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>DwarfieStane_Splash.dds</WonderSplashImage>	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_OSIRION</Type>
+		<BuildingClass>BUILDINGCLASS_OSIRION</BuildingClass>
+		<Cost>170</Cost>
+		<PrereqTech>TECH_CULTURAL_IDENTITY</PrereqTech>
+		<Help>TXT_KEY_WONDER_OSIRION_HELP</Help>
+		<Description>TXT_KEY_WONDER_OSIRION</Description>
+		<Civilopedia>TXT_KEY_WONDER_OSIRION_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_OSIRION_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>34</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>OsireionSplash.dds</WonderSplashImage>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_LEV_PLANT</Type>
+		<BuildingClass>BUILDINGCLASS_LEV_PLANT</BuildingClass>
+		<Cost>15000</Cost>
+		<GoldMaintenance>1500</GoldMaintenance>
+		<PrereqTech>TECH_LEVITATION_MOTORS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_LEV_PLANT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_LEV_PLANT</Description>
+		<Strategy>TXT_KEY_BUILDING_LEV_PLANT_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_LEV_PLANT_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>41</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_SOMA_DISTILLERY</Type>
+		<BuildingClass>BUILDINGCLASS_SOMA_DISTILLERY</BuildingClass>
+		<Cost>10000</Cost>
+		<GoldMaintenance>50</GoldMaintenance>
+		<PrereqTech>TECH_SMART_DRUGS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SOMA_DISTILLERY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SOMA_DISTILLERY</Description>
+		<Strategy>TXT_KEY_BUILDING_SOMA_DISTILLERY_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_SOMA_DISTILLERY_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>45</PortraitIndex>
+	</Row>
+
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_DIONYSUS</Type>
+		<BuildingClass>BUILDINGCLASS_DIONYSUS</BuildingClass>
+		<Cost>1600</Cost>
+		<PrereqTech>TECH_ENTERTAINMENT</PrereqTech>
+		<Help>TXT_KEY_WONDER_DIONYSUS_HELP</Help>
+		<Description>TXT_KEY_WONDER_DIONYSUS</Description>
+		<Civilopedia>TXT_KEY_WONDER_DIONYSUS_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_DIONYSUS_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+		<GreatPeopleRateChange>3</GreatPeopleRateChange>
+		<SpecialistCount>2</SpecialistCount>
+		<FreeBuildingThisCity>BUILDINGCLASS_THEATRE</FreeBuildingThisCity>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>4</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>DionysusSplash.dds</WonderSplashImage>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_ANTI</Type>
+		<BuildingClass>BUILDINGCLASS_ANTI</BuildingClass>
+		<Cost>1600</Cost>
+		<PrereqTech>TECH_ANCIENT_MACHINERY</PrereqTech>
+		<Help>TXT_KEY_WONDER_ANTI_HELP</Help>
+		<Description>TXT_KEY_WONDER_ANTI</Description>
+		<Civilopedia>TXT_KEY_WONDER_ANTI_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_ANTI_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NumTradeRouteBonus>2</NumTradeRouteBonus>
+		<TradeRouteTargetBonus>2</TradeRouteTargetBonus>
+		<TradeRouteRecipientBonus>2</TradeRouteRecipientBonus>
+		<TradeRouteLandDistanceModifier>50</TradeRouteLandDistanceModifier>
+		<TradeRouteSeaDistanceModifier>50</TradeRouteSeaDistanceModifier>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>6</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>Antikythera_Mechanism_Splash.dds</WonderSplashImage>
+</Row>
+
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_REICHSTAG</Type>
+		<BuildingClass>BUILDINGCLASS_REICHSTAG</BuildingClass>
+		<Cost>1500</Cost>
+		<PrereqTech>TECH_CAVALRY_RAIDS</PrereqTech>
+		<Help>TXT_KEY_WONDER_REICHSTAG_HELP</Help>
+		<Description>TXT_KEY_WONDER_REICHSTAG</Description>
+		<Civilopedia>TXT_KEY_WONDER_REICHSTAG_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_REICHSTAG_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>2</SpecialistCount>
+		<FreePolicies>2</FreePolicies>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>7</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>ReichstagSplash.dds</WonderSplashImage>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CHALL</Type>
+		<BuildingClass>BUILDINGCLASS_CHALL</BuildingClass>
+		<Cost>975</Cost>
+		<PrereqTech>TECH_SNOW</PrereqTech>
+		<Help>TXT_KEY_WONDER_CHALL_HELP</Help>
+		<Description>TXT_KEY_WONDER_CHALL</Description>
+		<Civilopedia>TXT_KEY_WONDER_CHALL_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_CHALL_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<NumTradeRouteBonus>1</NumTradeRouteBonus>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>33</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>WiesÅ‚awMajkaSplash.dds</WonderSplashImage>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_INDRA</Type>
+		<BuildingClass>BUILDINGCLASS_INDRA</BuildingClass>
+		<Cost>600</Cost>
+		<PrereqTech>TECH_PATRONAGEX</PrereqTech>
+		<Help>TXT_KEY_WONDER_INDRA_HELP</Help>
+		<Description>TXT_KEY_WONDER_INDRA</Description>
+		<Civilopedia>TXT_KEY_WONDER_INDRA_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_INDRA_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<UnmoddedHappiness>2</UnmoddedHappiness>
+        <NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>5</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>IndraSplash.dds</WonderSplashImage>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_DPOLICY</Type>
+		<BuildingClass>BUILDINGCLASS_DPOLICY</BuildingClass>
+		<Cost>8500</Cost>
+		<GoldMaintenance>150</GoldMaintenance>
+		<PrereqTech>TECH_MASS_SURVEILLANCE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_DPOLICY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_DPOLICY</Description>
+		<Strategy>TXT_KEY_BUILDING_DPOLICY_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_DPOLICY_PEDIA</Civilopedia>
+		<EspionageModifier>-25</EspionageModifier>
+		<Espionage>true</Espionage>
+		<Happiness>-3</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>21</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_BIOLAB</Type>
+		<BuildingClass>BUILDINGCLASS_BIOLAB</BuildingClass>
+		<Cost>5750</Cost>
+		<GoldMaintenance>50</GoldMaintenance>
+		<PrereqTech>TECH_BIO_WARFARE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BIOLAB_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BIOLAB</Description>
+		<Strategy>TXT_KEY_BUILDING_BIOLAB_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_BIOLAB_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>45</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_NODE_BANK</Type>
+		<BuildingClass>BUILDINGCLASS_NODE_BANK</BuildingClass>
+		<Cost>4150</Cost>
+		<GoldMaintenance>50</GoldMaintenance>
+		<PrereqTech>TECH_CYBERNETICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NODE_BANK_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NODE_BANK</Description>
+		<Strategy>TXT_KEY_BUILDING_NODE_BANK_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_NODE_BANK_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>25</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_BOREHOLE</Type>
+		<BuildingClass>BUILDINGCLASS_BOREHOLE</BuildingClass>
+		<Cost>15000</Cost>
+		<GoldMaintenance>500</GoldMaintenance>
+		<PrereqTech>TECH_PLANETARY_ENGINEERING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BOREHOLE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BOREHOLE</Description>
+		<Strategy>TXT_KEY_BUILDING_BOREHOLE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_BOREHOLE_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<SpecialistCount>4</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_8</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>47</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_CIVIL_CRECHE</Type>
+		<BuildingClass>BUILDINGCLASS_CIVIL_CRECHE</BuildingClass>
+		<Cost>8500</Cost>
+		<GoldMaintenance>150</GoldMaintenance>
+		<PrereqTech>TECH_SOCIAL_DYNAMICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CIVIL_CRECHE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CIVIL_CRECHE</Description>
+		<Strategy>TXT_KEY_BUILDING_CIVIL_CRECHE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_CIVIL_CRECHE_PEDIA</Civilopedia>
+		<Happiness>2</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>1</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, adjusting*****-->
+	<Row>
+		<Type>BUILDING_OPTICAL_SURGERY</Type>
+		<BuildingClass>BUILDINGCLASS_OPTICAL_SURGERY</BuildingClass>
+		<GoldMaintenance>115</GoldMaintenance>
+		<Cost>3500</Cost>
+		<PrereqTech>TECH_MECHATRONICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_OPTICAL_SURGERY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_OPTICAL_SURGERY</Description>
+		<Strategy>TXT_KEY_BUILDING_OPTICAL_SURGERY_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_OPTICAL_SURGERY_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<GreatPeopleRateChange>3</GreatPeopleRateChange>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_9</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>44</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_DIGITAL</Type>
+		<BuildingClass>BUILDINGCLASS_DIGITAL</BuildingClass>
+		<Cost>8500</Cost>
+		<GoldMaintenance>150</GoldMaintenance>
+		<PrereqTech>TECH_DIGITAL_REVOLUTION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_DIGITAL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_DIGITAL</Description>
+		<Strategy>TXT_KEY_BUILDING_DIGITAL_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_DIGITAL_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>35</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_RESURRECTION_DEVICE</Type>
+		<BuildingClass>BUILDINGCLASS_RESURRECTION_DEVICE</BuildingClass>
+		<Cost>1600</Cost>
+		<PrereqTech>TECH_LIQUIDMETAL</PrereqTech>
+		<Help>TXT_KEY_WONDER_RESURRECTION_DEVICE_HELP</Help>
+		<Description>TXT_KEY_WONDER_RESURRECTION_DEVICE</Description>
+		<Civilopedia>TXT_KEY_WONDER_RESURRECTION_DEVICE_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_RESURRECTION_DEVICE_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>4</GreatPeopleRateChange>
+		<HealRateChange>100</HealRateChange>
+		<InstantMilitaryIncrease>2</InstantMilitaryIncrease>
+        <NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<PortraitIndex>29</PortraitIndex>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+		<WonderSplashImage>RDSplash.dds</WonderSplashImage>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_NEOPLANETARIUM</Type>
+		<BuildingClass>BUILDINGCLASS_NEOPLANETARIUM</BuildingClass>
+		<Cost>30000</Cost>
+		<GoldMaintenance>800</GoldMaintenance>
+		<PrereqTech>TECH_ORBITAL_NETWORKS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NEOPLANETARIUM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NEOPLANETARIUM</Description>
+		<Strategy>TXT_KEY_BUILDING_NEOPLANETARIUM_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_NEOPLANETARIUM_PEDIA</Civilopedia>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>2</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_MASTER_CONTROL</Type>
+		<BuildingClass>BUILDINGCLASS_MASTER_CONTROL</BuildingClass>
+		<Cost>13000</Cost>
+		<PrereqTech>TECH_CYBERWARFARE</PrereqTech>
+		<Help>TXT_KEY_WONDER_MASTER_CONTROL_HELP</Help>
+		<Description>TXT_KEY_WONDER_MASTER_CONTROL</Description>
+		<Civilopedia>TXT_KEY_WONDER_MASTER_CONTROL_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_MASTER_CONTROL_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<PortraitIndex>7</PortraitIndex>
+		<WonderSplashImage>MasterControlSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,T</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_PRECOG_PROJECT</Type>
+		<BuildingClass>BUILDINGCLASS_PRECOG_PROJECT</BuildingClass>
+		<Cost>19000</Cost>
+		<PrereqTech>TECH_TRANSCENDENTAL_MATH</PrereqTech>
+		<Help>TXT_KEY_WONDER_PRECOG_PROJECT_HELP</Help>
+		<Description>TXT_KEY_WONDER_PRECOG_PROJECT</Description>
+		<Civilopedia>TXT_KEY_WONDER_PRECOG_PROJECT_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_PRECOG_PROJECT_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_TRANSCEND</SpecialistType>
+		<SpecialistCount>2</SpecialistCount>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<GoldenAge>true</GoldenAge>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>20</PortraitIndex>
+		<WonderSplashImage>PrecognitionSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_PERIMETER_DEFENSE</Type>
+		<BuildingClass>BUILDINGCLASS_PERIMETER_DEFENSE</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_APPLIED_GRAVITONICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PERIMETER_DEFENSE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PERIMETER_DEFENSE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_PERIMETER_DEFENSE_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_PERIMETER_DEFENSE_QUOTE</Quote>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<AllowsRangeStrike>true</AllowsRangeStrike>
+		<Defense>1000</Defense>
+		<NukeModifier>-20</NukeModifier>
+		<CityWall>true</CityWall>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_4</IconAtlas>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_CYBORG_FACTORY</Type>
+		<BuildingClass>BUILDINGCLASS_CYBORG_FACTORY</BuildingClass>
+		<Cost>13500</Cost>
+		<PrereqTech>TECH_MIND_MACHINE_INTERFACE</PrereqTech>
+		<Help>TXT_KEY_WONDER_CYBORG_FACTORY_HELP</Help>
+		<Description>TXT_KEY_WONDER_CYBORG_FACTORY</Description>
+		<Civilopedia>TXT_KEY_WONDER_CYBORG_FACTORY_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_CYBORG_FACTORY_QUOTE</Quote>
+		<ArtDefineTag>ART_DEF_BUILDING_HYDRO_PLANT</ArtDefineTag>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>5</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<MilitaryProductionModifier>50</MilitaryProductionModifier>
+		<DisplayPosition>0</DisplayPosition>
+		<IconAtlas>NEO_ATLAS_7</IconAtlas>
+		<PortraitIndex>52</PortraitIndex>
+		<WonderSplashImage>CyborgFactorySplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_MARKOV_ECLIPSE</Type>
+		<BuildingClass>BUILDINGCLASS_MARKOV_ECLIPSE</BuildingClass>
+		<Cost>1600</Cost>
+		<PrereqTech>TECH_ARTIFICIAL_LIFE</PrereqTech>
+		<Help>TXT_KEY_WONDER_MARKOV_ECLIPSE_HELP</Help>
+		<Description>TXT_KEY_WONDER_MARKOV_ECLIPSE</Description>
+		<Civilopedia>TXT_KEY_WONDER_MARKOV_ECLIPSE_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_MARKOV_ECLIPSE_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>62</PortraitIndex>
+		<WonderSplashImage>EclypseSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_ORBITAL_FACTORY</Type>
+		<BuildingClass>BUILDINGCLASS_ORBITAL_FACTORY</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_SPACE_COLONIES</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ORBITAL_FACTORY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ORBITAL_FACTORY</Description>
+		<Civilopedia>TXT_KEY_BUILDING_ORBITAL_FACTORY_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_ORBITAL_FACTORY_STRATEGY</Strategy>
+		<SpaceProductionModifier>100</SpaceProductionModifier>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>13</PortraitIndex>
+	
+</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_QUANTUM_TELEPORTER</Type>
+		<BuildingClass>BUILDINGCLASS_QUANTUM_TELEPORTER</BuildingClass>
+		<Cost>13500</Cost>
+		<PrereqTech>TECH_QUANTUM_TELEPORTATION</PrereqTech>
+		<Help>TXT_KEY_WONDER_QUANTUM_TELEPORTER_HELP</Help>
+		<Description>TXT_KEY_WONDER_QUANTUM_TELEPORTER</Description>
+		<Civilopedia>TXT_KEY_WONDER_QUANTUM_TELEPORTER_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_QUANTUM_TELEPORTER_QUOTE</Quote>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>23</PortraitIndex>
+		<WonderSplashImage>EclypseSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_NEURAL_UPLOADER</Type>
+		<BuildingClass>BUILDINGCLASS_NEURAL_UPLOADER</BuildingClass>
+		<Cost>11250</Cost>
+		<GoldMaintenance>185</GoldMaintenance>
+		<PrereqTech>TECH_NEURAL_UPLOADING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NEURAL_UPLOADER_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NEURAL_UPLOADER</Description>
+		<Civilopedia>TXT_KEY_BUILDING_NEURAL_UPLOADER_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NEURAL_UPLOADER_STRATEGY</Strategy>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_9</IconAtlas>
+		<PortraitIndex>45</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_SYNSEN</Type>
+		<BuildingClass>BUILDINGCLASS_SYNSEN</BuildingClass>
+		<Cost>10000</Cost>
+		<GoldMaintenance>175</GoldMaintenance>
+		<PrereqTech>TECH_SYNTHETIC_SENTIENCE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SYNSEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SYNSEN</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SYNSEN_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SYNSEN_STRATEGY</Strategy>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>33</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_QCELLS</Type>
+		<BuildingClass>BUILDINGCLASS_QCELLS</BuildingClass>
+		<Cost>10000</Cost>
+		<GoldMaintenance>175</GoldMaintenance>
+		<PrereqTech>TECH_QUANTUM_MECHANICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_QCELLS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_QCELLS</Description>
+		<Civilopedia>TXT_KEY_BUILDING_QCELLS_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_QCELLS_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_ENERGY</SpecialistType>
+		<SpecialistCount>3</SpecialistCount>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_7</IconAtlas>
+		<PortraitIndex>61</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SCHOOL_OF_SCRIBES</Type>
+		<BuildingClass>BUILDINGCLASS_SCHOOL_OF_SCRIBES</BuildingClass>
+		<Cost>285</Cost>
+		<GoldMaintenance>2</GoldMaintenance>
+		<PrereqTech>TECH_ORTHOGRAPHY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SCHOOL_OF_SCRIBES_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SCHOOL_OF_SCRIBES</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SCHOOL_OF_SCRIBES_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SCHOOL_OF_SCRIBES_STRATEGY</Strategy>
+		<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>14</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_PROPAGANDA_OFFICE</Type>
+		<BuildingClass>BUILDINGCLASS_PROPAGANDA_OFFICE</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_PROPAGANDA</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PROPAGANDA_OFFICE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PROPAGANDA_OFFICE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_PROPAGANDA_OFFICE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_PROPAGANDA_OFFICE_STRATEGY</Strategy>
+		<HurryCostModifier>25</HurryCostModifier>
+		<HappinessPerXPolicies>25</HappinessPerXPolicies>
+		<PlotCultureCostModifier>-25</PlotCultureCostModifier>
+		<PlotBuyCostModifier>-25</PlotBuyCostModifier>
+		<ReligiousPressureModifier>100</ReligiousPressureModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>13</PortraitIndex>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_MILITARY_SCHOOL</Type>
+		<BuildingClass>BUILDINGCLASS_MILITARY_SCHOOL</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_DYNASTY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MILITARY_SCHOOL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MILITARY_SCHOOL</Description>
+		<Civilopedia>TXT_KEY_BUILDING_MILITARY_SCHOOL_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MILITARY_SCHOOL_STRATEGY</Strategy>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_7</IconAtlas>
+		<PortraitIndex>31</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_THEO</Type>
+		<BuildingClass>BUILDINGCLASS_THEO</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_CHRONOS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_THEO_HELP</Help>
+		<Description>TXT_KEY_BUILDING_THEO</Description>
+		<Civilopedia>TXT_KEY_BUILDING_THEO_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_THEO_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_THEOCRACYX</PolicyBranchType>
+		<SpecialistType>SPECIALIST_JUDGE</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<ReligiousPressureModifier>25</ReligiousPressureModifier>
+		<IsReligious>true</IsReligious>
+		<Espionage>true</Espionage>
+		<EspionageModifier>25</EspionageModifier>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>46</PortraitIndex>
+     </Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_POLIS</Type>
+		<BuildingClass>BUILDINGCLASS_POLIS</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_DEMOCRACY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_POLIS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_POLIS</Description>
+		<Civilopedia>TXT_KEY_BUILDING_POLIS_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_POLIS_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_REPUBLICX</PolicyBranchType>
+		<Happiness>3</Happiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_10</IconAtlas>
+		<PortraitIndex>62</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_ANGORA</Type>
+		<BuildingClass>BUILDINGCLASS_ANGORA</BuildingClass>
+		<Cost>150</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_HERITAGE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ANGORA_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ANGORA</Description>
+		<Civilopedia>TXT_KEY_BUILDING_ANGORA_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_ANGORA_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_LIBERTY</PolicyBranchType>
+		<Happiness>2</Happiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>18</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_POPU</Type>
+		<BuildingClass>BUILDINGCLASS_POPU</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_ADVOCADI_DIABOLI</PrereqTech>
+		<Help>TXT_KEY_BUILDING_POPU_HELP</Help>
+		<Description>TXT_KEY_BUILDING_POPU</Description>
+		<Civilopedia>TXT_KEY_BUILDING_POPU_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_POPU_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_POPULISM</PolicyBranchType>
+		<UnmoddedHappiness>5</UnmoddedHappiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<PortraitIndex>55</PortraitIndex>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_ICOURT</Type>
+		<BuildingClass>BUILDINGCLASS_ICOURT</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_IMPERIALISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_ICOURT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ICOURT</Description>
+		<Civilopedia>TXT_KEY_BUILDING_ICOURT_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_ICOURT_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_IMPERIALISM</PolicyBranchType>
+		<SpecialistType>SPECIALIST_JUDGE</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<Espionage>true</Espionage>
+		<EspionageModifier>25</EspionageModifier>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>22</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_MANSION</Type>
+		<BuildingClass>BUILDINGCLASS_MANSION</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_CONCRETE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MANSION_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MANSION</Description>
+		<Civilopedia>TXT_KEY_BUILDING_MANSION_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MANSION_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_PLUTOCRACY</PolicyBranchType>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>17</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_IQUARTERS</Type>
+		<BuildingClass>BUILDINGCLASS_IQUARTERS</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_GOVERNMENT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_IQUARTERS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_IQUARTERS</Description>
+		<Civilopedia>TXT_KEY_BUILDING_IQUARTERS_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_IQUARTERS_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_PLURALISM</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>30</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavor and Icon*****-->
+	<Row>
+		<Type>BUILDING_MQUARTERS</Type>
+		<BuildingClass>BUILDINGCLASS_MQUARTERS</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_MERCHANTS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MQUARTERS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MQUARTERS</Description>
+		<Civilopedia>TXT_KEY_BUILDING_MQUARTERS_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MQUARTERS_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_COMMERCE</PolicyBranchType>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>13</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors and Icon*****-->
+	<Row>
+		<Type>BUILDING_VOYAGE</Type>
+		<BuildingClass>BUILDINGCLASS_VOYAGE</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_COMPASS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_VOYAGE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_VOYAGE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_VOYAGE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_VOYAGE_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_EXPLORATION</PolicyBranchType>
+		<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+		<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+		<NumTradeRouteBonus>1</NumTradeRouteBonus>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>13</PortraitIndex>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_COLLEGE</Type>
+		<BuildingClass>BUILDINGCLASS_COLLEGE</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_MICROSCOPE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_COLLEGE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_COLLEGE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_COLLEGE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_COLLEGE_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_RATIONALISM</PolicyBranchType>
+		<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>25</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SECRET</Type>
+		<BuildingClass>BUILDINGCLASS_SECRET</BuildingClass>
+		<Cost>540</Cost>
+		<GoldMaintenance>3</GoldMaintenance>
+		<PrereqTech>TECH_PERSPECTIVE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SECRET_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SECRET</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SECRET_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SECRET_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_ESPIONAGE</PolicyBranchType>
+		<Espionage>true</Espionage>
+		<EspionageModifier>33</EspionageModifier>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>34</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors and Icon*****-->
+	<Row>
+		<Type>BUILDING_MONOPOLYX</Type>
+		<BuildingClass>BUILDINGCLASS_MONOPOLYX</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_BANKING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MONOPOLYX_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MONOPOLYX</Description>
+		<Civilopedia>TXT_KEY_BUILDING_MONOPOLYX_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MONOPOLYX_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_CAPITALISMX</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>13</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_PROTEST</Type>
+		<BuildingClass>BUILDINGCLASS_PROTEST</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_LIBERALISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PROTEST_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PROTEST</Description>
+		<Civilopedia>TXT_KEY_BUILDING_PROTEST_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_PROTEST_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_LIBERALISM</PolicyBranchType>
+		<HappinessPerXPolicies>10</HappinessPerXPolicies>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>47</PortraitIndex>	
+</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_PGROUP</Type>
+		<BuildingClass>BUILDINGCLASS_PGROUP</BuildingClass>
+		<Cost>775</Cost>
+		<GoldMaintenance>10</GoldMaintenance>
+		<PrereqTech>TECH_RIFLING</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PGROUP_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PGROUP</Description>
+		<Civilopedia>TXT_KEY_BUILDING_PGROUP_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_PGROUP_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_CONSERVATISM</PolicyBranchType>
+		<AllowsRangeStrike>true</AllowsRangeStrike>
+		<Defense>1000</Defense>
+		<ExtraCityHitPoints>25</ExtraCityHitPoints>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_10</IconAtlas>
+		<PortraitIndex>49</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_CONVENTION</Type>
+		<BuildingClass>BUILDINGCLASS_CONVENTION</BuildingClass>
+		<Cost>720</Cost>
+		<GoldMaintenance>3</GoldMaintenance>
+		<PrereqTech>TECH_ENLIGHTED_ABSOLUTISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_CONVENTION_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CONVENTION</Description>
+		<Civilopedia>TXT_KEY_BUILDING_CONVENTION_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_CONVENTION_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_CONSTITUTIONAL</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>59</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_NGUARD</Type>
+		<BuildingClass>BUILDINGCLASS_NGUARD</BuildingClass>
+		<Cost>720</Cost>
+		<GoldMaintenance>3</GoldMaintenance>
+		<PrereqTech>TECH_NATIONALISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NGUARD_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NGUARD</Description>
+		<Civilopedia>TXT_KEY_BUILDING_NGUARD_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NGUARD_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_NATIONALISMX</PolicyBranchType>
+		<GlobalDefenseMod>33</GlobalDefenseMod>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>16</PortraitIndex>
+	
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_RPARLIAMENT</Type>
+		<BuildingClass>BUILDINGCLASS_RPARLIAMENT</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_POLITICS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_RPARLIAMENT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RPARLIAMENT</Description>
+		<Civilopedia>TXT_KEY_BUILDING_RPARLIAMENT_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_RPARLIAMENT_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_PARLIAMENTARY</PolicyBranchType>
+		<SpecialistType>SPECIALIST_JUDGE</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<UnmoddedHappiness>2</UnmoddedHappiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>16</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_PPLACE</Type>
+		<BuildingClass>BUILDINGCLASS_PPLACE</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_ICARUS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_PPLACE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_PPLACE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_PPLACE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_PPLACE_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_ELECTORAL</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_10</IconAtlas>
+		<PortraitIndex>23</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_FCOURTS</Type>
+		<BuildingClass>BUILDINGCLASS_FCOURTS</BuildingClass>
+		<Cost>720</Cost>
+		<GoldMaintenance>3</GoldMaintenance>
+		<PrereqTech>TECH_SOCIAL_CONTRACT</PrereqTech>
+		<Help>TXT_KEY_BUILDING_FCOURTS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_FCOURTS</Description>
+		<Civilopedia>TXT_KEY_BUILDING_FCOURTS_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_FCOURTS_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_FEDERALISM</PolicyBranchType>
+		<SpecialistType>SPECIALIST_JUDGE</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<Happiness>2</Happiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>45</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SECPOLICY</Type>
+		<BuildingClass>BUILDINGCLASS_SECPOLICY</BuildingClass>
+		<Cost>775</Cost>
+		<GoldMaintenance>10</GoldMaintenance>
+		<PrereqTech>TECH_MILITARY_TRADITION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SECPOLICY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SECPOLICY</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SECPOLICY_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SECPOLICY_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_FASCISM</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<Espionage>true</Espionage>
+		<EspionageModifier>50</EspionageModifier>
+		<SpyRankChange>1</SpyRankChange>
+		<Happiness>-3</Happiness>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>10</PortraitIndex>
+</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_SLABOR</Type>
+		<BuildingClass>BUILDINGCLASS_SLABOR</BuildingClass>
+		<Cost>1000</Cost>
+		<GoldMaintenance>8</GoldMaintenance>
+		<PrereqTech>TECH_TOTAL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SLABOR_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SLABOR</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SLABOR_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_SLABOR_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_ANARCHISM</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_5</IconAtlas>
+		<PortraitIndex>14</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_WHOUSE</Type>
+		<BuildingClass>BUILDINGCLASS_WHOUSE</BuildingClass>
+		<GoldMaintenance>10</GoldMaintenance>
+		<Cost>1275</Cost>
+		<PrereqTech>TECH_LOGISTIC</PrereqTech>
+		<Help>TXT_KEY_BUILDING_WHOUSE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_WHOUSE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_WHOUSE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_WHOUSE_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_SUPPLY</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>61</PortraitIndex>
+	</Row>
+
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_BUYOUT</Type>
+		<BuildingClass>BUILDINGCLASS_BUYOUT</BuildingClass>
+		<Cost>1050</Cost>
+		<GoldMaintenance>15</GoldMaintenance>
+		<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_BUYOUT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BUYOUT</Description>
+		<Civilopedia>TXT_KEY_BUILDING_BUYOUT_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_BUYOUT_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_CORPORATE</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>5</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_MCONTROL</Type>
+		<BuildingClass>BUILDINGCLASS_MCONTROL</BuildingClass>
+		<Cost>8000</Cost>
+		<GoldMaintenance>100</GoldMaintenance>
+		<PrereqTech>TECH_FUNCTIONAL_MRI</PrereqTech>
+		<Help>TXT_KEY_BUILDING_MCONTROL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MCONTROL</Description>
+		<Civilopedia>TXT_KEY_BUILDING_MCONTROL_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MCONTROL_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_TECHNOCRACY</PolicyBranchType>
+		<UnhappinessModifier>-100</UnhappinessModifier>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>48</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields*****-->
+	<Row>
+		<Type>BUILDING_EVOTE</Type>
+		<BuildingClass>BUILDINGCLASS_EVOTE</BuildingClass>
+		<Cost>12500</Cost>
+		<GoldMaintenance>250</GoldMaintenance>
+		<PrereqTech>TECH_VIRTUALSOCIETY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_EVOTE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_EVOTE</Description>
+		<Civilopedia>TXT_KEY_BUILDING_EVOTE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_EVOTE_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_VIRTUALDEMOCRACY</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>55</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_RCOURT</Type>
+		<BuildingClass>BUILDINGCLASS_RCOURT</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_CODE_OF_LAWS</PrereqTech>
+		<Help>TXT_KEY_BUILDING_RCOURT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RCOURT</Description>
+		<Civilopedia>TXT_KEY_BUILDING_RCOURT_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_RCOURT_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_JUSTICE</PolicyBranchType>
+		<SpecialistType>SPECIALIST_JUDGE</SpecialistType>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<SpecialistCount>1</SpecialistCount>
+		<UnmoddedHappiness>2</UnmoddedHappiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>47</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_RSCHOOL</Type>
+		<BuildingClass>BUILDINGCLASS_RSCHOOL</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_REFORMATION</PrereqTech>
+		<Help>TXT_KEY_BUILDING_RSCHOOL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RSCHOOL</Description>
+		<Civilopedia>TXT_KEY_BUILDING_RSCHOOL_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_RSCHOOL_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_REFORMATION</PolicyBranchType>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>37</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_NMONOPOLY</Type>
+		<BuildingClass>BUILDINGCLASS_NMONOPOLY</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_SOCIALISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_NMONOPOLY_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NMONOPOLY</Description>
+		<Civilopedia>TXT_KEY_BUILDING_NMONOPOLY_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NMONOPOLY_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_SOCIALISM</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_13</IconAtlas>
+		<PortraitIndex>5</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_LCAMP</Type>
+		<BuildingClass>BUILDINGCLASS_LCAMP</BuildingClass>
+		<Cost>400</Cost>
+		<GoldMaintenance>1</GoldMaintenance>
+		<PrereqTech>TECH_MARXISM</PrereqTech>
+		<Help>TXT_KEY_BUILDING_LCAMP_HELP</Help>
+		<Description>TXT_KEY_BUILDING_LCAMP</Description>
+		<Civilopedia>TXT_KEY_BUILDING_LCAMP_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_LCAMP_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_COMMUNISM</PolicyBranchType>
+		<Happiness>-4</Happiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>38</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors*****-->
+	<Row>
+		<Type>BUILDING_DMONUMENT</Type>
+		<BuildingClass>BUILDINGCLASS_DMONUMENT</BuildingClass>
+		<Cost>1000</Cost>
+		<GoldMaintenance>8</GoldMaintenance>
+		<PrereqTech>TECH_TOTAL</PrereqTech>
+		<Help>TXT_KEY_BUILDING_DMONUMENT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_DMONUMENT</Description>
+		<Civilopedia>TXT_KEY_BUILDING_DMONUMENT_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_DMONUMENT_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_TOTALITARIANISM</PolicyBranchType>
+		<Happiness>3</Happiness>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_12</IconAtlas>
+		<PortraitIndex>58</PortraitIndex>
+	</Row>
+	
+	<!--*****Needs Flavors, Yields and Icon*****-->
+	<Row>
+		<Type>BUILDING_DHALL</Type>
+		<BuildingClass>BUILDINGCLASS_DHALL</BuildingClass>
+		<Cost>730</Cost>
+		<GoldMaintenance>9</GoldMaintenance>
+		<PrereqTech>TECH_REPRESENTATIVE_DEMOCRACY</PrereqTech>
+		<Help>TXT_KEY_BUILDING_DHALL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_DHALL</Description>
+		<Civilopedia>TXT_KEY_BUILDING_DHALL_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_DHALL_STRATEGY</Strategy>
+		<PolicyBranchType>POLICY_BRANCH_DEMOCRACY</PolicyBranchType>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>NEO_ATLAS_11</IconAtlas>
+		<PortraitIndex>13</PortraitIndex>
+	</Row>
+</Buildings>
+</GameData>
+<!--Have a nice Day,=)-->

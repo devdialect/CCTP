@@ -1,0 +1,106 @@
+<GameData>
+	<Table name="EmigrationSettings">
+		<Column name="Type" primarykey="true" type="Text" />
+		<Column name="Value" type="integer" default="0"/>
+	</Table>
+	<Table name="EmigrationEraModifiers">
+		<Column name="EraType" primarykey="true" type="text" reference="Eras(Type)" default="NULL"/>
+		<Column name="EmigrationModifier" type="integer" default="0"/>
+		<Column name="MaxDistance" type="integer" default="0"/>
+	</Table>
+	<EmigrationSettings>
+		<Row>
+			<Type>CooldownTurns</Type>
+			<Value>12</Value>
+		</Row>
+		<Row>
+			<Type>HappinessFactor</Type>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<Type>LocalHappinessFactor</Type>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<Type>WealthFactor</Type>
+			<Value>20</Value>
+		</Row>
+		<Row>
+			<Type>PoliciesFactor</Type>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<Type>DistanceFactorLogBase</Type>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<!-- for emigration -->
+			<Type>AutocracyModifier</Type>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<!-- for immigration -->
+			<Type>OrderModifier</Type>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<!-- to prosperity -->
+			<Type>FreedomBonus</Type>
+			<Value>1</Value>
+		</Row>
+	</EmigrationSettings>
+	<EmigrationEraModifiers>
+		<Row>
+			<EraType>ERA_PREHISTORIC</EraType>
+			<EmigrationModifier>15</EmigrationModifier>
+			<MaxDistance>6</MaxDistance>
+		</Row>
+		<Row>
+			<EraType>ERA_ANCIENT</EraType>
+			<EmigrationModifier>20</EmigrationModifier>
+			<MaxDistance>8</MaxDistance>
+		</Row>
+		<Row>
+			<EraType>ERA_CLASSICAL</EraType>
+			<EmigrationModifier>35</EmigrationModifier>
+			<MaxDistance>16</MaxDistance>
+		</Row>
+		<Row>
+			<EraType>ERA_MEDIEVAL</EraType>
+			<EmigrationModifier>50</EmigrationModifier>
+			<MaxDistance>32</MaxDistance>
+		</Row>
+		<Row>
+			<EraType>ERA_RENAISSANCE</EraType>
+			<EmigrationModifier>75</EmigrationModifier>
+			<MaxDistance>64</MaxDistance>
+		</Row>
+		<Row>
+			<EraType>ERA_INDUSTRIAL</EraType>
+			<EmigrationModifier>100</EmigrationModifier>
+			<MaxDistance>128</MaxDistance>
+		</Row>
+		<Row>
+			<EraType>ERA_MODERN</EraType>
+			<EmigrationModifier>90</EmigrationModifier>
+			<MaxDistance>256</MaxDistance>
+		</Row>
+		<!--
+		<Row>
+			<EraType>ERA_ATOMIC</EraType>
+			<EmigrationModifier>80</EmigrationModifier>
+			<MaxDistance>512</MaxDistance>
+		</Row>
+		-->
+		<Row>
+			<EraType>ERA_POSTMODERN</EraType>
+			<EmigrationModifier>70</EmigrationModifier>
+			<MaxDistance>1024</MaxDistance>
+		</Row>
+		<Row>
+			<EraType>ERA_FUTURE</EraType>
+			<EmigrationModifier>60</EmigrationModifier>
+			<MaxDistance>2048</MaxDistance>
+		</Row>
+	</EmigrationEraModifiers>
+</GameData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/14/2013 8:13:12 AM -->
+<GameData>
+	<!--FRONT END-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GAMEOPTION_OCEAN_CITIES_EARLY">
+			<Text>Early Ocean Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAMEOPTION_OCEAN_CITIES_EARLY_HELP">
+			<Text>Settlers may found cities on Coastal and Ocean tiles beginning in the Industrial Era. (Default is Modern Era.)</Text>
+		</Row>
+	</Language_en_US>
+	<!--NOTIFICATIONS-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_AC_ERA_FOUND_OCEAN_CITY_TT">
+			<Text>Embarked Settlers may found cities on Coastal and shallow Ocean tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AC_ERA_FOUND_OCEAN_CITY_CHANGE">
+			<Text>Embarked settlers may now found cities on Coastal and shallow Ocean tiles! While embarked, settlers will move slowly as they must transport additional material to construct underwater habitats. Ocean cities can extract more food and gold from sea tiles, are more resistant to nuclear strikes, and build better ships than land-based cities.</Text>
+		</Row>
+	</Language_en_US>
+	<!-- IMPROVEMENTS -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OCEAN_CITY">
+			<Text>[COLOR_XP_BLUE]Ocean City[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OCEAN_CITY_PEDIA">
+			<Text>Denotes a city founded on a Coast or Ocean Tile.</Text>
+		</Row>
+	</Language_en_US>
+	<!-- BUILDINGS -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_AC_OCEAN_CITY">
+			<Text>[COLOR_XP_BLUE]Ocean City[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AC_OCEAN_CITY_HELP">
+			<Text>+1 [ICON_FOOD] Food on Sea Plots. +1 [ICON_GOLD] Gold on Sea Resources. Naval Units: +15% [ICON_PRODUCTION] Production and +15 XP. City takes 20% less damage from nuclear strikes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AC_OCEAN_CITY_PEDIA">
+			<Text></Text>
+		</Row>
+	</Language_en_US>
+</GameData>

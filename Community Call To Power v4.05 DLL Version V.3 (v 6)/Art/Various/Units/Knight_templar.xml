@@ -1,0 +1,35 @@
+<GameData>
+  <UnitClasses>
+    <Row>
+      <Type>UNITCLASS_KNIGHT_TEMPLAR</Type>
+      <Description>TXT_KEY_UNIT_KNIGHT_TEMPLAR</Description>
+      <DefaultUnit>UNIT_KNIGHT_TEMPLAR</DefaultUnit>
+    </Row>
+  </UnitClasses>
+  <Units>
+    <Row>
+      <Class>UNITCLASS_KNIGHT_TEMPLAR</Class>
+      <Type>UNIT_KNIGHT_TEMPLAR</Type>
+      <Combat>6</Combat>
+      <Cost>1</Cost>
+      <Moves>2</Moves>
+      <CombatClass>UNITCOMBAT_MELEE</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+      <Description>TXT_KEY_UNIT_KNIGHT_TEMPLAR</Description>
+      <Civilopedia>TXT_KEY_CIVIL_UNIT_KNIGHT_TEMPLAR</Civilopedia>
+      <Strategy>TXT_KEY_STRATEGY_UNIT_KNIGHT_TEMPLAR</Strategy>
+      <Help>TXT_KEY_HELP_UNIT_KNIGHT_TEMPLAR</Help>
+      <MilitarySupport>true</MilitarySupport>
+      <MilitaryProduction>true</MilitaryProduction>
+      <Pillage>true</Pillage>
+      <Conscription>1</Conscription>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <UnitArtInfo>ART_DEF_UNIT_KNIGHT_TEMPLAR</UnitArtInfo>
+      <UnitFlagIconOffset>3</UnitFlagIconOffset>
+      <IconAtlas>UNIT_ATLAS_1</IconAtlas>
+      <PortraitIndex>3</PortraitIndex>
+    </Row>
+  </Units>
+</GameData>

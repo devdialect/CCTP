@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2014 9:15:57 PM -->
+<GameData>
+
+	<!--*****BUILDINGS*****-->
+	<!-- FaithBuildings-->
+	<Buildings>
+		<!--*****BUILDINGS*****-->
+		<!-- FaithBuildings-->
+		<!-- INQUISATION-->
+		<Row>
+			<Type>BUILDING_INQUISATION</Type>
+			<BuildingClass>BUILDINGCLASS_INQUISATION</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>250</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Description>TXT_KEY_BUILDING_INQUISATION</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_INQUISATION_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_INQUISATION_STRATEGY</Strategy>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CUSTOM_BUILDING_ATLAS</IconAtlas>
+			<PortraitIndex>48</PortraitIndex>
+			<!--<IconAtlas>DEITY_ATLAS_2</IconAtlas>
+		<PortraitIndex>25</PortraitIndex>
+		<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>-->
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<!--  works only with whowards dll mod-->
+			<Happiness>-1</Happiness>
+		</Row>
+		<!-- NATURHEILIGTUM-->
+		<Row>
+			<Type>BUILDING_NATURHEILIGTUM</Type>
+			<BuildingClass>BUILDINGCLASS_NATURHEILIGTUM</BuildingClass>
+			<Cost>-1</Cost>>
+			<FaithCost>185</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			!-- <NearbyMountainRequired>true</NearbyMountainRequired> -->
+			<Help>TXT_KEY_BUILDING_NATURHEILIGTUM_HELP</Help>
+			<Description>TXT_KEY_BUILDING_NATURHEILIGTUM</Description>
+			<Strategy>TXT_KEY_BUILDING_NATURHEILIGTUM_STRATEGY</Strategy>
+			<Civilopedia>TXT_KEY_BUILDING_NATURHEILIGTUM_PEDIA</Civilopedia>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<IconAtlas>DEITY_ATLAS_2</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>18</PortraitIndex>
+		</Row>
+		<!-- RELIGIONSSCHULE -->
+		<Row>
+			<Type>BUILDING_RELIGIONSSCHULE</Type>
+			<BuildingClass>BUILDINGCLASS_RELIGIONSSCHULE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>295</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<UnmoddedHappiness>1</UnmoddedHappiness>
+			<Help>TXT_KEY_BUILDING_RELIGIONSSCHULE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_RELIGIONSSCHULE</Description>
+			<Strategy>TXT_KEY_BUILDING_RELIGIONSSCHULE_STRATEGY</Strategy>
+			<Civilopedia>TXT_KEY_BUILDING_RELIGIONSSCHULE_PEDIA</Civilopedia>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<IconAtlas>ICON_GOT_2</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>6</PortraitIndex>
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>
+		</Row>
+		<!--ZIRKURAT-->
+		<Row>
+			<Type>BUILDING_ZIRKURAT</Type>
+			<BuildingClass>BUILDINGCLASS_ZIRKURAT</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>200</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Help>TXT_KEY_BUILDING_ZIRKURAT_HELP</Help>
+			<Description>TXT_KEY_BUILDING_ZIRKURAT</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ZIRKURAT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_ZIRKURAT_STRATEGY</Strategy>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<Happiness>1</Happiness>
+			<IconAtlas>BW_ATLAS_SPIRAL_MINARET</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+
+		<!--Ceromonial Rites-->
+		<Row>
+			<Type>BUILDING_BESTATTUNGEN</Type>
+			<BuildingClass>BUILDINGCLASS_BESTATTUNGEN</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>225</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<GreatPersonExpendGold>5</GreatPersonExpendGold>
+			<Help>TXT_KEY_BUILDING_BESTATTUNGEN_HELP</Help>
+			<Description>TXT_KEY_BUILDING_BESTATTUNGEN</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BESTATTUNGEN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_BESTATTUNGEN_STRATEGY</Strategy>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<Happiness>1</Happiness>
+			<!-- -->
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<IconAtlas>DEITY_ATLAS_2</IconAtlas>
+			<PortraitIndex>22</PortraitIndex>
+			<NeverCapture>true</NeverCapture>
+		</Row>
+		<!--Temple Goddeds of Love-->
+		<Row>
+			<Type>BUILDING_LIEBE</Type>
+			<BuildingClass>BUILDINGCLASS_LIEBE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>225</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Help>TXT_KEY_BUILDING_LIEBE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_LIEBE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_LIEBE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_LIEBE_STRATEGY</Strategy>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<FoodKept>20</FoodKept>
+			<Happiness>1</Happiness>
+			<!-- -->
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<IconAtlas>DEITY_ATLAS_2</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>6</PortraitIndex>
+			<!-- Start with 50 
+	    <MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>-->
+			<!-- Start with 50 -->
+		</Row>
+		<!--JUSTICIA-->
+		<Row>
+			<Type>BUILDING_JUSTICIA</Type>
+			<BuildingClass>BUILDINGCLASS_JUSTICIA</BuildingClass>
+			<Cost>-1</Cost>>
+			<FaithCost>250</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<UnmoddedHappiness>2</UnmoddedHappiness>
+			<GreatPeopleRateModifier>10</GreatPeopleRateModifier>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<Help>TXT_KEY_BUILDING_JUSTICIA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_JUSTICIA</Description>
+			<Strategy>TXT_KEY_BUILDING_JUSTICIA_STRATEGY</Strategy>
+			<Civilopedia>TXT_KEY_BUILDING_JUSTICIA_PEDIA</Civilopedia>
+
+			<!--<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup> -->
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<IconAtlas>DEITY_ATLAS_2</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>23</PortraitIndex>
+		</Row>
+		<!-- Mars -->
+		<Row>
+			<Type>BUILDING_MARS</Type>
+			<BuildingClass>BUILDINGCLASS_MARS</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>245</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<UnmoddedHappiness>1</UnmoddedHappiness>
+			<Help>TXT_KEY_BUILDING_MARS_HELP</Help>
+			<Description>TXT_KEY_BUILDING_MARS</Description>
+			<Strategy>TXT_KEY_BUILDING_MARS_STRATEGY</Strategy>
+			<Civilopedia>TXT_KEY_BUILDING_MARS_PEDIA</Civilopedia>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<IconAtlas>GOT_ATLAS_3</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>56</PortraitIndex>
+			<!--  -->
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<!--<MutuallyExclusiveGroup>51</MutuallyExclusiveGroup>-->
+
+		</Row>
+
+		<!-- Mammon -->
+		<Row>
+			<Type>BUILDING_MAMMON</Type>
+			<BuildingClass>BUILDINGCLASS_MAMMON</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>235</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Help>TXT_KEY_BUILDING_MAMMON_HELP</Help>
+			<Description>TXT_KEY_BUILDING_MAMMON</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MAMMON_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MAMMON_STRATEGY</Strategy>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<Happiness>1</Happiness>
+			<IconAtlas>DEITY_ATLAS_2</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>12</PortraitIndex>
+		</Row>
+
+		<!--/////////Buildings***Gametext\\\\\\\\\\\\-->
+
+
+
+		<!--/////////Buildings*That*Requires*Religions\\\\\\\\\\\\-->
+
+		<!--*****BUDDHISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION1</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION1</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_BUDDA</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION1_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION1</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION1_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION1_STRATEGY</Strategy>
+			<UnmoddedHappiness>4</UnmoddedHappiness>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>15</PortraitIndex>
+		
+	
+	</Row>
+
+
+		<!--*****CHRISTIANITY*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION2</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION2</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_MONOTHEISM</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION2_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION2</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION2_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION2_STRATEGY</Strategy>
+			<ReligiousPressureModifier>35</ReligiousPressureModifier>
+			<ExtraMissionarySpreads>1</ExtraMissionarySpreads>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>7</PortraitIndex>
+		</Row>
+
+
+		<!--*****CONFUCIANISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION3</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION3</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_ELITE</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION3_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION3</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION3_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION3_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>13</PortraitIndex>
+		</Row>
+
+
+		<!--*****HINDUISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION4</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION4</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_POLYTHEISM</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION4_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION4</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION4_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION4_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>11</PortraitIndex>
+		</Row>
+
+
+		<!--*****ISLAM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION5</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION5</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_MONOTHEISM</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION5_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION5</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION5_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION5_STRATEGY</Strategy>
+			<ReligiousPressureModifier>35</ReligiousPressureModifier>
+			<Defense>100</Defense>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>4</PortraitIndex>
+		
+	</Row>
+
+
+		<!--*****JUDAISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION6</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION6</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_GREAT_MONUMENTS</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION6_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION6</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION6_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION6_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>12</PortraitIndex>
+		</Row>
+
+
+		<!--*****SHINTO*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION7</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION7</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_HERITAGE</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION7_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION7</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION7_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION7_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+
+		<!--*****SIKHISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION8</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION8</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_ARISTOCRACYX</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION8_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION8</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION8_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION8_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>10</PortraitIndex>
+		</Row>
+
+
+
+		<!--*****TAOISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION9</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION9</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_MYTHOLOGY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION9_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION9</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION9_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION9_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<Happiness>2</Happiness>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+
+
+
+		<!--*****TENGRIISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION10</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION10</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_NEPHELIN</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION10_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION10</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION10_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION10_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<SpecialistType>SPECIALIST_INTELLECTUAL</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<GreatPeopleRateChange>0</GreatPeopleRateChange>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>1</PortraitIndex>
+		</Row>
+
+
+
+		<!--*****ZOROASTRIANISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION11</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION11</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_PIETY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION11_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION11</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION11_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION11_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<GreatPeopleRateModifier>10</GreatPeopleRateModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>9</PortraitIndex>
+		
+	</Row>
+
+
+		<!--*****RELIGION_ORTHODOXY*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION12</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION12</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_MONOTHEISM</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION12_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION12</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION12_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION12_STRATEGY</Strategy>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<SpecialistCount>1</SpecialistCount>
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<GreatPeopleRateChange>0</GreatPeopleRateChange>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>EXPANSION_BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>8</PortraitIndex>
+		</Row>
+
+
+
+		<!--*****PROTESTANTISM*****-->
+		<Row>
+			<Type>BUILDING_CCTPRELIGION13</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPRELIGION13</BuildingClass>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<Cost>150</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_MONOTHEISM</PrereqTech>
+			<Help>TXT_KEY_BUILDING_CCTPRELIGION13_HELP</Help>
+			<Description>TXT_KEY_BUILDING_CCTPRELIGION13</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION13_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CCTPRELIGION13_STRATEGY</Strategy>
+			<ReligiousPressureModifier>50</ReligiousPressureModifier>
+			<PlotCultureCostModifier>-25</PlotCultureCostModifier>
+			<PlotBuyCostModifier>-25</PlotBuyCostModifier>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEO_ATLAS_5</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+
+
+
+
+
+
+
+	</Buildings>
+	<!--*****BUILDINGS*****-->
+
+	<!--have a nice Day:=)-->
+
+</GameData>
