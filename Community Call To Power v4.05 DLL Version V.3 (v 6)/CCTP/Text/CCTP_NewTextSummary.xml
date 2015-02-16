@@ -252,7 +252,7 @@
 			<Text>Post</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POST_HELP">
-			<Text>Increase [ICON_HAPPINESS_1] Happiness and provides one Slot for a [ICON_GREAT_MERCHANT] Great Merchant.</Text>
+			<Text>Increases [ICON_HAPPINESS_1] Happiness and provides one Slot for a [ICON_GREAT_MERCHANT] Great Merchant.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POST_STRATEGY">
 			<Text>Gives a little boost forward to [ICON_GOLD] Gold and grants one Slot for a [ICON_GREAT_MERCHANT] Great Merchant.</Text>
@@ -270,7 +270,7 @@
 			<Text>Provides +2 [ICON_RES_MANPOWER] Manpower.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_REKRUTIERUNGSLAGER_STRATEGY">
-			<Text>Increase the amount of [ICON_RES_MANPOWER] Manpower.</Text>
+			<Text>Increases the amount of available [ICON_RES_MANPOWER] Manpower.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_REKRUTIERUNGSLAGER_TEXT">
 			<Text>upps</Text>
@@ -300,7 +300,7 @@
 			<Text>Provides 2 [ICON_RES_PAPER] Paper.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] 2 [ICON_RES_PAPYRUS] Papyrus to be build.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAPIER_STRATEGY">
-			<Text>Paper is needed to build the Libery.</Text>
+			<Text>Paper is needed to build the Liberty.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_PAPIER_TEXT">
 			<Text>upps</Text>
@@ -416,7 +416,7 @@
 
 		<!--!need new name!-->
 		<Row Tag="TXT_KEY_BUILDING_NEODYNAMO2">
-			<Text>Neodynamo2</Text>
+			<Text>Improved Neodynamo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEODYNAMO2_HELP">
 			<Text>Provides +1 [ICON_POWER3] Electricity.[NEWLINE][NEWLINE]Requires a [COLOR_WARNING_TEXT]Watermill[ENDCOLOR] to be build.</Text>
@@ -500,7 +500,7 @@
 
 		<!---->
 		<Row Tag="TXT_KEY_BUILDING_NEOHIERACHY">
-			<Text>Hierach</Text>
+			<Text>Hierarch</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEOHIERACHY_PEDIA">
 			<Text>upps</Text>
@@ -551,7 +551,7 @@
 			<Text>The protected cruiser is a type of naval cruiser of the late 19th century, so known because its armoured deck offered protection for vital machine spaces from fragments caused by exploding shells above. Protected cruisers were an alternative to the armoured cruisers, which also had a belt of armour along the sides. During the 1870s, the increasing power of armour-piercing guns made armouring the sides of a ship more and more difficult, as very thick, heavy armour plates were required. Even if armour dominated the design of the ship, it was likely that the next generation of guns would be able to pierce it. The alternative was to leave the sides of the ship vulnerable, but to armour a deck just below the waterline. Since this deck would only be struck very obliquely by shells, it could be rather less thick and heavy than belt armour. The ship could be designed so that under the armoured deck were the engines, boilers and magazines, and enough displacement to keep the ship afloat and stable even in the event of damage.[1] Cruisers with armoured decks and no side armour became known as protected cruisers, and eclipsed the armoured cruisers in popularity in the 1880s and into the 1890s</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_PROTECTED_CRUISER_STRATEGY">
-			<Text>Powerfull unit.</Text>
+			<Text>A powerful unit.</Text>
 
 
 		</Row>  <!--PRAGUE_CASTLE-->
@@ -1138,13 +1138,13 @@
 
 		<!--BIOFUEL_REFINERY-->
 		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_REFINERY">
-			<Text>Bio Fuel Refinery</Text>
+			<Text>Biofuel Refinery</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BIOFUEL_REFINERY_TEXT">
 			<Text>upps</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_REFINERY_STRATEGY">
-			<Text>Provides one extra resource of [ICON_RES_DIESEL] Diesel and [ICON_RES_KEROSINE] Kerosine.</Text>
+			<Text>Provides one extra resource of [ICON_RES_DIESEL] Diesel and [ICON_RES_KEROSINE] Kerosene.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_BIOFUEL_REFINERY_HELP">
 			<Text>Requires a nearby improved source of [ICON_RES_WHEAT] Wheat or [ICON_RES_BARLEY] Barley to be build.</Text>
@@ -1190,7 +1190,7 @@
 			<Text>upps</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ORBITAL_POWER_TRANSMITTER_STRATEGY">
-			<Text>Increase your [ICON_POWER3] Electricity output.</Text>
+			<Text>Improves your [ICON_POWER3] Electricity output.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ORBITAL_POWER_TRANSMITTER_HELP">
 			<Text>Provides +15 [ICON_FLOWER] Electricity.[NEWLINE][NEWLINE]+5% [ICON_PRODUCTION] Production for Space Ship Parts.</Text>
@@ -1205,7 +1205,7 @@
 			<Text>upps</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TESLA_STRATEGY">
-			<Text>Increase massiv your [ICON_POWER3] Electricity output.</Text>
+			<Text>Increases massively your [ICON_POWER3] Electricity output.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TESLA_HELP">
 			<Text>Provides +20 [ICON_FLOWER] Electricity.</Text>
@@ -1222,7 +1222,7 @@
 			<Text>upps</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TELEPORTER_HELP">
-			<Text>Increases massiv the [ICON_TOURISM] Tourism output in this city.</Text>
+			<Text>Increases massively the [ICON_TOURISM] Tourism output in this city.</Text>
 		</Row>
 
 		<!--BRENNZELLE-->
@@ -1505,7 +1505,7 @@
 			<Text>+X city [ICON_STRENGTH] Strength and +35% [ICON_RELIGION] religious pressure in this city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CCTPRELIGION5_STRATEGY">
-			<Text>Provides a alittle boost for the city [ICON_STRENGTH]  Strength.</Text>
+			<Text>Provides a a little boost for the city [ICON_STRENGTH] Strength.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CCTPRELIGION5_TEXT">
 			<Text>[ICON_FLOWER].</Text>
@@ -1679,7 +1679,7 @@
 			<Text>Add yields +50 [ICON_GOLD] Gold to every [COLOR_YELLOW]Energy Bank[ENDCOLOR] and +25% [ICON_GOLD] Gold in this city.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] a Energy Bank in each of your cities to be build.[NEWLINE][NEWLINE]You may build one.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEBANK_STRATEGY">
-			<Text>Increase massiv your [ICON_GOLD] Gold income.</Text>
+			<Text>Increases massively your [ICON_GOLD] Gold income.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEBANK_PEDIA">
 			<Text>upps</Text>
@@ -2014,7 +2014,7 @@
 		
 		<!--TATOO-->
 		<Row Tag="TXT_KEY_BUILDING_TATOO">
-			<Text>Tatoo</Text>
+			<Text>Tattoo Artist</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TATOO_HELP">
 			<Text>.</Text>
@@ -2042,7 +2042,7 @@
 		
 		<!--HUNTER-->
 		<Row Tag="TXT_KEY_BUILDING_HUNTER">
-			<Text>Hunters Hut [ICON_SILVER_FIST]</Text>
+			<Text>Hunter's Hut [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_HUNTER_HELP">
 			<Text>Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE]Add yields +1 [ICON_FOOD] Food to every improved source of [ICON_RES_BISON] Bison and [ICON_RES_DEER] Deer.</Text>
@@ -2056,7 +2056,7 @@
 
 		<!--FISHMAN-->
 		<Row Tag="TXT_KEY_BUILDING_FISHMAN">
-			<Text>Fishers Hut [ICON_SILVER_FIST]</Text>
+			<Text>Fisherman's Hut [ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FISHMAN_HELP">
 			<Text>Provides +1 [ICON_RES_MANPOWER] Manpower.[NEWLINE]Add yields +1 [ICON_FOOD] Food to every worked [COLOR_YELLOW]Coast[ENDCOLOR] tile.[NEWLINE][NEWLINE][COLOR_RED]Requires[ENDCOLOR] a nearby [COLOR_YELLOW]Coast[ENDCOLOR] .</Text>
@@ -2256,10 +2256,10 @@
 			<Text>Refugium</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_REFUGIUM_HELP">
-			<Text>Add yields +2 [ICON_CULTURE] and +1 [ICON_TOURISM] Tourism .[NEWLINE]Global [ICON_HAPPINESS_1] Happiness is increased by +1.</Text>
+			<Text>Add yields +2 [ICON_CULTURE] and +1 [ICON_TOURISM] Tourism.[NEWLINE]Global [ICON_HAPPINESS_1] Happiness is increased by +1.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_REFUGIUM_STRATEGY">
-			<Text>Provides a little boust for [ICON_CULTURE] Culture, [ICON_TOURISM] Tourism and [ICON_HAPPINESS_1] Happiness.</Text>
+			<Text>Provides a small boost for [ICON_CULTURE] Culture, [ICON_TOURISM] Tourism and [ICON_HAPPINESS_1] Happiness.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_REFUGIUM_PEDIA">
 			<Text>upps</Text>
@@ -2337,7 +2337,7 @@
 
 		<!--DPOLICY-->
 		<Row Tag="TXT_KEY_BUILDING_DPOLICY">
-			<Text>Cyber Policy [ICON_ORDER]</Text>
+			<Text>Cyber Police [ICON_ORDER]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DPOLICY_HELP">
 			<Text>Reduce enemy [ICON_SPY] Spy stealing rate by 25%.[NEWLINE]+3 [ICON_HAPPINESS_4] Unhappiness.[NEWLINE]Increase [ICON_ORDER] Order by +5.[NEWLINE][NEWLINE]Requires a Police Station to be build.</Text>
@@ -2407,7 +2407,7 @@
 		
 		<!--OPTICAL_SURGERY-->
 		<Row Tag="TXT_KEY_BUILDING_OPTICAL_SURGERY">
-			<Text>Optical Surgey [ICON_HEALTH]</Text>
+			<Text>Optical Surgery [ICON_HEALTH]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_OPTICAL_SURGERY_HELP">
 			<Text>Need adjusting[NEWLINE]Add yields +1 [ICON_GOLD] Gold, [ICON_PRODUCTION] Production and [ICON_RESEARCH] Science for each 2 [ICON_CITIZEN] Citizen in this city.[NEWLINE]Increase [ICON_HEALTH] Health by +3.</Text>
@@ -2519,7 +2519,7 @@
 		
 		<!--VDOCTOR-->
 		<Row Tag="TXT_KEY_BUILDING_VDOCTOR">
-			<Text>V Doctor [ICON_HEALTH]</Text>
+			<Text>Veterinary [ICON_HEALTH]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_VDOCTOR_HELP">
 			<Text>Add yields +1 [ICON_FOOD] Food to every [COLOR_YELLOW]Bison[ENDCOLOR] [ICON_RES_BISON] , [COLOR_YELLOW]Cow[ENDCOLOR] [ICON_RES_COW] , [COLOR_YELLOW]Fur[ENDCOLOR] [ICON_RES_FUR] , [COLOR_YELLOW]Horse[ENDCOLOR] [ICON_RES_HORSE] , [COLOR_YELLOW]Sheep[ENDCOLOR] [ICON_RES_SHEEP] and [COLOR_YELLOW]Truffles[ENDCOLOR] [ICON_RES_TRUFFLES] resource, this resources must be improved.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] one of this resources nearby and improved.</Text>
@@ -2547,7 +2547,7 @@
 		
 		<!--POISEN-->
 		<Row Tag="TXT_KEY_BUILDING_POISEN">
-			<Text>Posen Crafter [ICON_HEALTH]</Text>
+			<Text>Poison Crafter [ICON_HEALTH]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POISEN_HELP">
 			<Text>+2 Gold [ICON_GOLD] Gold and increase [ICON_HEALTH] Health by +1.</Text>
@@ -2589,7 +2589,7 @@
 
 		<!--NEUROLAB-->
 		<Row Tag="TXT_KEY_BUILDING_NEUROLAB">
-			<Text>Neuro Lab</Text>
+			<Text>Neurology Lab</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEUROLAB_HELP">
 			<Text>Add yields +1 [ICON_RESEARCH] Science for every [ICON_CITIZEN] Citizen in this city.</Text>
@@ -2617,7 +2617,7 @@
 		
 		<!--CYROPRISON-->
 		<Row Tag="TXT_KEY_BUILDING_CYROPRISON">
-			<Text>Cryo Prison [ICON_ORDER]</Text>
+			<Text>Cryogenic Prison [ICON_ORDER]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_CYROPRISON_HELP">
 			<Text>Increase [ICON_ORDER] Order by +5.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] a [COLOR_YELLOW]Prison[ENDCOLOR] in this city to be build.</Text>
@@ -2749,7 +2749,7 @@
 			<Text>Provides +40 [ICON_POWER3] Electricity.[NEWLINE]+10% [ICON_PRODUCTION] Production in this city.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QPLANT_STRATEGY">
-			<Text>Increase massiv the amount of [ICON_POWER3] Electricity in your empire.</Text>
+			<Text>Massively increases the amount of [ICON_POWER3] Electricity in your empire.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QPLANT_PEDIA">
 			<Text>upps</Text>
@@ -2813,7 +2813,7 @@
 		
 		<!--NEURAL_UPLOADER-->
 		<Row Tag="TXT_KEY_BUILDING_NEURAL_UPLOADER">
-			<Text>Neural Uploader</Text>
+			<Text>Neural Upload</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NEURAL_UPLOADER_HELP">
 			<Text>Add yields +1 [ICON_TOURISM] Tourism for every [ICON_CITIZEN] Citizen in this city.</Text>
@@ -2827,7 +2827,7 @@
 
 		<!--SCHOOL_OF_SCRIBES-->
 		<Row Tag="TXT_KEY_BUILDING_SCHOOL_OF_SCRIBES">
-			<Text>School of Scibes</Text>
+			<Text>Scribe School</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SCHOOL_OF_SCRIBES_HELP">
 			<Text>Add yields +2 [ICON_RESEARCH] Science.</Text>
@@ -2911,7 +2911,7 @@
 		
 		<!--ICOURT-->
 		<Row Tag="TXT_KEY_BUILDING_ICOURT">
-			<Text>Imperial Courts [ICON_ORDER]</Text>
+			<Text>Imperial Court [ICON_ORDER]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ICOURT_HELP">
 			<Text>Reduce enemy [ICON_SPY] Spy stealing rate by 25%.[NEWLINE]+15% [ICON_PRODUCTION] Production for military land [ICON_SILVER_FIST] Units.[NEWLINE]Increase [ICON_ORDER] Order by +4.[NEWLINE][COLOR_RED]Requires[ENDCOLOR] the [ICON_CULTURE] Social Policy Branch [COLOR_YELLOW]Imperialism[ENDCOLOR] to be build.</Text>
@@ -2953,7 +2953,7 @@
 		
 		<!--MQUARTERS-->
 		<Row Tag="TXT_KEY_BUILDING_MQUARTERS">
-			<Text>Merchant`s Quarters</Text>
+			<Text>Merchant's Quarters</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MQUARTERS_HELP">
 			<Text>Add yields +1 [ICON_GOLD] Gold to every worked resource.[NEWLINE][COLOR_RED]Requires[ENDCOLOR] the [ICON_CULTURE] Social Policy Branch [COLOR_YELLOW]Commerce[ENDCOLOR] to be build.</Text>
@@ -3107,7 +3107,7 @@
 		
 		<!--FCOURTS-->
 		<Row Tag="TXT_KEY_BUILDING_FCOURTS">
-			<Text>Federal Courts [ICON_ORDER]</Text>
+			<Text>Federal Court [ICON_ORDER]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FCOURTS_HELP">
 			<Text>Increase [ICON_ORDER] Order by +4.[NEWLINE][COLOR_RED]Requires[ENDCOLOR] the [ICON_CULTURE] Social Policy Branch [COLOR_YELLOW]Federalism[ENDCOLOR] to be build.</Text>
@@ -3121,7 +3121,7 @@
 		
 		<!--SECPOLICY-->
 		<Row Tag="TXT_KEY_BUILDING_SECPOLICY">
-			<Text>Secret Policy [ICON_ORDER]</Text>
+			<Text>Secret Police HQ [ICON_ORDER]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_SECPOLICY_HELP">
 			<Text>Enemy [ICON_SPY] Spy stealing rate is reduced by -50% and increase the rank of one of your [ICON_SPY] Spies.[NEWLINE]+3 [ICON_HAPPINESS_4] Unhappiness and +3 [ICON_ORDER] Order.[NEWLINE][COLOR_RED]Requires[ENDCOLOR] the [ICON_CULTURE] Social Policy Branch [COLOR_YELLOW]Fascism[ENDCOLOR] to be build.</Text>
@@ -4095,7 +4095,7 @@
 		</Update>
 		<Update>
 			<Where Tag="TXT_KEY_BUILDING_LABORATORY" />
-			<Set Text="Labotory [ICON_HEALTH]"/>
+			<Set Text="Laboratory [ICON_HEALTH]"/>
 		</Update>
 		<Update>
 			<Where Tag="TXT_KEY_BUILDING_RECYCLING_CENTER" />
@@ -4171,7 +4171,7 @@
 		</Update>
 		<Update>
 			<Where Tag="TXT_KEY_BUILDING_MARKET" />
-			<Set Text="MARKET [ICON_CRIME]"/>
+			<Set Text="Market [ICON_CRIME]"/>
 		</Update>
 
 

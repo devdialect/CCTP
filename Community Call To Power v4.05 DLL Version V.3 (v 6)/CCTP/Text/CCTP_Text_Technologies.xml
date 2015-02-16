@@ -108,7 +108,7 @@
 		<!--//!\\-->
 		<Row>
 			<Tag>TXT_KEY_TECH_AQUA_TITLE</Tag>
-			<Text>Watery System ([ICON_FOOD])</Text>
+			<Text>Water Systems ([ICON_FOOD])</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_AQUA_DESC</Tag>
@@ -189,7 +189,7 @@
 		<!--//!\\-->
 		<Row>
 			<Tag>TXT_KEY_TECH_HIERARCHY_TITLE</Tag>
-			<Text>Hierachy ([ICON_STRENGTH]/[ICON_CULTURE])</Text>
+			<Text>Hierarchy ([ICON_STRENGTH]/[ICON_CULTURE])</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_HIERARCHY_DESC</Tag>
@@ -248,7 +248,7 @@
 		<!--//!\\-->
 		<Row>
 			<Tag>TXT_KEY_TECH_PHARAO_TITLE</Tag>
-			<Text>Pharao ([ICON_CULTURE]/[ICON_PEACE])</Text>
+			<Text>Pharaoh ([ICON_CULTURE]/[ICON_PEACE])</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_PHARAO_DESC</Tag>
@@ -269,7 +269,7 @@
 		<!--//!\\-->
 		<Row>
 			<Tag>TXT_KEY_TECH_NEPHELIN_TITLE</Tag>
-			<Text>Nephelin ([ICON_PEACE])</Text>
+			<Text>Nephilim ([ICON_PEACE])</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NEPHELIN_DESC</Tag>
@@ -331,7 +331,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SACRIFICE_CULT_HELP</Tag>
-			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Apriculturist[ENDCOLOR] Buildings.[NEWLINE]Reveals [COLOR_POSITIVE_TEXT]Cacao[ENDCOLOR] on the map.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.[NEWLINE]Increase [ICON_CRIME] Crime by +2.</Text>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Agriculturist[ENDCOLOR] Buildings.[NEWLINE]Reveals [COLOR_POSITIVE_TEXT]Cacao[ENDCOLOR] on the map.[NEWLINE]Increase global [ICON_PLAGUE] Plague by +1.[NEWLINE]Increase [ICON_CRIME] Crime by +2.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SACRIFICE_CULT_DESC</Tag>
@@ -367,7 +367,7 @@
 		<!--//!\\-->
 		<Row>
 			<Tag>TXT_KEY_TECH_BUDDA_TITLE</Tag>
-			<Text>Budda ([ICON_RELIGION])</Text>
+			<Text>Buddha ([ICON_RELIGION])</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BUDDA_DESC</Tag>

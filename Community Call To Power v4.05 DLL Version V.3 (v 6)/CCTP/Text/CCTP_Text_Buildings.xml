@@ -89,7 +89,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_ARTILLERY_RANGE_PEDIA</Tag>
-		<Text>Atillery Ranges give seige weapon operators the ability to test their equipment and become proficient at it's use.  Commanders of Other ground based units also recieve training here so they know the capabilities of current ranged weaponry.  </Text>
+		<Text>Artillery Ranges give siege weapon operators the ability to test their equipment and become proficient at it's use.  Commanders of Other ground based units also receive training here so they know the capabilities of current ranged weaponry.  </Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_ARTILLERY_RANGE_HELP</Tag>
@@ -183,19 +183,19 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_JEWELRY_STORE</Tag>
-		<Text>Jewelry Store</Text>
+		<Text>Jewellery Store</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_JEWELRY_STORE_PEDIA</Tag>
-		<Text>A jewelry store or jeweler is a retail business specializing in selling jewelry.</Text>
+		<Text>A jewellery store or jeweller is a retail business specializing in selling jewellery.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_JEWELRY_STORE_HELP</Tag>
-		<Text>Each souce of [ICON_RES_GOLD] Gold or [ICON_RES_COPPER] Copper worked by this City produces +3 [ICON_GOLD] Gold. Each source of [ICON_RES_SILVER] Silver or [ICON_RES_GEMS] Gems worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have a Mint.</Text>
+		<Text>Each source of [ICON_RES_GOLD] Gold or [ICON_RES_COPPER] Copper worked by this City produces +3 [ICON_GOLD] Gold. Each source of [ICON_RES_SILVER] Silver or [ICON_RES_GEMS] Gems worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have a Mint.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_JEWELRY_STORE_STRATEGY</Tag>
-		<Text>The Jeweler significantly improves the gold produced by precious metals.  Build it in cities with more than one of these metals for the best results.</Text>
+		<Text>The Jeweller significantly improves the gold produced by precious metals.  Build it in cities with more than one of these metals for the best results.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_TOWN_HALL</Tag>
@@ -418,7 +418,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_AUTO_PLANT_PEDIA</Tag>
-		<Text>Auto plants are a type of factory whose sole purpose is to manufacture and assemble automotives.  While a laborous process at first, the invention of the Assembly Line revolutioned the auto industry, as well as the rest of the manufacturing world, by cutting assembly time and costs down to a mere fraction.</Text>
+		<Text>Auto plants are a type of factory whose sole purpose is to manufacture and assemble automotives.  While a laborious process at first, the invention of the Assembly Line revolutionized the auto industry, as well as the rest of the manufacturing world, by cutting assembly time and costs down to a mere fraction.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_AUTO_PLANT_HELP</Tag>
@@ -695,7 +695,7 @@
 		</Row> -->
 	<Row>
 		<Tag>TXT_KEY_BUILDING_BIOTECH_INDUSTRIAL_PARK</Tag>
-		<Text>Biotech Industrial Park</Text>
+		<Text>Biotechnology Industrial Park</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_WONDER_BIOTECH_INDUSTRIAL_PARK_DESC</Tag>
@@ -1178,7 +1178,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_BEEF_VAT_DESC</Tag>
-		<Text>The Beef Vat uses Nanites, Genetic Synthesis, and a fair amount of electricty to grow almost any food item from it's base elements.  While at first rejected by the population due to prejudices against non-natural food, Beef Vat technology has managed to catch on in cities whose enourmous size demands a cheap, unending source of nourishment.</Text>
+		<Text>The Beef Vat uses Nanites, Genetic Synthesis, and a fair amount of electricity to grow almost any food item from it's base elements.  While at first rejected by the population due to prejudices against non-natural food, Beef Vat technology has managed to catch on in cities whose enourmous size demands a cheap, unending source of nourishment.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_BUILDING_BEEF_VAT_HELP</Tag>
@@ -1442,7 +1442,7 @@
 		<Where Tag="TXT_KEY_WONDER_EIFFEL_TOWER_HELP" />
 	</Update>	
 	<Update>
-		<Set Text="Eifel Tower [ICON_RES_MANPOWER]" />
+		<Set Text="Eiffel Tower [ICON_RES_MANPOWER]" />
 		<Where Tag="TXT_KEY_BUILDING_EIFFEL_TOWER" />
 	</Update>
 	<Update>
