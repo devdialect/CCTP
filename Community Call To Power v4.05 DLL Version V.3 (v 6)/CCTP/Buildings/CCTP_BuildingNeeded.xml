@@ -1092,7 +1092,7 @@
 		<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
 	</Row>
 	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
-	<!--<Row>
+	<Row>
 		<BuildingType>BUILDING_CCTPRELIGION1</BuildingType>
 		<BuildingClassType>BUILDINGCLASS_RELIGION_BUDDHISM</BuildingClassType>
 	</Row>
@@ -1116,7 +1116,7 @@
 		<BuildingType>BUILDING_CCTPRELIGION5</BuildingType>
 		<BuildingClassType>BUILDINGCLASS_RELIGION_ISLAM</BuildingClassType>
 	</Row>
-	>
+
 	<Row>
 		<BuildingType>BUILDING_CCTPRELIGION6</BuildingType>
 		<BuildingClassType>BUILDINGCLASS_RELIGION_JUDAISM</BuildingClassType>
@@ -1155,7 +1155,8 @@
 	<Row>
 		<BuildingType>BUILDING_CCTPRELIGION13</BuildingType>
 		<BuildingClassType>BUILDINGCLASS_RELIGION_PROTESTANTISM</BuildingClassType>
-	</Row>-->
+	</Row>
+	
 	<!--/////////ClassesNeededInCity\\\\\\\\\\\\-->
 	<Row>
 		<BuildingType>BUILDING_CONSTITUTION</BuildingType>
@@ -1171,6 +1172,7 @@
 		<BuildingType>BUILDING_WORKSTATION3</BuildingType>
 		<BuildingClassType>BUILDINGCLASS_CCTPPB115</BuildingClassType>
 	</Row>
+	
 </Building_ClassesNeededInCity>
 <!-- Have a nice Day;=)-->
 </GameData>
