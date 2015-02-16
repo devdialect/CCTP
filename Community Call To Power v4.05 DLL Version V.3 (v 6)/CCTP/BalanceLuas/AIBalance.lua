@@ -19,7 +19,7 @@ function AiGoldBalance(iPlayer)
 				pCity:PushOrder (OrderTypes.ORDER_MAINTAIN, GameInfo.Processes["PROCESS_WEALTH"].ID, -1, 0, false, false);
 			end
 		elseif (pTeam:IsHasTech(GameInfoTypes["TECH_NUMMER"])) then
-			for pCity in player:Cities() do
+			for pCity in pPlayer:Cities() do
 				pCity:PushOrder (OrderTypes.ORDER_MAINTAIN, GameInfo.Processes["PROCESS_CREATION<"].ID, -1, 0, false, false);
 			end
 		else

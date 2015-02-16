@@ -2112,7 +2112,7 @@
 		
 		<!--DOKTOR-->
 		<Row Tag="TXT_KEY_BUILDING_DOKTOR">
-			<Text>Doktor [ICON_HEALTH]</Text>
+			<Text>Resident Doctor [ICON_HEALTH]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DOKTOR_HELP">
 			<Text>Increase city [ICON_HEALTH] Health by +1</Text>

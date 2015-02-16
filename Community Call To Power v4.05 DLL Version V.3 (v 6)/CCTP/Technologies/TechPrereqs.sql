@@ -182,7 +182,7 @@ SELECT									'TECH_ATHENA',							'TECH_CURRENCY'				    UNION ALL
 SELECT									'TECH_LODGING',			                'TECH_CURRENCY'		        	UNION ALL
 SELECT									'TECH_TAXES',				            'TECH_IMPERIALISM'				 UNION ALL
 SELECT									'TECH_TAXES',							'TECH_LODGING'				    UNION ALL
-SELECT									'TECH_TAXES',							'TECH_ATHENA'				    UNION ALL
+--SELECT									'TECH_TAXES',							'TECH_ATHENA'				    UNION ALL
 SELECT									'TECH_TAXES',							'TECH_LIVESTOCK_DISTRIBUTION';
 
 INSERT INTO Technology_PrereqTechs		(TechType,								PrereqTech)
@@ -935,7 +935,7 @@ SELECT									'TECH_STONES',	                       'TECH_AGRICULTURAL_ENGINEER
 SELECT									'TECH_CRAFTSMAN',	                   'TECH_STONES'            UNION ALL 
 SELECT									'TECH_ASTARIA',	                       'TECH_ASTRONOMY'         UNION ALL 
 SELECT									'TECH_DRYLAND',	                       'TECH_AGRICULTURAL_REVOLUTION' UNION ALL 
-SELECT									'TECH_TAXES',	                       'TECH_JUSTICE'           UNION ALL 
+--SELECT									'TECH_TAXES',	                       'TECH_JUSTICE'           UNION ALL 
 SELECT									'TECH_AXT',	                           'TECH_COMPOSITE_TOOLS'	UNION ALL 
 SELECT									'TECH_MEGAFAUNA',	                   'TECH_GATHERING'		    ; 
 

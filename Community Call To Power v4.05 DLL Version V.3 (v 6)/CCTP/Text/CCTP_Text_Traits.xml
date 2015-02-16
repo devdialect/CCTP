@@ -31,7 +31,7 @@
 	</Update>
 	
 	<Update>
-		<Set Text="+2 [ICON_RESEARCH] science for all specialists and for all Great Person tile improvements. Receive a tech boost each time a scientific building/Wonder is built in the Korean capital. Applies a 50% penalty to research." />
+		<Set Text="+2 [ICON_RESEARCH] science for all specialists and for all Great Person tile improvements. Receive a tech boost each time a scientific building/Wonder is built in the Korean capital." />
 		<Where Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL" />
 	</Update>
 	
