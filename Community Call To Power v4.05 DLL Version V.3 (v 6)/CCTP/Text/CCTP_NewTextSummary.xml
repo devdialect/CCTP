@@ -258,7 +258,7 @@
 			<Text>Gives a little boost forward to [ICON_GOLD] Gold and grants one Slot for a [ICON_GREAT_MERCHANT] Great Merchant.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_POST_TEXT">
-			<Text>A post office is a customer service facility forming part of a national postal system.[ Post offices offer mail-related services such as acceptance of letters and parcels; provision of post office boxes; and sale of postage stamps, packaging, and stationery. In addition, many post offices offer additional services: providing and accepting government forms (such as passport applications), processing government services and fees (such as road tax), and banking services (such as savings accounts and money orders). The chief administrator of a post office is a postmaster. Prior to the advent of postal and ZIP codes, postal systems would route items to a specific post office for receipt or delivery. In 19th-century America, this often led to smaller communities being renamed after their post offices, particularly after the Post Office Department ceased to permit duplicate station names within a state.There is evidence of corps of royal couriers disseminating the decrees of the Egyptian pharaohs as early as 2,400 BC and the service may greatly precede even that date. Similarly, organized systems of posthouses providing swift mounted courier service seems quite ancient, although sources vary as to precisely who initiated the practice. Certainly, by the time of the Persian Empire, a system of Chapar-Khaneh existed along the Royal Road. The 2nd-Century BC Mauryan and Han dynasties established similar systems in India and China. Suetonius credited Augustus with regularizing the Roman network, the cursus publicus. Local officials were obliged to provide couriers who would be responsible for their message's entire course. Locally maintained post houses (Latin: stationes) privately owned rest houses (Latin: mansiones) were obliged or honored to care for them along their way. Diocletian later established two parallel systems: one providing fresh horses or mules for urgent correspondence and another providing sturdy oxen for bulk shipments. Procopius, though not unbiased, records that this system remained largely intact was dismantled in the surviving empire by Justinian in the 6th Century.The Princely House of Thurn and Taxis initiated regular mail service from Brussels in the 16th century, directing the Imperial Post of the Holy Roman Empire. The British Postal Museum claims that the oldest functioning post office in the world is on High Street in Sanquhar, Scotland . This post office has functioned continuously since 1712, an era in which horses and stage coaches were used to carry mail. In parts of Europe, special Postal censorship offices were known as Cabinets Noirs.</Text>
+			<Text>A post office is a customer service facility forming part of a national postal system. Post offices offer mail-related services such as acceptance of letters and parcels; provision of post office boxes; and sale of postage stamps, packaging, and stationery. In addition, many post offices offer additional services: providing and accepting government forms (such as passport applications), processing government services and fees (such as road tax), and banking services (such as savings accounts and money orders). The chief administrator of a post office is a postmaster. Prior to the advent of postal and ZIP codes, postal systems would route items to a specific post office for receipt or delivery. In 19th-century America, this often led to smaller communities being renamed after their post offices, particularly after the Post Office Department ceased to permit duplicate station names within a state.There is evidence of corps of royal couriers disseminating the decrees of the Egyptian pharaohs as early as 2,400 BC and the service may greatly precede even that date. Similarly, organized systems of posthouses providing swift mounted courier service seems quite ancient, although sources vary as to precisely who initiated the practice. Certainly, by the time of the Persian Empire, a system of Chapar-Khaneh existed along the Royal Road. The 2nd-Century BC Mauryan and Han dynasties established similar systems in India and China. Suetonius credited Augustus with regularizing the Roman network, the cursus publicus. Local officials were obliged to provide couriers who would be responsible for their message's entire course. Locally maintained post houses (Latin: stationes) privately owned rest houses (Latin: mansiones) were obliged or honored to care for them along their way. Diocletian later established two parallel systems: one providing fresh horses or mules for urgent correspondence and another providing sturdy oxen for bulk shipments. Procopius, though not unbiased, records that this system remained largely intact was dismantled in the surviving empire by Justinian in the 6th Century.The Princely House of Thurn and Taxis initiated regular mail service from Brussels in the 16th century, directing the Imperial Post of the Holy Roman Empire. The British Postal Museum claims that the oldest functioning post office in the world is on High Street in Sanquhar, Scotland . This post office has functioned continuously since 1712, an era in which horses and stage coaches were used to carry mail. In parts of Europe, special Postal censorship offices were known as Cabinets Noirs.</Text>
 		</Row>
 
 
@@ -289,7 +289,7 @@
 			<Text>Provides a boost forward to [ICON_HAPPINESS_1] Happiness and [ICON_TOURISM] Tourism.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_TELEGRAPH_PEDIA">
-			<Text>Telegraphy  is the long distance transmission of textual/symbolic (as opposed to verbal or audio) messages without the physical exchange of an object bearing the message. Thus semaphore is a method of telegraphy whereas pigeon post is not. Telegraphy requires that the method used for encoding the message be known to both sender and receiver. Such methods are designed according to the limits of the signalling medium used. The use of smoke signals, beacons, reflected light signals, and flag semaphore signals are early examples. In the 19th century, the harnessing of electricity brought about the means to transmit signals via electrical telegraph. The advent of radio in the early 1900s brought about radiotelegraphy and other forms of wireless telegraphy. In the Internet age, telegraphic means developed greatly in sophistication and ease of use, with natural language interfaces that hide the underlying code, allowing such technologies as electronic mail and instant messaging.</Text>
+			<Text>Telegraphy is the long distance transmission of textual/symbolic (as opposed to verbal or audio) messages without the physical exchange of an object bearing the message. Thus semaphore is a method of telegraphy whereas pigeon post is not. Telegraphy requires that the method used for encoding the message be known to both sender and receiver. Such methods are designed according to the limits of the signalling medium used. The use of smoke signals, beacons, reflected light signals, and flag semaphore signals are early examples. In the 19th century, the harnessing of electricity brought about the means to transmit signals via electrical telegraph. The advent of radio in the early 1900s brought about radiotelegraphy and other forms of wireless telegraphy. In the Internet age, telegraphic means developed greatly in sophistication and ease of use, with natural language interfaces that hide the underlying code, allowing such technologies as electronic mail and instant messaging.</Text>
 		</Row>
 
 		<!---->
@@ -387,7 +387,7 @@
 
 		<!---->
 		<Row Tag="TXT_KEY_BUILDING_FLINTSTONES">
-			<Text>Flintstones</Text>
+			<Text>Flint Gatherer</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FLINTSTONES_HELP">
 			<Text>Add yields +1 [ICON_PRODUCTION] Production for worked mountains.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] a near mountain to be build.</Text>
@@ -396,7 +396,7 @@
 			<Text>Gives is little boost forward to [ICON_PRODUCTION] Production.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_FLINTSTONES_PEDIA">
-			<Text>upps</Text>
+			<Text>Flint was used in the manufacture of tools during the Stone Age as it splits into thin, sharp splinters called flakes or blades (depending on the shape) when struck by another hard object (such as a hammerstone made of another material). This process is referred to as knapping.</Text>
 		</Row>
 
 
@@ -2115,13 +2115,13 @@
 			<Text>Resident Doctor [ICON_HEALTH]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DOKTOR_HELP">
-			<Text>Increase city [ICON_HEALTH] Health by +1</Text>
+			<Text>Increases city [ICON_HEALTH] Health by +1</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DOKTOR_STRATEGY">
-			<Text></Text>
+			<Text>Improves the local [ICON_HEALTH] Health of a city by +1</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_DOKTOR_PEDIA">
-			<Text>upps</Text>
+			<Text>After 400 A.D., the study and practice of medicine in the Western Roman Empire went into deep decline. Medical services were provided, especially for the poor, in the thousands of monastic hospitals that sprang up across Europe, but the care was rudimentary and mainly palliative.</Text>
 		</Row>
 		
 		<!--BACFACTORY-->
@@ -7767,7 +7767,7 @@
 		<!--***|Next|***-->
 		<!--<<<<<<<<<<[BELIEF_PRIAPOS]>>>>>>>>>>-->
 		<Row Tag="TXT_KEY_BELIEF_PRIAPOS">
-			<Text>+5 [ICON_HAPPINESS_1] Happiness and +1 Hapiness  [ICON_HAPPINESS_1] for each Happines 5 follower in foreign cities, if you are not in war with them.</Text>
+			<Text>+5 [ICON_HAPPINESS_1] Happiness and +1 Happiness [ICON_HAPPINESS_1] for each Happiness 5 follower in foreign cities, if you are not in war with them.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_PRIAPOS_SHORT">
 			<Text>Priapos</Text>
@@ -7783,7 +7783,7 @@
 
 		<!--<<<<<<<<<<[BELIEF_YGGDRASIL]>>>>>>>>>>-->
 		<Row Tag="TXT_KEY_BELIEF_YGGDRASIL">
-			<Text>Add yields +1 [ICON_HEALTH] Health to every Grassland tile.</Text>
+			<Text>Adds +2 [ICON_FOOD] Food to every Forest and Jungle tile. Yields +2 [ICON_FAITH] Faith for every city following the religion.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BELIEF_YGGDRASIL_SHORT">
 			<Text>Yggdrasil</Text>

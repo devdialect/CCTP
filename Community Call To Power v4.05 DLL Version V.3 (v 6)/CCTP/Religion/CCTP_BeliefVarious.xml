@@ -8,14 +8,14 @@
 		<Row>
 			<BeliefType>BELIEF_YGGDRASIL</BeliefType>
 			<FeatureType>FEATURE_JUNGLE</FeatureType>
-			<YieldType>YIELD_HEALTH</YieldType>
-			<Yield>1</Yield>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_YGGDRASIL</BeliefType>
 			<FeatureType>FEATURE_FOREST</FeatureType>
-			<YieldType>YIELD_HEALTH</YieldType>
-			<Yield>1</Yield>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_POSEIDON</BeliefType>
