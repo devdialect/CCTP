@@ -26,13 +26,13 @@
 		<Row>
 			<BeliefType>BELIEF_NATUREONE</BeliefType>
 			<FeatureType>FEATURE_JUNGLE</FeatureType>
-			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldType>YIELD_FOOD</YieldType>
 			<Yield>1</Yield>
 		</Row>
 		<Row>
 			<BeliefType>BELIEF_NATUREONE</BeliefType>
 			<FeatureType>FEATURE_FOREST</FeatureType>
-			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldType>YIELD_FOOD</YieldType>
 			<Yield>1</Yield>
 		</Row>
 		<Row>

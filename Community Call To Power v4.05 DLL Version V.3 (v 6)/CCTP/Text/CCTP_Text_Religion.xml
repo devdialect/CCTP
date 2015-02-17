@@ -20,7 +20,7 @@
 <!--<<<<<<<<<<[]>>>>>>>>>>-->
 <!--<<<<<<<<<<[BELIEF_NATUREONE]>>>>>>>>>>-->	
 <Row Tag="TXT_KEY_BELIEF_NATUREONE">
-	<Text>+1 [ICON_RESEARCH] Research for forest or jungles and +1 [ICON_HAPPINESS_1] Happiness for each Garden.</Text>
+	<Text>+1 [ICON_FOOD] Food in each Forest and Jungle tile and +1 [ICON_HAPPINESS_1] Happiness for each Garden.</Text>
 </Row>
 <Row Tag="TXT_KEY_BELIEF_NATUREONE_SHORT">
 		<Text>Herbalism</Text>
@@ -31,7 +31,7 @@
 	<Text>Allows the construction of the Inquisiton building. +5 [ICON_PEACE] Faith and a free [ICON_INQUISITOR] Inquisitor.</Text>
 </Row>
 <Row Tag="TXT_KEY_BELIEF_INQUISATION_SHORT">
-	<Text>Inquisition.</Text>
+	<Text>Inquisition</Text>
 </Row>
 	
 <!--<<<<<<<<<<[BELIEF_NATURHEILIGTUM]>>>>>>>>>>-->

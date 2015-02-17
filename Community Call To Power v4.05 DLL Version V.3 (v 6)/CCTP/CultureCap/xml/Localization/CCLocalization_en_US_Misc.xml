@@ -2,12 +2,18 @@
 <!-- Author: Moaf -->
 <GameData>
   <Language_en_US>
-		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS">
-			<Text>Enable Cultural Capitals</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS_HELP">
-			<Text>Enables Cultural Capitals for the game.</Text>
-		</Row>
+	<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS">
+		<Text>Enable Cultural Capitals</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GAME_OPTION_CULTURALCAPITALS_HELP">
+		<Text>Enables Cultural Capitals for the game.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GAME_OPTION_CHEAT_HERBALISM">
+		<Text>Automatic Old-Style Herbalism Bonus</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GAME_OPTION_CHEAT_HERBALISM_HELP">
+		<Text>Automatically gives the player +1 [ICON_RESEARCH] Research on every Forest and Jungle tile. Can be considered cheating.</Text>
+	</Row>
     <Row Tag="TXT_KEY_CC_NAME">
       <Text>Cultural Capital</Text>
     </Row>

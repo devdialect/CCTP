@@ -1077,6 +1077,12 @@
 		<DefaultBuilding>BUILDING_CCTPPB165</DefaultBuilding>
 		<Description>TXT_KEY_BUILDING_CCTPPB165</Description>
 	</Row>
+	<Row>
+		<!--<<<<<<<<<<[CCTPPB166]>>>>>>>>>>-->
+		<Type>BUILDINGCLASS_CCTPPB166</Type>
+		<DefaultBuilding>BUILDING_CCTPPB166</DefaultBuilding>
+		<Description>TXT_KEY_BUILDING_CCTPPB166</Description>
+	</Row>
 
 
 

@@ -1661,7 +1661,7 @@
 			<Text>Apollo [ICON_HEALTH][ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_APOLLO_HELP">
-			<Text>Add yields +1 [ICON_RESEARCH] Science to every worked [COLOR_YELLOW]Forest[ENDCOLOR] and [COLOR_YELLOW]Jungle[ENDCOLOR] tile.[NEWLINE]Increase local [ICON_HEALTH] Health by +1 .[NEWLINE]Provides +2 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] a [COLOR_YELLOW]Healer[ENDCOLOR] in each of your cities.</Text>
+			<Text>Add yields +1 [ICON_RESEARCH] Science to every worked [COLOR_YELLOW]Forest[ENDCOLOR] and +1 [ICON_FOOD] Food to every worked [COLOR_YELLOW]Jungle[ENDCOLOR] tile.[NEWLINE]Increase local [ICON_HEALTH] Health by +1 .[NEWLINE]Provides +2 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] a [COLOR_YELLOW]Healer[ENDCOLOR] in each of your cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_APOLLO_STRATEGY">
 			<Text>Provides a boost for [ICON_RESEARCH] Science and [ICON_HEALTH] Health.</Text>

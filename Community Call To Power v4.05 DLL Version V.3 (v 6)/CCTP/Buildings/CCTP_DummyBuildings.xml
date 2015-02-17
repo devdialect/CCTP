@@ -2800,6 +2800,21 @@
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
 			<PortraitIndex>19</PortraitIndex>
 		</Row>
+		<!---->
+		<Row>
+			<Type>BUILDING_CCTPPB166</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB166</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<!--hide this building-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
 	</Buildings>
   <!--Have a nice Day:=)-->
 	

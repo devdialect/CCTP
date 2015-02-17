@@ -53,4 +53,13 @@
 			<Set PrereqTech="TECH_LEADERSHIP"/>
 		</Update>
 	</Traits>
+	<!-- Old Herbalism Belief (Cheating) -->
+	<GameOptions>
+		<Row>
+			<Type>GAMEOPTION_CHEAT_HERBALISM</Type>
+			<Description>TXT_KEY_GAME_OPTION_CHEAT_HERBALISM</Description>
+			<Help>TXT_KEY_GAME_OPTION_CHEAT_HERBALISM_HELP</Help>
+			<Default>false</Default>
+		</Row>
+	</GameOptions>
 </GameData>

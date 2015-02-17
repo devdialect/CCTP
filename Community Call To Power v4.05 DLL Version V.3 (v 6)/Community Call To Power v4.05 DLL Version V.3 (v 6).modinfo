@@ -4009,6 +4009,7 @@ These are just the credits for mod additions in current update, all other credit
     <File md5="F2670E4935FEF27995883E740F39807D" import="0">CCTP/Various/CCTP_Worlds.xml</File>
     <File md5="573D9A1C16EAD0A32CA884370ADDFDBF" import="1">CCTP/Various/ConfirmPolicyBranchPopup.lua</File>
     <File md5="9E2954EDA5461DC01A180F526386BB90" import="0">CCTP/Various/DebugTableCheck.sql</File>
+	<File md5="AAAAAAAAAAAAAAAAAAAAAAAAFFFFFFFF" import="1">CCTP/Various/HerbalismBonus.lua</File>
     <File md5="CC9652C35F389EB1D03BEC2BD9CE76C4" import="1">CCTP/Various/VictoryProgress.lua</File>
     <File md5="02BEA08A9576D206C1D464CE5DAE78D7" import="0">DLL Support/AI - Smart (v 2)/SQL/AISmart.sql</File>
     <File md5="BE9E4BF3BEB2E105E53E4FF069759F3E" import="0">DLL Support/AI - Smart (v 2)/XML/AISmart.xml</File>
@@ -6008,6 +6009,10 @@ These are just the credits for mod additions in current update, all other credit
     <EntryPoint type="InGameUIAddin" file="CCTP/Events/CustomEvents/TaxMain.lua">
       <Name>TaxMain</Name>
       <Description>TaxMain</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="CCTP/Various/HerbalismBonus.lua">
+      <Name>HerbalismBonus</Name>
+      <Description>HerbalismBonus</Description>
     </EntryPoint>
   </EntryPoints>
 </Mod>
