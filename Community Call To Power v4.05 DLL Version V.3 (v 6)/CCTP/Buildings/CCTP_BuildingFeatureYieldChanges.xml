@@ -435,6 +435,12 @@
 				<Yield>2</Yield>
 			</Row>
 			<Row>
+				<BuildingType>BUILDING_CCTPPB166</BuildingType>
+				<FeatureType>FEATURE_OASIS</FeatureType>
+				<YieldType>YIELD_SCIENCE</YieldType>
+				<Yield>1</Yield>
+			</Row>			
+			<Row>
 				<BuildingType>BUILDING_CCTPDUMMY8</BuildingType>
 				<FeatureType>FEATURE_MARSH</FeatureType>
 				<YieldType>YIELD_FOOD</YieldType>
@@ -563,7 +569,7 @@
 		<Row>
 			<BuildingType>BUILDING_APOLLO</BuildingType>
 			<FeatureType>FEATURE_FOREST</FeatureType>
-			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldType>YIELD_GOLD</YieldType>
 			<Yield>1</Yield>
 		</Row>
 		<Row>

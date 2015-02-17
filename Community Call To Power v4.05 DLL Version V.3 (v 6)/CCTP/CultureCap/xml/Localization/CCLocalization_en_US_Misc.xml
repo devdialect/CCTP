@@ -12,7 +12,7 @@
 		<Text>Automatic Old-Style Herbalism Bonus</Text>
 	</Row>
 	<Row Tag="TXT_KEY_GAME_OPTION_CHEAT_HERBALISM_HELP">
-		<Text>Automatically gives the player +1 [ICON_RESEARCH] Research on every Forest and Jungle tile. Can be considered cheating.</Text>
+		<Text>Automatically gives all players +1 [ICON_RESEARCH] Research on every Forest, Jungle and Oasis tile. Could be considered cheating.</Text>
 	</Row>
     <Row Tag="TXT_KEY_CC_NAME">
       <Text>Cultural Capital</Text>
