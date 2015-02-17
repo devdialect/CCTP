@@ -1661,13 +1661,13 @@
 			<Text>Apollo [ICON_HEALTH][ICON_SILVER_FIST]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_APOLLO_HELP">
-			<Text>Add yields +1 [ICON_RESEARCH] Science to every worked [COLOR_YELLOW]Forest[ENDCOLOR] and +1 [ICON_FOOD] Food to every worked [COLOR_YELLOW]Jungle[ENDCOLOR] tile.[NEWLINE]Increase local [ICON_HEALTH] Health by +1 .[NEWLINE]Provides +2 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] a [COLOR_YELLOW]Healer[ENDCOLOR] in each of your cities.</Text>
+			<Text>Adds +1 [ICON_GOLD] Gold to every worked [COLOR_YELLOW]Forest[ENDCOLOR] and +1 [ICON_FOOD] Food to every worked [COLOR_YELLOW]Jungle[ENDCOLOR] tile.[NEWLINE]Increase local [ICON_HEALTH] Health by +1 .[NEWLINE]Provides +2 [ICON_RES_MANPOWER] Manpower.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Requires[ENDCOLOR] a [COLOR_YELLOW]Healer[ENDCOLOR] in each of your cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_APOLLO_STRATEGY">
 			<Text>Provides a boost for [ICON_RESEARCH] Science and [ICON_HEALTH] Health.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_APOLLO_PEDIA">
-			<Text>upps</Text>
+			<Text>Delphi became the site of a major temple to Phoebus Apollo, as well as the Pythian Games and the famous prehistoric oracle. Even in Roman times, hundreds of votive statues remained.[NEWLINE]Carved into the temple were three phrases: γνῶθι σεαυτόν (gnōthi seautón = "know thyself") and μηδέν άγαν (mēdén ágan = "nothing in excess"), and Ἑγγύα πάρα δ'ἄτη (eggýa pára d'atē = "make a pledge and mischief is nigh"), In ancient times, the origin of these phrases was attributed to one or more of the Seven Sages of Greece.</Text>
 		</Row>
 
 

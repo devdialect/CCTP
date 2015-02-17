@@ -153,7 +153,7 @@
 		<Row>
 			<BeliefType>BELIEF_ARGO</BeliefType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Max>25</Max>
+			<Max>20</Max>
 		</Row>
 	</Belief_MaxYieldModifierPerFollower>
 
