@@ -5,7 +5,7 @@
 		<!-- Changes for 4.03-->
 		<Update>
 			<Where Name="AI_VALUE_OF_YIELD_SCIENCE" />
-			<Set Value="10" />
+			<Set Value="18" />
 			<!--Was 8-->
 		</Update>
 		

@@ -105,6 +105,21 @@
 			<ResourceType>RESOURCE_MANPOWER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<UnitType>UNIT_CAVEMAN</UnitType>
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FIRE_EATER</UnitType>
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAVAGE</UnitType>
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 
 
 

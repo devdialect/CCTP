@@ -120,6 +120,12 @@
 			<ResourceType>RESOURCE_MANPOWER</ResourceType>
 			<Quantity>1</Quantity>
 		</Row>
+		<Row>
+			<BuildingType>BUILDING_TREE</BuildingType>
+			<ResourceType>RESOURCE_MANPOWER</ResourceType>
+			<Quantity>6</Quantity>
+		</Row>
+		
 
 		<!-- CCTP Buildings -->
 		<!-- Provides Manpower-->

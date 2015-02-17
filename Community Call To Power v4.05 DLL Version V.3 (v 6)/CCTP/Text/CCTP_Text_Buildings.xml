@@ -2399,7 +2399,7 @@
 		<Text>Tree of Life</Text>
 	</Row>
 	<Row Tag="TXT_KEY_CIV5_BUILDINGS_TREE_TEXT">
-		<Text>upps</Text>
+		<Text>A building providing several benefits to capital settlements, representing their importance.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_BUILDING_TREE_HELP">
 		<Text>A tall, beautiful and fruitful tree, around which your community has been founded.[NEWLINE][NEWLINE]Indicates this City is the [ICON_CAPITAL] Capital of the empire, until the construction of the Palace.</Text>
