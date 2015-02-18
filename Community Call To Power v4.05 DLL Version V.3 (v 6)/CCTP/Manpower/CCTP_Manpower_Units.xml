@@ -105,7 +105,7 @@
 			<ResourceType>RESOURCE_MANPOWER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
-		<Row>
+<!--		<Row>
 			<UnitType>UNIT_CAVEMAN</UnitType>
 			<ResourceType>RESOURCE_MANPOWER</ResourceType>
 			<Cost>1</Cost>
@@ -120,7 +120,7 @@
 			<ResourceType>RESOURCE_MANPOWER</ResourceType>
 			<Cost>1</Cost>
 		</Row>
-
+-->
 
 
 		<Row>

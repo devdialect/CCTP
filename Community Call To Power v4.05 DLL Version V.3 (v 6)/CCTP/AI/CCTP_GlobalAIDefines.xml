@@ -23,16 +23,16 @@
 		</Update>
 		<!--4.04-->
 		<Update>
-			<Set Value="10" />
+			<Set Value="16" />
 			<!--6-->
 			<Where Name="AI_VALUE_OF_YIELD_GOLD" />
 		</Update>
 		<Update>
-			<Set Value="18" />
+			<Set Value="16" />
 			<Where Name="AI_VALUE_OF_YIELD_PRODUCTION" />
 		</Update>
 		<Update>
-			<Set Value="18" />
+			<Set Value="12" />
 			<Where Name="AI_VALUE_OF_YIELD_SCIENCE" />
 		</Update>
 		<Update>
